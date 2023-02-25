@@ -141,8 +141,6 @@
 
 ## Career Profiles
 
----
-
 <div>
   <a href="https://typingstats.com/profile/183859790336888832" target="_blank" style="text-decoration:none" rel="noreferrer">
     <img src="https://typingstats.com/logo.png" width="30" height="30" alt="Typing Stats" />
