@@ -111,8 +111,6 @@
 
 ## Skill Set
 
----
-
 ### Software Developer
 
 <div>
