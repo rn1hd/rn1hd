@@ -2,8 +2,6 @@
 
 ## About Me
 
----
-
 - I am a **Software Developer** with professional experience in web development, automation testing, and designing architecture. I am currently focusing on acquiring new skills related to modern technologies dominant in the job market.
   - **Machine Learning Engineer** is my dream job and my primary end goal because with the current trend in the market today, Artificial Intelligence is the technology of the future and being a part of the development team someday will contribute a lot to the society, observing how **[ChatGPT](https://openai.com/blog/chatgpt/)** becomes a trend on the headlines in the 1st quarter of 2023. Working in an Articial Intelligence department is where my heart's at. Personally, I would love to develop a robotics system using Reinforcement Learning to prioritize elderly people that no one will be with them for the rest of their lives. Instead of letting elderly people feeling alone, a robot will take over as a last resort to spend some time on emotional support, home assistance, and personal care.
   - **Full Stack Developer** is one of the promising goals for my career path in fact there are more open opportunities in the job market to become more flexible in the work environment, adaptability to change; and what I can showcase to the development team, the client, the community, and other individuals involved in the business world. Regardless of the possible dead-end situations I may face, I can throw at least a little bit of power to achieve a business goal to satisfy some parts of company's expectations which is one of the primary benefits of acquiring full stack knowledge that I can bring in the company.
@@ -13,11 +11,7 @@
 
 ## Career Journey
 
----
-
 ### Pianist
-
----
 
 - My motivation to become a pianist has started at 13 years old when my father bought an awesome, beginner-friendly electronic piano. There is a tutorial guide that teaches you what key should you press during the song and at the same time, the book has been included in the package.
 - I enrolled on a summer piano class together with my cousin in Regis Benedictine Academy located in Batangas City, Philippines at 15 years old.
@@ -25,8 +19,6 @@
 - I have experienced playing grand piano in Pontefino Hotel and Robinsons Mall Lipa with lots of people on the last quarter of year 2022 as a guest / visitor.
 
 ### Game Developer
-
----
 
 - My position to become a game developer, with a specific designation as "Notecharter" has started at 16 years old when I saw a [Youtube video](https://www.youtube.com/watch?v=UHHHXRU1-T0) by a Malaysian developer who worked in O2Jam (AngelJam) private server discussing how you can create musical notes that synchronizes to the beat of the song.
 - With continuous learning and motivation, I finally got a chance to become one of the contributors in the game market following senior's advices regarding the output of my works. I met some amazing developers and panelists around the world.
@@ -39,20 +31,14 @@
 
 ### Video Editor
 
----
-
 - When I was a developer in O2Jam private organizations, I usually release a 3 difficulty notechart preview video presentation on my Facebook account as a sneak peek on what to expect in the next month's song update.
 
 ### Typist
-
----
 
 - My first job in the real world as a **Data Analyst** has started on September 20, 2016 in **Accudata Inc.** located in Kumintang Ibaba, Batangas City, Philippines where excellent typing skills is required for the role because the company requires an employee to meet the quota every day while preventing encoding mistakes in order to pass performance evaluation. This is the time when my motivation to become a professional typist has started.
 - Even if I ended my tenure as a **Data Analyst** in **Accudata Inc**. on July 20, 2018, I still maintain on improving my typing skills in fact that this skill is commonly used in every computer related tasks to stay productive; bringing this amazing experience up to this date which I can apply on essential projects and business missions like company meetings or dealing with clients through taking down important notes for future references.
 
 ### Software Developer
-
----
 
 - My job as a **Software Developer** has started on August 6, 2018 in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** located in Joseling Road, Batangas City, Philippines.
 - Developed the initial version of the **[Zumumu Website](https://zumumu.com/)** in red theme during the COVID-19 pandemic trend on year 2020 which is now enhanced by the next generation of developers following the client's requests in gray theme
@@ -64,14 +50,10 @@
 
 ### Technical Writer
 
----
-
 - My job as a technical writer actually started when I was sole responsible for developing a full documentation on a college thesis named **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)**.
 - This skill that I have acquired when I was college has continued in my real life work experience when the owner of **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework has decided to give full control to me on building the **[full documentation](https://uadmin-docs.readthedocs.io/en/latest/)**. The owner actually started the documentation project during the initial stage, then was brought up to me on the following updates. The documentation has been maintained under my control during my tenure in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** until version 0.7.4.
 
 ### Multimedia Artist
-
----
 
 - My job as a **Multimedia Artist** has started when I was working in various O2Jam organizations between year 2012 and 2015, developing loading images for some of my notechart projects using **Adobe Photoshop**.
 - This field is where I am currently working on right now; enhancing my technical knowledge and skills through taking online courses until I see myself being able to meet the industry level standard as part of my learning journey: a road to become a professional **Full Stack Developer**.
@@ -79,8 +61,6 @@
 <br/>
 
 ## Frequently Asked Questions (FAQ)
-
----
 
 **You are currently taking online courses in the Multimedia Artist field based on the stories you have shared in Career Journey section. How is this related to your goal as a Full Stack Developer?**
 
@@ -123,8 +103,6 @@
   <img src="https://img.shields.io/badge/Selenium-023020?style=for-the-badge&logo=selenium&logoColor=00FF00" alt="Selenium" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" />
 </div>
-
----
 
 ### Multimedia Artist
 
