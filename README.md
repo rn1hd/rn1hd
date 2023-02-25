@@ -81,7 +81,7 @@
 **What do you consider to be your weaknesses?**
 
 - There are instances that I cannot follow simple instructions properly and easily which can annoy some individuals. This weakness gives me an initiative why taking down notes in almost every meetings, documentation development, and even considering myself getting familiar on Full Stack Development beforehand becomes essential.
-- Verbal communication skills is another thing that I need to practice regularly. My approaches to get there are making video presentations sharing your progress or perspective, taking listening exercises, and talking with someone else productively when this opportunity arrives.
+- Verbal communication skills is another thing that I need to practice regularly. My approaches to get there are making video presentations sharing my progress or perspective, taking listening exercises, and talking with someone else productively when this opportunity arrives.
 
 **Which is More Important to You, the Money or the Work?**
 
