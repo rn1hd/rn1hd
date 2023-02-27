@@ -21,7 +21,16 @@
 
 [Back to Top](https://github.com/rn1hd#hi-there-)
 
+- [Pianist](https://github.com/rn1hd#pianist-)
+- [Game Developer](https://github.com/rn1hd#game-developer-)
+- [Transcriptionist](https://github.com/rn1hd#transcriptionist-)
+- [Software Developer](https://github.com/rn1hd#software-developer-)
+- [Technical Writer](https://github.com/rn1hd#technical-writer-)
+- [Multimedia Artist](https://github.com/rn1hd#multimedia-artist-)
+
 ### Pianist 🎹
+
+[Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
 - My motivation to become a pianist has started at 13 years old when my father bought an awesome, beginner-friendly electronic piano. There is a tutorial guide that teaches you what key should you press during the song and at the same time, the book has been included in the package.
 - I enrolled on a summer piano class together with my cousin in Regis Benedictine Academy located in Batangas City, Philippines at 15 years old.
@@ -29,6 +38,8 @@
 - I have experienced playing grand piano in Pontefino Hotel and Robinsons Mall Lipa with lots of people on the last quarter of year 2022 as a guest / visitor.
 
 ### Game Developer 🎮
+
+[Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
 - My position to become a game developer, with a specific designation as **Notecharter** has started at 16 years old when I saw a [Youtube video](https://www.youtube.com/watch?v=UHHHXRU1-T0) by a Malaysian developer who worked in O2Jam (AngelJam) private server discussing how you can create musical notes that synchronizes to the beat of the song.
 - With continuous learning and motivation, I finally got a chance to become one of the contributors in the game market following senior's advices regarding the output of my works. I met some amazing developers and panelists around the world.
@@ -41,10 +52,14 @@
 
 ### Transcriptionist ⌨
 
+[Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
+
 - My first job in the real world as a **Data Analyst** has started on September 20, 2016 in **Accudata Inc.** located in Kumintang Ibaba, Batangas City, Philippines where excellent typing skills are required for the role because the company requires an employee to meet the quota every day while preventing encoding mistakes in order to pass performance evaluation. This is the time when my motivation to become a professional typist has started.
 - Even if I ended my tenure as a **Data Analyst** in **Accudata Inc**. on July 20, 2018, I still maintain on improving my typing skills in fact that this skill is commonly used in every computer related tasks to stay productive; bringing this amazing experience up to this date which I can apply on essential projects and business missions like company meetings or dealing with clients through taking down important notes for future references.
 
 ### Software Developer 🖥
+
+[Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
 - My job as a **Software Developer** has started on August 6, 2018 in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** located in Joseling Road, Batangas City, Philippines.
 - Developed the initial version of the **[Zumumu Website](https://zumumu.com/)** in red theme during the COVID-19 pandemic trend on year 2020 which is now enhanced by the next generation of developers applying a different business theme
@@ -56,10 +71,14 @@
 
 ### Technical Writer 📚
 
+[Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
+
 - My job as a technical writer actually started when I was sole responsible for developing a full documentation on a college thesis named **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)**.
 - My technical writer journey has continued in my real life work experience when the owner of **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework has decided to give full control to me on building the **[full documentation](https://uadmin-docs.readthedocs.io/en/latest/)**. The owner actually started the documentation project during the initial stage, then was brought up to me on the following updates. The documentation has been maintained under my control during my tenure in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** until version 0.7.4.
 
 ### Multimedia Artist 🎬
+
+[Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
 - My job as a **Multimedia Artist** has started when I was working in various O2Jam organizations between year 2012 and 2015 with the following responsibilities:
   - Loading images for some of my notechart projects using **Adobe Photoshop**
