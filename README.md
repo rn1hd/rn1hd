@@ -78,7 +78,7 @@
   - Develop software architectural patterns that I can discuss to the development team
   - Application user interface prototypes that I can present to my clients for approval before proceeding to the implementation stage where coding skills are often being used
   - Presenting visual chart representations
-  - Promotional marketing advertisements that I can showcase to the public community.
+  - Promotional marketing advertisements that I can showcase to the public community
 
 **Documentation development is your main role as a technical writer. How is this beneficial in the business while your designation is a Software Developer?**
 
