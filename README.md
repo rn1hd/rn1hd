@@ -1,26 +1,36 @@
 # Hi there! 👋
 
-## About Me
+- [About Me](https://github.com/rn1hd#about-me)
+- [Career Journey](https://github.com/rn1hd#career-journey)
+- [Frequently Asked Questions (FAQ)](https://github.com/rn1hd#frequently-asked-questions-faq)
+- [Skill Set](https://github.com/rn1hd#skill-set)
+- [Career Profiles](https://github.com/rn1hd#career-profiles)
+
+## 👨‍🦰 About Me
+
+[Back to Top](https://github.com/rn1hd#hi-there-)
 
 - I am a **Software Developer** with professional experience in web development, automation testing, and designing architecture. I am currently focusing on acquiring new skills related to modern technologies dominant in the job market.
   - **Machine Learning Engineer** is my dream job and my primary end goal because with the current trend in the market today, Artificial Intelligence is the technology of the future and being a part of the development team someday will contribute a lot to the society, observing how **[ChatGPT](https://openai.com/blog/chatgpt/)** becomes a trend on the headlines in the 1st quarter of 2023. Working in an Artificial Intelligence department is where my heart's at. Personally, I would love to develop a robotics system using Reinforcement Learning to prioritize elderly people that no one will be with them for the rest of their lives. Instead of letting elderly people feeling alone, a robot will take over as a last resort to spend some time on emotional support, home assistance, and personal care.
-  - **Full Stack Developer** is one of the promising goals for my career path in fact there are more open opportunities in the job market to become more flexible in the work environment, adaptability to change; and what I can showcase to the development team, the client, the community, and other individuals involved in the business world. Regardless of the possible dead-end situations I may face, I can throw at least a little bit of power to achieve a business goal to satisfy some parts of company's expectations which is one of the primary benefits of acquiring full stack knowledge that I can bring in the company.
+  - **Full Stack Developer** is one of the promising goals for my career path in fact there are more open opportunities in the job market. Full Stack Developer allows me to become more flexible in the work environment, adaptability to change, and what I can showcase to the following participants: development team, the client, the community, and other individuals involved in the business world. Regardless of the possible dead-end situations I may face, I can bring at least a little bit of power to achieve a business goal in order to satisfy at least a little bit of company's expectations which is one of the primary benefits why acquiring full stack knowledge becomes a crucial step that I need to take.
 - Outside on the world of technology, I am also a professional **pianist** seeking to develop my technical knowledge and skills further with the likes of Classical, Ballad, and some iconic songs. I am using an upright piano with the brand of **[Lyric](https://www.lyric.ph/)** originated in the Philippines.
 
 <br/>
 
-## Career Journey
+## 🚀 Career Journey
 
-### Pianist
+[Back to Top](https://github.com/rn1hd#hi-there-)
+
+### Pianist 🎹
 
 - My motivation to become a pianist has started at 13 years old when my father bought an awesome, beginner-friendly electronic piano. There is a tutorial guide that teaches you what key should you press during the song and at the same time, the book has been included in the package.
 - I enrolled on a summer piano class together with my cousin in Regis Benedictine Academy located in Batangas City, Philippines at 15 years old.
 - With continuous learning and motivation, my piano skills develop over time ranging from ability to play nursery rhymes up to the iconic songs adaptation and various classical songs like Fur Elise composed by Beethoven.
 - I have experienced playing grand piano in Pontefino Hotel and Robinsons Mall Lipa with lots of people on the last quarter of year 2022 as a guest / visitor.
 
-### Game Developer
+### Game Developer 🎮
 
-- My position to become a game developer, with a specific designation as "Notecharter" has started at 16 years old when I saw a [Youtube video](https://www.youtube.com/watch?v=UHHHXRU1-T0) by a Malaysian developer who worked in O2Jam (AngelJam) private server discussing how you can create musical notes that synchronizes to the beat of the song.
+- My position to become a game developer, with a specific designation as **Notecharter** has started at 16 years old when I saw a [Youtube video](https://www.youtube.com/watch?v=UHHHXRU1-T0) by a Malaysian developer who worked in O2Jam (AngelJam) private server discussing how you can create musical notes that synchronizes to the beat of the song.
 - With continuous learning and motivation, I finally got a chance to become one of the contributors in the game market following senior's advices regarding the output of my works. I met some amazing developers and panelists around the world.
 - I have experienced working in various O2Jam organizations maintaining the same position as a Notecharter:
   - AngelJam (2012-2013)
@@ -29,67 +39,73 @@
   - iBMS 4th Age (2015)
 - My tenure has lasted up to 4 years between 2012 and 2018.
 
-### Video Editor
+### Transcriptionist ⌨
 
-- When I was a developer in O2Jam private organizations, I usually release a 3 difficulty notechart preview video presentation on my Facebook account as a sneak peek on what to expect in the next month's song update.
-
-### Typist
-
-- My first job in the real world as a **Data Analyst** has started on September 20, 2016 in **Accudata Inc.** located in Kumintang Ibaba, Batangas City, Philippines where excellent typing skills is required for the role because the company requires an employee to meet the quota every day while preventing encoding mistakes in order to pass performance evaluation. This is the time when my motivation to become a professional typist has started.
+- My first job in the real world as a **Data Analyst** has started on September 20, 2016 in **Accudata Inc.** located in Kumintang Ibaba, Batangas City, Philippines where excellent typing skills are required for the role because the company requires an employee to meet the quota every day while preventing encoding mistakes in order to pass performance evaluation. This is the time when my motivation to become a professional typist has started.
 - Even if I ended my tenure as a **Data Analyst** in **Accudata Inc**. on July 20, 2018, I still maintain on improving my typing skills in fact that this skill is commonly used in every computer related tasks to stay productive; bringing this amazing experience up to this date which I can apply on essential projects and business missions like company meetings or dealing with clients through taking down important notes for future references.
 
-### Software Developer
+### Software Developer 🖥
 
 - My job as a **Software Developer** has started on August 6, 2018 in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** located in Joseling Road, Batangas City, Philippines.
-- Developed the initial version of the **[Zumumu Website](https://zumumu.com/)** in red theme during the COVID-19 pandemic trend on year 2020 which is now enhanced by the next generation of developers following the client's requests in gray theme
+- Developed the initial version of the **[Zumumu Website](https://zumumu.com/)** in red theme during the COVID-19 pandemic trend on year 2020 which is now enhanced by the next generation of developers applying a different business theme
 - Implemented automation testing for **Zumumu** systems using **[Selenium framework](https://www.selenium.dev/)** to track and ensure that the system is 100% working after code changes before deploying in the live server
 - Developed three websites on year 2020 for my client's startup business:
   - [Nix Daily](https://nixdaily.netlify.app/)
   - [The Ones Design](https://theonesdesign.netlify.app/)
   - [The Ones Restaurant](https://theonesdesign.netlify.app/)
 
-### Technical Writer
+### Technical Writer 📚
 
 - My job as a technical writer actually started when I was sole responsible for developing a full documentation on a college thesis named **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)**.
 - My technical writer journey has continued in my real life work experience when the owner of **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework has decided to give full control to me on building the **[full documentation](https://uadmin-docs.readthedocs.io/en/latest/)**. The owner actually started the documentation project during the initial stage, then was brought up to me on the following updates. The documentation has been maintained under my control during my tenure in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** until version 0.7.4.
 
-### Multimedia Artist
+### Multimedia Artist 🎬
 
-- My job as a **Multimedia Artist** has started when I was working in various O2Jam organizations between year 2012 and 2015, developing loading images for some of my notechart projects using **Adobe Photoshop**.
+- My job as a **Multimedia Artist** has started when I was working in various O2Jam organizations between year 2012 and 2015 with the following responsibilities:
+  - Loading images for some of my notechart projects using **Adobe Photoshop**
+  - 3 difficulty notechart preview video presentation on my Facebook account as a sneak peek on what to expect in the next month's song update using **[Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/)**
 - This field is where I am currently working on right now; enhancing my technical knowledge and skills through taking online courses until I see myself being able to meet the industry level standard as part of my learning journey: a road to become a professional **Full Stack Developer**.
 
 <br/>
 
-## Frequently Asked Questions (FAQ)
+## ❓ Frequently Asked Questions (FAQ)
+
+[Back to Top](https://github.com/rn1hd#hi-there-)
 
 **You are currently taking online courses in the Multimedia Artist field based on the stories you have shared in Career Journey section. How is this related to your goal as a Full Stack Developer?**
 
-- The scope of the Full Stack Developer is very broad. It consists of multiple things involved there but the standard that I am following is the Software Development Life Cycle (SDLC). Design is the third phase of SDLC where I can showcase my graphic design skills through developing application user interface prototypes, visual chart representations, and producing marketing materials that you can present to your clients for approval before proceeding to the coding stage.
+- The scope of the Full Stack Developer is very broad. Software Development Life Cycle (SDLC) is the framework that I am applying in my work ethic. Design is the third phase of SDLC where I can showcase my multimedia artist skills with the following:
+  - Develop software architectural patterns that I can discuss to the development team
+  - Application user interface prototypes that I can present to my clients for approval before proceeding to the implementation stage where coding skills are often being used
+  - Presenting visual chart representations
+  - Promotional marketing advertisements that I can showcase to the public community.
 
-**Documentation development is your main role as a technical writer. How is this related to your role as a Software Developer and how is this beneficial in the business?**
+**Documentation development is your main role as a technical writer. How is this beneficial in the business while your designation is a Software Developer?**
 
-- Based on my experience, taking technical documentation development role is commonly rated a low priority status in fact that the contribution impact for this role is minimal that has almost no positive impact to the company revenue and can be considered a waste of time that is already outside of job description especially if there are numerous pending urgent requests from a client that needs to be done on time because as a software developer, your job should primarily focus on developing a new application, adding more features, and troubleshooting errors or bugs spotted where all of these responsibilities should be completed on time because you are regularly being paid for the position you are in and the rate is usually considered very expensive for the client side which I agree on the terms and conditions being applied there. Documentation development should be really done only if there are no pending urgent requests in the queue. However, take note that the scope of the system being maintained by a software developer is increasing over time so the more I let the code increase without developing technical documentation, the greater the risk in the long run. These are the possible negative impacts from my perspective:
-  - More frustrations for both a regular employee originally maintaining the system and the next maintainer who are just getting started to get familiar in the system especially if they are not easy to adapt in the fast-paced work environment
-  - More prone to accidents that results to a conflict
+- Based on my experience, documentation development role is commonly rated a low priority status in fact that the contribution impact for this role is minimal. In particular, it has almost no positive impact to the company revenue. This role is usually a waste of time for the business that is already outside of software developer job description especially if there are numerous pending urgent requests from a client that needs to be done on time. It is because as a software developer, my job should primarily focus on developing a new application, adding more features, and troubleshooting errors or bugs spotted because I am regularly being paid for the position I am in and the rate is usually considered very expensive for the client side which I agree on the terms and conditions being applied there. Documentation development role should be really done only if there are no pending urgent requests from the client in the queue. However, take note that the scope of the system being maintained by a software developer is increasing over time so the more I let the project scope increasing without developing technical documentation, more risks will come in the future. These are the possible negative outcomes in my perspective:
+  - More frustrations for both a regular employee originally maintaining the system, and the next maintainer who are just getting started to get familiar in the system especially if they are not easy to adapt in the fast-paced work environment
+  - More prone to accidents that can result to a major conflict
   - Output not being delivered on time within the company's expectations will be more common.
-  - Corporate training for future developers will become more time consuming than what is expected because an original maintainer will be obligated to discuss the fundamentals and functions of the system, how the system was implemented, and sharing best practices to ensure that everything will be all right before the project deployment. With technical documentation prepared, a newly hired developer will rely on the documentation materials rather than resorting to a more time consuming corporate training.
+  - Corporate training for my team members and staffs who are not yet being exposed to the project will become more time consuming than what is expected because an original maintainer will be obligated to discuss the fundamentals and functions of the system, how the system was implemented, and sharing best practices to ensure that everything will be all right before proceeding to the deployment stage. With technical documentation prepared, my team members and staffs will rely on the documentation materials rather than resorting to a more time consuming corporate training.
 
 **Are you a team player?**
 
-- It all depends on the compatibility of my skill set in relation to my previous experience and the elements of the project. As long as I see the good future of a role I was being assigned to that can pay me well in the end, I am willing to give a hundred percent of my time and effort to showcase what I can bring to the team in order to achieve the business goal on time and what other contributions I can bring to the table.
+- It all depends on the compatibility of my skill set, and the scope of the project. As long as I see a good future of a role I was assigned to that can pay me well in the end, I am willing to give a hundred percent of my time and effort to showcase what I can bring to the team in order to achieve the business goal on time and what other contributions I can bring to the table.
 
 **What do you consider to be your weaknesses?**
 
 - There are instances that I cannot follow simple instructions properly and easily which can annoy some individuals. This weakness gives me an initiative why taking down notes in almost every meetings, documentation development, and even considering myself getting familiar on Full Stack Development beforehand becomes essential.
-- Verbal communication skills is another thing that I need to practice regularly. My approaches to get there are making video presentations sharing my progress or perspective, taking listening exercises, and talking with someone else productively when this opportunity arrives.
+- Verbal communication is another skill that I need to practice regularly. My approaches to get there are making video presentations sharing my progress or perspective, taking listening exercises, and talking with someone else productively when this opportunity arrives.
 
 **Which is more important to you, the money or the work?**
 
-- Work is personally more important for me than the money because this is what I will bring for the rest of my life until the retirement age. Money always follows based on what I can contribute to the community if I perform my duties well. There might be other positions available in the job market that can pay me well; but if this is something that I am not happy to do with, the risk will outweigh more than the benefits that I will receive in the long run so I would prefer staying in a job that I am interested with, where my heart's at, and having a healthy community that treates every member well to enhance teamwork in the workplace.
+- Work is more important for me than the money. Money always follows based on my contributions to the community whether my performance actually meets my client's expectations that has the potential to make the world a better place. There might be other positions available in the job market that can pay me well; but if this is something that I am not happy to do with, the risks will outweigh more than the benefits that I will receive in the long run. Therefore, I would prefer staying in a job that I am interested with, where my heart's at, and a healthy community that treates every member well to enhance teamwork in the workplace.
 
 <br/>
 
-## Skill Set
+## ⛳ Skill Set
+
+[Back to Top](https://github.com/rn1hd#hi-there-)
 
 ### Software Developer
 
@@ -115,23 +131,25 @@
 
 <br/>
 
-## Career Profiles
+## 👨‍💻 Career Profiles
+
+[Back to Top](https://github.com/rn1hd#hi-there-)
 
 <div>
   <a href="https://typingstats.com/profile/183859790336888832" target="_blank" style="text-decoration:none" rel="noreferrer">
-    <img src="https://typingstats.com/logo.png" width="30" height="30" alt="Typing Stats" />
+    <img src="https://typingstats.com/logo.png" width="25" height="25" alt="Typing Stats" />
     <img src="https://img.shields.io/badge/Typing%20Stats-FFCE4A?style=for-the-badge" alt="Typing Stats" />
   </a>
-  <a href="https://keymash.io/profile/rn1hd-3458/" target="_blank" style="text-decoration:none; margin-left:15px" rel="noreferrer">
-    <img src="https://typingstats.com/partners/keymash.png" width="30" height="30" alt="Keymash" />
+  <a href="https://keymash.io/profile/rn1hd-3458/" target="_blank" style="text-decoration:none" rel="noreferrer">
+    <img src="https://typingstats.com/partners/keymash.png" width="25" height="25" alt="Keymash" />
     <img src="https://img.shields.io/badge/Keymash-FB923C?style=for-the-badge" alt="Keymash" />
   </a>
-  <a href="https://data.typeracer.com/pit/profile?user=rnk1hd" target="_blank" style="text-decoration:none; margin-left:15px" rel="noreferrer">
-    <img src="https://typingstats.com/partners/typeracer.png" width="30" height="30" alt="TypeRacer" />
+  <a href="https://data.typeracer.com/pit/profile?user=rnk1hd" target="_blank" style="text-decoration:none" rel="noreferrer">
+    <img src="https://typingstats.com/partners/typeracer.png" width="25" height="25" alt="TypeRacer" />
     <img src="https://img.shields.io/badge/TypeRacer-31A8FF?style=for-the-badge" alt="TypeRacer" />
   </a>
-  <a href="https://monkeytype.com/profile/rn1hd" target="_blank" style="text-decoration:none; margin-left:15px" rel="noreferrer">
-    <img src="https://typingstats.com/partners/monkeytype.png" width="30" height="30" alt="Monkeytype" />
+  <a href="https://monkeytype.com/profile/rn1hd" target="_blank" style="text-decoration:none" rel="noreferrer">
+    <img src="https://typingstats.com/partners/monkeytype.png" width="25" height="25" alt="Monkeytype" />
     <img src="https://img.shields.io/badge/Monkeytype-251936?style=for-the-badge" alt="Monkeytype" />
   </a>
 </div>
