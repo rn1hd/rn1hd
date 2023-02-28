@@ -97,7 +97,7 @@
 - [Question #4](https://github.com/rn1hd#question-4-are-you-a-team-player)
 - [Question #5](https://github.com/rn1hd#question-5-what-do-you-consider-to-be-your-weaknesses)
 - [Question #6](https://github.com/rn1hd#question-6-which-is-more-important-to-you-the-money-or-the-work)
-- [Question #7](https://github.com/rn1hd#question-6-which-is-more-important-to-you-the-money-or-the-work)
+- [Question #7](https://github.com/rn1hd#question-7-can-you-share-some-personal-projects-you-have-developed-or-at-least-passed-examination-results-from-a-prestigious-company-like-microsoft-in-order-for-us-to-assess-how-qualified-your-skill-set-is-in-the-modern-business-world)
 
 #### **Question #1: You are currently taking online courses in the Multimedia Artist field based on the stories you have shared in Career Journey section. How is this related to your goal as a Full Stack Developer?**
 
