@@ -144,7 +144,7 @@
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
-- Work is more important for me than the money. Money always follows based on my contributions to the community whether my performance actually meets my client's expectations that has the potential to make the world a better place. There might be other positions available in the job market that can pay me well; but if this is something that I am not happy to do with, the risks will outweigh more than the benefits that I will receive in the long run. Therefore, I would prefer staying in a job that I am interested with, where my heart's at, and a healthy community that treates every member well to enhance teamwork in the workplace.
+- **Work** is more important for me than the money. **Money** always follows based on my contributions to the community whether my performance actually meets my client's expectations that has the potential to make the world a better place. There might be other positions available in the job market that can pay me well; but if this is something that I am not happy to do with, the risks will outweigh more than the benefits that I will receive in the long run. Therefore, I would prefer staying in a job that I am interested with, where my heart's at, and a healthy community that treates every member well to enhance teamwork in the workplace.
 
 #### **Question #7: Can you share some personal projects you have developed or at least passed examination results from a prestigious company like Microsoft in order for us to assess how qualified your skill set is in the modern business world?**
 
