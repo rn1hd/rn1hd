@@ -3,8 +3,8 @@
 - [About Me](https://github.com/rn1hd#-about-me)
 - [Career Journey](https://github.com/rn1hd#-career-journey)
 - [Frequently Asked Questions (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
-- [Skill Set](https://github.com/rn1hd#-skill-set)
-- [Career Profiles](https://github.com/rn1hd#-career-profiles)
+- [Skills](https://github.com/rn1hd#-skills)
+- [Profiles](https://github.com/rn1hd#-profiles)
 
 ## 👨‍🦰 About Me
 
