@@ -64,10 +64,10 @@
 - My job as a **Software Developer** has started on August 6, 2018 in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** located in Joseling Road, Batangas City, Philippines.
 - Developed the initial version of the **[Zumumu Website](https://zumumu.com/)** in red theme during the COVID-19 pandemic trend on year 2020 which is now enhanced by the next generation of developers applying a different business theme
 - Implemented automation testing for **Zumumu** systems using **[Selenium framework](https://www.selenium.dev/)** to track and ensure that the system is 100% working after code changes before deploying in the live server
-- Developed three websites on year 2020 for my client's startup business:
+- Developed three corporate websites on year 2020 for my client's startup business:
   - [Nix Daily](https://nixdaily.netlify.app/)
   - [The Ones Design](https://theonesdesign.netlify.app/)
-  - [The Ones Restaurant](https://theonesdesign.netlify.app/)
+  - [The Ones Restaurant](https://theonesrestaurant.netlify.app/)
 
 ### Technical Writer 📚
 
@@ -162,35 +162,43 @@
 
 <br/>
 
-## ⛳ Skill Set
+## ⛳ Skills
 
 [Back to Top](https://github.com/rn1hd#hi-there-)
 
-### Software Developer
+### Web Development
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+
+### Software Development
+
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+### Documentation
+
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+
+### Testing
+
   <img src="https://img.shields.io/badge/Selenium-023020?style=for-the-badge&logo=selenium&logoColor=00FF00" alt="Selenium" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" />
 </div>
 
-### Multimedia Artist
+### Multimedia Arts
 
 <div>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Adobe Photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" />
   <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="Adobe InDesign" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro" />
 </div>
 
 <br/>
 
-## 👨‍💻 Career Profiles
+## 👨‍💻 Profiles
 
 [Back to Top](https://github.com/rn1hd#hi-there-)
 
