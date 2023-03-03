@@ -102,7 +102,7 @@
 - [Question #8](https://github.com/rn1hd#question-8-which-is-more-important-to-you-the-money-or-the-work)
 - [Question #9](https://github.com/rn1hd#question-9-can-you-share-some-personal-projects-you-have-developed-or-at-least-passed-examination-results-from-a-prestigious-company-like-microsoft-in-order-for-us-to-assess-how-qualified-your-skill-set-is-in-the-modern-business-world)
 
-#### **Question #1: I have reviewed your resume but would like you to explain gaps in your employment history. Tell me exactly what happened.**
+#### **Question #1: I have reviewed your resume but would like to ask you to explain gaps in your employment history. Tell me exactly what happened.**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
