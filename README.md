@@ -191,13 +191,13 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
   <img src="assets/badge/Sphinx.png" height="28" alt="TypeRacer" />
 
-### Testing
+### Software Testing
 
   <img src="https://img.shields.io/badge/Selenium-023020?style=for-the-badge&logo=selenium&logoColor=00FF00" alt="Selenium" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" />
 </div>
 
-### Multimedia Arts
+### Multimedia Editing
 
 <div>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Adobe Photoshop" />
