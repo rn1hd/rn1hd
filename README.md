@@ -12,7 +12,7 @@
 
 - I am a **Software Developer** with professional experience in web development, automation testing, and design thinking. I am currently focusing on acquiring new skills related to modern technologies dominant in the job market.
   - **Machine Learning Engineer** is my dream job and my primary end goal because with the current trend in the market today, Artificial Intelligence is the technology of the future and being a part of the development team someday will contribute a lot to the society, observing how **[ChatGPT](https://openai.com/blog/chatgpt/)** becomes a trend on the headlines in the 1st quarter of 2023. Working in an Artificial Intelligence department is where my heart's at. Personally, I would love to develop a robotics system using Reinforcement Learning to prioritize unaccompanied people that no one will be with them for the rest of their lives. Instead of letting unaccompanied people feeling alone, a robot will take over as a last resort to spend some time on emotional support, home assistance, and personal care.
-  - **Full Stack Developer** is one of the promising goals for my career path in fact there are more open opportunities in the job market. Full Stack Developer allows me to become more flexible in the workplace, boost my versatility; and ability to contribute more for the development team, the client, the community, and other individuals involved in the business world. Regardless of the possible dead-end situations I may face, I can bring at least a little bit of power to achieve a business goal in order to satisfy at least a little bit of company's expectations which is one of the primary benefits why acquiring full stack knowledge becomes a crucial step that I need to take.
+  - **Full Stack Developer** is one of the promising goals for my career path in fact there are more open opportunities in the job market. Full Stack Developer allows me to become more versatile and boost my productivity at work for the development team, the client, the community, and other individuals involved in the business world. Regardless of the possible dead-end situations I may face, I can bring at least a little bit of power to achieve a business goal in order to satisfy at least a little bit of company's expectations which is one of the primary benefits why acquiring full stack knowledge becomes a crucial step that I need to take.
 - Outside on the world of technology, I am also a professional **pianist** seeking to develop my technical knowledge and skills further with the likes of Classical, Ballad, and some iconic songs. I am using an upright piano with the brand of **[Lyric](https://www.lyric.ph/)** originated in the Philippines.
 - I have attached my resume [here](https://raw.githubusercontent.com/rn1hd/rn1hd/main/Resume.jpg).
 
@@ -183,10 +183,13 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 
 ### Software Development
 
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="assets/badge/Go.png" height="28" alt="Go" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
 ### Documentation
 
