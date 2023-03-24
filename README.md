@@ -95,42 +95,50 @@
 [Back to Top](https://github.com/rn1hd#hi-there-)
 
 - [Question #1](https://github.com/rn1hd#question-1-i-have-reviewed-your-resume-but-would-like-to-ask-you-to-explain-gaps-in-your-employment-history-tell-me-exactly-what-happened)
-- [Question #2](https://github.com/rn1hd#question-2-you-are-currently-taking-online-courses-in-the-multimedia-editing-field-based-on-the-stories-you-have-shared-in-career-journey-section-how-is-this-related-to-your-goal-as-a-full-stack-developer)
-- [Question #3](https://github.com/rn1hd#question-3-documentation-development-is-your-primary-duty-as-a-technical-writer-how-is-this-beneficial-in-the-business)
-- [Question #4](https://github.com/rn1hd#question-4-machine-learning-engineer-is-your-dream-job-and-this-is-where-your-hearts-at-so-i-suppose-you-should-start-learning-that-field-right-away-why-did-you-choose-to-learn-a-different-computer-field-first-that-is-distinct-from-your-primary-end-goal)
-- [Question #5](https://github.com/rn1hd#question-5-what-is-your-greatest-fear-in-life-and-why)
-- [Question #6](https://github.com/rn1hd#question-6-are-you-a-team-player)
-- [Question #7](https://github.com/rn1hd#question-7-what-do-you-consider-to-be-your-weaknesses)
-- [Question #8](https://github.com/rn1hd#question-8-which-is-more-important-to-you-the-money-or-the-work)
-- [Question #9](https://github.com/rn1hd#question-9-can-you-share-some-personal-projects-you-have-developed-or-at-least-passed-examination-results-from-a-prestigious-company-like-microsoft-in-order-for-us-to-assess-how-qualified-your-skill-set-is-in-the-modern-business-world)
+- [Question #2](https://github.com/rn1hd#question-2-what-changes-have-been-made-since-you-resigned-in-your-previous-company)
+- [Question #3](https://github.com/rn1hd#question-3-you-are-currently-taking-online-courses-in-the-multimedia-editing-field-based-on-the-stories-you-have-shared-in-career-journey-section-how-is-this-related-to-your-goal-as-a-full-stack-developer)
+- [Question #4](https://github.com/rn1hd#question-4-documentation-development-is-your-primary-duty-as-a-technical-writer-how-is-this-beneficial-in-the-business)
+- [Question #5](https://github.com/rn1hd#question-5-machine-learning-engineer-is-your-dream-job-and-this-is-where-your-hearts-at-so-i-suppose-you-should-start-learning-that-field-right-away-why-did-you-choose-to-learn-a-different-computer-field-first-that-is-distinct-from-your-primary-end-goal)
+- [Question #6](https://github.com/rn1hd#question-6-what-is-your-greatest-fear-in-life-and-why)
+- [Question #7](https://github.com/rn1hd#question-7-are-you-a-team-player)
+- [Question #8](https://github.com/rn1hd#question-8-what-do-you-consider-to-be-your-weaknesses)
+- [Question #9](https://github.com/rn1hd#question-9-which-is-more-important-to-you-the-money-or-the-work)
+- [Question #10](https://github.com/rn1hd#question-10-can-you-share-some-personal-projects-you-have-developed-or-at-least-passed-examination-results-from-a-prestigious-company-like-microsoft-in-order-for-us-to-assess-how-qualified-your-skill-set-is-in-the-modern-business-world)
 
 #### **Question #1: I have reviewed your resume but would like to ask you to explain gaps in your employment history. Tell me exactly what happened.**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
-- While I greatly value the opportunity to work with my previous company, the time has come where my **salary** and **other company benefits package** no longer cover my **personal financial commitments**; resulting to decreased motivation, productivity, and ability to collaborate with my colleagues effectively. I understand that salary increase is well-based on my contributions to the company whether my work performance output can really change the game for the business operations in order to maintain a balancing act between all parties involved. Despite of my attempts to work longer hours in a row voluntarily just to catch up my overall skills and performance output with the fast-paced work environment, this strategy remains inefficient to achieve client and team member satisfaction, promote business growth and eventually granting an access to a higher salary and more extensive benefits package that I deserve. I can back up this issue by using my free time as an opportunity to do better in the job next time; however, there are still a lot of remaining legacy systems that I have not touched yet that may take several years to master based on my current skills I have acquired so far; and the technology stack being used remains low demand in the job market. Therefore, I left with no other options to find personal growth but to take a huge risk which is to voluntarily resign in my previous company in order to change my career path in a new direction, to accelerate my progress in enhancing my technical skills dominant in the job market, and to assess my knowledge by taking challenging activities aiming for an industry level standard during my gap period. Once I finally feel contented with what I have, it will definitely make it easier for me to love someone else as long as there are shared interests and life perspectives.
+- While I greatly value the opportunity to work with my previous company, the time has come where my **salary** and **other company benefits package** no longer cover my **personal financial commitments**; resulting to decreased motivation, productivity, and ability to collaborate with my colleagues effectively. I understand that salary increase is well-based on my contributions to the company whether my work performance output can really change the game for the business operations in order to maintain a balancing act between all parties involved. Despite of my attempts to work longer hours in a row voluntarily just to catch up my overall skills and performance output with the fast-paced environment, this strategy remains inefficient to achieve client and team member satisfaction, promote business growth, and eventually granting an access to a higher salary and more extensive benefits package that I deserve. I can back up this issue by using my free time as an opportunity to do better in the job next time; however, there are still a lot of remaining legacy systems that I have not touched yet that may take several years to master based on my current skills I have acquired so far; and the technology stack being used remains low demand in the job market. Therefore, I left with no other options to find personal growth but to take a huge risk which is to voluntarily resign in my previous company in order to change my career path in a new direction, to accelerate my progress in enhancing my technical skills dominant in the job market, and to assess my knowledge by taking challenging activities aiming for an industry level standard during my gap period. Once I finally feel contented with what I have, it will definitely make it easier for me to love someone else as long as there are shared interests and life perspectives.
 
-#### **Question #2: You are currently taking online courses in the Multimedia Editing field based on the stories you have shared in Career Journey section. How is this related to your goal as a Full Stack Developer?**
+#### **Question #2: What changes have been made since you resigned in your previous company?**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
+- Due to its low demand in the job market, and personal career growth and financial stagnation; I completely stopped using **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework and slowly shift myself to using a different modern technology stack where I see a good future direction for my career path.
+- During my gap period, I am self-assessing my knowledge and skills that I will carry in the future this time around with at least **60% mastery** following the **Software Development Life Cycle (SDLC)** process in order to achieve client and team member satisfaction, promote business growth, and eventually granting an access to a higher salary and more extensive benefits package that I deserve. While there is still a possibility to face some tasks that I have never experienced before beyond my skill set which is what the **40% remaining** means, the amount of pressure to catch up my overall skills and performance output with the fast-paced environment will not be as severe as not doing self-preparation to future business challenges beforehand. **Adaptability** is crucial in today's workplace and **growth** happens by doing things you are unqualified to do; so I think a highly efficient employee is by giving **60-40** performance in the business environment that should be fulfilled quickly, consistently, and efficiently.
+
+#### **Question #3: You are currently taking online courses in the Multimedia Editing field based on the stories you have shared in Career Journey section. How is this related to your goal as a Full Stack Developer?**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
 - The scope of the **Full Stack Developer** is very broad. **Software Development Life Cycle (SDLC)** is the framework that I am applying in my work ethic. **Design** is the third phase of SDLC where I can showcase my multimedia editing skills with the following:
   - Develop software architectural patterns that I can discuss to the development team
-  - Application user interface prototypes that I can present to my clients for approval before proceeding to the implementation stage where coding skills are often being used
+  - Application user interface wireframes that I can present to my clients for approval before proceeding to the implementation stage where coding skills are often being used
   - Presenting visual chart representations
   - Promotional marketing advertisements that I can showcase to the public community
 
-#### **Question #3: Documentation development is your primary duty as a technical writer. How is this beneficial in the business?**
+#### **Question #4: Documentation development is your primary duty as a technical writer. How is this beneficial in the business?**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
-- Based on my experience, **documentation development** remains insignificant because it does not contribute a lot to the economic growth especially during in the event of a crisis. As a highly effective employee, my job should primarily focus on fulfilling the client's demands while remaining myself versatile regardless of the situation because this is how companies can generate revenue to grow its business. Documentation development only becomes essential when the current situation is pleasant. However, there are long term negative implications as the project scope increases over time with the following:
-  - More frustrations between the client, management, and the new and existing development team members who are just getting started to get familiar in the system especially if they cannot easily adapt in the fast-paced work environment
+- Based on my experience, **documentation development** remains insignificant because it does not contribute a lot to the economic growth especially during in the event of a crisis. As a highly efficient employee, my job should primarily focus on fulfilling the client's demands while remaining myself versatile regardless of the situation because this is how companies can generate revenue to grow its business. Documentation development only becomes essential when the current situation is pleasant. However, there are long term negative implications as the project scope increases over time with the following:
+  - More frustrations between the client, management, and the new and existing development team members who are just getting started to get familiar in the system especially if they cannot easily adapt in the fast-paced environment
   - More prone to accidents that can lead to a major conflict
   - Output not being delivered on time within the company's expectations will be more common.
   - Corporate training will become more time consuming than what is expected because an original maintainer will be obligated to discuss the fundamentals and functions of the system, how the system was implemented, and sharing best practices to ensure that everything will be all right before proceeding to the deployment stage. With technical documentation prepared, my team members and staffs will rely on the documentation materials rather than resorting to a more time consuming corporate training.
 
-#### **Question #4: Machine Learning Engineer is your dream job and this is where your heart's at so I suppose you should start learning that field right away. Why did you choose to learn a different computer field first that is distinct from your primary end goal?**
+#### **Question #5: Machine Learning Engineer is your dream job and this is where your heart's at so I suppose you should start learning that field right away. Why did you choose to learn a different computer field first that is distinct from your primary end goal?**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
@@ -138,33 +146,33 @@
 - Even if I ended getting myself out of nowhere in the past, that does not stop my motivation to become a **Machine Learning Engineer**. I still need to achieve mastery on **Full Stack Technologies** in order to develop my business logic and work agility aligned with company's expectations. The knowledge and skills required to become a **Multimedia Artist** has apparently defined as a distinct role for a **Machine Learning Engineer**. If we take a look deeply, people who committed an act that is against national law such as burglary, murder, and kidnapping is still considered a global crisis. CCTV is always the best weapon the counter this kind of violent act but not all CCTVs have built-in face recognition system. This is where computer vision libraries like **[OpenCV](https://opencv.org/)** and **[DeepFace](https://viso.ai/computer-vision/deepface/)** come into existence so if I have some knowledge on at least how to do camera filtering in **Adobe Photoshop**, it would be easier for me to relate once I start touching those computer vision libraries.
 - Staying myself as a **Machine Learning Engineer** for a long period of time is not guaranteed in the business world. I cannot put all my eggs in one basket because anything can happen in the business. Once it fails, there are no alternatives left to survive. As a general goal, client's demands are always a priority that should be fulfilled to remain myself as a valuable asset in the company. That is, the possibility to work on an urgent client request outside the scope of a **Machine Learning Engineer** because this is how companies generate revenue to finance from a bank, attract investors to fund its operations and grow its business. Companies cannot remain in business without turning a profit so I pushed myself to strive harder on acquiring in-demand **Full Stack technologies** in order to maintain myself as an effective role model in the workplace regardless of the situation to benefit both parties in the long run.
 
-#### **Question #5: What is your greatest fear in life, and why?**
+#### **Question #6: What is your greatest fear in life, and why?**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
 - **Fear of failure**. Unable to fulfill my duties on time and getting prone to accidents make me feel discouraged because they have the potential to negatively affect my career, reputation, and stability depending on the severity of those actions. Damaged reputation usually takes a long time to rebuild and recover if the negative impact to the community is severe.
 - On the bright side of things, **failure** can be my best teacher. The true meaning of success usually comes from multiple failures. It is inevitable in life that I may encounter some tough challenges that I have never seen and experienced before, so my decision-making and problem-solving skills will put to the test to assess my versatility at work. Personal growth occurs once I step out of my comfort zone. When failure happens, I use this moment as an opportunity to identify where did I went wrong, what necessary steps should I apply in order to solve the issue, and what adjustments should be made to prevent committing the same mistake in the future.
 
-#### **Question #6: Are you a team player?**
+#### **Question #7: Are you a team player?**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
 - It all depends on the **compatibility** of my skill set, passion, and assigned job responsibilities. As long as I see a **good future** of a role I was assigned to within my **career goals**, I am willing to give a hundred percent of my time and effort to showcase what I can bring to the team in order to achieve the business goal on time and what other contributions I can bring to the table.
 
-#### **Question #7: What do you consider to be your weaknesses?**
+#### **Question #8: What do you consider to be your weaknesses?**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
 - There are instances where I cannot **follow simple instructions** properly which can annoy some individuals. This weakness gives me an initiative why taking down notes in almost every meetings, documentation development, and even considering myself getting familiar on Full Stack Development beforehand becomes essential.
 - **Verbal communication skills** are one of the most important job requirements that I need to practice regularly. My strategies to get there are making video presentations sharing my progress or perspective, taking listening exercises, and getting myself exposed to a productive community when this opportunity arrives.
 
-#### **Question #8: Which is more important to you, the money or the work?**
+#### **Question #9: Which is more important to you, the money or the work?**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
 - **Work** is more important for me than the money. **Money** always follows based on my contributions to the community that has the potential to make the world a better place. There might be other positions available in the job market that can pay me well; if this is something that I am not happy to do with, the risks will outweigh more than the benefits that I will receive in the long run. Therefore, I would prefer staying in a job that I am interested in, a place that encourages personal growth, and a community that promotes team building and healthy lifestyle.
 
-#### **Question #9: Can you share some personal projects you have developed or at least passed examination results from a prestigious company like Microsoft in order for us to assess how qualified your skill set is in the modern business world?**
+#### **Question #10: Can you share some personal projects you have developed or at least passed examination results from a prestigious company like Microsoft in order for us to assess how qualified your skill set is in the modern business world?**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
@@ -183,12 +191,14 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 
 ### Software Development
 
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="assets/badge/Go.png" height="28" alt="Go" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
 ### Documentation
@@ -208,6 +218,7 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Adobe Photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" />
   <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="Adobe InDesign" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD" />
 </div>
 
 <br/>
