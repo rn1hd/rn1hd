@@ -125,7 +125,7 @@
 
 - The scope of the **Full Stack Developer** is very broad. **Software Development Life Cycle (SDLC)** is the framework that I am applying in my work ethic. **Design** is the third phase of SDLC where I can showcase my multimedia editing skills with the following:
   - Develop software architectural patterns that I can discuss to the development team
-  - Application user interface wireframes that I can present to my clients for approval before proceeding to the implementation stage where coding skills are often being used
+  - Software prototypes that I can present to my clients for approval before proceeding to the implementation stage where coding skills are often being used
   - Presenting visual chart representations
   - Promotional marketing advertisements that I can showcase to the public community
 
