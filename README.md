@@ -103,7 +103,7 @@
 - [Question #7](https://github.com/rn1hd#question-7-are-you-a-team-player)
 - [Question #8](https://github.com/rn1hd#question-8-what-do-you-consider-to-be-your-weaknesses)
 - [Question #9](https://github.com/rn1hd#question-9-which-is-more-important-to-you-the-money-or-the-work)
-- [Question #10](https://github.com/rn1hd#question-10-can-you-share-some-personal-projects-you-have-developed-or-at-least-passed-examination-results-from-a-prestigious-company-like-microsoft-in-order-for-us-to-assess-how-qualified-your-skill-set-is-in-the-modern-business-world)
+- [Question #10](https://github.com/rn1hd#question-10-can-you-share-something-what-you-can-offer-in-order-for-us-to-assess-how-qualified-you-are-in-the-modern-business-world)
 
 #### **Question #1: I have reviewed your resume but would like to ask you to explain gaps in your employment history. Tell me exactly what happened.**
 
@@ -115,7 +115,7 @@
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
-- I completely stopped using **[uAdmin](https://github.com/uadmin/uadmin)**, a company proprietary Golang web framework due to its low demand in the job market and personal financial stagnation. I am now slowly shifting myself to using a different modern technology stack where I can see a good direction for my career path.
+- I completely stopped using **[uAdmin](https://github.com/uadmin/uadmin)**, a company proprietary Golang web framework due to its low demand in the job market and personal financial stagnation. I am now slowly shifting myself to using a different modern technology stack where I can see a good future for my career goals.
 - During my gap period, I am self-assessing my knowledge and skills that I will carry in the future this time around with at least **60% mastery** instead of being contented with knowing only the basics following the **Software Development Life Cycle (SDLC)** process in order to achieve client and team member satisfaction, promote business growth, and eventually granting an access to a higher salary and more extensive benefits package that I deserve. While there is still a possibility to face some tasks that I have never experienced before beyond my skill set which is what the **40% remaining** means, the amount of pressure to catch up my overall skills and performance output in the fast-paced environment will not be as severe as not doing self-preparation to future business challenges beforehand. **Adaptability** is crucial in today's workplace and **growth** happens by doing things you are unqualified to do; so I think a highly efficient employee is by giving **60-40** performance in the business environment that should be fulfilled quickly, consistently, and efficiently.
 - I also compete in **[TypeRacer](https://play.typeracer.com/)**, an online global typing competition with amazing world champions out there as part of bringing this skill I have learned from my first job to the next stage where I can apply on essential projects and business missions like company meetings or dealing with clients through taking down important notes for future use.
 
@@ -173,11 +173,11 @@
 
 - **Work** is more important for me than the money. **Money** always follows based on my contributions to the community that has the potential to make the world a better place. There might be other positions available in the job market that can pay me well; if this is something that I am not happy to do with, the risks will outweigh more than the benefits that I will receive in the long run. Therefore, I would prefer staying in a job that I am interested in, a place that encourages personal growth, and a community that promotes team building and healthy lifestyle.
 
-#### **Question #10: Can you share some personal projects you have developed or at least passed examination results from a prestigious company like Microsoft in order for us to assess how qualified your skill set is in the modern business world?**
+#### **Question #10: Can you share something what you can offer in order for us to assess how qualified you are in the modern business world?**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
-- Although I am still in the process of learning **Full Stack Technologies**, I think it would be the right time for me to showcase them once I finish all remaining courses in my plate that I need to take. I have some background knowledge and completed personal projects from online courses that I have enrolled which is one of the reasons why I have decided to include them in my skill set. Instead, I would rather choose showcasing a personal project that is originally developed, high quality output with industry best practices; and a profitable system that can make the world a better place, even in the smallest way.
+- Although I am still in the process of learning **Full Stack Technologies**, I think it would be the right time for me to showcase my personal projects once I finish all remaining courses in my plate that I need to take. I have some background knowledge and completed personal projects from online courses that I have enrolled which is one of the reasons why I have decided to include them in my skill set. Instead, I would rather choose showcasing a personal project that is originally developed, high quality output with industry best practices; and a profitable system that can make the world a better place, even in the smallest way.
 
 <br/>
 
