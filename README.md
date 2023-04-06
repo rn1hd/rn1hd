@@ -34,9 +34,9 @@
 [Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
 - My motivation to become a pianist has started at 13 years old when my father bought an awesome, beginner-friendly electronic piano. There is a tutorial guide that teaches you what key should you press during the song and at the same time, the book has been included in the package.
-- I enrolled on a summer piano class together with my cousin in Regis Benedictine Academy located in Batangas City, Philippines at 15 years old.
+- I enrolled on a summer piano class together with my cousin in **Regis Benedictine Academy** located in Batangas City, Philippines at 15 years old.
 - With continuous learning and motivation, my piano skills develop over time ranging from ability to play nursery rhymes up to the iconic songs adaptation and various classical songs like Fur Elise composed by Beethoven.
-- I have experienced playing grand piano in Pontefino Hotel and Robinsons Mall Lipa with lots of people on the last quarter of year 2022 as a guest / visitor.
+- I have experienced playing grand piano in **Pontefino Hotel** and **Robinsons Mall Lipa** with lots of people on the last quarter of year 2022 as a guest / visitor.
 
 ### Game Developer 🎮
 
@@ -58,7 +58,7 @@
 - My first job in the real world as a **Data Analyst** has started on September 20, 2016 in **Accudata Inc.** located in Kumintang Ibaba, Batangas City, Philippines where excellent typing skills are required for the role because the company requires an employee to meet the quota every day while preventing encoding mistakes in order to pass performance evaluation. This is the time when my motivation to become a professional typist has started.
 - Even if I ended my tenure as a **Data Analyst** in **Accudata Inc**. on July 20, 2018, I still maintain on improving my typing skills in fact that this skill is commonly used in every computer related tasks to stay productive; bringing this amazing experience up to this date which I can apply on essential projects and business missions like company meetings or dealing with clients through taking down important notes for future use.
 - On the second half of my entire tenure in **[IntegrityNet Solutions & Services](https://integritynet.biz/)**, I was responsible on taking charge of daily morning meeting for the development team; transcribing each team member's progress from recorded conversation which will be submitted to the Chief Technology Officer's company email for compilation.
-- Last October 2021, I was a part of a productive team for a new non-fungible token (NFT) game project in online freelancing where I set an initiative to record the entire meeting, review recorded meeting, and finally transcribe minutes of a meeting which will be served as an official written record of the conversation.
+- Last October 2021, I was a part of a productive team for a new **non-fungible token (NFT)** game project in online freelancing where I set an initiative to record the entire meeting, review recorded meeting, and finally transcribe minutes of a meeting which will be served as an official written record of the conversation.
 
 ### Software Developer 🖥
 
@@ -85,7 +85,7 @@
 
 - My job as a **Multimedia Artist** has started when I was working in various O2Jam organizations between year 2012 and 2015 with the following responsibilities:
   - Loading images for some of my notechart projects using **Adobe Photoshop**
-  - 3 difficulty notechart preview video presentation on my Facebook account as a sneak peek on what to expect in the next month's song update using **[Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/)**
+  - 3 difficulty notechart preview video presentations as a sneak peek on what to expect in the next month's song update using **[Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/)**
 - This field is where I am currently working on right now; enhancing my technical knowledge and skills through taking online courses until I see myself being able to meet the industry level standard as part of my learning journey: a road to become a professional **Full Stack Developer**.
 
 <br/>
