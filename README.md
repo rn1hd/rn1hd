@@ -137,7 +137,7 @@
   - More frustrations between the client, management, and the new and existing development team members who are just getting started to get familiar in the system especially if they cannot easily adapt in the fast-paced environment
   - More prone to accidents that can lead to a major conflict
   - Output not being delivered on time within the company's expectations will be more common.
-  - Corporate training will become more time consuming than what is expected because an original maintainer will be obligated to discuss the fundamentals and functions of the system, how the system was implemented, and sharing best practices to ensure that everything will be all right before proceeding to the deployment stage. With technical documentation prepared, my team members and staffs will rely on the documentation materials rather than resorting to a more time consuming corporate training.
+  - Corporate training for the newly hired individuals is **costly** for the management side especially for those who are primarily focusing on **delivery-centered culture** just to keep the clients satisfied with what an employee can offer to meet their needs efficiently. **Written documentation** and **tutorial videos** can serve as a savior to guide newly hired individuals to become familiar in the company system independently; at the same time, to reduce the workload of the management where supervising their employees becomes minimal.
 
 #### **Question #5: Machine Learning Engineer is your dream job and this is where your heart's at so I suppose you should start learning that field right away. Why did you choose to learn a different computer field first that is distinct from your primary end goal?**
 
