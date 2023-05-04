@@ -109,7 +109,7 @@
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
-- While I greatly value the opportunity to work with my previous company to understand the real-world business operations, I **resigned** voluntarily to pursue other technologies within the **job market trends**, to accelerate my progress in acquiring needed technical skills, and to assess my knowledge by taking challenging activities aiming for an industry level standard during my gap period.
+- While I greatly value the opportunity to work with my previous company to understand the real-world business operations, I **resigned** voluntarily to pursue other technologies for a better future within the **job market trends**, to accelerate my progress in acquiring needed technical skills, and to assess my knowledge by taking challenging activities aiming for an industry level standard during my gap period.
 
 #### **Question #2: What changes have been made since you resigned in your previous company?**
 
