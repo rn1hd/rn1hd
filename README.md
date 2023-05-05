@@ -27,7 +27,7 @@
 - [Transcriptionist](https://github.com/rn1hd#transcriptionist-)
 - [Software Developer](https://github.com/rn1hd#software-developer-)
 - [Technical Writer](https://github.com/rn1hd#technical-writer-)
-- [Multimedia Artist](https://github.com/rn1hd#multimedia-artist-)
+- [Creative Designer](https://github.com/rn1hd#creative-designer-)
 
 ### Pianist 🎹
 
@@ -79,11 +79,11 @@
 - My job as a technical writer actually started when I was sole responsible for developing a full documentation on a college thesis named **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)**.
 - My technical writer journey has continued in my real life work experience when the owner of **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework has decided to give full control to me on building the **[full documentation](https://uadmin-docs.readthedocs.io/en/latest/)**. The owner actually started the documentation project during the initial stage, then was brought up to me on the following updates. The documentation has been maintained under my control during my tenure in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** until version 0.7.4.
 
-### Multimedia Artist 🎬
+### Creative Designer 🎬
 
 [Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
-- My job as a **Multimedia Artist** has started when I was working in various O2Jam organizations between year 2012 and 2015 with the following responsibilities:
+- My job as a **Creative Designer** has started when I was working in various O2Jam organizations between year 2012 and 2015 with the following responsibilities:
   - Loading images for some of my notechart projects using **Adobe Photoshop**
   - 3 difficulty notechart preview video presentations as a sneak peek on what to expect in the next month's song update using **[Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/)**
 - This field is where I am currently working on right now; enhancing my technical knowledge and skills through taking online courses until I see myself being able to meet the industry level standard as part of my learning journey: a road to become a professional **Full Stack Developer**.
@@ -96,7 +96,7 @@
 
 - [Question #1](https://github.com/rn1hd#question-1-i-have-reviewed-your-resume-but-would-like-to-ask-you-to-explain-gaps-in-your-employment-history-tell-me-exactly-what-happened)
 - [Question #2](https://github.com/rn1hd#question-2-what-changes-have-been-made-since-you-resigned-in-your-previous-company)
-- [Question #3](https://github.com/rn1hd#question-3-you-are-currently-taking-online-courses-in-the-multimedia-editing-field-based-on-the-stories-you-have-shared-in-career-journey-section-how-is-this-related-to-your-goal-as-a-full-stack-developer)
+- [Question #3](https://github.com/rn1hd#question-3-how-is-being-a-creative-designer-related-to-your-goal-as-a-full-stack-developer)
 - [Question #4](https://github.com/rn1hd#question-4-documentation-development-is-your-primary-duty-as-a-technical-writer-how-is-this-beneficial-in-the-business)
 - [Question #5](https://github.com/rn1hd#question-5-machine-learning-engineer-is-your-dream-job-and-this-is-where-your-hearts-at-so-i-suppose-you-should-start-learning-that-field-right-away-why-did-you-choose-to-learn-a-different-computer-field-first-that-is-distinct-from-your-primary-end-goal)
 - [Question #6](https://github.com/rn1hd#question-6-what-is-your-greatest-fear-in-life-and-why)
@@ -118,11 +118,11 @@
 - During my gap period, I am self-assessing my knowledge and skills that I will carry in the future with at least **60% mastery** following the **Software Development Life Cycle (SDLC)** process in order to achieve client and team member satisfaction, promote business growth, and eventually granting an access to a higher salary and more extensive benefits package that I deserve. While there is still a possibility to face some tasks that I have never experienced before beyond my skill set which is what the **40% remaining** means, the amount of pressure to catch up my overall skills and performance output in the fast-paced environment will not be as severe as not doing self-preparation to future business challenges beforehand. **Adaptability** is crucial in today's workplace and **growth** happens by doing things you are unqualified to do; so I think a highly efficient employee is by giving **60-40** performance in the business environment that should be fulfilled quickly, consistently, and efficiently.
 - I also compete in **[TypeRacer](https://play.typeracer.com/)**, an online global typing competition with amazing world champions out there as part of bringing this skill I have learned from my first job to the next stage where I can apply on essential projects and business missions like company meetings or dealing with clients through taking down important notes for future use.
 
-#### **Question #3: You are currently taking online courses in the Multimedia Editing field based on the stories you have shared in Career Journey section. How is this related to your goal as a Full Stack Developer?**
+#### **Question #3: How is being a creative designer related to your goal as a Full Stack Developer?**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
-- The scope of the **Full Stack Developer** is very broad. **Software Development Life Cycle (SDLC)** is the framework that I am applying in my work ethic. **Design** is the third phase of SDLC where I can showcase my multimedia editing skills with the following:
+- The scope of the **Full Stack Developer** is very broad. **Software Development Life Cycle (SDLC)** is the framework that I am applying in my work ethic. **Design** is the third phase of SDLC where I can showcase my creativity with the following:
   - Develop software architectural patterns that I can discuss to the development team
   - Software prototypes that I can present to my clients for approval before proceeding to the implementation stage where coding skills are often being used
   - Presenting visual chart representations
@@ -143,7 +143,7 @@
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
 - **Machine Learning** is one of the most difficult field that should not be taken lightly without mastering the prerequisites first. I was assigned on a project where the goal is to develop a generic based recommendation system. It did not go well unfortunately because the algorithm used in my implementation is inappropriate to achieve the expected results. For the sake of experience, I am willing to take **Full Stack Developer** role as a stepping stone in order to develop my business logic and productivity further aligned with company's expectations and to identify what logical reasoning can be applied in order to develop Artificial Intelligence applications in the future.
-- Although I am still finishing the course related to **Multimedia Artist**, the knowledge and skills required for the role has apparently distinct from a **Machine Learning Engineer**. If we take a look deeply, people who committed an act that is against national law such as burglary, murder, and kidnapping is still considered a global crisis. CCTV is always the best weapon the counter this kind of violent act but not all CCTVs have built-in face recognition system. This is where computer vision libraries like **[OpenCV](https://opencv.org/)** and **[DeepFace](https://viso.ai/computer-vision/deepface/)** come into existence so if I have some knowledge on at least how to do camera filtering in **Adobe Photoshop**, it would be easier for me to relate once I start touching those computer vision libraries.
+- Although I am still finishing the course related to **Creative Design**, the knowledge and skills required for the role has apparently distinct from a **Machine Learning Engineer**. If we take a look deeply, people who committed an act that is against national law such as burglary, murder, and kidnapping is still considered a global crisis. CCTV is always the best weapon the counter this kind of violent act but not all CCTVs have built-in face recognition system. This is where computer vision libraries like **[OpenCV](https://opencv.org/)** and **[DeepFace](https://viso.ai/computer-vision/deepface/)** come into existence so if I have some knowledge on at least how to do camera filtering in **Adobe Photoshop**, it would be easier for me to relate once I start touching those computer vision libraries.
 - Staying myself as a **Machine Learning Engineer** for a long period of time is not guaranteed in the business world. I cannot put all my eggs in one basket because anything can happen in the business. Once it fails, there are no alternatives left to survive. As a general goal, client's demands are always a priority that should be fulfilled. That is, the possibility to work on an urgent client request outside the scope of a **Machine Learning Engineer** because this is how companies generate revenue to finance from a bank, attract investors to fund its operations and grow its business. Companies cannot remain in business without turning a profit so I pushed myself to strive harder on acquiring in-demand **Full Stack technologies** in order to maintain myself as an effective role model in the workplace regardless of the situation to benefit both parties in the long run.
 
 #### **Question #6: What is your greatest fear in life, and why?**
@@ -212,7 +212,7 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" />
 </div>
 
-### Multimedia Editing
+### Creative Design
 
 <div>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Adobe Photoshop" />
