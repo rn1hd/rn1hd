@@ -33,16 +33,16 @@
 
 [Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
-- My motivation to become a pianist has started at 13 years old when my father bought an awesome, beginner-friendly electronic piano. There is a tutorial guide that teaches you what key should you press during the song and at the same time, the book has been included in the package.
+- My motivation to become a pianist has started at 13 years old when my father bought an awesome, beginner-friendly electronic piano.
 - I enrolled on a summer piano class together with my cousin in **Regis Benedictine Academy** located in Batangas City, Philippines at 15 years old.
 - With continuous learning and motivation, my piano skills develop over time ranging from ability to play nursery rhymes up to the iconic songs adaptation and various classical songs like Fur Elise composed by Beethoven.
-- I have experienced playing grand piano in **Pontefino Hotel** and **Robinsons Mall Lipa** with lots of people on the last quarter of year 2022 as a guest / visitor.
+- I have experienced playing grand piano in **Pontefino Hotel** and **Robinsons Mall Lipa** since the last quarter of year 2022 as a visitor.
 
 ### Game Developer 🎮
 
 [Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
-- My position to become a game developer, with a specific designation as **Notecharter** has started at 16 years old when I saw a [Youtube video](https://www.youtube.com/watch?v=UHHHXRU1-T0) by a Malaysian developer who worked in O2Jam (AngelJam) private server discussing how you can create musical notes that synchronizes to the beat of the song.
+- My position to become a game developer as a **Notecharter** has started at 16 years old when I saw a [Youtube video](https://www.youtube.com/watch?v=UHHHXRU1-T0) by a Malaysian developer who worked in O2Jam (AngelJam) private server discussing how to create musical notes that synchronizes to the beat of the song.
 - With continuous learning and motivation, I finally got a chance to become one of the contributors in the game market following senior's advices regarding the output of my works. I met some amazing developers and panelists around the world.
 - I have experienced working in various O2Jam organizations maintaining the same position as a Notecharter:
   - AngelJam (2012-2013)
@@ -55,8 +55,8 @@
 
 [Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
-- My first job in the real world as a **Data Analyst** has started on September 20, 2016 in **Accudata Inc.** located in Kumintang Ibaba, Batangas City, Philippines where excellent typing skills are required for the role because the company requires an employee to meet the quota every day while preventing encoding mistakes in order to pass performance evaluation. This is the time when my motivation to become a professional typist has started.
-- Even if I ended my tenure as a **Data Analyst** in **Accudata Inc**. on July 20, 2018, I still maintain on improving my typing skills in fact that this skill is commonly used in every computer related tasks to stay productive; bringing this amazing experience up to this date which I can apply on essential projects and business missions like company meetings or dealing with clients through taking down important notes for future use.
+- My first job in the real world as a **Data Analyst** has started on September 20, 2016 in **Accudata Inc.** located in Kumintang Ibaba, Batangas City, Philippines where excellent typing skills are required for the role because the company requires an employee to meet the quota every day while preventing encoding mistakes in order to pass performance evaluation. This is the time when my motivation to become a professional transcriptionist has started.
+- I still maintain on improving my typing skills after my tenure in my first job in fact that this skill is commonly used in every computer related tasks to stay productive; bringing this amazing experience up to this date which I can apply on essential projects and business missions like company meetings or dealing with clients through taking down important notes for future use.
 - On the second half of my entire tenure in **[IntegrityNet Solutions & Services](https://integritynet.biz/)**, I was responsible on taking charge of daily morning meeting for the development team; transcribing each team member's progress from recorded conversation which will be submitted to the Chief Technology Officer's company email for compilation.
 - Last October 2021, I was a part of a productive team for a new **non-fungible token (NFT)** game project in online freelancing where I set an initiative to record the entire meeting, review recorded meeting, and finally transcribe minutes of a meeting which will be served as an official written record of the conversation.
 
@@ -65,7 +65,7 @@
 [Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
 - My job as a **Software Developer** has started on August 6, 2018 in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** located in Joseling Road, Batangas City, Philippines.
-- Developed the initial version of the **[Zumumu Website](https://zumumu.com/)** in red theme during the COVID-19 pandemic trend on year 2020 which is now enhanced by the next generation of developers applying a different business theme
+- Developed the initial version of the **[Zumumu Website](https://zumumu.com/)** in red theme during the COVID-19 pandemic on year 2020 which is now enhanced by the next generation of developers applying a different business theme
 - Implemented automation testing for **Zumumu** systems using **[Selenium framework](https://www.selenium.dev/)** to track and ensure that the system is 100% working after code changes before deploying in the live server
 - Developed three websites on year 2020 for my client's startup business
   - [Nix Daily](https://nixdaily.netlify.app/)
@@ -77,7 +77,7 @@
 [Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
 - My job as a technical writer actually started when I was sole responsible for developing a full documentation on a college thesis named **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)**.
-- My technical writer journey has continued in my real life work experience when the owner of **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework has decided to give full control to me on building the **[full documentation](https://uadmin-docs.readthedocs.io/en/latest/)**. The owner actually started the documentation project during the initial stage, then was brought up to me on the following updates. The documentation has been maintained under my control during my tenure in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** until version 0.7.4.
+- My technical writer journey has continued in my real life work experience when the owner of **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework has decided to give me full control on building the **[documentation](https://uadmin-docs.readthedocs.io/en/latest/)**. The owner actually started the documentation project during the initial stage, then was brought up to me on the following updates. The documentation has been maintained under my control during my tenure in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** until version 0.7.4.
 
 ### Creative Designer 🎬
 
@@ -124,9 +124,8 @@
 
 - The scope of the **Full Stack Developer** is very broad. **Software Development Life Cycle (SDLC)** is the framework that I am applying in my work ethic. **Design** is the third phase of SDLC where I can showcase my creativity with the following:
   - Develop software architectural patterns that I can discuss to the development team
-  - Software prototypes that I can present to my clients for approval before proceeding to the implementation stage where coding skills are often being used
-  - Presenting visual chart representations
-  - Promotional marketing advertisements that I can showcase to the public community
+  - Software prototypes that I can present to my clients for approval before proceeding to design-to-development handoff
+  - Promotional advertisements that I can showcase to the marketing team
 
 #### **Question #4: Documentation development is your primary duty as a technical writer. How is this beneficial in the business?**
 
@@ -143,7 +142,7 @@
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
 - **Machine Learning** is one of the most difficult field that should not be taken lightly without mastering the prerequisites first. **Full Stack Developer** role can be beneficial as a stepping stone in order to develop my business logic aligned with company's expectations and to identify what logical reasoning can be applied in order to develop Artificial Intelligence applications in the future.
-- The knowledge and skills required for **Creative Design** role has apparently distinct from a **Machine Learning Engineer**. If we take a look deeply, various crimes against humanity such as burglary, murder, and kidnapping are still a common global issue. CCTV is one of the best weapons to counter various crimes against humanity but not all CCTVs have built-in face recognition system. This is where computer vision libraries like **[OpenCV](https://opencv.org/)** come into existence so if I have some knowledge on **Creative Design** processes, it would be easier for me to relate once I start touching those computer vision libraries.
+- The knowledge and skills required for **Creative Designer** position has apparently distinct from a **Machine Learning Engineer**. If we take a look deeply, various crimes against humanity such as burglary, murder, and kidnapping are still a common global issue. CCTV is one of the best weapons to counter various crimes against humanity but not all CCTVs have built-in face recognition system. This is where computer vision libraries like **[OpenCV](https://opencv.org/)** come into existence so if I have some knowledge on **Creative Design** processes, it would be easier for me to relate once I start touching those computer vision libraries.
 - Staying myself as a **Machine Learning Engineer** for a long period of time is not guaranteed in the business world. I cannot put all my eggs in one basket because anything can happen in the business. Once it fails, there are no alternatives left to survive. As a general goal, client's demands are always a priority that should be fulfilled. That is, the possibility to work on an urgent client request outside the scope of a **Machine Learning Engineer** because this is how companies generate revenue to finance from a bank, attract investors to fund its operations and grow its business. Companies cannot remain in business without turning a profit so I pushed myself to strive harder on acquiring in-demand **Full Stack technologies** in order to remain myself as an effective role model in the workplace regardless of the situation to benefit both parties in the long run.
 
 #### **Question #6: What is your greatest fear in life, and why?**
@@ -170,7 +169,7 @@
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
-- **Work** is more important for me than the money. **Money** always follows based on my contributions to the community that has the potential to make the world a better place. There might be other positions available in the job market that can pay me well; if this is something that I am not happy to do with, the risks will outweigh more than the benefits that I will receive in the long run. Therefore, I would prefer staying in a job that I am interested in, a place that encourages personal growth, and a healthy community that promotes team collaboration and work-life balance.
+- **Work** is more important for me than the money. **Money** always follows based on my contributions to the community that has the potential to make the world a better place. There might be other positions available in the job market that can pay me well; if this is something that I am not happy to do with, the risks will outweigh more than the benefits that I will receive in the long run. Therefore, I would prefer staying in a job that I am interested in, a place that encourages personal and professional growth, and a healthy community that promotes team collaboration and work-life balance.
 
 #### **Question #10: Can you share something what you can offer in order for us to assess how qualified you are in the modern business world?**
 
