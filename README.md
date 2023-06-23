@@ -11,9 +11,9 @@
 [Back to Top](https://github.com/rn1hd#hi-there-)
 
 - I am a **Software Developer** with professional experience in web development, automation testing, and design thinking. I am currently focusing on acquiring new skills related to modern technologies dominant in the job market.
-  - **Machine Learning Engineer** is my dream job and my primary end goal because with the current trend in the market today, Artificial Intelligence is the technology of the future and being a part of the development team someday will contribute a lot to the society, observing how **[ChatGPT](https://openai.com/blog/chatgpt/)** becomes a trend on the headlines in the 1st quarter of 2023. Working in an Artificial Intelligence department is where my heart's at. Personally, I would love to develop a robotics system using Reinforcement Learning to prioritize unaccompanied people that no one will be with them for the rest of their lives. Instead of letting unaccompanied people feeling alone, a robot will take over as a last resort to spend some time on emotional support, home assistance, and personal care.
-  - **Full Stack Developer** is one of the promising goals for my career path in fact there are more open opportunities in the job market. Full Stack Developer allows me to become more versatile and boost my productivity at work for the development team, the client, the community, and other individuals involved in the business world. This role can be beneficial when there are dead-end situations in the business that should need to resolve as soon as possible.
-- Outside on the world of technology, I am also a professional **pianist** seeking to develop my technical knowledge and skills further with the likes of Classical, Ballad, and some iconic songs. I am using an upright piano with the brand of **[Lyric](https://www.lyric.ph/)** originated in the Philippines.
+  - **Machine Learning Engineer** is my dream job and my primary end goal because with the current trend in the market today, Artificial Intelligence is the technology of the future and being a part of the development team someday will contribute a lot to the society, observing how **[ChatGPT](https://openai.com/blog/chatgpt/)** becomes a trend on the headlines in the 1st quarter of 2023. Working in an Artificial Intelligence department is where I am passionate about. Personally, I would love to develop a robotics system using Reinforcement Learning to prioritize unaccompanied people that no one will be with them for the rest of their lives. Instead of letting unaccompanied people feel alone, a robot will take over as a last resort to spend some time on emotional support, home assistance, and personal care.
+  - **Full Stack Developer** is one of the promising goals for my career path, in fact there are more open opportunities in the job market. Full Stack Developer allows me to become more versatile and boost my productivity at work for the development team, the client, the community, and other individuals involved in the business world. This role can be beneficial when there are dead-end situations in the business that need to resolve as soon as possible.
+- Outside in the world of technology, I am also a professional **pianist** seeking to develop my technical knowledge and skills further with the likes of Classical, Ballad, and some iconic songs. I am using an upright piano with the brand of **[Lyric](https://www.lyric.ph/)** originated in the Philippines.
 - I have attached my resume [here](https://raw.githubusercontent.com/rn1hd/rn1hd/main/Resume/Resume.jpg).
 
 <br/>
@@ -33,9 +33,9 @@
 
 [Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
-- My motivation to become a pianist has started at 13 years old when my father bought an awesome, beginner-friendly electronic piano.
+- My motivation to become a pianist started at 13 years old when my father bought an awesome, beginner-friendly electronic piano.
 - I enrolled on a summer piano class together with my cousin in **Regis Benedictine Academy** located in Batangas City, Philippines at 15 years old.
-- With continuous learning and motivation, my piano skills develop over time ranging from ability to play nursery rhymes up to the iconic songs adaptation and various classical songs like Fur Elise composed by Beethoven.
+- With continuous learning and motivation, my piano skills developed over time ranging from ability to play nursery rhymes up to the iconic songs adaptation and various classical songs like Fur Elise composed by Beethoven.
 - I have experienced playing grand piano in **Pontefino Hotel** and **Robinsons Mall Lipa** since the last quarter of year 2022 as a visitor.
 
 ### Game Developer 🎮
@@ -43,7 +43,7 @@
 [Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
 - My position to become a game developer as a **Notecharter** has started at 16 years old when I saw a [Youtube video](https://www.youtube.com/watch?v=UHHHXRU1-T0) by a Malaysian developer who worked in O2Jam (AngelJam) private server discussing how to create musical notes that synchronizes to the beat of the song.
-- With continuous learning and motivation, I finally got a chance to become one of the contributors in the game market following senior's advices regarding the output of my works. I met some amazing developers and panelists around the world.
+- With continuous learning and motivation, I finally got a chance to become one of the contributors in the game market following senior's advice regarding the output of my works. I met some amazing developers and panelists from around the world.
 - I have experienced working in various O2Jam organizations maintaining the same position as a Notecharter:
   - AngelJam (2012-2013)
   - Palace of Sound (2014-2016)
@@ -56,7 +56,7 @@
 [Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
 - My first job in the real world as a **Data Analyst** has started on September 20, 2016 in **Accudata Inc.** located in Kumintang Ibaba, Batangas City, Philippines where excellent typing skills are required for the role because the company requires an employee to meet the quota every day while preventing encoding mistakes in order to pass performance evaluation. This is the time when my motivation to become a professional transcriptionist has started.
-- I still maintain on improving my typing skills after my tenure in my first job in fact that this skill is commonly used in every computer related tasks to stay productive; bringing this amazing experience up to this date which I can apply on essential projects and business missions like company meetings or dealing with clients through taking down important notes for future use.
+- I still maintain on improving my typing skills after my tenure in my first job in fact that this skill is commonly used in every computer related task to stay productive; bringing this amazing experience up to this date which I can apply on essential projects and business missions like company meetings or dealing with clients through taking down important notes for future use.
 - On the second half of my entire tenure in **[IntegrityNet Solutions & Services](https://integritynet.biz/)**, I was responsible on taking charge of daily morning meeting for the development team; transcribing each team member's progress from recorded conversation which will be submitted to the Chief Technology Officer's company email for compilation.
 - Last October 2021, I was a part of a productive team for a new **non-fungible token (NFT)** game project in online freelancing where I set an initiative to record the entire meeting, review recorded meeting, and finally transcribe minutes of a meeting which will be served as an official written record of the conversation.
 
@@ -76,8 +76,8 @@
 
 [Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
-- My job as a technical writer actually started when I was sole responsible for developing a full documentation on a college thesis named **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)**.
-- My technical writer journey has continued in my real life work experience when the owner of **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework has decided to give me full control on building the **[documentation](https://uadmin-docs.readthedocs.io/en/latest/)**. The owner actually started the documentation project during the initial stage, then was brought up to me on the following updates. The documentation has been maintained under my control during my tenure in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** until version 0.7.4.
+- My job as a technical writer started when I was solely responsible for developing a full documentation on a college thesis named **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)**.
+- My technical writer journey has continued in my real-life work experience when the owner of **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework has decided to give me full control on building the **[documentation](https://uadmin-docs.readthedocs.io/en/latest/)**. The owner started the documentation project during the initial stage, then was brought up to me on the following updates. The documentation has been maintained under my control during my tenure in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** until version 0.7.4.
 
 ### Creative Designer 🎬
 
@@ -95,10 +95,10 @@
 [Back to Top](https://github.com/rn1hd#hi-there-)
 
 - [Question #1](https://github.com/rn1hd#question-1-i-have-reviewed-your-resume-but-would-like-to-ask-you-to-explain-gaps-in-your-employment-history-tell-me-exactly-what-happened)
-- [Question #2](https://github.com/rn1hd#question-2-what-changes-have-been-made-since-you-resigned-in-your-previous-company)
+- [Question #2](https://github.com/rn1hd#question-2-what-changes-have-been-made-since-you-resigned-from-your-previous-company)
 - [Question #3](https://github.com/rn1hd#question-3-how-is-being-a-creative-designer-related-to-your-goal-as-a-full-stack-developer)
-- [Question #4](https://github.com/rn1hd#question-4-documentation-development-is-your-primary-duty-as-a-technical-writer-how-is-this-beneficial-in-the-business)
-- [Question #5](https://github.com/rn1hd#question-5-machine-learning-engineer-is-your-dream-job-and-this-is-where-your-hearts-at-so-i-suppose-you-should-start-learning-that-field-right-away-why-did-you-choose-to-learn-a-different-computer-field-first-that-is-distinct-from-your-primary-end-goal)
+- [Question #4](https://github.com/rn1hd#question-4-documentation-development-is-your-primary-duty-as-a-technical-writer-how-is-this-beneficial-in-business)
+- [Question #5](https://github.com/rn1hd#question-5-machine-learning-engineer-is-your-dream-job-and-this-is-where-you-are-passionate-about-so-i-suppose-you-should-start-learning-that-field-right-away-why-did-you-choose-to-learn-a-different-computer-field-first-that-is-distinct-from-your-primary-end-goal)
 - [Question #6](https://github.com/rn1hd#question-6-what-is-your-greatest-fear-in-life-and-why)
 - [Question #7](https://github.com/rn1hd#question-7-are-you-a-team-player)
 - [Question #8](https://github.com/rn1hd#question-8-what-do-you-consider-to-be-your-weaknesses)
@@ -111,11 +111,11 @@
 
 - While I greatly value the opportunity to work in my previous company to understand the real-world business operations, I **resigned** voluntarily to pursue other technologies for a better future within the **job market trends**, to accelerate my progress in acquiring needed technical skills, and to assess my knowledge by taking challenging activities aiming for an **industry level standard** during my gap period.
 
-#### **Question #2: What changes have been made since you resigned in your previous company?**
+#### **Question #2: What changes have been made since you resigned from your previous company?**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
-- During my gap period, I am self-assessing my knowledge and skills that I will carry in the future with at least **60% mastery** following the **Software Development Life Cycle (SDLC)** process in order to achieve client and team member satisfaction, promote business growth, and eventually granting an access to a higher salary and more extensive benefits package that I deserve. While there is still a possibility to face some tasks that I have never experienced before beyond my skill set which is what the **40% remaining** means, the amount of pressure to catch up my overall skills and performance output in the fast-paced environment will not be as severe as not doing self-preparation to future business challenges beforehand. **Adaptability** is crucial in today's workplace and **growth** happens by doing things you are unqualified to do; so I think a highly efficient employee is by giving **60-40** performance in the business environment that should be fulfilled quickly, consistently, and efficiently.
+- During my gap period, I am self-assessing my knowledge and skills that I will carry in the future with at least **60% mastery** following the **Software Development Life Cycle (SDLC)** process to achieve client and team member satisfaction, promote business growth, and eventually granting an access to a higher salary and more extensive benefits package that I deserve. While there is still a possibility to face some tasks that I have never experienced before beyond my skill set which is what the **40% remaining** means, the amount of pressure to catch up my overall skills and performance output in the fast-paced environment will not be as severe as not doing self-preparation to future business challenges beforehand. **Adaptability** is crucial in today's workplace and **growth** happens by doing things you are unqualified to do; so, I think a highly efficient employee is by giving **60-40** performance in the business environment that should be fulfilled quickly, consistently, and efficiently.
 - I also compete in **[TypeRacer](https://play.typeracer.com/)**, an online global typing competition with amazing world champions out there as part of bringing this skill I have learned from my first job to the next stage where I can apply on essential projects and business missions like company meetings or dealing with clients through taking down important notes for future use.
 
 #### **Question #3: How is being a creative designer related to your goal as a Full Stack Developer?**
@@ -127,36 +127,36 @@
   - Software prototypes that I can present to my clients for approval before proceeding to design-to-development handoff
   - Promotional advertisements that I can showcase to the marketing team
 
-#### **Question #4: Documentation development is your primary duty as a technical writer. How is this beneficial in the business?**
+#### **Question #4: Documentation development is your primary duty as a technical writer. How is this beneficial in business?**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
-- Based on my experience, **documentation development** remains insignificant because it does not contribute a lot to the economic growth especially during in the event of a crisis. As a highly efficient employee, my job should primarily focus on fulfilling the client's demands while remaining myself versatile regardless of the situation because this is how companies can generate revenue to grow its business. Documentation development only becomes essential when the current situation is pleasant. However, there are long term negative implications as the project scope increases over time with the following:
+- Based on my experience, **documentation development** remains insignificant because it does not contribute a lot to economic growth especially during the event of a crisis. My job as a highly efficient employee should primarily focus on fulfilling the client's demands while remaining versatile regardless of the situation because this is how companies can generate revenue to grow its business. Documentation development only becomes essential when the current situation is pleasant. However, there are long term negative implications as the project scope increases over time with the following:
   - More frustrations between the client, management, and the new and existing development team members who are just getting started to get familiar in the system especially if they cannot easily adapt in the fast-paced environment
   - More prone to accidents that can lead to a major conflict
   - Output not being delivered on time within the company's expectations will be more common.
   - Corporate training for the new and existing team members is **costly** for the management side especially for those who are primarily focused on **delivery-centered culture** just to keep all parties involved in the project satisfied with what an employee can offer to meet the client's needs efficiently. Written documentation and tutorial videos can serve as a **game changer** to guide the new and existing team members to become familiar in the company system independently; at the same time, to reduce the workload of the management where supervising their employees becomes minimal.
 
-#### **Question #5: Machine Learning Engineer is your dream job and this is where your heart's at so I suppose you should start learning that field right away. Why did you choose to learn a different computer field first that is distinct from your primary end goal?**
+#### **Question #5: Machine Learning Engineer is your dream job, and this is where you are passionate about so I suppose you should start learning that field right away. Why did you choose to learn a different computer field first that is distinct from your primary end goal?**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
-- **Machine Learning** is one of the most difficult field that should not be taken lightly without mastering the prerequisites first. **Full Stack Developer** role can be beneficial as a stepping stone in order to develop my business logic aligned with company's expectations and to identify what logical reasoning can be applied in order to develop Artificial Intelligence applications in the future.
-- The knowledge and skills required for **Creative Designer** position has apparently distinct from a **Machine Learning Engineer**. If we take a look deeply, various crimes against humanity such as burglary, murder, and kidnapping are still a common global issue. CCTV is one of the best weapons to counter various crimes against humanity but not all CCTVs have built-in face recognition system. This is where computer vision libraries like **[OpenCV](https://opencv.org/)** come into existence so if I have some knowledge on **Creative Design** processes, it would be easier for me to relate once I start touching those computer vision libraries.
-- Staying myself as a **Machine Learning Engineer** for a long period of time is not guaranteed in the business world. I cannot put all my eggs in one basket because anything can happen in the business. Once it fails, there are no alternatives left to survive. As a general goal, client's demands are always a priority that should be fulfilled. That is, the possibility to work on an urgent client request outside the scope of a **Machine Learning Engineer** because this is how companies generate revenue to finance from a bank, attract investors to fund its operations and grow its business. Companies cannot remain in business without turning a profit so I pushed myself to strive harder on acquiring in-demand **Full Stack technologies** in order to remain myself as an effective role model in the workplace regardless of the situation to benefit both parties in the long run.
+- **Machine Learning** is one of the most difficult fields that should not be taken lightly without mastering the prerequisites first. **Full Stack Developer** role can be beneficial as a steppingstone to develop my business logic aligned with company's expectations and to identify what logical reasoning can be applied to develop Artificial Intelligence applications in the future.
+- The knowledge and skills required for **Creative Designer** position is apparently distinct from a **Machine Learning Engineer**. If we look deeply, various crimes against humanity such as burglary, murder, and kidnapping are still a common global issue. CCTV is one of the best weapons to counter various crimes against humanity but not all CCTVs have built-in face recognition system. This is where computer vision libraries like **[OpenCV](https://opencv.org/)** come into existence so if I have some knowledge on **Creative Design** processes, it would be easier for me to relate once I start touching those computer vision libraries.
+- Staying myself as a **Machine Learning Engineer** for a long period of time is not guaranteed in the business world. I cannot put all my eggs in one basket because anything can happen in business. Once it fails, there are no alternatives left to survive. As a general goal, client's demands are always a priority that should be fulfilled. That is, the possibility to work on an urgent client request outside the scope of a **Machine Learning Engineer** because this is how companies generate revenue to finance from a bank, attract investors to fund its operations and grow its business. Companies cannot remain in business without turning a profit, so I pushed myself to strive harder on acquiring in-demand **Full Stack technologies** to remain myself as an effective role model in the workplace regardless of the situation to benefit both parties in the long run.
 
 #### **Question #6: What is your greatest fear in life, and why?**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
-- **Fear of failure**. Unable to fulfill my duties on time and getting prone to accidents make me feel discouraged because they have the potential to negatively affect my career, reputation, and stability depending on the severity of those actions. Damaged reputation usually takes a long time to rebuild and recover if the negative impact to the community is severe.
-- On the bright side of things, **failure** can be my best teacher. The true meaning of success usually comes from multiple failures. It is inevitable in life that I may encounter some tough challenges that I have never seen and experienced before, so my decision-making and problem-solving skills will put to the test to assess my versatility at work. Personal growth occurs once I step out of my comfort zone. When failure happens, I use this moment as an opportunity to identify where did I went wrong, what necessary steps should I apply in order to solve the issue, and what adjustments should be made to prevent committing the same mistake in the future.
+- **Fear of failure**. Unable to fulfill my duties on time and getting prone to accidents makes me feel discouraged because they have the potential to negatively affect my career, reputation, and stability depending on the severity of those actions. A damaged reputation usually takes a long time to rebuild and recover if the negative impact on the community is severe.
+- On the bright side of things, **failure** can be my best teacher. The true meaning of success usually comes from multiple failures. It is inevitable in life that I may encounter some tough challenges that I have never seen and experienced before, so my decision-making and problem-solving skills will be put to the test to assess my versatility at work. Personal growth occurs once I step out of my comfort zone. When failure happens, I use this moment as an opportunity to identify where did I went wrong, what necessary steps should I take to solve the issue, and what adjustments should be made to prevent committing the same mistake in the future.
 
 #### **Question #7: Are you a team player?**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
-- It all depends on the **compatibility** of my skill set, passion, and assigned job responsibilities. As long as I see a **good future** of a role I was assigned to within my **career goals**, I am willing to give a hundred percent of my time and effort to showcase what I can bring to the team in order to achieve the business goal on time and what other contributions I can bring to the table.
+- It all depends on the **compatibility** of my skill set, passion, and assigned job responsibilities. As long as I see a **good future** of a role that I was assigned to within my **career goals**, I am willing to give a hundred percent of my time and effort to showcase what I can bring to the team in order to achieve the business goal on time and what other contributions I can bring to the table.
 
 #### **Question #8: What do you consider to be your weaknesses?**
 
@@ -165,11 +165,11 @@
 - There are instances where I cannot **follow simple instructions** properly which can annoy some individuals. This weakness gives me an initiative why taking down notes in almost every meetings, documentation development, and even considering myself getting familiar on Full Stack Development beforehand becomes essential.
 - **Verbal communication skills** are one of the most important job requirements that I need to practice regularly. My strategies to get there are making video presentations sharing my progress or perspective, taking listening exercises, and getting myself exposed to a productive community when this opportunity arrives.
 
-#### **Question #9: Which is more important to you, the money or the work?**
+#### **Question #9: Which is more important to you: the money, or the work?**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
-- **Work** is more important for me than the money. **Money** always follows based on my contributions to the community that has the potential to make the world a better place. There might be other positions available in the job market that can pay me well; if this is something that I am not happy to do with, the risks will outweigh more than the benefits that I will receive in the long run. Therefore, I would prefer staying in a job that I am interested in, a place that encourages personal and professional growth, and a healthy community that promotes team collaboration and work-life balance.
+- **Work** is more important for me than money. **Money** always follows based on my contributions to the community that has the potential to make the world a better place. There might be other positions available in the job market that can pay me well; if this is something that I am not happy to do with, the risks will outweigh more than the benefits that I will receive in the long run. Therefore, I would prefer staying in a job that I am interested in, a place that encourages personal and professional growth, and a healthy community that promotes team collaboration and work-life balance.
 
 #### **Question #10: Can you share something what you can offer in order for us to assess how qualified you are in the modern business world?**
 
