@@ -49,16 +49,13 @@
   - Palace of Sound (2014-2016)
   - O2Jam V3 (2014-2018)
   - iBMS 4th Age (2015)
-- My tenure has lasted up to 4 years between 2012 and 2018.
 
 ### Transcriptionist ⌨
 
 [Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
 - My first job in the real world as a **Data Analyst** has started on September 20, 2016 in **Accudata Inc.** located in Kumintang Ibaba, Batangas City, Philippines where excellent typing skills are required for the role because the company requires an employee to meet the quota every day while preventing encoding mistakes in order to pass performance evaluation. This is the time when my motivation to become a professional transcriptionist has started.
-- I still maintain on improving my typing skills after my tenure in my first job in fact that this skill is commonly used in every computer related task to stay productive; bringing this amazing experience up to this date which I can apply on essential projects and business missions like company meetings or dealing with clients through taking down important notes for future use.
 - On the second half of my entire tenure in **[IntegrityNet Solutions & Services](https://integritynet.biz/)**, I was responsible on taking charge of daily morning meeting for the development team; transcribing each team member's progress from recorded conversation which will be submitted to the Chief Technology Officer's company email for compilation.
-- Last October 2021, I was a part of a productive team for a new **non-fungible token (NFT)** game project in online freelancing where I set an initiative to record the entire meeting, review recorded meeting, and finally transcribe minutes of a meeting which will be served as an official written record of the conversation.
 
 ### Software Developer 🖥
 
@@ -66,7 +63,7 @@
 
 - My job as a **Software Developer** has started on August 6, 2018 in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** located in Joseling Road, Batangas City, Philippines.
 - Developed the initial version of the **[Zumumu Website](https://zumumu.com/)** in red theme during the COVID-19 pandemic on year 2020 which is now enhanced by the next generation of developers applying a different business theme
-- Implemented automation testing for **Zumumu** systems using **[Selenium framework](https://www.selenium.dev/)** to track and ensure that the system is 100% working after code changes before deploying in the live server
+- Implemented automation testing for **Zumumu** applications using **[Selenium framework](https://www.selenium.dev/)** to track and ensure that the system is 100% working after code changes before deploying in the live server
 - Developed three websites on year 2020 for my client's startup business
   - [Nix Daily](https://nixdaily.netlify.app/)
   - [The Ones Design](https://theonesdesign.netlify.app/)
@@ -86,7 +83,7 @@
 - My job as a **Creative Designer** has started when I was working in various O2Jam organizations between year 2012 and 2015 with the following responsibilities:
   - Loading images for some of my notechart projects using **Adobe Photoshop**
   - 3 difficulty notechart preview video presentations as a sneak peek on what to expect in the next month's song update using **[Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/)**
-- This field is where I am currently working on right now; enhancing my technical knowledge and skills through taking online courses until I see myself being able to meet the industry level standard as part of my learning journey: a road to become a professional **Full Stack Developer**.
+- This field is where I am currently working on right now; enhancing my technical knowledge and skills until I see myself being able to meet the industry level standard as part of my learning journey: a road to become a professional **Full Stack Developer**.
 
 <br/>
 
