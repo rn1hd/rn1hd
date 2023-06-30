@@ -128,7 +128,7 @@
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
-- Based on my experience, **documentation development** remains insignificant because it does not contribute a lot to economic growth especially during the event of a crisis. My job as a highly efficient employee should primarily focus on fulfilling the client's demands while remaining versatile regardless of the situation because this is how companies can generate revenue to grow its business. Documentation development only becomes essential when the current situation is pleasant. However, there are long term negative implications as the project scope increases over time with the following:
+- Based on my experience, **documentation development** remains insignificant because it does not contribute a lot to economic growth especially during the event of a crisis. My job as a highly efficient employee should primarily focus on fulfilling the client's demands while remaining versatile regardless of the situation because this is how companies can generate revenue to grow their business. Documentation development only becomes essential when the current situation is pleasant. However, there are long term negative implications as the project scope increases over time with the following:
   - More frustrations between the client, management, and the new and existing development team members
   - Output not being delivered on time within the company's expectations will be more common.
   - Corporate training for the new and existing team members is **costly** for the management side especially for those who are primarily focused on **delivery-centered culture** just to keep all parties involved in the project satisfied with what an employee can offer to meet the client's needs efficiently. Written documentation and tutorial videos can serve as a **game changer** to guide the new and existing team members to become familiar in the company system independently; at the same time, to reduce the workload of the management where supervising their employees becomes minimal.
@@ -151,7 +151,7 @@
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
-- It all depends on the **compatibility** of my skill set, passion, and assigned job responsibilities. As long as I see a **good future** of a role that I was assigned to within my **career goals**, I am willing to give a hundred percent of my time and effort to showcase what I can bring to the team in order to achieve the business goal on time and what other contributions I can bring to the table.
+- It all depends on the **compatibility** of my skill set, passion, and assigned job responsibilities. If I see a **good future** of a role that I was assigned to within my **career goals**, I am willing to give a hundred percent of my time and effort to showcase what I can bring to the team to achieve the business goal on time and what other contributions I can bring to the table.
 
 #### **Question #8: What do you consider to be your weaknesses?**
 
