@@ -236,4 +236,7 @@
   <a href="https://monkeytype.com/profile/rn1hd" target="_blank" rel="noreferrer">
     <img src="assets/badge/Monkeytype.png" height="28" alt="TypeRacer" />
   </a>
+  <a href="https://typer.io/u/rn1hd" target="_blank" rel="noreferrer">
+    <img src="assets/badge/Typer.io.png" height="28" alt="Typer.io" />
+  </a>
 </div>
