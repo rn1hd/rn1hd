@@ -61,6 +61,7 @@
 
 [Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
+- When I was in college, we developed **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)**. My oral thesis research presentation went well in **Hong Kong** with the help of my teammates and university professors.
 - My job as a **Software Developer** has started on August 6, 2018, in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** located in Joseling Road, Batangas City, Philippines.
 - Developed the initial version of the **[Zumumu Website](https://zumumu.com/)** during the COVID-19 pandemic in the year 2020.
 - Implemented automation framework for **Zumumu** applications using **[Selenium](https://www.selenium.dev/)** to track and ensure that the system is 100% working after code changes before deploying in the live server.
@@ -93,16 +94,33 @@
 
 [Back to Top](https://github.com/rn1hd#hi-there-)
 
+- [Tell me about yourself.](https://github.com/rn1hd#tell-me-about-yourself)
+- [Walk me through your resume.](https://github.com/rn1hd#walk-me-through-your-resume)
 - [Why is there a gap in your employment?](https://github.com/rn1hd#why-is-there-a-gap-in-your-employment)
 - [What changes have been made since you resigned?](https://github.com/rn1hd#what-changes-have-been-made-since-you-resigned)
 - [How is being a creative designer related to your goal as a Full Stack Developer?](https://github.com/rn1hd#how-is-being-a-creative-designer-related-to-your-goal-as-a-full-stack-developer)
 - [How is documentation development beneficial in business?](https://github.com/rn1hd#how-is-documentation-development-beneficial-in-business)
 - [Why are you focusing on something different from Machine Learning Engineer?](https://github.com/rn1hd#why-are-you-focusing-on-something-different-from-machine-learning-engineer)
-- [What is your greatest fear in life, and why?](https://github.com/rn1hd#what-is-your-greatest-fear-in-life-and-why)
+- [What is your greatest fear and why?](https://github.com/rn1hd#what-is-your-greatest-fear-and-why)
+- [What is your ideal company?](https://github.com/rn1hd#what-is-your-ideal-company)
+- [What are you looking for in a new position?](https://github.com/rn1hd#what-are-you-looking-for-in-a-new-position)
+- [Why do you want to work at this company?](https://github.com/rn1hd#why-do-you-want-to-work-at-this-company)
+- [Why do you want this job?](https://github.com/rn1hd#why-do-you-want-this-job)
 - [Are you a team player?](https://github.com/rn1hd#are-you-a-team-player)
+- [What are your greatest strengths?](https://github.com/rn1hd#what-are-your-greatest-strengths)
 - [What do you consider to be your weaknesses?](https://github.com/rn1hd#what-do-you-consider-to-be-your-weaknesses)
 - [Which is more important to you: the money, or the work?](https://github.com/rn1hd#which-is-more-important-to-you-the-money-or-the-work)
-- [Do you consider yourself qualified?](https://github.com/rn1hd#do-you-consider-yourself-qualified)
+- [Do you consider yourself successful?](https://github.com/rn1hd#do-you-consider-yourself-successful)
+
+#### **Tell me about yourself.**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
+- I am currently a **Creative Designer** in freelancing, where I handle our local customers. Before that, I worked in **IntegrityNet Solutions & Services** with exposure to web development, automation testing, and design thinking for our business clients. While I am working in progress, I would love to take the chance to become a part of a growing team in **XYZ Company**.
+
+#### **Walk me through your resume.**
+
+- See **[Career Journey](https://github.com/rn1hd#-career-journey)** for reference.
 
 #### **Why is there a gap in your employment?**
 
@@ -138,7 +156,23 @@
 
 - **Machine Learning** is one of the most difficult fields that should not be taken lightly without mastering the prerequisites first. The **Full Stack Developer** role can be beneficial as a steppingstone to identify what business logic can be applied to develop Artificial Intelligence applications in the future.
 
-#### **What is your greatest fear in life, and why?**
+#### **What's your ideal company?**
+
+- An ideal company for me is a place that encourages personal and professional growth, promotes team collaboration and work-life balance.
+
+#### **What are you looking for in a new position?**
+
+- I am looking for a position where I can continue to exercise my **creative design skills**. Another thing is the chance to showcase my projects in your company. I am motivated by being able to see the impact of my work on other people, so your suggestions for improvement are important to determine what to expect for this position.
+
+#### **Why do you want to work at this company?**
+
+- **XYZ Company** is one of the highest-rated software development talent providers to companies worldwide. It has an amazing work culture, world class clients and projects, flexible work schedule, as well as career growth opportunities.
+
+#### **Why do you want this job?**
+
+- **Software developer** is the core contributor to business’ success, seeing how applications facilitate the user’s task instead of resorting to traditional approach to reach their goal. **XYZ Company** offers up-to-date technologies, so I want to be a part of it.
+
+#### **What is your greatest fear and why?**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
@@ -149,6 +183,10 @@
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
 - It all depends on the **compatibility** of my skills, passion, and job responsibilities. If I see a **good future** of a role that I was assigned to within my **career goals**, I am willing to give a hundred percent of my time and effort to showcase what I can bring to the team to achieve the business goal on time and what other contributions I can bring to the table.
+
+#### **What are your greatest strengths?**
+
+- It is my **dedication** to reduce complexity of an entire system through documentation, automation testing, improve code quality, and design features based on a big picture to prevent **technical debt**. Anything else will become easier to fulfill once the primary goal has been achieved.
 
 #### **What do you consider to be your weaknesses?**
 
@@ -163,7 +201,7 @@
 
 - **Work** is more important for me than money. There might be other positions available that can pay me well, but the risks outweigh more than the benefits which affect my well-being. Therefore, I would prefer staying in a job where I can see personal and professional advancement.
 
-#### **Do you consider yourself qualified?**
+#### **Do you consider yourself successful?**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
