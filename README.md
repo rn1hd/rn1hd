@@ -156,7 +156,7 @@
 
 - **Machine Learning** is one of the most difficult fields that should not be taken lightly without mastering the prerequisites first. The **Full Stack Developer** role can be beneficial as a steppingstone to identify what business logic can be applied to develop Artificial Intelligence applications in the future.
 
-#### **What's your ideal company?**
+#### **What is your ideal company?**
 
 - An ideal company for me is a place that encourages personal and professional growth, promotes team collaboration and work-life balance.
 
