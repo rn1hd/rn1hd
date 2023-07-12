@@ -120,6 +120,8 @@
 
 #### **Walk me through your resume.**
 
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
 - See **[Career Journey](https://github.com/rn1hd#-career-journey)** for reference.
 
 #### **Why is there a gap in your employment?**
@@ -158,17 +160,25 @@
 
 #### **What is your ideal company?**
 
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
 - An ideal company for me is a place that encourages personal and professional growth, promotes team collaboration and work-life balance.
 
 #### **What are you looking for in a new position?**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
 - I am looking for a position where I can continue to exercise my **creative design skills**. Another thing is the chance to showcase my projects in your company. I am motivated by being able to see the impact of my work on other people, so your suggestions for improvement are important to determine what to expect for this position.
 
 #### **Why do you want to work at this company?**
 
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
 - **XYZ Company** is one of the highest-rated software development talent providers to companies worldwide. It has an amazing work culture, world class clients and projects, flexible work schedule, as well as career growth opportunities.
 
 #### **Why do you want this job?**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
 - **Software developer** is the core contributor to business’ success, seeing how applications facilitate the user’s task instead of resorting to traditional approach to reach their goal. **XYZ Company** offers up-to-date technologies, so I want to be a part of it.
 
@@ -185,6 +195,8 @@
 - It all depends on the **compatibility** of my skills, passion, and job responsibilities. If I see a **good future** of a role that I was assigned to within my **career goals**, I am willing to give a hundred percent of my time and effort to showcase what I can bring to the team to achieve the business goal on time and what other contributions I can bring to the table.
 
 #### **What are your greatest strengths?**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
 - It is my **dedication** to reduce complexity of an entire system through documentation, automation testing, improve code quality, and design features based on a big picture to prevent **technical debt**. Anything else will become easier to fulfill once the primary goal has been achieved.
 
