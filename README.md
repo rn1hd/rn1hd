@@ -142,7 +142,7 @@
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
 - The scope of the **Full Stack Developer** is very broad. **Design** is the third phase of **Software Development Life Cycle (SDLC)** where I can present the following:
-  - Sitemaps and User Flows with client and development team coordination
+  - Sitemaps, user flows, wireframes, and flowcharts with client and development team coordination
   - Software prototypes that I can present to my clients for approval.
   - Promotional advertisements that I can showcase to the public community.
 
