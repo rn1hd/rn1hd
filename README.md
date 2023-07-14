@@ -243,6 +243,10 @@
 
 - It all depends on the **compatibility** of my skills, passion, and job responsibilities. If I see a **good future** of a role that I was assigned to within my **career goals**, I am willing to give a hundred percent of my time and effort to showcase what I can bring to the team to achieve the business goal on time and what other contributions I can bring to the table.
 
+#### **What makes you unique?**
+
+- I really enjoy **learning new things** and regularly applying my knowledge into a practical setting using best practices as self-preparation for more challenging real-world business problems.
+
 #### **What is your greatest fear and why?**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
