@@ -204,7 +204,7 @@
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
-- I see that one of your company services promotes physical and mental health awareness. Both of us share the same value as I am strictly abiding to self-control best practices even resorting to measuring food intake. Living a long life is my dream, so your company is the best place I want to be a part of.
+- I see that one of your company services promotes **physical and mental health awareness**. Both of us share the same value as I am strictly abiding to self-control best practices even resorting to measuring food intake. Living a long life is my dream, so your company is the best place I want to be a part of.
 
 #### **What can you bring to the company?**
 
