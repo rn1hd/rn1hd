@@ -245,6 +245,8 @@
 
 #### **What makes you unique?**
 
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
 - I really enjoy **learning new things** and regularly applying my knowledge into a practical setting using best practices as self-preparation for more challenging real-world business problems.
 
 #### **What is your greatest fear and why?**
