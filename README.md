@@ -178,7 +178,7 @@
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
-- The most satisfying part about a job is when I manage to **make complicated things simple** through documentation and improving code quality of an entire system. This approach will not only benefit me, but also all members involved in the project to feel satisfied which can eventually lead to consistent business growth.
+- The most satisfying part about a job is when I manage to **make complicated things simple** through documentation, automation testing, and improving code quality of an entire system. This approach will not only benefit me, but also all members involved in the project to feel satisfied which can eventually lead to consistent business growth.
 
 #### **What is your ideal company?**
 
