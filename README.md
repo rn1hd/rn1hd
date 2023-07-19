@@ -144,8 +144,9 @@
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
-- I acquired [creative design skills](https://github.com/rn1hd#creative-design), currently exercising them in my upcoming personal projects.
+- I acquired **[creative design skills](https://github.com/rn1hd#creative-design)**, currently exercising them in my upcoming personal projects.
 - My typing skills improved through competing in **[TypeRacer](https://data.typeracer.com/pit/profile?user=rnk1hd)** that can be beneficial to quickly take down notes during business meetings for future use.
+- I continue my **Pianist journey** through playing more songs that I personally prefer.
 
 #### **What did you like least about your last job?**
 
