@@ -94,6 +94,14 @@
 
 [Back to Top](https://github.com/rn1hd#hi-there-)
 
+- [Basic Interview Questions](https://github.com/rn1hd#basic-interview-questions)
+- [Behavioral Interview Questions](https://github.com/rn1hd#behavioral-interview-questions)
+- [More Questions About You](https://github.com/rn1hd#more-questions-about-you)
+
+### **Basic Interview Questions**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
 - [Tell me about yourself.](https://github.com/rn1hd#tell-me-about-yourself)
 - [Walk me through your resume.](https://github.com/rn1hd#walk-me-through-your-resume)
 - [Why is there a gap in your employment?](https://github.com/rn1hd#why-is-there-a-gap-in-your-employment)
@@ -112,37 +120,28 @@
 - [Why do you want this job?](https://github.com/rn1hd#why-do-you-want-this-job)
 - [What are your greatest strengths?](https://github.com/rn1hd#what-are-your-greatest-strengths)
 - [What do you consider to be your weaknesses?](https://github.com/rn1hd#what-do-you-consider-to-be-your-weaknesses)
-- [Are you a team player?](https://github.com/rn1hd#are-you-a-team-player)
-- [What makes you unique?](https://github.com/rn1hd#what-makes-you-unique)
-- [What is your greatest fear and why?](https://github.com/rn1hd#what-is-your-greatest-fear-and-why)
-- [Where do you see yourself in 5 years?](https://github.com/rn1hd#where-do-you-see-yourself-in-5-years)
-- [Which is more important to you: the money, or the work?](https://github.com/rn1hd#which-is-more-important-to-you-the-money-or-the-work)
-- [Do you consider yourself successful?](https://github.com/rn1hd#do-you-consider-yourself-successful)
-- [When can you start?](https://github.com/rn1hd#when-can-you-start)
-- [Are you willing to relocate?](https://github.com/rn1hd#are-you-willing-to-relocate)
-- [Is there anything else you would like us to know?](https://github.com/rn1hd#is-there-anything-else-you-would-like-us-to-know)
 
 #### **Tell me about yourself.**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
 
 - I am currently a **Creative Designer** taking charge of promotional signboards to increase customer awareness. Before that, I worked in **IntegrityNet Solutions & Services** with exposure to web development, automation testing, and design thinking for our business clients. While I am working in progress, I would love to take the chance to become a part of a growing team in **XYZ Company**.
 
 #### **Walk me through your resume.**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
 
 - See **[Career Journey](https://github.com/rn1hd#-career-journey)** for reference.
 
 #### **Why is there a gap in your employment?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
 
 - I **resigned** voluntarily to pursue other technologies for a better future within the **job market trends** and exercise my overall skills aiming for an **industry level standard**.
 
 #### **What changes have been made since you resigned?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
 
 - I acquired **[creative design skills](https://github.com/rn1hd#creative-design)**, currently exercising them in my upcoming personal projects.
 - My typing skills improved through competing in **[TypeRacer](https://data.typeracer.com/pit/profile?user=rnk1hd)** that can be beneficial to quickly take down notes during business meetings for future use.
@@ -150,13 +149,13 @@
 
 #### **What did you like least about your last job?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
 
 - In my last job, I was responsible for maintaining a company proprietary web framework from documentation up to regularly using it in software development projects. I am looking forward to a job that allows me to use in-demand, up-to-date technologies with large community support. That is one of the things that most excited me about your **Software Developer** position.
 
 #### **How is being a creative designer related to your goal as a Full Stack Developer?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
 
 - The scope of the **Full Stack Developer** is very broad. **Design** is the third phase of **Software Development Life Cycle (SDLC)** where I can present the following:
   - Sitemaps, user flows, wireframes, and flowcharts with client and development team coordination
@@ -165,31 +164,31 @@
 
 #### **How is documentation development beneficial in business?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
 
 - Well-organized, easy to understand documentation prevents **technical debt** resulting in **company politics** when something goes out of control. Code refactoring is now easier with the help of documentation and even resorting to a full rewrite of an entire system, coordinating with a client again during the planning stage is now at the bare minimum.
 
 #### **Why are you focusing on something different from Machine Learning Engineer?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
 
 - **Machine Learning** is one of the most difficult fields that should not be taken lightly without mastering the prerequisites first. The **Full Stack Developer** role can be beneficial as a steppingstone to identify what business logic can be applied to develop Artificial Intelligence applications in the future.
 
 #### **When were you most satisfied in your job?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
 
 - The most satisfying part about a job is when I manage to **make complicated things simple** through documentation, automation testing, and improving code quality of an entire system. This approach will not only benefit me, but also all members involved in the project to feel satisfied which can eventually lead to consistent business growth.
 
 #### **What is your ideal company?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
 
 - An ideal company for me is a place that encourages personal and professional growth, promotes team collaboration and work-life balance.
 
 #### **How did you hear about this position?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
 
 - I was excited to find out about this position from:
   - My friend who works in <u>[department]</u>
@@ -197,98 +196,159 @@
 
 #### **What are you looking for in a new position?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
 
 - I am looking for a position where I can continue to exercise my **software development skills**. Another thing is the chance to showcase my projects in your company. I am motivated by being able to see the impact of my work on other people, so your suggestions for improvement are important to determine what to expect for this position.
 
 #### **What do you know about our company?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
 
 - I see that one of your company services promotes **physical and mental health awareness**. Both of us share the same value as I am strictly abiding to self-control best practices even resorting to measuring food intake. Living a long life is my dream, so your company is the best place I want to be a part of.
 
 #### **What can you bring to the company?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
 
 - My **technical skills** and **portfolio**. When something goes out of control, I will use my technical skills to make complicated things simple through documentation and code-efficiency. If the project is just getting started, I will showcase my portfolio as a reference to develop sitemaps, user flows, wireframes, and prototypes to ensure everything is according to the plan.
 
 #### **Why do you want to work at this company?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
 
 - **XYZ Company** is one of the highest-rated software development talent providers to companies worldwide. It has an amazing work culture, world class clients and projects, flexible work schedule, as well as career growth opportunities.
 
 #### **Why do you want this job?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
 
 - **Software developer** is the core contributor to business’ success, seeing how applications facilitate the user’s task instead of resorting to traditional approach to reach their goal. **XYZ Company** offers up-to-date technologies, so I want to be a part of it.
 
 #### **What are your greatest strengths?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
 
 - It is my **dedication** to reduce complexity of an entire system through documentation, automation testing, improve code quality, and design features based on a big picture to prevent **technical debt**. Anything else will become easier to fulfill once the primary goal has been achieved.
 
 #### **What do you consider to be your weaknesses?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
 
 - There are instances where I cannot **follow simple instructions** properly. This weakness gives me an initiative why taking down notes in almost every meeting, reliance on documentation, and mastering the role beforehand becomes essential.
 - **Verbal communication skills** are what I also regularly practice through making video presentations, taking listening exercises, and getting myself exposed to a productive community when this opportunity arrives.
 
-#### **Are you a team player?**
+### **Behavioral Interview Questions**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
+- [What was the last project you led, and what was its outcome?](https://github.com/rn1hd#what-was-the-last-project-you-led-and-what-was-its-outcome)
+- [Give me an example of a time that you felt you went above and beyond the call of duty at work.](https://github.com/rn1hd#give-me-an-example-of-a-time-that-you-felt-you-went-above-and-beyond-the-call-of-duty-at-work)
+- [Can you describe a time when your work was criticized?](https://github.com/rn1hd#can-you-describe-a-time-when-your-work-was-criticized)
+- [Have you ever been on a team where someone was not pulling their own weight? How did you handle it?](https://github.com/rn1hd#have-you-ever-been-on-a-team-where-someone-was-not-pulling-their-own-weight-how-did-you-handle-it)
+- [Tell me about a time when you had to give someone difficult feedback. How did you handle it?](https://github.com/rn1hd#tell-me-about-a-time-when-you-had-to-give-someone-difficult-feedback-how-did-you-handle-it)
+- [What is your greatest fear and why?](https://github.com/rn1hd#what-is-your-greatest-fear-and-why)
+- [What is your greatest failure, and what did you learn from it?](https://github.com/rn1hd#what-is-your-greatest-failure-and-what-did-you-learn-from-it)
+
+#### **What was the last project you led, and what was its outcome?**
+
+[Back to Top (Behavioral Interview Questions)](https://github.com/rn1hd#behavioral-interview-questions)
+
+- **Zumumu** is the last project I led. It remains maintainable with the help of documentation, automation testing, and improving code quality.
+
+#### **Give me an example of a time that you felt you went above and beyond the call of duty at work**
+
+[Back to Top (Behavioral Interview Questions)](https://github.com/rn1hd#behavioral-interview-questions)
+
+- When I need to simplify the project as much as I can if my productivity and ability to manage workload is under threat.
+
+#### **Can you describe a time when your work was criticized?**
+
+[Back to Top (Behavioral Interview Questions)](https://github.com/rn1hd#behavioral-interview-questions)
+
+- **Yes**. When the management sees that I cannot deliver high quality output within the deadline, performs a task that is not a priority, and commits unintentional accidents.
+
+#### **Have you ever been on a team where someone was not pulling their own weight? How did you handle it?**
+
+[Back to Top (Behavioral Interview Questions)](https://github.com/rn1hd#behavioral-interview-questions)
+
+- **Yes**, especially when technical debt becomes out of control. I collaborated with a software developer for an order management system. It did not go well when I did not address his concerns properly while trying to adapt complexity at the same time. This is when I started to eliminate unnecessary codes until I felt comfortable maintaining the project.
+
+#### **Tell me about a time when you had to give someone difficult feedback. How did you handle it?**
+
+[Back to Top (Behavioral Interview Questions)](https://github.com/rn1hd#behavioral-interview-questions)
+
+- I deliver difficult feedback in a **private area** within the scope of work that explains how his actions can be detrimental to the company’s operations, as well as giving some recommendations for improvement where applicable.
+
+#### **What is your greatest fear and why?**
+
+[Back to Top (Behavioral Interview Questions)](https://github.com/rn1hd#behavioral-interview-questions)
+
+- **Fear of failure**. Unable to meet the company standards is uncomfortable. On the bright side of things, **failure** can be my best teacher. When it happens, I use this moment as an opportunity to identify what went wrong, what strategies should I take to solve the issue, and what adjustments should be made to prevent committing the same mistake in the future.
+
+#### **What is your greatest failure, and what did you learn from it?**
+
+[Back to Top (Behavioral Interview Questions)](https://github.com/rn1hd#behavioral-interview-questions)
+
+- My greatest failure is when an order management system’s status has reached the lowest point ever, resulting in a full rewrite under a different name. I learned that being a developer is not only about coding but also planning, analysis, design, testing & integration, and maintenance under **Software Development Life Cycle (SDLC)**.
+
+### **More Questions About You**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
+- [Are you a team player?](https://github.com/rn1hd#are-you-a-team-player)
+- [What makes you unique?](https://github.com/rn1hd#what-makes-you-unique)
+- [Where do you see yourself in 5 years?](https://github.com/rn1hd#where-do-you-see-yourself-in-5-years)
+- [Which is more important to you: the money, or the work?](https://github.com/rn1hd#which-is-more-important-to-you-the-money-or-the-work)
+- [Do you consider yourself successful?](https://github.com/rn1hd#do-you-consider-yourself-successful)
+- [When can you start?](https://github.com/rn1hd#when-can-you-start)
+- [Are you willing to relocate?](https://github.com/rn1hd#are-you-willing-to-relocate)
+- [Is there anything else you would like us to know?](https://github.com/rn1hd#is-there-anything-else-you-would-like-us-to-know)
+
+#### **Are you a team player?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
 - It all depends on the **compatibility** of my skills, passion, and job responsibilities. If I see a **good future** of a role that I was assigned to within my **career goals**, I am willing to give a hundred percent of my time and effort to showcase what I can bring to the team to achieve the business goal on time and what other contributions I can bring to the table.
 
 #### **What makes you unique?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
 - I really enjoy **learning new things** and regularly applying my knowledge into a practical setting using best practices as self-preparation for more challenging real-world business problems.
 
-#### **What is your greatest fear and why?**
-
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
-
-- **Fear of failure**. Unable to meet the company standards is uncomfortable. On the bright side of things, **failure** can be my best teacher. When it happens, I use this moment as an opportunity to identify what went wrong, what strategies should I take to solve the issue, and what adjustments should be made to prevent committing the same mistake in the future.
-
 #### **Where do you see yourself in 5 years?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
 - In five years, I would like to be a **Machine Learning Engineer** where I can see long-term career advancement from where I am now, as well as improving my communication skills further. Being proficient in both technical and interpersonal skills could help me get a leadership position and expand my duties.
 
 #### **Which is more important to you: the money, or the work?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
 - **Work** is more important for me than money. There might be other positions available that can pay me well, but the risks outweigh more than the benefits which affect my well-being. Therefore, I would prefer staying in a job where I can see personal and professional advancement.
 
 #### **Do you consider yourself successful?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
 - Yes, when it comes to how I can get to the leaderboard along with other amazing world champions in **[TypeRacer](https://data.typeracer.com/pit/profile?user=rnk1hd)** (see Awards for reference). I am always striving to do better through continuous learning and efficiency planning in other areas as well, so being successful is not just my personal achievement but also the positive impact of my efforts on the community.
 
 #### **When can you start?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
 - I can start **immediately** if I start with a remote work setup first until I find a safe place to rent near your company location that is within my means.
 
 #### **Are you willing to relocate?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
 - **Yes**. I just need to ensure that a place to rent is safe and affordable, as well as how easy it is to commute.
 
 #### **Is there anything else you would like us to know?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
 - **Yes**. In case I have created new accomplishments to showcase in the upcoming days that resemble the **Software Developer** requirements your company is looking for; I will keep you posted while my application process is pending.
 
