@@ -36,7 +36,7 @@
 - My motivation to become a pianist started at 13 years old when my father bought an electronic piano.
 - I enrolled on a summer piano class in **Regis Benedictine Academy** located in Batangas City, Philippines at 15 years old.
 - With continuous learning and motivation, my piano skills developed over time ranging from ability to play nursery rhymes up to iconic songs adaptation and classical music.
-- I have experienced playing grand piano in **Pontefino Hotel** and **Robinsons Mall Lipa** since the last quarter of the year 2022.
+- I have experienced playing grand piano in **[Pontefino Hotel](https://www.pontefinohotel.com/)** and **[Robinsons Mall](https://robinsonsmalls.com/)** Lipa branch since the last quarter of the year 2022.
 
 ### Game Developer 🎮
 
@@ -94,11 +94,11 @@
 
 [Back to Top](https://github.com/rn1hd#hi-there-)
 
-- [Basic Interview Questions](https://github.com/rn1hd#basic-interview-questions)
-- [Behavioral Interview Questions](https://github.com/rn1hd#behavioral-interview-questions)
+- [Basic Questions](https://github.com/rn1hd#basic-questions)
+- [Behavioral Questions](https://github.com/rn1hd#behavioral-questions)
 - [More Questions About You](https://github.com/rn1hd#more-questions-about-you)
 
-### **Basic Interview Questions**
+### **Basic Questions**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
@@ -123,25 +123,25 @@
 
 #### **Tell me about yourself.**
 
-[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - I am currently a **Creative Designer** taking charge of promotional signboards to increase customer awareness. Before that, I worked in **IntegrityNet Solutions & Services** with exposure to web development, automation testing, and design thinking for our business clients. While I am working in progress, I would love to take the chance to become a part of a growing team in **XYZ Company**.
 
 #### **Walk me through your resume.**
 
-[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - See **[Career Journey](https://github.com/rn1hd#-career-journey)** for reference.
 
 #### **Why is there a gap in your employment?**
 
-[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - I **resigned** voluntarily to pursue other technologies for a better future within the **job market trends** and exercise my overall skills aiming for an **industry level standard**.
 
 #### **What changes have been made since you resigned?**
 
-[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - I acquired **[creative design skills](https://github.com/rn1hd#creative-design)**, currently exercising them in my upcoming personal projects.
 - My typing skills improved through competing in **[TypeRacer](https://data.typeracer.com/pit/profile?user=rnk1hd)** that can be beneficial to quickly take down notes during business meetings for future use.
@@ -149,13 +149,13 @@
 
 #### **What did you like least about your last job?**
 
-[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - In my last job, I was responsible for maintaining a company proprietary web framework from documentation up to regularly using it in software development projects. I am looking forward to a job that allows me to use in-demand, up-to-date technologies with large community support. That is one of the things that most excited me about your **Software Developer** position.
 
 #### **How is being a creative designer related to your goal as a Full Stack Developer?**
 
-[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - The scope of the **Full Stack Developer** is very broad. **Design** is the third phase of **Software Development Life Cycle (SDLC)** where I can present the following:
   - Sitemaps, user flows, wireframes, and flowcharts with client and development team coordination
@@ -164,31 +164,31 @@
 
 #### **How is documentation development beneficial in business?**
 
-[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - Well-organized, easy to understand documentation prevents **technical debt** resulting in **company politics** when something goes out of control. Code refactoring is now easier with the help of documentation and even resorting to a full rewrite of an entire system, coordinating with a client again during the planning stage is now at the bare minimum.
 
 #### **Why are you focusing on something different from Machine Learning Engineer?**
 
-[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - **Machine Learning** is one of the most difficult fields that should not be taken lightly without mastering the prerequisites first. The **Full Stack Developer** role can be beneficial as a steppingstone to identify what business logic can be applied to develop Artificial Intelligence applications in the future.
 
 #### **When were you most satisfied in your job?**
 
-[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - The most satisfying part about a job is when I manage to **make complicated things simple** through documentation, automation testing, and improving code quality of an entire system. This approach will not only benefit me, but also all members involved in the project to feel satisfied which can eventually lead to consistent business growth.
 
 #### **What is your ideal company?**
 
-[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - An ideal company for me is a place that encourages personal and professional growth, promotes team collaboration and work-life balance.
 
 #### **How did you hear about this position?**
 
-[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - I was excited to find out about this position from:
   - My friend who works in <u>[department]</u>
@@ -196,48 +196,48 @@
 
 #### **What are you looking for in a new position?**
 
-[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - I am looking for a position where I can continue to exercise my **software development skills**. Another thing is the chance to showcase my projects in your company. I am motivated by being able to see the impact of my work on other people, so your suggestions for improvement are important to determine what to expect for this position.
 
 #### **What do you know about our company?**
 
-[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - I see that one of your company services promotes **physical and mental health awareness**. Both of us share the same value as I am strictly abiding to self-control best practices even resorting to measuring food intake. Living a long life is my dream, so your company is the best place I want to be a part of.
 
 #### **What can you bring to the company?**
 
-[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - My **technical skills** and **portfolio**. When something goes out of control, I will use my technical skills to make complicated things simple through documentation and code-efficiency. If the project is just getting started, I will showcase my portfolio as a reference to develop sitemaps, user flows, wireframes, and prototypes to ensure everything is according to the plan.
 
 #### **Why do you want to work at this company?**
 
-[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - **XYZ Company** is one of the highest-rated software development talent providers to companies worldwide. It has an amazing work culture, world class clients and projects, flexible work schedule, as well as career growth opportunities.
 
 #### **Why do you want this job?**
 
-[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - **Software developer** is the core contributor to business’ success, seeing how applications facilitate the user’s task instead of resorting to traditional approach to reach their goal. **XYZ Company** offers up-to-date technologies, so I want to be a part of it.
 
 #### **What are your greatest strengths?**
 
-[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - It is my **dedication** to reduce complexity of an entire system through documentation, automation testing, improve code quality, and design features based on a big picture to prevent **technical debt**. Anything else will become easier to fulfill once the primary goal has been achieved.
 
 #### **What do you consider to be your weaknesses?**
 
-[Back to Top (Basic Interview Questions)](https://github.com/rn1hd#basic-interview-questions)
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - There are instances where I cannot **follow simple instructions** properly. This weakness gives me an initiative why taking down notes in almost every meeting, reliance on documentation, and mastering the role beforehand becomes essential.
 - **Verbal communication skills** are what I also regularly practice through making video presentations, taking listening exercises, and getting myself exposed to a productive community when this opportunity arrives.
 
-### **Behavioral Interview Questions**
+### **Behavioral Questions**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
@@ -248,48 +248,176 @@
 - [Tell me about a time when you had to give someone difficult feedback. How did you handle it?](https://github.com/rn1hd#tell-me-about-a-time-when-you-had-to-give-someone-difficult-feedback-how-did-you-handle-it)
 - [What is your greatest fear and why?](https://github.com/rn1hd#what-is-your-greatest-fear-and-why)
 - [What is your greatest failure, and what did you learn from it?](https://github.com/rn1hd#what-is-your-greatest-failure-and-what-did-you-learn-from-it)
+- [How do you handle working with people who annoy you?](https://github.com/rn1hd#how-do-you-handle-working-with-people-who-annoy-you)
+- [How do you deal with pressure or stressful situations?](https://github.com/rn1hd#how-do-you-deal-with-pressure-or-stressful-situations)
+- [How do you feel about working weekends or late hours?](https://github.com/rn1hd#how-do-you-feel-about-working-weekends-or-late-hours)
+- [If I were your supervisor and asked you to do something that you disagreed with, what would you do?](https://github.com/rn1hd#if-i-were-your-supervisor-and-asked-you-to-do-something-that-you-disagreed-with-what-would-you-do)
+- [What was the most difficult period in your life, and how did you deal with it?](https://github.com/rn1hd#what-was-the-most-difficult-period-in-your-life-and-how-did-you-deal-with-it)
+- [Give me an example of a time you did something wrong. How did you handle it?](https://github.com/rn1hd#give-me-an-example-of-a-time-you-did-something-wrong-how-did-you-handle-it)
+- [Give an example of how you have handled a challenge in the workplace before.](https://github.com/rn1hd#give-an-example-of-how-you-have-handled-a-challenge-in-the-workplace-before)
+- [Give an example of when you performed well under pressure.](https://github.com/rn1hd#give-an-example-of-when-you-performed-well-under-pressure)
+- [Give an example of when you showed leadership qualities.](https://github.com/rn1hd#give-an-example-of-when-you-showed-leadership-qualities)
+- [Tell me about a challenge or conflict you've faced at work, and how you dealt with it.](https://github.com/rn1hd#tell-me-about-a-challenge-or-conflict-youve-faced-at-work-and-how-you-dealt-with-it)
+- [Tell me about a time you demonstrated leadership skills.](https://github.com/rn1hd#tell-me-about-a-time-you-demonstrated-leadership-skills)
+- [If you were at a business lunch and you ordered a rare steak and they brought it to you well done, what would you do?](https://github.com/rn1hd#if-you-were-at-a-business-lunch-and-you-ordered-a-rare-steak-and-they-brought-it-to-you-well-done-what-would-you-do)
+- [If you found out your company was doing something against the law, like fraud, what would you do?](https://github.com/rn1hd#if-you-found-out-your-company-was-doing-something-against-the-law-like-fraud-what-would-you-do)
+- [What do you think our company/organization could do better?](https://github.com/rn1hd#what-do-you-think-our-companyorganization-could-do-better)
+- [What assignment was too difficult for you, and how did you resolve the issue?](https://github.com/rn1hd#what-assignment-was-too-difficult-for-you-and-how-did-you-resolve-the-issue)
+- [What's the most difficult decision you've made in the last two years and how did you come to that decision?](https://github.com/rn1hd#whats-the-most-difficult-decision-youve-made-in-the-last-two-years-and-how-did-you-come-to-that-decision)
+- [What’s a time you disagree with a decision that was made at work?](https://github.com/rn1hd#whats-a-time-you-disagree-with-a-decision-that-was-made-at-work)
+- [Describe how you would handle a situation if you were required to finish multiple tasks by the end of the day, and there was no conceivable way that you could finish them.](https://github.com/rn1hd#describe-how-you-would-handle-a-situation-if-you-were-required-to-finish-multiple-tasks-by-the-end-of-the-day-and-there-was-no-conceivable-way-that-you-could-finish-them)
 
 #### **What was the last project you led, and what was its outcome?**
 
-[Back to Top (Behavioral Interview Questions)](https://github.com/rn1hd#behavioral-interview-questions)
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
 - **[Zumumu](https://zumumu.com/)** is the last project I led. It remains maintainable with the help of documentation, automation testing, and improving code quality.
 
 #### **Give me an example of a time that you felt you went above and beyond the call of duty at work**
 
-[Back to Top (Behavioral Interview Questions)](https://github.com/rn1hd#behavioral-interview-questions)
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
 - When I need to simplify the project as much as I can if my productivity and ability to manage workload is under threat.
 
 #### **Can you describe a time when your work was criticized?**
 
-[Back to Top (Behavioral Interview Questions)](https://github.com/rn1hd#behavioral-interview-questions)
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- **Yes**. When the management sees that I cannot deliver high quality output within the deadline, performs a task that is not a priority, and commits unintentional accidents.
+- **Yes**. When the management sees that I cannot deliver high quality output within the deadline, performs a task that is not a priority, and commits unintentional accidents. This is one of the reasons why I am interested to pursue Artificial Intelligence to tackle manpower issues.
 
 #### **Have you ever been on a team where someone was not pulling their own weight? How did you handle it?**
 
-[Back to Top (Behavioral Interview Questions)](https://github.com/rn1hd#behavioral-interview-questions)
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
 - **Yes**, especially when technical debt becomes out of control. I collaborated with a software developer for an order management system. It did not go well when I did not address his concerns properly while trying to adapt complexity at the same time. This is when I started to eliminate unnecessary codes until I felt comfortable maintaining the project.
 
 #### **Tell me about a time when you had to give someone difficult feedback. How did you handle it?**
 
-[Back to Top (Behavioral Interview Questions)](https://github.com/rn1hd#behavioral-interview-questions)
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I deliver difficult feedback in a **private area** within the scope of work that explains how his actions can be detrimental to the company’s operations, as well as giving some recommendations for improvement where applicable.
+- I deliver difficult feedback in a **private area** within the scope of work that explains how his actions can be detrimental to the business operations, as well as giving some recommendations for improvement where applicable.
 
 #### **What is your greatest fear and why?**
 
-[Back to Top (Behavioral Interview Questions)](https://github.com/rn1hd#behavioral-interview-questions)
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
 - **Fear of failure**. Unable to meet the company standards is uncomfortable. On the bright side of things, **failure** can be my best teacher. When it happens, I use this moment as an opportunity to identify what went wrong, what strategies should I take to solve the issue, and what adjustments should be made to prevent committing the same mistake in the future.
 
 #### **What is your greatest failure, and what did you learn from it?**
 
-[Back to Top (Behavioral Interview Questions)](https://github.com/rn1hd#behavioral-interview-questions)
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
 - My greatest failure is when an order management system’s status has reached the lowest point ever, resulting in a full rewrite under a different name. I learned that being a developer is not only about coding but also planning, analysis, design, testing & integration, and maintenance under **Software Development Life Cycle (SDLC)**.
+
+#### **How do you handle working with people who annoy you?**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- It all depends on the context. If the issue is about work-related matters, I will take down notes where criticisms are constructive as part of learning and continue upskilling to prevent further consequences. Otherwise, I will document the issue and report it to the management to seek resolution when the situation becomes irrepressible.
+
+#### **How do you deal with pressure or stressful situations?**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- I take a break for a few minutes, walking around the room to alleviate myself. I work at my **own pace** regardless of how severe the expectations I am receiving. What matters at the end of the day is the quality of my output rather than the speed of the delivery.
+
+#### **How do you feel about working weekends or late hours?**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- **Stressful**, in fact I value personal time to upskill as a self-preparation for more challenging real-world business problems. Overtime can be an advantage if I can spend some time to fight technical debt.
+
+#### **If I were your supervisor and asked you to do something that you disagreed with, what would you do?**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- I **walk on eggshells** if it matters to business growth and personal career advancement. Diplomacy and dialogue are the key to strengthening trust and understanding between the two parties.
+
+#### **What was the most difficult period in your life, and how did you deal with it?**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- It is my experience during my training period in **[IntegrityNet Solutions & Services](https://integritynet.biz/)**. There are no available resources to study their technologies and I must figure everything on my own. The only way to survive is to work late hours regularly for me to catch up through developing the [technical documentation](https://uadmin-docs.readthedocs.io/en/latest/).
+
+#### **Give me an example of a time you did something wrong. How did you handle it?**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- When I push my changes to the system where the result does **more harm than good**. This is the main reason why performing an automation testing role has become essential.
+
+#### **Give an example of how you have handled a challenge in the workplace before.**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- Through regularly working late hours for the sake of **project optimization** which can return, an improvement to employee productivity and client satisfaction.
+
+#### **Give an example of when you performed well under pressure.**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- When I managed to implement SMS feature in the backend using the AJAX version of Golang for an order management system.
+
+#### **Give an example of when you showed leadership qualities.**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- I met a software developer where we have something in common. I shared the story on how I get started for inspiration ideas, my values, and techniques to deal with project tasks.
+
+#### **Tell me about a challenge or conflict you’ve faced at work, and how you dealt with it.**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- When I struggle to fulfill the duties quickly and efficiently. There are **two options** to deal with it:
+  - Acquire at least **60% mastery** of the role beforehand and use the remaining percentage while on the job to keep up.
+  - Create an **Artificial Intelligence application** to automatically do the work for me where applicable.
+
+#### **Tell me about a time you demonstrated leadership skills.**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- I was responsible for conducting **daily morning meetings** for the software development team. I gave suggestions where I can really help to alleviate their concerns. Everyone is helping each other.
+
+#### **If you were at a business lunch and you ordered a rare steak and they brought it to you well done, what would you do?**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- I just smile and express my gratitude for delivering my order properly.
+
+#### **If you found out your company was doing something against the law, like fraud, what would you do?**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- If the accusations are true with solid evidence, the last thing I would do is to **leave immediately** because as an employee of the company, I am also part of it, which can severely affect my future employment.
+
+#### **What do you think our company/organization could do better?**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- I wish **XYZ Company** could collaborate with **ABC Corporation** in the future. XYZ Company promotes **physical and mental health awareness** while ABC Corporation promotes **quantum technology**, so I wish both sides can come up to an agreement to prioritize unaccompanied people that no one will be with them for the rest of their lives under Artificial Intelligence robotics project.
+
+#### **What assignment was too difficult for you, and how did you resolve the issue?**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- When I was tasked to implement a **generic based recommendation system** in Go programming language. The initial version of the project has been developed through intensive source code analysis from the original Python library.
+
+#### **What's the most difficult decision you've made in the last two years and how did you come to that decision?**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- **Resignation** to pursue other technologies for a better future within the **job market trends** and exercise my overall skills aiming for an **industry level standard**.
+
+#### **What’s a time you disagree with a decision that was made at work?**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- When the management rejects our **appeal** to use the technology stack of our choice that has the potential to provide career growth opportunities due to its slow performance.
+
+#### **Describe how you would handle a situation if you were required to finish multiple tasks by the end of the day, and there was no conceivable way that you could finish them.**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- I perform a task at my own pace where it is the **most priority** in the list. Regardless of the result, what matters at the end of the day is the quality of my output.
 
 ### **More Questions About You**
 
