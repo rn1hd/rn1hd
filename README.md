@@ -387,7 +387,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- If the accusations are true with solid evidence, the last thing I would do is to **leave immediately** because as an employee of the company, I am also part of it, which can severely affect my future employment.
+- If illegal activities were taking place within the company I worked for, the last thing I would do is to **leave immediately** because as an employee of the company, I am also part of it, which can severely affect my future employment.
 
 #### **What do you think our company/organization could do better?**
 
@@ -411,7 +411,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- When the management rejects our **appeal** to use the technology stack of our choice that has the potential to provide career growth opportunities due to its slow performance.
+- When the management rejects our **appeal** to use the technology stack of our choice that has the potential to provide career opportunities due to its slow performance.
 
 #### **Describe how you would handle a situation if you were required to finish multiple tasks by the end of the day, and there was no conceivable way that you could finish them.**
 
