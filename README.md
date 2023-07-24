@@ -337,7 +337,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- It is my experience during my training period in a BPO company. There are no available resources to study their technologies and I must figure everything on my own. The only way to survive is to work late hours regularly for me to catch up through developing the technical documentation.
+- It is my experience during my training period in a BPO company. There are no available resources to study their technologies and I must figure everything on my own. The only way to survive is to work **late hours regularly** for me to catch up through developing the technical documentation.
 
 #### **Give me an example of a time you did something wrong. How did you handle it?**
 
