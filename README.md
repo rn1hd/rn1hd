@@ -277,19 +277,19 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- When I need to simplify the project as much as I can if my productivity and ability to manage workload is under threat.
+- When I need to simplify the project as much as I can if my productivity and ability to manage workload is getting out of control.
 
 #### **Can you describe a time when your work was criticized?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- **Yes**. When the management sees that I cannot deliver high quality output within the deadline, performs a task that is not a priority, and commits unintentional accidents. This is one of the reasons why I am interested to pursue Artificial Intelligence to tackle manpower issues.
+- **Yes**, the time when I cannot deliver high quality output within the deadline, perform a task that is insignificant, and commit unintentional accidents. This is one of the reasons why I am interested to pursue Artificial Intelligence to tackle manpower issues.
 
 #### **Have you ever been on a team where someone was not pulling their own weight? How did you handle it?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- **Yes**, especially when technical debt becomes out of control. I collaborated with a software developer for an order management system. It did not go well when I did not address his concerns properly while trying to adapt complexity at the same time. This is when I started to eliminate unnecessary codes until I felt comfortable maintaining the project.
+- **Yes**, especially when technical debt is getting out of control. I collaborated with a software developer for an order management system. It did not go well when I did not address his concerns properly while trying to adapt complexity at the same time. This is when I started to eliminate unnecessary codes until I felt comfortable maintaining the project.
 
 #### **Tell me about a time when you had to give someone difficult feedback. How did you handle it?**
 
@@ -319,7 +319,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I take a break for a few minutes, walking around the room to alleviate myself. I work at my **own pace** regardless of how severe the expectations I am receiving. What matters at the end of the day is the quality of my output rather than the speed of the delivery.
+- I take a break for a few minutes, walking around the room to alleviate myself. I work at my **own pace** regardless of how stressful the situation is. What matters at the end of the day is the quality of my output rather than the speed of the delivery.
 
 #### **How do you feel about working weekends or late hours?**
 
@@ -331,13 +331,13 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I **walk on eggshells** if it matters to business growth and personal career advancement. Diplomacy and dialogue are the key to strengthening trust and understanding between the two parties.
+- I **walk on eggshells** if it matters to business growth and no hindrance to my personal career advancement. Diplomacy and dialogue are the key to strengthening trust and understanding between the two parties.
 
 #### **What was the most difficult period in your life, and how did you deal with it?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- It is my experience during my training period in **[IntegrityNet Solutions & Services](https://integritynet.biz/)**. There are no available resources to study their technologies and I must figure everything on my own. The only way to survive is to work late hours regularly for me to catch up through developing the [technical documentation](https://uadmin-docs.readthedocs.io/en/latest/).
+- It is my experience during my training period in a BPO company. There are no available resources to study their technologies and I must figure everything on my own. The only way to survive is to work late hours regularly for me to catch up through developing the technical documentation.
 
 #### **Give me an example of a time you did something wrong. How did you handle it?**
 
@@ -369,7 +369,7 @@
 
 - When I struggle to fulfill the duties quickly and efficiently. There are **two options** to deal with it:
   - Acquire at least **60% mastery** of the role beforehand and use the remaining percentage while on the job to keep up.
-  - Create an **Artificial Intelligence application** to automatically do the work for me where applicable.
+  - Create an **Artificial Intelligence** application to automatically perform some of my workloads where applicable.
 
 #### **Tell me about a time you demonstrated leadership skills.**
 
@@ -411,13 +411,13 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- When the management rejects our **appeal** to use the technology stack of our choice that has the potential to provide career opportunities due to its slow performance.
+- When our **appeal** has been rejected to use the technology stack of our choice that has the potential to provide career opportunities due to its slow performance.
 
 #### **Describe how you would handle a situation if you were required to finish multiple tasks by the end of the day, and there was no conceivable way that you could finish them.**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I perform a task at my own pace where it is the **most priority** in the list. Regardless of the result, what matters at the end of the day is the quality of my output.
+- I perform a task at my own pace where it is the **most priority** in the list. Regardless of the situation, what matters at the end of the day is the quality of my output.
 
 ### **More Questions About You**
 
