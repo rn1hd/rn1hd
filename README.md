@@ -125,7 +125,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I am currently a **Creative Designer** taking charge of promotional signboards to increase customer awareness. Before that, I worked in **IntegrityNet Solutions & Services** with exposure to web development, automation testing, and design thinking for our business clients. While I am working in progress, I would love to take the chance to become a part of a growing team in **XYZ Company**.
+- I am currently a **Creative Designer** taking charge of photo editing and promotional signboards to increase customer awareness. Before that, I worked in **IntegrityNet Solutions & Services** with exposure to web development, automation testing, and design thinking for our business clients. While I am working in progress, I would love to take the chance to become a part of a growing team in **XYZ Company**.
 
 #### **Walk me through your resume.**
 
@@ -191,8 +191,8 @@
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - I was excited to find out about this position from:
-  - My friend who works in <u>[department]</u>
-  - Your online job advertisement through <u>[employment company]</u>
+  - My friend who works in **[department]**
+  - Your online job advertisement through **[employment company]**
 
 #### **What are you looking for in a new position?**
 
