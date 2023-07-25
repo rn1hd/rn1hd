@@ -166,7 +166,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- Well-organized, easy to understand documentation prevents **technical debt** resulting in **company politics** when something goes out of control. Code refactoring is now easier with the help of documentation and even resorting to a full rewrite of an entire system, coordinating with a client again during the planning stage is now at the bare minimum.
+- Well-organized, easy to understand documentation prevents **technical debt** resulting in **office politics** when something goes out of control. Code refactoring is now easier with the help of documentation and even resorting to a full rewrite of an entire system, coordinating with a client again during the planning stage is now at the bare minimum.
 
 #### **Why are you focusing on something different from Machine Learning Engineer?**
 
