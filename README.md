@@ -125,7 +125,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I am currently a **Creative Designer** taking charge of photo editing and promotional signboards to increase customer awareness. Before that, I worked in **IntegrityNet Solutions & Services** with exposure to web development, automation testing, and design thinking for our business clients. While I am working in progress, I would love to take the chance to become a part of a growing team in **XYZ Company**.
+- I am an aspiring **Full Stack Developer** constantly challenging myself through personal project development. Before that, I worked in **IntegrityNet Solutions & Services** with exposure to web development, automation testing, and design thinking for our business clients. While I am working in progress, I would love to take the chance to become a part of a growing team in **XYZ Company**.
 
 #### **Walk me through your resume.**
 
@@ -460,7 +460,7 @@
 
 [Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
-- Yes, when it comes to how I can get to the leaderboard along with other amazing world champions in **[TypeRacer](https://data.typeracer.com/pit/profile?user=rnk1hd)** (see Awards for reference). I am always striving to do better through continuous learning and efficiency planning in other areas as well, so being successful is not just my personal achievement but also the positive impact of my efforts on the community.
+- Yes, when it comes to how I can get to the leaderboard along with other amazing world champions in **[TypeRacer](https://data.typeracer.com/pit/profile?user=rnk1hd)** (see Awards for reference). I am always striving to do better through continuous learning and efficiency planning in other areas as well, so being successful is not only my personal achievement but also the positive impact of my efforts on the community.
 
 #### **When can you start?**
 
