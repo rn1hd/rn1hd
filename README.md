@@ -49,6 +49,7 @@
   - Palace of Sound (2014-2016)
   - O2Jam V3 (2014-2018)
   - iBMS 4th Age (2015)
+- See portfolio **[here](https://github.com/rn1hd/rn1hd/tree/main/Personal%20Website/Portfolio/Game%20Developer)**.
 
 ### Transcriptionist ⌨
 
@@ -87,6 +88,7 @@
   - 3 difficulty notechart preview video presentations as a sneak peek on what to expect in the next month's song update using **[Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/)**
 
 - This position is where I am **working in progress**.
+- See portfolio **[here](https://github.com/rn1hd/rn1hd/tree/main/Personal%20Website/Portfolio/Creative%20Designer)**.
 
 <br/>
 
