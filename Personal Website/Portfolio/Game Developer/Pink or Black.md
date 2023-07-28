@@ -2,7 +2,7 @@
 
 **CLICK AN IMAGE TO SEE PREVIEW**
 
-<a href="https://youtu.be/HirlGww3WvY">
+<a href="https://dai.ly/k5UjsMU694a9PBzkDc2">
   <img src="./Loading%20Images/Pink%20or%20Black.webp" alt="Pink or Black" width="480" height="360" />
 </a>
 

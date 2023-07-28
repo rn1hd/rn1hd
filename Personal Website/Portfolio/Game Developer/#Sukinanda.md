@@ -2,7 +2,7 @@
 
 **CLICK AN IMAGE TO SEE PREVIEW**
 
-<a href="https://youtu.be/ZhEUlpY_bjQ">
+<a href="https://dai.ly/k5SCsgkeUHabeNzkDbu">
   <img src="./Loading%20Images/%23Sukinanda.webp" alt="#Sukinanda" width="480" height="360" />
 </a>
 

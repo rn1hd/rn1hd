@@ -2,7 +2,7 @@
 
 **CLICK AN IMAGE TO SEE PREVIEW**
 
-<a href="https://youtu.be/9s0LnzMsNUY">
+<a href="https://dai.ly/kJesNYyH31p3YozkDbI">
   <img src="./Loading%20Images/Halloween%20Night.webp" alt="Halloween Night" width="480" height="360" />
 </a>
 

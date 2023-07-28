@@ -2,7 +2,7 @@
 
 **CLICK AN IMAGE TO SEE PREVIEW**
 
-<a href="https://youtu.be/CrbYUHl-MVY">
+<a href="https://dai.ly/k2biokDDox8uudzkDbC">
   <img src="./Loading%20Images/Dareka%20Ga%20Nageta%20Ball.webp" alt="Dareka Ga Nageta Ball" width="480" height="360" />
 </a>
 

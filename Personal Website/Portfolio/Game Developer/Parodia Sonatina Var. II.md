@@ -2,7 +2,7 @@
 
 **CLICK AN IMAGE TO SEE PREVIEW**
 
-<a href="https://youtu.be/0YZ4rD2E8qs">
+<a href="https://dai.ly/k73e7VcEXwG6TszkDbR">
   <img src="./Loading%20Images/Parodia%20Sonatina%20Var.%20II.webp" alt="Parodia Sonatina Var. II" width="480" height="360" />
 </a>
 

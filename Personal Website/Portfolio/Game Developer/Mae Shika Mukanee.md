@@ -1,0 +1,23 @@
+## O2Jam 3-in-1 Notechart Preview - Mae Shika Mukanee
+
+**CLICK AN IMAGE TO SEE PREVIEW**
+
+<a href="https://dai.ly/kSS76FS578iLJpzkFMp">
+  <img src="./Loading%20Images/Mae%20Shika%20Mukanee.webp" alt="Mae Shika Mukanee" width="480" height="360" />
+</a>
+
+<br/>
+
+**Song Title:** Mae Shika Mukanee
+
+Performed by **AKB48**
+
+Image edited by **corenik**
+
+**Levels:** 8/43/60
+
+**BPM:** 215.00
+
+**Genre:** J-pop
+
+Published on **March 24, 2014**

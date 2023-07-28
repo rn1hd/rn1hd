@@ -2,13 +2,13 @@
 
 **CLICK AN IMAGE TO SEE PREVIEW**
 
-<a href="https://youtu.be/3oladdlifOs">
+<a href="https://dai.ly/k3rkdbPsuxO0QrzkDc5">
   <img src="./Loading%20Images/V3%20II.webp" alt="V3 II" width="480" height="360" />
 </a>
 
 <br/>
 
-<a href="https://youtu.be/3oladdlifOs">
+<a href="https://dai.ly/k3rkdbPsuxO0QrzkDc5">
   <img src="./Loading%20Images/V3%20II%20-%20Special%20Version.webp" alt="V3 II - Special Version" width="480" height="360" />
 </a>
 
@@ -24,7 +24,7 @@ Violin by **Kon**
 
 Pattern design in collaboration with **[4A] Tree**
 
-Image edited by **Cudox**
+Image edited by **Cudox** (Regular Version) & **Glenn Joseph** (Special Version)
 
 **Levels:** 7/18/32/36
 
