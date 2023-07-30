@@ -1,4 +1,4 @@
-## O2Jam 3-in-1 Notechart Preview - Dareka Ga Nageta Ball
+## O2Jam 4-in-1 Notechart Preview - Dareka Ga Nageta Ball
 
 **CLICK AN IMAGE TO SEE PREVIEW**
 

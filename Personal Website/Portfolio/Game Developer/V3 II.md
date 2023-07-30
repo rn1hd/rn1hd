@@ -1,4 +1,4 @@
-## O2Jam 3-in-1 Notechart Preview - V3 II
+## O2Jam 4-in-1 Notechart Preview - V3 II
 
 **CLICK AN IMAGE TO SEE PREVIEW**
 

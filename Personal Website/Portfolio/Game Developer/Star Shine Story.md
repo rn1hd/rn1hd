@@ -1,4 +1,4 @@
-## O2Jam 3-in-1 Notechart Preview - Star Shine Story
+## O2Jam 4-in-1 Notechart Preview - Star Shine Story
 
 **CLICK AN IMAGE TO SEE PREVIEW**
 
