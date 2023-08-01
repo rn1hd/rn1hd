@@ -42,7 +42,7 @@
 
 [Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
-- My position to become a **Notecharter** started at 16 years old when I saw a [Youtube video](https://www.youtube.com/watch?v=UHHHXRU1-T0) discussing how to create musical notes that synchronizes to the beat of the song.
+- My position to become a **Notechart Engineer** started at 16 years old when I saw a [Youtube video](https://www.youtube.com/watch?v=UHHHXRU1-T0) discussing how to create musical notes that synchronizes to the beat of the song.
 - With continuous learning and motivation, I finally got a chance to become one of the contributors in the game market following senior's advice regarding the output of my works. I met some amazing developers and panelists from around the world.
 - I have experienced working in the following organizations:
   - AngelJam (2012-2013)
@@ -55,7 +55,7 @@
 
 [Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
-- My first job in the real world as a **Data Analyst** has started on September 20, 2016, in **Accudata Inc.** located in Kumintang Ibaba, Batangas City, Philippines where excellent typing skills are required for the role to meet the company's standards. This is the time when my motivation to become a professional transcriptionist has started.
+- My first job in the real world as a **Biller** has started on September 20, 2016, in **Accudata Inc.** located in Kumintang Ibaba, Batangas City, Philippines where excellent typing skills are required for the role to meet the company's standards. This is the time when my motivation to become a professional transcriptionist has started.
 - On the second half of my entire tenure in **[IntegrityNet Solutions & Services](https://integritynet.biz/)**, I was responsible on taking charge of daily morning meeting for the development team; transcribing each team member's progress from recorded conversation which will be submitted to the Chief Technology Officer's company email for compilation.
 
 ### Software Developer 🖥
@@ -523,8 +523,11 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" />
   <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="Adobe InDesign" />
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+  
+  
 </div>
 
 <br/>
