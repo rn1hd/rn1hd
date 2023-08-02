@@ -46,8 +46,9 @@
 - With continuous learning and motivation, I finally got a chance to become one of the contributors in the game market following senior's advice regarding the output of my works. I met some amazing developers and panelists from around the world.
 - I have experienced working in the following organizations:
   - AngelJam (2012-2013)
+  - OtakuJam (2013)
   - Palace of Sound (2014-2016)
-  - O2Jam V3 (2014-2018)
+  - O2Jam V3 International (2014-2018)
   - iBMS 4th Age (2015)
 - See portfolio **[here](https://github.com/rn1hd/rn1hd/tree/main/Personal%20Website/Portfolio/Game%20Developer)**.
 
