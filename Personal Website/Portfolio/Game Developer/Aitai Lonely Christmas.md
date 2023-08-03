@@ -2,7 +2,7 @@
 
 **CLICK AN IMAGE TO SEE PREVIEW**
 
-<a href="https://dai.ly/k4FfGoJRB4xlE8zkHfn">
+<a href="https://dai.ly/k3uCDbd3U91pABzlzI4">
   <img src="../Creative%20Designer/O2Jam%20Loading%20Images/Aitai%20Lonely%20Christmas.webp" alt="Aitai Lonely Christmas" width="480" height="360" />
 </a>
 

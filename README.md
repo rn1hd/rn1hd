@@ -47,8 +47,8 @@
 - I have experienced working in the following organizations:
   - AngelJam (2012-2013)
   - OtakuJam (2013)
+  - O2Jam V3 International (2013-2018)
   - Palace of Sound (2014-2016)
-  - O2Jam V3 International (2014-2018)
   - iBMS 4th Age (2015)
 - See portfolio **[here](https://github.com/rn1hd/rn1hd/tree/main/Personal%20Website/Portfolio/Game%20Developer)**.
 
@@ -286,7 +286,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- **Yes**, the time when I cannot deliver high quality output within the deadline, perform a task that is insignificant, and commit unintentional accidents. This is one of the reasons why I am interested to pursue Artificial Intelligence to tackle manpower issues.
+- **Yes**, the time when I cannot deliver high quality output within the deadline, perform an insignificant task, and commit accidents. This is one of the reasons why I am interested to pursue **Artificial Intelligence** to tackle manpower issues.
 
 #### **Have you ever been on a team where someone was not pulling their own weight? How did you handle it?**
 
