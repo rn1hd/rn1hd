@@ -20,4 +20,4 @@ Image edited by **DarkFunkerz**
 
 **Genre:** J-pop
 
-Published on **November 2012**
+Published on **July 2012**
