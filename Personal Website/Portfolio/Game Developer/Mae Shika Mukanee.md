@@ -2,7 +2,7 @@
 
 **CLICK AN IMAGE TO SEE PREVIEW**
 
-<a href="https://dai.ly/kSS76FS578iLJpzkFMp">
+<a href="https://dai.ly/k1xQNg0wpJfVFQzlYtN">
   <img src="./Loading%20Images/Mae%20Shika%20Mukanee.webp" alt="Mae Shika Mukanee" width="480" height="360" />
 </a>
 
