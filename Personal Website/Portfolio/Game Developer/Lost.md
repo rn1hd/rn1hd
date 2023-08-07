@@ -2,7 +2,7 @@
 
 **CLICK AN IMAGE TO SEE PREVIEW**
 
-<a href="https://dai.ly/k2lNAOw7g7TB99zkDbQ">
+<a href="https://dai.ly/k22U2Y8Z30aRHUzmbPJ">
   <img src="./Loading%20Images/Lost.webp" alt="Lost" width="480" height="360" />
 </a>
 
