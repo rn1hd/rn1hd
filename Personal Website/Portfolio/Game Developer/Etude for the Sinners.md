@@ -2,7 +2,7 @@
 
 **CLICK AN IMAGE TO SEE PREVIEW**
 
-<a href="https://dai.ly/k4ZY7bwNLanj2GzkDbE">
+<a href="https://dai.ly/k7z6Tq3mB32xjUzmjC8">
   <img src="./Loading%20Images/Etude%20for%20the%20Sinners.webp" alt="Etude for the Sinners" width="480" height="360" />
 </a>
 

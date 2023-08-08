@@ -2,7 +2,7 @@
 
 **CLICK AN IMAGE TO SEE PREVIEW**
 
-<a href="#">
+<a href="https://dai.ly/kzvJJTpIgoXdoDzmjFL">
   <img src="./Loading%20Images/Seishun%20Dokei.webp" alt="Seishun Dokei" width="480" height="360" />
 </a>
 

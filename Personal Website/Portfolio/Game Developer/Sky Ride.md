@@ -2,7 +2,7 @@
 
 **CLICK AN IMAGE TO SEE PREVIEW**
 
-<a href="https://dai.ly/k4B0OqyqXOVdAozkHll">
+<a href="https://dai.ly/kJ31baq57xFs9YzmjFw">
   <img src="./Loading%20Images/Sky%20Ride.webp" alt="Sky Ride" width="480" height="360" />
 </a>
 

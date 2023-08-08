@@ -2,13 +2,13 @@
 
 **CLICK AN IMAGE TO SEE PREVIEW**
 
-<a href="https://dai.ly/k7k2HOshSq9J0qzkVvJ">
+<a href="https://dai.ly/k5nHw5EvuypYqAzmjFo">
   <img src="./Loading%20Images/L%27amour%20Et%20La%20Liberte.webp" alt="L'amour Et La Liberte" width="480" height="360" />
 </a>
 
 <br/>
 
-<a href="https://dai.ly/k7k2HOshSq9J0qzkVvJ">
+<a href="https://dai.ly/k5nHw5EvuypYqAzmjFo">
   <img src="./Loading%20Images/L%27amour%20Et%20La%20Liberte%20-%20Special%20Version.webp" alt="L'amour Et La Liberte - Special Version" width="480" height="360" />
 </a>
 

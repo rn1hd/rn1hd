@@ -2,7 +2,7 @@
 
 **CLICK AN IMAGE TO SEE PREVIEW**
 
-<a href="https://dai.ly/k5c538Bt5nKCEtzkDbK">
+<a href="https://dai.ly/k6TEPGhba0DgPezmm4q">
   <img src="./Loading%20Images/Kesshou.webp" alt="Kesshou" width="480" height="360" />
 </a>
 

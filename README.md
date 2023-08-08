@@ -258,6 +258,7 @@
 - [What was the most difficult period in your life, and how did you deal with it?](https://github.com/rn1hd#what-was-the-most-difficult-period-in-your-life-and-how-did-you-deal-with-it)
 - [Give me an example of a time you did something wrong. How did you handle it?](https://github.com/rn1hd#give-me-an-example-of-a-time-you-did-something-wrong-how-did-you-handle-it)
 - [Give an example of how you have handled a challenge in the workplace before.](https://github.com/rn1hd#give-an-example-of-how-you-have-handled-a-challenge-in-the-workplace-before)
+- [Are you aware of the risks if you attempt to follow your project optimization plan?](https://github.com/rn1hd#are-you-aware-of-the-risks-if-you-attempt-to-follow-your-project-optimization-plan)
 - [Give an example of when you performed well under pressure.](https://github.com/rn1hd#give-an-example-of-when-you-performed-well-under-pressure)
 - [Give an example of when you showed leadership qualities.](https://github.com/rn1hd#give-an-example-of-when-you-showed-leadership-qualities)
 - [Tell me about a challenge or conflict you've faced at work, and how you dealt with it.](https://github.com/rn1hd#tell-me-about-a-challenge-or-conflict-youve-faced-at-work-and-how-you-dealt-with-it)
@@ -316,13 +317,13 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- It all depends on the context. If the issue is about work-related matters, I will take down notes where criticisms are constructive as part of learning and continue upskilling to prevent further consequences. Otherwise, I will document the issue and report it to the management to seek resolution when the situation becomes irrepressible.
+- It all depends on the context. I will take down notes where criticisms are constructive as part of learning and continue upskilling to prevent further consequences. Otherwise, I will document the issue and report it to the management to seek a peaceful resolution when the situation becomes irrepressible.
 
 #### **How do you deal with pressure or stressful situations?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I take a break for a few minutes, walking around the room to alleviate myself. I work at my **own pace** regardless of how stressful the situation is. What matters at the end of the day is the quality of my output rather than the speed of the delivery.
+- I take a break for a few minutes, walking around the room to alleviate myself. I work to the **best of my ability** while not letting pressure take a toll on my health. Pressure exists to fight procrastination, learn something the hard way, and act accordingly to improve the situation.
 
 #### **How do you feel about working weekends or late hours?**
 
@@ -354,6 +355,12 @@
 
 - Through regularly working late hours for the sake of **project optimization** which can return, an improvement to employee productivity and client satisfaction.
 
+#### **Are you aware of the risks if you attempt to follow your project optimization plan?**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- **Yes.** Project optimization plan is served as a **last resort** when there are no other options available to fight technical debt. I understand that one wrong move can destroy everything, but letting the technical debt pile up will only prolong the conflict through slow progress and frequent accidents, which can eventually lead to the complete destruction of the system.
+
 #### **Give an example of when you performed well under pressure.**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
@@ -370,7 +377,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- When I struggle to fulfill the duties quickly and efficiently. There are **two options** to deal with it:
+- When I cannot fulfill the duties quickly and efficiently. There are **two options** to deal with it:
   - Acquire at least **60% mastery** of the role beforehand and use the remaining percentage while on the job to keep up.
   - Create an **Artificial Intelligence** application to automatically perform some of my workloads where applicable.
 
@@ -420,7 +427,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I perform a task at my own pace where it is the **most priority** in the list. Regardless of the situation, what matters at the end of the day is the quality of my output.
+- I perform a task to the best of my ability where it is the **most priority** in the list of requests rated by the client through diplomatic channels.
 
 ### **More Questions About You**
 
