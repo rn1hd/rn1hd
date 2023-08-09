@@ -2,7 +2,7 @@
 
 **CLICK AN IMAGE TO SEE PREVIEW**
 
-<a href="https://dai.ly/k17sOe6R82OVHlzm5Gm">
+<a href="https://dai.ly/k6nq7aJIYp5cp3zmu9x">
   <img src="./Loading%20Images/So%20Long!.webp" alt="So Long!" width="480" height="360" />
 </a>
 

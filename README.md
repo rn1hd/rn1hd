@@ -258,7 +258,7 @@
 - [What was the most difficult period in your life, and how did you deal with it?](https://github.com/rn1hd#what-was-the-most-difficult-period-in-your-life-and-how-did-you-deal-with-it)
 - [Give me an example of a time you did something wrong. How did you handle it?](https://github.com/rn1hd#give-me-an-example-of-a-time-you-did-something-wrong-how-did-you-handle-it)
 - [Give an example of how you have handled a challenge in the workplace before.](https://github.com/rn1hd#give-an-example-of-how-you-have-handled-a-challenge-in-the-workplace-before)
-- [Are you aware of the risks if you attempt to follow your project optimization plan?](https://github.com/rn1hd#are-you-aware-of-the-risks-if-you-attempt-to-follow-your-project-optimization-plan)
+- [Are you aware of the risks if you attempt to follow your job simplification approach?](https://github.com/rn1hd#are-you-aware-of-the-risks-if-you-attempt-to-follow-your-job-simplification-approach)
 - [Give an example of when you performed well under pressure.](https://github.com/rn1hd#give-an-example-of-when-you-performed-well-under-pressure)
 - [Give an example of when you showed leadership qualities.](https://github.com/rn1hd#give-an-example-of-when-you-showed-leadership-qualities)
 - [Tell me about a challenge or conflict you've faced at work, and how you dealt with it.](https://github.com/rn1hd#tell-me-about-a-challenge-or-conflict-youve-faced-at-work-and-how-you-dealt-with-it)
@@ -353,13 +353,13 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- Through regularly working late hours for the sake of **project optimization** which can return, an improvement to employee productivity and client satisfaction.
+- Through regularly working late hours for the sake of **job simplification** which can return, an improvement to employee productivity and client satisfaction.
 
-#### **Are you aware of the risks if you attempt to follow your project optimization plan?**
+#### **Are you aware of the risks if you attempt to follow your job simplification approach?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- **Yes.** Project optimization plan is served as a **last resort** when there are no other options available to fight technical debt. I understand that one wrong move can destroy everything, but letting the technical debt pile up will only prolong the conflict through slow progress and frequent accidents, which can eventually lead to the complete destruction of the system.
+- **Yes.** Job simplification approach is served as a **last resort** when there are no other options available to fight technical debt. I understand that one wrong move can destroy everything, but letting the technical debt pile up will only prolong the conflict through slow progress and frequent accidents, which can eventually lead to the complete destruction of the system.
 
 #### **Give an example of when you performed well under pressure.**
 
