@@ -287,7 +287,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- **Yes**, the time when I cannot deliver high quality output within the deadline, perform an insignificant task, and commit accidents. This is one of the reasons why I am interested to pursue **Artificial Intelligence** to tackle manpower issues.
+- **Yes**, the time when my productivity failed to hit the quota, perform an insignificant task, and commit accidents. This is one of the reasons why I am interested to pursue **Artificial Intelligence** to tackle manpower issues.
 
 #### **Have you ever been on a team where someone was not pulling their own weight? How did you handle it?**
 
@@ -317,7 +317,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- It all depends on the context. I will take down notes where criticisms are constructive as part of learning and continue upskilling to prevent further consequences. Otherwise, I will document the issue and report it to the management to seek a peaceful resolution when the situation becomes irrepressible.
+- I choose my poison **wisely**. I pick whichever is constructive to improve on and drop a **note verbale** to seek a peaceful resolution only if the situation becomes irrepressible.
 
 #### **How do you deal with pressure or stressful situations?**
 
@@ -329,13 +329,13 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- **Stressful**, in fact I value personal time to upskill as a self-preparation for more challenging real-world business problems. Overtime can be an advantage if I can spend some time to fight technical debt.
+- **Stressful**. I value personal time to upskill as a self-preparation for more challenging real-world business problems. Overtime can be an advantage if I can spend some time fighting technical debt and progress my career further.
 
 #### **If I were your supervisor and asked you to do something that you disagreed with, what would you do?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I **walk on eggshells** if it matters to business growth and no hindrance to my personal career advancement. Diplomacy and dialogue are the key to strengthening trust and understanding between the two parties.
+- I **walk on eggshells** if the task is still relevant to the position I signed up for in accordance with the law. Diplomacy and dialogue are the key to strengthening trust and understanding between the two parties.
 
 #### **What was the most difficult period in your life, and how did you deal with it?**
 
@@ -359,7 +359,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- **Yes.** Job simplification approach is served as a **last resort** when there are no other options available to fight technical debt. I understand that one wrong move can destroy everything, but letting the technical debt pile up will only prolong the conflict through slow progress and frequent accidents, which can eventually lead to the complete destruction of the system.
+- **Yes.** The job simplification approach serves as a **last resort** when there are no other options available to fight technical debt. I understand that one wrong move can destroy everything, but letting the technical debt pile up will only prolong the conflict through slow progress and frequent accidents, which can eventually lead to the complete destruction of the system.
 
 #### **Give an example of when you performed well under pressure.**
 
@@ -377,7 +377,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- When I cannot fulfill the duties quickly and efficiently. There are **two options** to deal with it:
+- When my productivity failed to hit the quota. There are **two options** to deal with it:
   - Acquire at least **60% mastery** of the role beforehand and use the remaining percentage while on the job to keep up.
   - Create an **Artificial Intelligence** application to automatically perform some of my workloads where applicable.
 
@@ -434,6 +434,7 @@
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
 - [Are you a team player?](https://github.com/rn1hd#are-you-a-team-player)
+- [Are you a risk-taker?](https://github.com/rn1hd#are-you-a-risktaker)
 - [What makes you unique?](https://github.com/rn1hd#what-makes-you-unique)
 - [Where do you see yourself in 5 years?](https://github.com/rn1hd#where-do-you-see-yourself-in-5-years)
 - [Which is more important to you: the money, or the work?](https://github.com/rn1hd#which-is-more-important-to-you-the-money-or-the-work)
@@ -447,6 +448,12 @@
 [Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
 - It all depends on the **compatibility** of my skills, passion, and job responsibilities. If I see a **good future** of a role that I was assigned to within my **career goals**, I am willing to give a hundred percent of my time and effort to showcase what I can bring to the team to achieve the business goal on time and what other contributions I can bring to the table.
+
+#### **Are you a risk-taker?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- **Yes.** I touched on a software development project with thousands of lines of code, outdated libraries, and lack of documentation. I was in survival mode at that time because I must finish the task on time with all my might despite these obstacles. I applied a **job simplification approach** through improving code quality and eliminating unnecessary codes.
 
 #### **What makes you unique?**
 
