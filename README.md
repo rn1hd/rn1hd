@@ -434,7 +434,7 @@
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
 - [Are you a team player?](https://github.com/rn1hd#are-you-a-team-player)
-- [Are you a risk-taker?](https://github.com/rn1hd#are-you-a-risktaker)
+- [Are you a risk-taker?](https://github.com/rn1hd#are-you-a-risk-taker)
 - [What makes you unique?](https://github.com/rn1hd#what-makes-you-unique)
 - [Where do you see yourself in 5 years?](https://github.com/rn1hd#where-do-you-see-yourself-in-5-years)
 - [Which is more important to you: the money, or the work?](https://github.com/rn1hd#which-is-more-important-to-you-the-money-or-the-work)
@@ -453,7 +453,7 @@
 
 [Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
-- **Yes.** I touched on a software development project with thousands of lines of code, outdated libraries, and lack of documentation. I was in survival mode at that time because I must finish the task on time with all my might despite these obstacles. I applied a **job simplification approach** through improving code quality and eliminating unnecessary codes.
+- **Yes.** I touched on a software development project with thousands of lines of code, outdated libraries, and lack of documentation. I was in survival mode at that time because I must finish the task on time with all my might despite these obstacles. I applied a **job simplification** approach through improving code quality and eliminating unnecessary codes.
 
 #### **What makes you unique?**
 
