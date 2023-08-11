@@ -435,10 +435,32 @@
 
 - [Are you a team player?](https://github.com/rn1hd#are-you-a-team-player)
 - [Are you a risk-taker?](https://github.com/rn1hd#are-you-a-risk-taker)
+- [How would you describe your work style?](https://github.com/rn1hd#how-would-you-describe-your-work-style)
+- [How would you describe your management style?](https://github.com/rn1hd#how-would-you-describe-your-management-style)
+- [How quickly do you adapt to new technology?](https://github.com/rn1hd#how-quickly-do-you-adapt-to-new-technology)
+- [Do you prefer hard work, or smart work?](https://github.com/rn1hd#do-you-prefer-hard-work-or-smart-work)
 - [What makes you unique?](https://github.com/rn1hd#what-makes-you-unique)
 - [Where do you see yourself in 5 years?](https://github.com/rn1hd#where-do-you-see-yourself-in-5-years)
 - [Which is more important to you: the money, or the work?](https://github.com/rn1hd#which-is-more-important-to-you-the-money-or-the-work)
 - [Do you consider yourself successful?](https://github.com/rn1hd#do-you-consider-yourself-successful)
+- [What do you look for in terms of culture - structured or entrepreneurial?](https://github.com/rn1hd#what-do-you-look-for-in-terms-of-culture-structured-or-entrepreneurial)
+- [What techniques and tools do you use to keep yourself organized?](https://github.com/rn1hd#what-techniques-and-tools-do-you-use-to-keep-yourself-organized)
+- [How do you prioritize your work?](https://github.com/rn1hd#how-do-you-prioritize-your-work)
+- [If you had to choose one, would you consider yourself a big-picture person or a detail-oriented person?](https://github.com/rn1hd#if-you-had-to-choose-one-would-you-consider-yourself-a-big-picture-person-or-a-detail-oriented-person)
+- [Who was your favorite manager and why?](https://github.com/rn1hd#who-was-your-favorite-manager-and-why)
+- [What do you think of your previous boss?](https://github.com/rn1hd#what-do-you-think-of-your-previous-boss)
+- [Was there a person in your career who really made a difference?](https://github.com/rn1hd#was-there-a-person-in-your-career-who-really-made-a-difference)
+- [What kind of personality do you work best with and why?](https://github.com/rn1hd#what-kind-of-personality-do-you-work-best-with-and-why)
+- [What are you passionate about?](https://github.com/rn1hd#what-are-you-passionate-about)
+- [How do you like to be managed?](https://github.com/rn1hd#how-do-you-like-to-be-managed)
+- [What’s your dream job?](https://github.com/rn1hd#whats-your-dream-job)
+- [What do you ultimately want to become?](https://github.com/rn1hd#what-do-you-ultimately-want-to-become)
+- [What are three positive things your last boss would say about you?](https://github.com/rn1hd#what-are-three-positive-things-your-last-boss-would-say-about-you)
+- [What negative thing would your last boss say about you?](https://github.com/rn1hd#what-negative-thing-would-your-last-boss-say-about-you)
+- [What are three positive character traits you don't have?](https://github.com/rn1hd#what-are-three-positive-character-traits-you-dont-have)
+- [If you were interviewing someone for this position, what traits would you look for?](https://github.com/rn1hd#if-you-were-interviewing-someone-for-this-position-what-traits-would-you-look-for)
+- [List five words that describe your character.](https://github.com/rn1hd#list-five-words-that-describe-your-character)
+- [Are you planning on having children?](https://github.com/rn1hd#are-you-planning-on-having-children)
 - [When can you start?](https://github.com/rn1hd#when-can-you-start)
 - [Are you willing to relocate?](https://github.com/rn1hd#are-you-willing-to-relocate)
 - [Is there anything else you would like us to know?](https://github.com/rn1hd#is-there-anything-else-you-would-like-us-to-know)
@@ -454,6 +476,30 @@
 [Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
 - **Yes.** I touched on a software development project with thousands of lines of code, outdated libraries, and lack of documentation. I was in survival mode at that time because I must finish the task on time with all my might despite these obstacles. I applied a **job simplification** approach through improving code quality and eliminating unnecessary codes.
+
+#### **How would you describe your work style?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- I would describe my work style as **detail-oriented**, **focused**, and **organized**. During my business meeting with the team, I even pointed out typographical errors and word usage. Although those were simple mistakes, they can ruin the first impression with potential clients.
+
+#### **How would you describe your management style?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- I try to eliminate unnecessary complexity as much as I can for the sake of future maintainers. It is my team’s best interests to **make them feel relaxed and satisfied** with their own duties. Once an employee’s concerns have been addressed, it will be easy for everyone to give high quality service to their respective clients.
+
+#### **How quickly do you adapt to new technology?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- Through **intensive bootcamp training** to understand fundamentals and acquire best practices. I am currently applying creative design technologies in my upcoming personal projects.
+
+#### **Do you prefer hard work, or smart work?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- **Smart work**. Spending all my life in the workplace and putting in a lot of effort completing a task in the hope of attractive company benefits is not guaranteed. Smart work involves self-care, upskilling, and implementing strategies to get things done quickly and peacefully.
 
 #### **What makes you unique?**
 
@@ -478,6 +524,115 @@
 [Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
 - Yes, when it comes to how I can get to the leaderboard along with other amazing world champions in **[TypeRacer](https://data.typeracer.com/pit/profile?user=rnk1hd)** (see Awards for reference). I am always striving to do better through continuous learning and efficiency planning in other areas as well, so being successful is not only my personal achievement but also the positive impact of my efforts on the community.
+
+#### **What do you look for in terms of culture - structured or entrepreneurial?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- **Entrepreneurial**. I love working in a team where every member has the freedom to share their ideas irrespective of their position level. Irrelevant suggestions to the topic are inevitable, but positive feedback or an encouragement to continue coming up with more solutions are appreciated.
+
+#### **What techniques and tools do you use to keep yourself organized?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- I record business meetings transcribing audio into a written document to easily review what has been discussed.
+- I design and document application information through **Figma**.
+
+#### **How do you prioritize your work?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- I perform my duties to the best of my ability where it is most prioritized by the client while organizing my workload at the same time to benefit myself and my teammates.
+
+#### **If you had to choose one, would you consider yourself a big-picture person or a detail-oriented person?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- **Detail-oriented**. It is the responsibility of a software developer to minimize human errors as much as possible because even a single slip of code can destroy an entire business.
+
+#### **Who was your favorite manager and why?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- It is hard to pick because all the managers I have worked with made a **positive difference** in my life. The lenient manager taught me how to stay motivated. The strict manager taught me how to be more responsible and independent. Even an unresponsive manager helped me to become a risk-taker. As our ancestors said, comfort is the enemy of growth.
+
+#### **What do you think of your previous boss?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- All previous bosses I have worked with are **successful** in their lives. They all land in a top-rated multinational company. I am happy for them because they showed me some good qualities on both personal and professional matters during my tenure with them.
+
+#### **Was there a person in your career who really made a difference?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- **Yes**. He is one of a kind who keeps track of my personal and professional status, never gives up on me, and continuously provides professional assistance in my darkest days.
+
+#### **What kind of personality do you work best with and why?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- Someone who is a **comedian**. When stress adds up, a comedian’s power adds an extra layer of protection against emotional breakdown.
+
+#### **What are you passionate about?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- I am passionate about **Artificial Intelligence**. There are many things I can work on in Artificial Intelligence such as tackling manpower issues, improve economic growth, and supervise unaccompanied people.
+
+#### **How do you like to be managed?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- **Macromanagement** who steps back and trusts me to do my work using all possible means to achieve the business goal.
+
+#### **What’s your dream job?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- **Machine Learning Engineer** is my dream job because with the current trend in the market today, Artificial Intelligence is the technology of the future and being a part of the development team someday will contribute a lot to the society, observing how **[ChatGPT](https://openai.com/blog/chatgpt/)** becomes a trend on the headlines in the 1st quarter of 2023.
+
+#### **What do you ultimately want to become?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- I ultimately want to become a **Machine Learning Engineer** to fulfill my personal goal which is to develop an empathetic robot to supervise unaccompanied people that no one will be with them for the rest of their lives.
+
+#### **What are three positive things your last boss would say about you?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- Diligent, organized, and workaholic.
+
+#### **What negative thing would your last boss say about you?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- Weird
+
+#### **What are three positive character traits you don't have?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- **Effective verbal communicator**, **extrovert**, and **flexible**. With sufficient training and frequent exposure, these character traits will be possible to acquire.
+
+#### **If you were interviewing someone for this position, what traits would you look for?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- I look for just 3 traits: **Character**, **Attitude**, and **Reliability**. Anything else can be trained.
+
+#### **List five words that describe your character.**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- Ambitious, Honest, Optimistic, Persistent, and Sensitive.
+
+#### **Are you planning on having children?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- I prefer not to answer this question now. Life is unpredictable. Anything can happen in the future.
 
 #### **When can you start?**
 
@@ -513,20 +668,33 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</div>
 
 ### Software Development
 
+<div>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</div>
 
 ### Documentation
 
+<div>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="assets/badge/Sphinx.png" height="28" alt="TypeRacer" />
+  <img src="assets/badge/Sphinx.png" height="28" alt="Sphinx" />
+</div>
+
+### Project Management
+
+<div>
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="Miro" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+</div>
 
 ### Software Testing
 
+<div>
   <img src="https://img.shields.io/badge/Selenium-023020?style=for-the-badge&logo=selenium&logoColor=00FF00" alt="Selenium" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" />
 </div>
@@ -541,8 +709,6 @@
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-  
-  
 </div>
 
 <br/>
@@ -562,7 +728,7 @@
     <img src="assets/badge/TypeRacer.png" height="28" alt="TypeRacer" />
   </a>
   <a href="https://monkeytype.com/profile/rn1hd" target="_blank" rel="noreferrer">
-    <img src="assets/badge/Monkeytype.png" height="28" alt="TypeRacer" />
+    <img src="assets/badge/Monkeytype.png" height="28" alt="Monkeytype" />
   </a>
   <a href="https://typer.io/u/rn1hd" target="_blank" rel="noreferrer">
     <img src="assets/badge/Typer.io.png" height="28" alt="Typer.io" />
