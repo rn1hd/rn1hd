@@ -443,7 +443,7 @@
 - [Where do you see yourself in 5 years?](https://github.com/rn1hd#where-do-you-see-yourself-in-5-years)
 - [Which is more important to you: the money, or the work?](https://github.com/rn1hd#which-is-more-important-to-you-the-money-or-the-work)
 - [Do you consider yourself successful?](https://github.com/rn1hd#do-you-consider-yourself-successful)
-- [What do you look for in terms of culture - structured or entrepreneurial?](https://github.com/rn1hd#what-do-you-look-for-in-terms-of-culture-structured-or-entrepreneurial)
+- [What do you look for in terms of culture - structured or entrepreneurial?](https://github.com/rn1hd#what-do-you-look-for-in-terms-of-culture---structured-or-entrepreneurial)
 - [What techniques and tools do you use to keep yourself organized?](https://github.com/rn1hd#what-techniques-and-tools-do-you-use-to-keep-yourself-organized)
 - [How do you prioritize your work?](https://github.com/rn1hd#how-do-you-prioritize-your-work)
 - [If you had to choose one, would you consider yourself a big-picture person or a detail-oriented person?](https://github.com/rn1hd#if-you-had-to-choose-one-would-you-consider-yourself-a-big-picture-person-or-a-detail-oriented-person)
