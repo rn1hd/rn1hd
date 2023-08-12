@@ -14,7 +14,7 @@
   - **Machine Learning Engineer** is my dream job because with the current trend in the market today, Artificial Intelligence is the technology of the future and being a part of the development team someday will contribute a lot to the society, observing how **[ChatGPT](https://openai.com/blog/chatgpt/)** becomes a trend on the headlines in the 1st quarter of 2023. Working in an Artificial Intelligence department is where I am passionate about. Personally, I would love to develop a robotics system using Reinforcement Learning to prioritize unaccompanied people that no one will be with them for the rest of their lives. Instead of letting unaccompanied people feel alone, a robot will take over as a last resort to spend some time on emotional support, home assistance, and personal care.
   - **Full Stack Developer** is one of the promising goals for my career path, in fact there are more opportunities in the job market. This role can be beneficial when there are dead-end situations in the business that need to be resolved as soon as possible.
 - Outside in the world of technology, I am also a professional **pianist** using an upright piano with the brand of **[Lyric](https://www.lyric.ph/)** originated in the Philippines.
-- I have attached my resume [here](https://raw.githubusercontent.com/rn1hd/rn1hd/main/Resume/Resume.jpg).
+- I have attached my resume [here](https://raw.githubusercontent.com/rn1hd/rn1hd/main/Resume/Resume.webp).
 
 <br/>
 
@@ -542,7 +542,7 @@
 
 [Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
-- I perform my duties to the best of my ability where it is most prioritized by the client while organizing my workload at the same time to benefit myself and my teammates.
+- I perform my duties to the best of my ability where it is most prioritized by the client while organizing my workload at the same time to benefit myself and my teammates in the long run.
 
 #### **If you had to choose one, would you consider yourself a big-picture person or a detail-oriented person?**
 
@@ -572,7 +572,7 @@
 
 [Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
-- Someone who is a **comedian**. When stress adds up, a comedian’s power adds an extra layer of protection against emotional breakdown.
+- Someone who has a **good sense of humor**. When I feel stressed in the workplace, the one who can make me laugh prevents me from burnout.
 
 #### **What are you passionate about?**
 
@@ -670,7 +670,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </div>
 
-### Software Development
+### Backend Development
 
 <div>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -682,12 +682,13 @@
 
 <div>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="assets/badge/Sphinx.png" height="28" alt="Sphinx" />
+  <img src="assets/badge/Sphinx.webp" height="28" alt="Sphinx" />
 </div>
 
 ### Project Management
 
 <div>
+  <img src="assets/badge/Coggle.webp" height="28" alt="Coggle" />
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="Miro" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
 </div>
@@ -719,18 +720,18 @@
 
 <div>
   <a href="https://typingstats.com/profile/183859790336888832" target="_blank" rel="noreferrer">
-    <img src="assets/badge/Typing%20Stats.png" height="28" alt="Typing Stats" />
+    <img src="assets/badge/Typing%20Stats.webp" height="28" alt="Typing Stats" />
   </a>
   <a href="https://keymash.io/profile/rn1hd-3458/" target="_blank" rel="noreferrer">
-    <img src="assets/badge/Keymash.png" height="28" alt="Keymash" />
+    <img src="assets/badge/Keymash.webp" height="28" alt="Keymash" />
   </a>
   <a href="https://data.typeracer.com/pit/profile?user=rnk1hd" target="_blank" style="text-decoration:none" rel="noreferrer">
-    <img src="assets/badge/TypeRacer.png" height="28" alt="TypeRacer" />
+    <img src="assets/badge/TypeRacer.webp" height="28" alt="TypeRacer" />
   </a>
   <a href="https://monkeytype.com/profile/rn1hd" target="_blank" rel="noreferrer">
-    <img src="assets/badge/Monkeytype.png" height="28" alt="Monkeytype" />
+    <img src="assets/badge/Monkeytype.webp" height="28" alt="Monkeytype" />
   </a>
   <a href="https://typer.io/u/rn1hd" target="_blank" rel="noreferrer">
-    <img src="assets/badge/Typer.io.png" height="28" alt="Typer.io" />
+    <img src="assets/badge/Typer.io.webp" height="28" alt="Typer.io" />
   </a>
 </div>
