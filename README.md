@@ -452,6 +452,7 @@
 - [Was there a person in your career who really made a difference?](https://github.com/rn1hd#was-there-a-person-in-your-career-who-really-made-a-difference)
 - [What kind of personality do you work best with and why?](https://github.com/rn1hd#what-kind-of-personality-do-you-work-best-with-and-why)
 - [What are you passionate about?](https://github.com/rn1hd#what-are-you-passionate-about)
+- [What are your pet peeves?](https://github.com/rn1hd#what-are-your-pet-peeves)
 - [How do you like to be managed?](https://github.com/rn1hd#how-do-you-like-to-be-managed)
 - [What’s your dream job?](https://github.com/rn1hd#whats-your-dream-job)
 - [What do you ultimately want to become?](https://github.com/rn1hd#what-do-you-ultimately-want-to-become)
@@ -460,6 +461,8 @@
 - [What are three positive character traits you don't have?](https://github.com/rn1hd#what-are-three-positive-character-traits-you-dont-have)
 - [If you were interviewing someone for this position, what traits would you look for?](https://github.com/rn1hd#if-you-were-interviewing-someone-for-this-position-what-traits-would-you-look-for)
 - [List five words that describe your character.](https://github.com/rn1hd#list-five-words-that-describe-your-character)
+- [What's the most important thing you learned in school?](https://github.com/rn1hd#whats-the-most-important-thing-you-learned-in-school)
+- [Why did you choose your major?](https://github.com/rn1hd#why-did-you-choose-your-major)
 - [Are you planning on having children?](https://github.com/rn1hd#are-you-planning-on-having-children)
 - [When can you start?](https://github.com/rn1hd#when-can-you-start)
 - [Are you willing to relocate?](https://github.com/rn1hd#are-you-willing-to-relocate)
@@ -580,6 +583,12 @@
 
 - I am passionate about **Artificial Intelligence**. There are many things I can work on in Artificial Intelligence such as tackling manpower issues, improve economic growth, and supervise unaccompanied people.
 
+#### **What are your pet peeves?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- When I feel that my best is not good enough despite all the preparations I made.
+
 #### **How do you like to be managed?**
 
 [Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
@@ -614,7 +623,7 @@
 
 [Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
-- **Effective verbal communicator**, **extrovert**, and **flexible**. With sufficient training and frequent exposure, these character traits will be possible to acquire.
+- **Effective verbal communicator**, **flexible**, and **resilience**. With sufficient training and frequent exposure, these character traits will be possible to acquire.
 
 #### **If you were interviewing someone for this position, what traits would you look for?**
 
@@ -626,7 +635,19 @@
 
 [Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
-- Ambitious, Honest, Optimistic, Persistent, and Sensitive.
+- Ambitious, Introvert, Optimistic, Persistent, and Sensitive.
+
+#### **What's the most important thing you learned in school?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- My classmate’s **perspective** about success. I was in the mindset position to aim for the highest grade possible in my entire college years. I proved it when I graduated as Cum Laude. I was told that he will not be impressed by only performing well in school. He will only be impressed when he sees me in a managerial position on a stable job promoting healthy work culture.
+
+#### **Why did you choose your major?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- Mobile Applications Development was the **only available major offer** during that time in my college years. I was satisfied with the major I signed up for because of the growing number of mobile devices and end users dominating the market.
 
 #### **Are you planning on having children?**
 
