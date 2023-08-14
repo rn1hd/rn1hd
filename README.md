@@ -573,7 +573,7 @@
 
 [Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
-- • I consider **[uAdmin documentation](https://uadmin-docs.readthedocs.io/en/latest/)** as my greatest professional achievement where around 90% coverage of an entirety until version 0.7.4 is under my control. Almost all applications circulating within the previous company I worked at uses uAdmin tech stack. Imagine what the software developer’s experience would be without uAdmin documentation.
+- I consider **[uAdmin documentation](https://uadmin-docs.readthedocs.io/en/latest/)** as my greatest professional achievement where around 90% coverage of an entirety until version 0.7.4 is under my control. Almost all applications circulating within the previous company I worked at uses uAdmin tech stack. Imagine what the software developer’s experience would be without uAdmin documentation.
 
 #### **Who was your favorite manager and why?**
 
