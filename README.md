@@ -729,7 +729,7 @@
 
 [Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
-- I show empathy and openness to feedback to someone who really struggles to do his own duties. I perform job simplification as much as I can for everyone to foster collaboration.
+- I show **empathy** and **openness** to feedback to someone who really struggles to do his own duties. I perform **job simplification** as much as I can for everyone to foster collaboration.
 
 #### **Tell me the difference between good and exceptional.**
 
