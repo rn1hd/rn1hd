@@ -447,11 +447,13 @@
 - [What techniques and tools do you use to keep yourself organized?](https://github.com/rn1hd#what-techniques-and-tools-do-you-use-to-keep-yourself-organized)
 - [How do you prioritize your work?](https://github.com/rn1hd#how-do-you-prioritize-your-work)
 - [If you had to choose one, would you consider yourself a big-picture person or a detail-oriented person?](https://github.com/rn1hd#if-you-had-to-choose-one-would-you-consider-yourself-a-big-picture-person-or-a-detail-oriented-person)
+- [Tell me about your greatest professional achievement.](https://github.com/rn1hd#tell-me-about-your-greatest-professional-achievement)
 - [Who was your favorite manager and why?](https://github.com/rn1hd#who-was-your-favorite-manager-and-why)
 - [What do you think of your previous boss?](https://github.com/rn1hd#what-do-you-think-of-your-previous-boss)
 - [Was there a person in your career who really made a difference?](https://github.com/rn1hd#was-there-a-person-in-your-career-who-really-made-a-difference)
 - [What kind of personality do you work best with and why?](https://github.com/rn1hd#what-kind-of-personality-do-you-work-best-with-and-why)
 - [What are you passionate about?](https://github.com/rn1hd#what-are-you-passionate-about)
+- [What motivates you?](https://github.com/rn1hd#what-motivates-you)
 - [What are your pet peeves?](https://github.com/rn1hd#what-are-your-pet-peeves)
 - [How do you like to be managed?](https://github.com/rn1hd#how-do-you-like-to-be-managed)
 - [What’s your dream job?](https://github.com/rn1hd#whats-your-dream-job)
@@ -461,9 +463,23 @@
 - [What are three positive character traits you don't have?](https://github.com/rn1hd#what-are-three-positive-character-traits-you-dont-have)
 - [If you were interviewing someone for this position, what traits would you look for?](https://github.com/rn1hd#if-you-were-interviewing-someone-for-this-position-what-traits-would-you-look-for)
 - [List five words that describe your character.](https://github.com/rn1hd#list-five-words-that-describe-your-character)
+- [Who has impacted you most in your career and how?](https://github.com/rn1hd#who-has-impacted-you-most-in-your-career-and-how)
+- [What is your biggest regret and why?](https://github.com/rn1hd#what-is-your-biggest-regret-and-why)
 - [What's the most important thing you learned in school?](https://github.com/rn1hd#whats-the-most-important-thing-you-learned-in-school)
 - [Why did you choose your major?](https://github.com/rn1hd#why-did-you-choose-your-major)
+- [What will you miss about your present/last job?](https://github.com/rn1hd#what-will-you-miss-about-your-presentlast-job)
+- [What do you like to do outside of work?](https://github.com/rn1hd#what-do-you-like-to-do-outside-of-work)
+- [What is your greatest achievement outside of work?](https://github.com/rn1hd#what-is-your-greatest-achievement-outside-of-work)
+- [What are the qualities of a good leader? A bad leader?](https://github.com/rn1hd#what-are-the-qualities-of-a-good-leader-a-bad-leader)
+- [Do you think a leader should be feared or liked?](https://github.com/rn1hd#do-you-think-a-leader-should-be-feared-or-liked)
+- [How do you feel about taking no for an answer?](https://github.com/rn1hd#how-do-you-feel-about-taking-no-for-an-answer)
+- [How would you feel about working for someone who knows less than you?](https://github.com/rn1hd#how-would-you-feel-about-working-for-someone-who-knows-less-than-you)
+- [Tell me the difference between good and exceptional.](https://github.com/rn1hd#tell-me-the-difference-between-good-and-exceptional)
+- [There's no right or wrong answer, but if you could be anywhere in the world right now, where would you be?](https://github.com/rn1hd#theres-no-right-or-wrong-answer-but-if-you-could-be-anywhere-in-the-world-right-now-where-would-you-be)
+- [What do you like to do for fun?](https://github.com/rn1hd#what-do-you-like-to-do-for-fun)
+- [What do you do in your spare time?](https://github.com/rn1hd#what-do-you-do-in-your-spare-time)
 - [Are you planning on having children?](https://github.com/rn1hd#are-you-planning-on-having-children)
+- [How do you think I rate as an interviewer?](https://github.com/rn1hd#how-do-you-think-i-rate-as-an-interviewer)
 - [When can you start?](https://github.com/rn1hd#when-can-you-start)
 - [Are you willing to relocate?](https://github.com/rn1hd#are-you-willing-to-relocate)
 - [Is there anything else you would like us to know?](https://github.com/rn1hd#is-there-anything-else-you-would-like-us-to-know)
@@ -553,6 +569,12 @@
 
 - **Detail-oriented**. It is the responsibility of a software developer to minimize human errors as much as possible because even a single slip of code can destroy an entire business.
 
+#### **Tell me about your greatest professional achievement.**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- • I consider **[uAdmin documentation](https://uadmin-docs.readthedocs.io/en/latest/)** as my greatest professional achievement where around 90% coverage of an entirety until version 0.7.4 is under my control. Almost all applications circulating within the previous company I worked at uses uAdmin tech stack. Imagine what the software developer’s experience would be without uAdmin documentation.
+
 #### **Who was your favorite manager and why?**
 
 [Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
@@ -583,11 +605,17 @@
 
 - I am passionate about **Artificial Intelligence**. There are many things I can work on in Artificial Intelligence such as tackling manpower issues, improve economic growth, and supervise unaccompanied people.
 
+#### **What motivates you?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- I am motivated in learning **in-demand technologies** and exercising them in a practical setting where I can make a difference to business growth.
+
 #### **What are your pet peeves?**
 
 [Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
-- When I feel that my best is not good enough despite all the preparations I made.
+- When I feel that my best is **not good enough** despite all the preparations I made.
 
 #### **How do you like to be managed?**
 
@@ -637,6 +665,18 @@
 
 - Ambitious, Introvert, Optimistic, Persistent, and Sensitive.
 
+#### **Who has impacted you most in your career and how?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- A **senior game developer from China** impacted me the most. I was chosen to be my mentor after one of my projects was severely criticized in public which affects me mentally. With full dedication to the job and his investment in me, that **[project](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/Dareka%20Ga%20Nageta%20Ball.md)** led me to become an official member of **iBMS 4th Age**, a Chinese organization established in Tencent QQ.
+
+#### **What is your biggest regret and why?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- When I did not realize the **obstacles** which was identified at my last job. Although I graduated as Cum Laude in college, I was only too focused on what was being taught in school. I wish I had started exercising various technologies when I was **young** as a self-preparation for more challenging real-world business problems.
+
 #### **What's the most important thing you learned in school?**
 
 [Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
@@ -649,11 +689,83 @@
 
 - Mobile Applications Development was the **only available major offer** during that time in my college years. I was satisfied with the major I signed up for because of the growing number of mobile devices and end users dominating the market.
 
+#### **What will you miss about your present/last job?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- At my previous job I was permitted to use software documentation, automation testing, and 5-day work week strategies upon request. They serve as a **treatment** for technical debt. I know that your company can continuously uphold these strategies, which can contribute to a positive work environment for all parties involved in the long run.
+
+#### **What do you like to do outside of work?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- I would like to go **sightseeing** and **travel** around the world. Just by watching this Youtuber’s **[content](https://www.youtube.com/@DadaSweetie280)** already gave me pleasure.
+
+#### **What is your greatest achievement outside of work?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- When I had the chance to play grand piano in **[Pontefino Hotel](https://www.pontefinohotel.com/)** and **[Robinsons Mall](https://robinsonsmalls.com/)** Lipa branch.
+
+#### **What are the qualities of a good leader? A bad leader?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- A good leader is someone who sees my **potential** and gives me new opportunities while a bad one sees my **results** and gives me extra work.
+
+#### **Do you think a leader should be feared or liked?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- A leader deserves to be **liked**. A boss will do otherwise.
+
+#### **How do you feel about taking no for an answer?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- I **respect** his decision and **move on** to use other alternatives.
+
+#### **How would you feel about working for someone who knows less than you?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- I show empathy and openness to feedback to someone who really struggles to do his own duties. I perform job simplification as much as I can for everyone to foster collaboration.
+
+#### **Tell me the difference between good and exceptional.**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- Being good enough is someone who can deliver **high quality output** on time aligned with the client’s needs while being exceptional is not only excellent in his duties, but also the capability to promote **healthy work culture**.
+
+#### **There's no right or wrong answer, but if you could be anywhere in the world right now, where would you be?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- Philippines
+
+#### **What do you like to do for fun?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- I play piano, compete with amazing world champions in global typing competitions, and watch selected political news.
+
+#### **What do you do in your spare time?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- I am consistently **upskilling** to stay myself relevant in the current job market.
+
 #### **Are you planning on having children?**
 
 [Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
 - I prefer not to answer this question now. Life is unpredictable. Anything can happen in the future.
+
+#### **How do you think I rate as an interviewer?**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- I think you are doing a pretty **good job** as an interviewer. Asking me tough questions is challenging, but that approach helps us navigate who I really am and what I can do better as an individual.
 
 #### **When can you start?**
 
