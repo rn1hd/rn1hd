@@ -114,6 +114,8 @@
 - [How is documentation development beneficial in business?](https://github.com/rn1hd#how-is-documentation-development-beneficial-in-business)
 - [Why are you focusing on something different from Machine Learning Engineer?](https://github.com/rn1hd#why-are-you-focusing-on-something-different-from-machine-learning-engineer)
 - [When were you most satisfied in your job?](https://github.com/rn1hd#when-were-you-most-satisfied-in-your-job)
+- [Are you considering other positions in other companies?](https://github.com/rn1hd#are-you-considering-other-positions-in-other-companies)
+- [What other companies are you interviewing with?](https://github.com/rn1hd#what-other-companies-are-you-interviewing-with)
 - [What is your ideal company?](https://github.com/rn1hd#what-is-your-ideal-company)
 - [How did you hear about this position?](https://github.com/rn1hd#how-did-you-hear-about-this-position)
 - [What are you looking for in a new position?](https://github.com/rn1hd#what-are-you-looking-for-in-a-new-position)
@@ -181,7 +183,19 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- The most satisfying part about a job is when I manage to **make complicated things simple** through documentation, automation testing, and improving code quality of an entire system. This approach will not only benefit me, but also all members involved in the project to feel satisfied which can eventually lead to consistent business growth.
+- When I manage to **overcome** tough challenges resulting in business growth and employee satisfaction, which rewards great benefits that I deserve. All my hard work and determination paid off.
+
+#### **Are you considering other positions in other companies?**
+
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
+
+- **No**. I remain clear and resolute on a **Software Developer** position as my next target.
+
+#### **What other companies are you interviewing with?**
+
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
+
+- I am **not currently interviewing** with other companies because I wanted to focus on securing a position with your company. Your company has a better reputation, according to my research. Besides, I believe my skills and projects are more consistent to your needs than others. I have made my first move, presenting my proposal to one of your staff in **XYZ Subsidiary** to improve quality service by showcasing my past achievements, so I hope my presence will allow me to be part of a growing team.
 
 #### **What is your ideal company?**
 
@@ -474,6 +488,7 @@
 - [Do you think a leader should be feared or liked?](https://github.com/rn1hd#do-you-think-a-leader-should-be-feared-or-liked)
 - [How do you feel about taking no for an answer?](https://github.com/rn1hd#how-do-you-feel-about-taking-no-for-an-answer)
 - [How would you feel about working for someone who knows less than you?](https://github.com/rn1hd#how-would-you-feel-about-working-for-someone-who-knows-less-than-you)
+- [Tell me one thing about yourself you wouldn't want me to know.](https://github.com/rn1hd#tell-me-one-thing-about-yourself-you-wouldnt-want-me-to-know)
 - [Tell me the difference between good and exceptional.](https://github.com/rn1hd#tell-me-the-difference-between-good-and-exceptional)
 - [There's no right or wrong answer, but if you could be anywhere in the world right now, where would you be?](https://github.com/rn1hd#theres-no-right-or-wrong-answer-but-if-you-could-be-anywhere-in-the-world-right-now-where-would-you-be)
 - [What do you like to do for fun?](https://github.com/rn1hd#what-do-you-like-to-do-for-fun)
@@ -675,7 +690,7 @@
 
 [Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
-- When I did not realize the **obstacles** which was identified at my last job. Although I graduated as Cum Laude in college, I was only too focused on what was being taught in school. I wish I had started exercising various technologies when I was **young** as a self-preparation for more challenging real-world business problems.
+- When I did not realize the **obstacles** which were identified at my last job. Although I graduated as Cum Laude in college, I was only too focused on what was being taught in school. I wish I had started exercising various technologies when I was **young** as a self-preparation for more challenging real-world business problems.
 
 #### **What's the most important thing you learned in school?**
 
@@ -723,13 +738,19 @@
 
 [Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
-- I **respect** his decision and **move on** to use other alternatives.
+- I **respect** his decision and **move on** to use alternatives.
 
 #### **How would you feel about working for someone who knows less than you?**
 
 [Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
 
 - I show **empathy** and **openness** to feedback to someone who really struggles to do his own duties. I perform **job simplification** as much as I can for everyone to foster collaboration.
+
+#### **Tell me one thing about yourself you wouldn't want me to know.**
+
+[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+
+- I am **reluctant** to ask others for a repeat when I cannot understand the message fully, as well as seeking assistance from them in respect to their time and their own problems. Instead, I stick to using all possible independent means completing a task to the best of my ability for the sake of adaptability and courtesy, which are **two major factors** for annual performance review.
 
 #### **Tell me the difference between good and exceptional.**
 
