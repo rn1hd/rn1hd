@@ -189,7 +189,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- **No**. I remain clear and resolute on a **Software Developer** position as my next target.
+- **Yes**. Graphic designer and automation engineer positions are good alternatives, but I remain clear and resolute on a **Software Developer** position as my next target.
 
 #### **What other companies are you interviewing with?**
 
