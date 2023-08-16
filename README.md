@@ -99,7 +99,7 @@
 
 - [Basic Questions](https://github.com/rn1hd#basic-questions)
 - [Behavioral Questions](https://github.com/rn1hd#behavioral-questions)
-- [More Questions About You](https://github.com/rn1hd#more-questions-about-you)
+- [More Questions About Me](https://github.com/rn1hd#more-questions-about-me)
 
 ### **Basic Questions**
 
@@ -195,7 +195,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I am **not currently interviewing** with other companies because I wanted to focus on securing a position with your company. Your company has a better reputation, according to my research. Besides, I believe my skills and projects are more consistent to your needs than others. I have made my first move, presenting my proposal to one of your staff in **XYZ Subsidiary** to improve quality service by showcasing my past achievements, so I hope my presence will allow me to be part of a growing team.
+- I am **not currently interviewing** with other companies because I wanted to focus on securing a position with your company. Your company has a better reputation, according to my research. Besides, I believe my skills and projects are more consistent to your needs than others. I made my first move, presenting my proposal to one of your staff in **XYZ Subsidiary** to improve quality service by showcasing my past achievements, so I hope my presence will allow me to be part of a growing team.
 
 #### **What is your ideal company?**
 
@@ -251,7 +251,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- There are instances where I cannot **follow simple instructions** properly. This weakness gives me an initiative why taking down notes in almost every meeting, reliance on documentation, and mastering the role beforehand becomes essential.
+- There are instances where I cannot **follow simple instructions** properly. This weakness led me to taking down notes in almost every meeting, reliance on documentation, and mastering the role beforehand becomes essential.
 - **Verbal communication skills** are what I also regularly practice through making video presentations, taking listening exercises, and getting myself exposed to a productive community when this opportunity arrives.
 
 ### **Behavioral Questions**
@@ -307,7 +307,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- **Yes**, especially when technical debt is getting out of control. I collaborated with a software developer for an order management system. It did not go well when I did not address his concerns properly while trying to adapt complexity at the same time. This is when I started to eliminate unnecessary codes until I felt comfortable maintaining the project.
+- **Yes**, especially when technical debt is getting out of control. I collaborated with a software developer for an order management system. It did not go well when I did not address his concerns properly while trying to adapt complexity at the same time. This is when I started to eliminate codes that I find unnecessary until I felt comfortable maintaining the project.
 
 #### **Tell me about a time when you had to give someone difficult feedback. How did you handle it?**
 
@@ -443,7 +443,7 @@
 
 - I perform a task to the best of my ability where it is the **most priority** in the list of requests rated by the client through diplomatic channels.
 
-### **More Questions About You**
+### **More Questions About Me**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
@@ -501,308 +501,308 @@
 
 #### **Are you a team player?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - It all depends on the **compatibility** of my skills, passion, and job responsibilities. If I see a **good future** of a role that I was assigned to within my **career goals**, I am willing to give a hundred percent of my time and effort to showcase what I can bring to the team to achieve the business goal on time and what other contributions I can bring to the table.
 
 #### **Are you a risk-taker?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- **Yes.** I touched on a software development project with thousands of lines of code, outdated libraries, and lack of documentation. I was in survival mode at that time because I must finish the task on time with all my might despite these obstacles. I applied a **job simplification** approach through improving code quality and eliminating unnecessary codes.
+- **Yes.** I touched on a software development project with thousands of lines of code, outdated libraries, and lack of documentation. I was in survival mode at that time because I must finish the task on time with all my might despite these obstacles. I applied a **job simplification** approach through improving code quality and eliminating codes that I find unnecessary.
 
 #### **How would you describe your work style?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I would describe my work style as **detail-oriented**, **focused**, and **organized**. During my business meeting with the team, I even pointed out typographical errors and word usage. Although those were simple mistakes, they can ruin the first impression with potential clients.
 
 #### **How would you describe your management style?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I try to eliminate unnecessary complexity as much as I can for the sake of future maintainers. It is my team’s best interests to **make them feel relaxed and satisfied** with their own duties. Once an employee’s concerns have been addressed, it will be easy for everyone to give high quality service to their respective clients.
 
 #### **How quickly do you adapt to new technology?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - Through **intensive bootcamp training** to understand fundamentals and acquire best practices. I am currently applying creative design technologies in my upcoming personal projects.
 
 #### **Do you prefer hard work, or smart work?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - **Smart work**. Spending all my life in the workplace and putting in a lot of effort completing a task in the hope of attractive company benefits is not guaranteed. Smart work involves self-care, upskilling, and implementing strategies to get things done quickly and peacefully.
 
 #### **What makes you unique?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I really enjoy **learning new things** and regularly applying my knowledge into a practical setting using best practices as self-preparation for more challenging real-world business problems.
 
 #### **Where do you see yourself in 5 years?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - In five years, I would like to be a **Machine Learning Engineer** where I can see long-term career advancement from where I am now, as well as improving my communication skills further. Being proficient in both technical and interpersonal skills could help me get a leadership position and expand my duties.
 
 #### **Which is more important to you: the money, or the work?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - **Work** is more important for me than money. There might be other positions available that can pay me well, but the risks outweigh more than the benefits which affect my well-being. Therefore, I would prefer staying in a job where I can see personal and professional advancement.
 
 #### **Do you consider yourself successful?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - Yes, when it comes to how I can get to the leaderboard along with other amazing world champions in **[TypeRacer](https://data.typeracer.com/pit/profile?user=rnk1hd)** (see Awards for reference). I am always striving to do better through continuous learning and efficiency planning in other areas as well, so being successful is not only my personal achievement but also the positive impact of my efforts on the community.
 
 #### **What do you look for in terms of culture - structured or entrepreneurial?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - **Entrepreneurial**. I love working in a team where every member has the freedom to share their ideas irrespective of their position level. Irrelevant suggestions to the topic are inevitable, but positive feedback or an encouragement to continue coming up with more solutions are appreciated.
 
 #### **What techniques and tools do you use to keep yourself organized?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I record business meetings transcribing audio into a written document to easily review what has been discussed.
 - I design and document application information through **Figma**.
 
 #### **How do you prioritize your work?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I perform my duties to the best of my ability where it is most prioritized by the client while organizing my workload at the same time to benefit myself and my teammates in the long run.
 
 #### **If you had to choose one, would you consider yourself a big-picture person or a detail-oriented person?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - **Detail-oriented**. It is the responsibility of a software developer to minimize human errors as much as possible because even a single slip of code can destroy an entire business.
 
 #### **Tell me about your greatest professional achievement.**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I consider **[uAdmin documentation](https://uadmin-docs.readthedocs.io/en/latest/)** as my greatest professional achievement where around 90% coverage of an entirety until version 0.7.4 is under my control. Almost all applications circulating within the previous company I worked at uses uAdmin tech stack. Imagine what the software developer’s experience would be without uAdmin documentation.
 
 #### **Who was your favorite manager and why?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - It is hard to pick because all the managers I have worked with made a **positive difference** in my life. The lenient manager taught me how to stay motivated. The strict manager taught me how to be more responsible and independent. Even an unresponsive manager helped me to become a risk-taker. As our ancestors said, comfort is the enemy of growth.
 
 #### **What do you think of your previous boss?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - All previous bosses I have worked with are **successful** in their lives. They all land in a top-rated multinational company. I am happy for them because they showed me some good qualities on both personal and professional matters during my tenure with them.
 
 #### **Was there a person in your career who really made a difference?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - **Yes**. He is one of a kind who keeps track of my personal and professional status, never gives up on me, and continuously provides professional assistance in my darkest days.
 
 #### **What kind of personality do you work best with and why?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - Someone who has a **good sense of humor**. When I feel stressed in the workplace, the one who can make me laugh prevents me from burnout.
 
 #### **What are you passionate about?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I am passionate about **Artificial Intelligence**. There are many things I can work on in Artificial Intelligence such as tackling manpower issues, improve economic growth, and supervise unaccompanied people.
 
 #### **What motivates you?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I am motivated in learning **in-demand technologies** and exercising them in a practical setting where I can make a difference to business growth.
 
 #### **What are your pet peeves?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - When I feel that my best is **not good enough** despite all the preparations I made.
 
 #### **How do you like to be managed?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - **Macromanagement** who steps back and trusts me to do my work using all possible means to achieve the business goal.
 
 #### **What’s your dream job?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - **Machine Learning Engineer** is my dream job because with the current trend in the market today, Artificial Intelligence is the technology of the future and being a part of the development team someday will contribute a lot to the society, observing how **[ChatGPT](https://openai.com/blog/chatgpt/)** becomes a trend on the headlines in the 1st quarter of 2023.
 
 #### **What do you ultimately want to become?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I ultimately want to become a **Machine Learning Engineer** to fulfill my personal goal which is to develop an empathetic robot to supervise unaccompanied people that no one will be with them for the rest of their lives.
 
 #### **What are three positive things your last boss would say about you?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - Diligent, organized, and workaholic.
 
 #### **What negative thing would your last boss say about you?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - Weird
 
 #### **What are three positive character traits you don't have?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - **Effective verbal communicator**, **flexible**, and **resilience**. With sufficient training and frequent exposure, these character traits will be possible to acquire.
 
 #### **If you were interviewing someone for this position, what traits would you look for?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I look for just 3 traits: **Character**, **Attitude**, and **Reliability**. Anything else can be trained.
 
 #### **List five words that describe your character.**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - Ambitious, Introvert, Optimistic, Persistent, and Sensitive.
 
 #### **Who has impacted you most in your career and how?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - A **senior game developer from China** impacted me the most. I was chosen to be my mentor after one of my projects was severely criticized in public which affects me mentally. With full dedication to the job and his investment in me, that **[project](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/Dareka%20Ga%20Nageta%20Ball.md)** led me to become an official member of **iBMS 4th Age**, a Chinese organization established in Tencent QQ.
 
 #### **What is your biggest regret and why?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - When I did not realize the **obstacles** which were identified at my last job. Although I graduated as Cum Laude in college, I was only too focused on what was being taught in school. I wish I had started exercising various technologies when I was **young** as a self-preparation for more challenging real-world business problems.
 
 #### **What's the most important thing you learned in school?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - My classmate’s **perspective** about success. I was in the mindset position to aim for the highest grade possible in my entire college years. I proved it when I graduated as Cum Laude. I was told that he will not be impressed by only performing well in school. He will only be impressed when he sees me in a managerial position on a stable job promoting healthy work culture.
 
 #### **Why did you choose your major?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - Mobile Applications Development was the **only available major offer** during that time in my college years. I was satisfied with the major I signed up for because of the growing number of mobile devices and end users dominating the market.
 
 #### **What will you miss about your present/last job?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - At my previous job I was permitted to use software documentation, automation testing, and 5-day work week strategies upon request. They serve as a **treatment** for technical debt. I know that your company can continuously uphold these strategies, which can contribute to a positive work environment for all parties involved in the long run.
 
 #### **What do you like to do outside of work?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I would like to go **sightseeing** and **travel** around the world. Just by watching this Youtuber’s **[content](https://www.youtube.com/@DadaSweetie280)** already gave me pleasure.
 
 #### **What is your greatest achievement outside of work?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - When I had the chance to play grand piano in **[Pontefino Hotel](https://www.pontefinohotel.com/)** and **[Robinsons Mall](https://robinsonsmalls.com/)** Lipa branch.
 
 #### **What are the qualities of a good leader? A bad leader?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - A good leader is someone who sees my **potential** and gives me new opportunities while a bad one sees my **results** and gives me extra work.
 
 #### **Do you think a leader should be feared or liked?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - A leader deserves to be **liked**. A boss will do otherwise.
 
 #### **How do you feel about taking no for an answer?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I **respect** his decision and **move on** to use alternatives.
 
 #### **How would you feel about working for someone who knows less than you?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I show **empathy** and **openness** to feedback to someone who really struggles to do his own duties. I perform **job simplification** as much as I can for everyone to foster collaboration.
 
 #### **Tell me one thing about yourself you wouldn't want me to know.**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- I am **reluctant** to ask others for a repeat when I cannot understand the message fully, as well as seeking assistance from them in respect to their time and their own problems. Instead, I stick to using all possible independent means completing a task to the best of my ability for the sake of adaptability and courtesy, which are **two major factors** for annual performance review.
+- I am **reluctant** to ask others for a repeat when I cannot understand the message fully, as well as seeking assistance from them in respect to their time and their own problems. I stick to using all possible independent means completing a task to the best of my ability for the sake of adaptability and courtesy, which are **two major factors** under annual performance review.
 
 #### **Tell me the difference between good and exceptional.**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - Being good enough is someone who can deliver **high quality output** on time aligned with the client’s needs while being exceptional is not only excellent in his duties, but also the capability to promote **healthy work culture**.
 
 #### **There's no right or wrong answer, but if you could be anywhere in the world right now, where would you be?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - Philippines
 
 #### **What do you like to do for fun?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I play piano, compete with amazing world champions in global typing competitions, and watch selected political news.
 
 #### **What do you do in your spare time?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I am consistently **upskilling** to stay myself relevant in the current job market.
 
 #### **Are you planning on having children?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I prefer not to answer this question now. Life is unpredictable. Anything can happen in the future.
 
 #### **How do you think I rate as an interviewer?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I think you are doing a pretty **good job** as an interviewer. Asking me tough questions is challenging, but that approach helps us navigate who I really am and what I can do better as an individual.
 
 #### **When can you start?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I can start **immediately** if I start with a remote work setup first until I find a safe place to rent near your company location that is within my means.
 
 #### **Are you willing to relocate?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - **Yes**. I just need to ensure that a place to rent is safe and affordable, as well as how easy it is to commute.
 
 #### **Is there anything else you would like us to know?**
 
-[Back to Top (More Questions About You)](https://github.com/rn1hd#more-questions-about-you)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - **Yes**. In case I have created new accomplishments to showcase in the upcoming days that resemble the **Software Developer** requirements your company is looking for; I will keep you posted while my application process is pending.
 
