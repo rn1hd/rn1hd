@@ -245,7 +245,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- It is my **dedication** to reduce complexity of an entire system through documentation, automation testing, improve code quality, and design features based on a big picture to prevent **technical debt**. Anything else will become easier to fulfill once the primary goal has been achieved.
+- It is my **persistence** in acquiring valuable knowledge and competencies to remain myself relevant and prepare for the unexpected.
 
 #### **What do you consider to be your weaknesses?**
 
@@ -373,7 +373,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- **Yes.** The job simplification approach serves as a **last resort** when there are no other options available to fight technical debt. I understand that one wrong move can destroy everything, but letting the technical debt pile up will only prolong the conflict through slow progress and frequent accidents, which can eventually lead to the complete destruction of the system.
+- **Yes.** The job simplification approach serves as a **last resort** when there are no other options available to fight technical debt. I understand that one wrong move can destroy everything, but letting the technical debt pile up will only complicate the situation through slow progress and frequent accidents, which can eventually lead to the complete destruction of the system.
 
 #### **Give an example of when you performed well under pressure.**
 
@@ -750,7 +750,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- I am **reluctant** to ask others for a repeat when I cannot understand the message fully, as well as seeking assistance from them in respect to their time and their own problems. I stick to using all possible independent means completing a task to the best of my ability for the sake of adaptability and courtesy, which are **two major factors** under annual performance review.
+- I am **reluctant** to ask others for a repeat when I cannot understand the message fully, as well as seeking assistance from them in respect to their time and their own problems. I stick to using all possible independent means completing a task to the best of my ability for the sake of adaptability and courtesy, which are **two major factors** under employee performance evaluation.
 
 #### **Tell me the difference between good and exceptional.**
 
