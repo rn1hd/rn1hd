@@ -108,7 +108,7 @@
 - [Tell me about yourself.](https://github.com/rn1hd#tell-me-about-yourself)
 - [Walk me through your resume.](https://github.com/rn1hd#walk-me-through-your-resume)
 - [Why is there a gap in your employment?](https://github.com/rn1hd#why-is-there-a-gap-in-your-employment)
-- [What changes have been made since you resigned?](https://github.com/rn1hd#what-changes-have-been-made-since-you-resigned)
+- [What changes have been made during your career break?](https://github.com/rn1hd#what-changes-have-been-made-during-your-career-break)
 - [What did you like least about your last job?](https://github.com/rn1hd#what-did-you-like-least-about-your-last-job)
 - [How is being a creative designer related to your goal as a Full Stack Developer?](https://github.com/rn1hd#how-is-being-a-creative-designer-related-to-your-goal-as-a-full-stack-developer)
 - [How is documentation development beneficial in business?](https://github.com/rn1hd#how-is-documentation-development-beneficial-in-business)
