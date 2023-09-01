@@ -144,7 +144,7 @@
 
 - I **resigned** voluntarily to pursue other technologies for a better future within the **job market trends** and exercise my overall skills aiming for an **industry level standard**.
 
-#### **What changes have been made since you resigned?**
+#### **What changes have been made during your career break?**
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
@@ -189,7 +189,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- **Yes**. User experience designer and automation engineer positions are good alternatives, but I remain clear and resolute on a **Software Developer** position as my next target.
+- **Yes**. User experience designer, machine learning and automation engineer positions are good alternatives aside from **Software Developer** position.
 
 #### **What other companies are you interviewing with?**
 
@@ -487,6 +487,7 @@
 - [What are the qualities of a good leader? A bad leader?](https://github.com/rn1hd#what-are-the-qualities-of-a-good-leader-a-bad-leader)
 - [Do you think a leader should be feared or liked?](https://github.com/rn1hd#do-you-think-a-leader-should-be-feared-or-liked)
 - [How do you feel about taking no for an answer?](https://github.com/rn1hd#how-do-you-feel-about-taking-no-for-an-answer)
+- [What if you do not have any alternatives and their response is still no?](https://github.com/rn1hd#what-if-you-do-not-have-any-alternatives-and-their-response-is-still-no)
 - [How would you feel about working for someone who knows less than you?](https://github.com/rn1hd#how-would-you-feel-about-working-for-someone-who-knows-less-than-you)
 - [Tell me one thing about yourself you wouldn't want me to know.](https://github.com/rn1hd#tell-me-one-thing-about-yourself-you-wouldnt-want-me-to-know)
 - [Tell me the difference between good and exceptional.](https://github.com/rn1hd#tell-me-the-difference-between-good-and-exceptional)
@@ -739,6 +740,12 @@
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I **respect** his decision and **move on** to use alternatives.
+
+#### **What if you do not have any alternatives and their response is still no?**
+
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
+
+- I will **take risks** by conducting a series of unilateral actions using all possible means just to complete the tasks given to me quickly, consistently, and efficiently. Whatever the consequences, I will own them as my learning experience.
 
 #### **How would you feel about working for someone who knows less than you?**
 
