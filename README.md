@@ -282,6 +282,10 @@
 - [What do you think our company/organization could do better?](https://github.com/rn1hd#what-do-you-think-our-companyorganization-could-do-better)
 - [What assignment was too difficult for you, and how did you resolve the issue?](https://github.com/rn1hd#what-assignment-was-too-difficult-for-you-and-how-did-you-resolve-the-issue)
 - [What's the most difficult decision you've made in the last two years and how did you come to that decision?](https://github.com/rn1hd#whats-the-most-difficult-decision-youve-made-in-the-last-two-years-and-how-did-you-come-to-that-decision)
+- [How do you feel about taking no for an answer?](https://github.com/rn1hd#how-do-you-feel-about-taking-no-for-an-answer)
+- [What if you do not have any alternatives and their response is still no?](https://github.com/rn1hd#what-if-you-do-not-have-any-alternatives-and-their-response-is-still-no)
+- [How would you feel about working for someone who knows less than you?](https://github.com/rn1hd#how-would-you-feel-about-working-for-someone-who-knows-less-than-you)
+- [You showed empathy to someone, but he feels like your contributions are still not enough. How did you deal with it?](https://github.com/rn1hd#you-showed-empathy-to-someone-but-he-feels-like-your-contributions-are-still-not-enough-how-did-you-deal-with-it)
 - [What’s a time you disagree with a decision that was made at work?](https://github.com/rn1hd#whats-a-time-you-disagree-with-a-decision-that-was-made-at-work)
 - [Describe how you would handle a situation if you were required to finish multiple tasks by the end of the day, and there was no conceivable way that you could finish them.](https://github.com/rn1hd#describe-how-you-would-handle-a-situation-if-you-were-required-to-finish-multiple-tasks-by-the-end-of-the-day-and-there-was-no-conceivable-way-that-you-could-finish-them)
 
@@ -431,6 +435,30 @@
 
 - **Resignation** to pursue other technologies for a better future within the **job market trends** and exercise my overall skills aiming for an **industry level standard**.
 
+#### **How do you feel about taking no for an answer?**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- I **respect** his decision and **move on** to use alternatives.
+
+#### **What if you do not have any alternatives and their response is still no?**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- I will **take risks** by conducting a series of unilateral actions using all possible means just to complete the tasks given to me quickly, consistently, and efficiently. Whatever the consequences, I will own them as my learning experience.
+
+#### **How would you feel about working for someone who knows less than you?**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- I show **empathy** and **openness** to feedback to someone who really struggles to do his own duties. I perform **job simplification** as much as I can for everyone to foster collaboration.
+
+#### You showed empathy to someone, but he feels like your contributions are still not enough. How did you deal with it?
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- I will focus on doing things that **I can control**. "If I have not done enough, I am sorry because I cannot do it anymore." (Philippine President **[Rodrigo Duterte](https://youtu.be/MJH2ySfjtrs)**).
+
 #### **What’s a time you disagree with a decision that was made at work?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
@@ -486,9 +514,6 @@
 - [What is your greatest achievement outside of work?](https://github.com/rn1hd#what-is-your-greatest-achievement-outside-of-work)
 - [What are the qualities of a good leader? A bad leader?](https://github.com/rn1hd#what-are-the-qualities-of-a-good-leader-a-bad-leader)
 - [Do you think a leader should be feared or liked?](https://github.com/rn1hd#do-you-think-a-leader-should-be-feared-or-liked)
-- [How do you feel about taking no for an answer?](https://github.com/rn1hd#how-do-you-feel-about-taking-no-for-an-answer)
-- [What if you do not have any alternatives and their response is still no?](https://github.com/rn1hd#what-if-you-do-not-have-any-alternatives-and-their-response-is-still-no)
-- [How would you feel about working for someone who knows less than you?](https://github.com/rn1hd#how-would-you-feel-about-working-for-someone-who-knows-less-than-you)
 - [Tell me one thing about yourself you wouldn't want me to know.](https://github.com/rn1hd#tell-me-one-thing-about-yourself-you-wouldnt-want-me-to-know)
 - [Tell me the difference between good and exceptional.](https://github.com/rn1hd#tell-me-the-difference-between-good-and-exceptional)
 - [There's no right or wrong answer, but if you could be anywhere in the world right now, where would you be?](https://github.com/rn1hd#theres-no-right-or-wrong-answer-but-if-you-could-be-anywhere-in-the-world-right-now-where-would-you-be)
@@ -534,7 +559,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- **Smart work**. Spending all my life in the workplace and putting in a lot of effort completing a task in the hope of attractive company benefits is not guaranteed. Smart work involves self-care, upskilling, and implementing strategies to get things done quickly and peacefully.
+- **Smart work**. Spending all my life in the workplace and putting in a lot of effort completing a task in the hope of attractive company benefits is not guaranteed. Smart work involves self-care, upskilling, and implementing strategies to get things done quickly, consistently, and efficiently.
 
 #### **What makes you unique?**
 
@@ -734,24 +759,6 @@
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - A leader deserves to be **liked**. A boss will do otherwise.
-
-#### **How do you feel about taking no for an answer?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- I **respect** his decision and **move on** to use alternatives.
-
-#### **What if you do not have any alternatives and their response is still no?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- I will **take risks** by conducting a series of unilateral actions using all possible means just to complete the tasks given to me quickly, consistently, and efficiently. Whatever the consequences, I will own them as my learning experience.
-
-#### **How would you feel about working for someone who knows less than you?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- I show **empathy** and **openness** to feedback to someone who really struggles to do his own duties. I perform **job simplification** as much as I can for everyone to foster collaboration.
 
 #### **Tell me one thing about yourself you wouldn't want me to know.**
 
