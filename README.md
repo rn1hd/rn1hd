@@ -638,7 +638,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- Someone who has a **good sense of humor**. When I feel stressed in the workplace, the one who can make me laugh prevents me from burnout.
+- Someone who is **caring**. His presence will remain to accompany me in my darkest days.
 
 #### **What are you passionate about?**
 
