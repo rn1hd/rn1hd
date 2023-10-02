@@ -14,9 +14,13 @@ Performed by **Anderson Farah**
 
 Image edited by **DarkFunkerz**
 
-**Levels:** 3/16/24
+**Levels:** 3 / 16 / 24
+
+**Notes:** 529 / 1539 / 2731
 
 **BPM:** 132.12
+
+**Duration:** 03:15
 
 **Genre:** J-pop
 

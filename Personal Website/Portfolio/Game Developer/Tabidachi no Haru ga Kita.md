@@ -14,9 +14,13 @@ Performed by **S/mileage**
 
 Image edited in collaboration with **DarkFunkerz**
 
-**Levels:** 7/21/36
+**Levels:** 7 / 21 / 36
+
+**Notes:** 496 / 1452 / 5050
 
 **BPM:** 142.00
+
+**Duration:** 02:28 / 02:28 / 04:52
 
 **Genre:** J-pop
 

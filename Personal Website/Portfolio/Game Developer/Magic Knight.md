@@ -14,9 +14,13 @@ Performed by **Yuzurenai Nagai**
 
 Image edited by **DarkFunkerz**
 
-**Levels:** 7/15/26
+**Levels:** 7 / 15 / 26
+
+**Notes:** 802 / 1673 / 2818
 
 **BPM:** 133.00
+
+**Duration:** 03:53
 
 **Genre:** Anime
 

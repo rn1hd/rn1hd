@@ -14,9 +14,13 @@ Composed by **U1-ASAMI/TOMOSUKE**
 
 Image edited by **DarkFunkerz**
 
-**Levels:** 10/32/41
+**Levels:** 10 / 32 / 41
+
+**Notes:** 1308 / 3754 / 4933
 
 **BPM:** 148.00
+
+**Duration:** 04:13
 
 **Genre:** Eurobeat
 

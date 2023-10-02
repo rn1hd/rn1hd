@@ -14,9 +14,13 @@ Composed by **George Bellas**
 
 Image edited by **DarkFunkerz**
 
-**Levels:** 21/34/54
+**Levels:** 21 / 34 / 54
+
+**Notes:** 2194 / 3946 / 7018
 
 **BPM:** 224.00
+
+**Duration:** 04:04
 
 **Genre:** Rock
 

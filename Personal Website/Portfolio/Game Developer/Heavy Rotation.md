@@ -16,9 +16,13 @@ Pattern design in collaboration with **Mr.Azaness007**
 
 Image edited by **jRAM16 feat. DarkFunkerz**
 
-**Levels:** 6/19/32
+**Levels:** 10 / 25 / 36
+
+**Notes:** 1408 / 2630 / 4390
 
 **BPM:** 178.00
+
+**Duration:** 04:33
 
 **Genre:** J-pop
 

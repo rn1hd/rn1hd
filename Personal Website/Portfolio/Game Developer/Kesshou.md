@@ -14,9 +14,13 @@ Performed by **NMB48**
 
 Image edited by **Glenn Joseph**
 
-**Levels:** 8/18/29
+**Levels:** 8 / 18 / 29
+
+**Notes:** 424 / 1001 / 3663
 
 **BPM:** 122.00
+
+**Duration:** 02:02 / 02:02 / 04:27
 
 **Genre:** J-pop
 

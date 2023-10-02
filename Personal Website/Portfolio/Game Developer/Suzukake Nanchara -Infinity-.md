@@ -12,9 +12,13 @@
 
 Performed by **AKB48**
 
-**Levels:** 53/63/103
+**Levels:** 53 / 63 / 103
+
+**Notes:** 1586 / 2657 / 5170
 
 **BPM:** 180.00
+
+**Duration:** 00:57
 
 **Genre:** J-pop
 

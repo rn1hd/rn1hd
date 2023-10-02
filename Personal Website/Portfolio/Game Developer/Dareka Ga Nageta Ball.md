@@ -16,9 +16,13 @@ Pattern design in collaboration with **[4A] Tree** & **[4A] ILSPQ**
 
 Image edited by **DarkFunkerz**
 
-**Levels:** 14/17/31/33
+**Levels:** 14 / 17 / 31 / 33
+
+**Notes:** 1001 / 1111 / 4386 / 4201
 
 **BPM:** 132.00
+
+**Duration:** 02:14 / 02:14 / 05:02 / 04:59
 
 **Genre:** J-pop
 

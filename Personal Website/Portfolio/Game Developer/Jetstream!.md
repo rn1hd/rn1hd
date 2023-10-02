@@ -14,9 +14,13 @@ Composed by **Dimrain47**
 
 Image edited by **DarkFunkerz**
 
-**Levels:** 5/24/42
+**Levels:** 5 / 24 / 42
+
+**Notes:** 776 / 2954 / 5371
 
 **BPM:** 170.00
+
+**Duration:** 04:30
 
 **Genre:** Techno
 

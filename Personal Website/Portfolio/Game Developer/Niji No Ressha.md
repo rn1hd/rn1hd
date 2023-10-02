@@ -14,9 +14,13 @@ Performed by **NO NAME**
 
 Image edited by **DarkFunkerz**
 
-**Levels:** 7/28/51
+**Levels:** 7 / 28 / 51
+
+**Notes:** 655 / 2540 / 4642
 
 **BPM:** 168.00
+
+**Duration:** 03:17
 
 **Genre:** J-pop
 

@@ -12,9 +12,13 @@
 
 Performed by **C-ute**
 
-**Levels:** 11/29/44
+**Levels:** 11 / 29 / 44
+
+**Notes:** 1494 / 3582 / 5666
 
 **BPM:** 142.00
+
+**Duration:** 04:48
 
 **Genre:** J-pop
 

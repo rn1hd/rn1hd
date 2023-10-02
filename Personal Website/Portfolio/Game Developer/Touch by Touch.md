@@ -14,9 +14,13 @@ Performed by **Joy**
 
 Image edited by **DarkFunkerz**
 
-**Levels:** 4/22/40
+**Levels:** 4 / 22 / 40
+
+**Notes:** 536 / 2400 / 3209
 
 **BPM:** 127.00
+
+**Duration:** 03:27
 
 **Genre:** Dance
 

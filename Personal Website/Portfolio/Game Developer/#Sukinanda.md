@@ -14,9 +14,13 @@ Performed by **AKB48**
 
 Image edited by **Glenn Joseph**
 
-**Levels:** 8/21/34
+**Levels:** 8 / 21 / 34
+
+**Notes:** 445 / 1519 / 4445
 
 **BPM:** 175.00
+
+**Duration:** 02:06 / 02:07 / 04:31
 
 **Genre:** J-pop
 

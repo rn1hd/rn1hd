@@ -22,9 +22,13 @@ Pattern design in collaboration with **Mr.Azaness007**
 
 Image edited by **DarkFunkerz** (Regular Version) & **Majestouch** (Special Version)
 
-**Levels:** 3/14/30
+**Levels:** 3 / 14 / 30
+
+**Notes:** 243 / 756 / 1908
 
 **BPM:** 145.00
+
+**Duration:** 01:46
 
 **Genre:** Euro Trance
 

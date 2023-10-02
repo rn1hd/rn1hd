@@ -14,9 +14,13 @@ Composed by **Ice**
 
 Image edited by **@jogpen**
 
-**Levels:** 8/25/46
+**Levels:** 8 / 25 / 46
+
+**Notes:** 501 / 1701 / 3101
 
 **BPM:** 170.00
+
+**Duration:** 02:29 / 02:27 / 02:29
 
 **Genre:** Classical
 

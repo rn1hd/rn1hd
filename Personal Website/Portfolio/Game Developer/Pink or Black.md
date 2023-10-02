@@ -16,9 +16,13 @@ Pattern design in collaboration with **NIE**
 
 Image edited by **Miruby**
 
-**Levels:** 9/19/27
+**Levels:** 9 / 19 / 27
+
+**Notes:** 638 / 1553 / 2184
 
 **BPM:** 131.00
+
+**Duration:** 03:10
 
 **Genre:** J-pop
 

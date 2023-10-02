@@ -14,9 +14,13 @@ Performed by **One Direction**
 
 Image edited by **DarkFunkerz**
 
-**Levels:** 5/15/25
+**Levels:** 5 / 15 / 25
+
+**Notes:** 621 / 1520 / 2468
 
 **BPM:** 125.00
+
+**Duration:** 03:20
 
 **Genre:** Rock
 

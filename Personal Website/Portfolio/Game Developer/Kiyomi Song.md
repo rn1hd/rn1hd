@@ -14,9 +14,13 @@ Performed by **Hari**
 
 Image edited by **DarkFunkerz**
 
-**Levels:** 3/11/21
+**Levels:** 3 / 11 / 21
+
+**Notes:** 396 / 952 / 1798
 
 **BPM:** 184.00
+
+**Duration:** 02:43
 
 **Genre:** K-pop
 

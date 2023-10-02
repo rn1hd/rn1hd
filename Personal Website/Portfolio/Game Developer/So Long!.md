@@ -14,9 +14,13 @@ Performed by **AKB48**
 
 Image edited by **Nightshroud**
 
-**Levels:** 6/18/30
+**Levels:** 6 / 18 / 30
+
+**Notes:** 954 / 2789 / 4364
 
 **BPM:** 92.00
+
+**Duration:** 06:04
 
 **Genre:** J-pop
 

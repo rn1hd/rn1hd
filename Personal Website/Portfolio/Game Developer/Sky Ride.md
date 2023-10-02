@@ -16,7 +16,11 @@ Pattern design in collaboration with **Erox**
 
 Image edited by **Terah**
 
-**Levels:** 4/20/35
+**Levels:** 4 / 20 / 35
+
+**Notes:** 251 / 1287 / 1976
+
+**Duration:** 01:59
 
 **BPM:** 142.00
 

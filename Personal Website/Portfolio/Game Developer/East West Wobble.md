@@ -16,9 +16,13 @@ Pattern design in collaboration with **Rena**
 
 Image edited by **NIE**
 
-**Levels:** 3/10/24
+**Levels:** 3 / 10 / 24
+
+**Notes:** 194 / 391 / 899
 
 **BPM:** 140.00
+
+**Duration:** 01:40
 
 **Genre:** DubStep Style
 

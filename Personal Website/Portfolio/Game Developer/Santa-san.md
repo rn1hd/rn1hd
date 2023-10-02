@@ -14,9 +14,13 @@ Performed by **Momoiro Clover Z**
 
 Image edited by **DarkFunkerz**
 
-**Levels:** 10/24/43
+**Levels:** 10 / 24 / 43
+
+**Notes:** 1084 / 2746 / 5050
 
 **BPM:** 190.00
+
+**Duration:** 04:48
 
 **Genre:** Dance
 

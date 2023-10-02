@@ -14,9 +14,13 @@ Composed by **DJ Dugem**
 
 Image edited by **Gelo03007**
 
-**Levels:** 6/19/32
+**Levels:** 6 / 19 / 32
+
+**Notes:** 576 / 1551 / 2356
 
 **BPM:** 170.00
+
+**Duration:** 02:33
 
 **Genre:** Dance
 

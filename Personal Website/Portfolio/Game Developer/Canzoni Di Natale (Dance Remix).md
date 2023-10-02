@@ -14,9 +14,13 @@ Composed by **DJ Christmas**
 
 Image edited by **DarkFunkerz**
 
-**Levels:** 6/13/20
+**Levels:** 6 / 13 / 20
+
+**Notes:** 503 / 1159 / 1800
 
 **BPM:** 165.00
+
+**Duration:** 02:22
 
 **Genre:** Dance
 

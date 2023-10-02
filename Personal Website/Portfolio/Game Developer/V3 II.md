@@ -26,9 +26,13 @@ Pattern design in collaboration with **[4A] Tree**
 
 Image edited by **Cudox** (Regular Version) & **Glenn Joseph** (Special Version)
 
-**Levels:** 7/18/32/36
+**Levels:** 7 / 18 / 32 / 36
 
-**BPM:** 120.00-160.00-120.00-160.50-160.00
+**Notes:** 576 / 1377 / 2373 / 2533
+
+**BPM:** 120.00 - 160.00 - 120.00 - 160.50 - 160.00
+
+**Duration:** 02:42
 
 **Genre:** Classical
 

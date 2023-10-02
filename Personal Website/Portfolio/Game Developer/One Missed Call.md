@@ -14,9 +14,13 @@ Performed by **Reinhold Heil**
 
 Image edited by **DarkFunkerz**
 
-**Levels:** 3/12/19
+**Levels:** 3 / 12 / 19
+
+**Notes:** 370 / 1085 / 1596
 
 **BPM:** 130.00
+
+**Duration:** 03:06
 
 **Genre:** Thrill
 

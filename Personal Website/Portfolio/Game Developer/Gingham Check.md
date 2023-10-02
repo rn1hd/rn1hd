@@ -14,9 +14,13 @@ Performed by **AKB48**
 
 Image edited by **DarkFunkerz**
 
-**Levels:** 7/29/39
+**Levels:** 7 / 29 / 39
+
+**Notes:** 1143 / 4065 / 5920
 
 **BPM:** 175.00
+
+**Duration:** 05:24
 
 **Genre:** J-pop
 

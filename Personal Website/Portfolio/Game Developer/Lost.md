@@ -14,9 +14,13 @@ Performed by **Yumiki Erino**
 
 Image edited by **DarkFunkerz**
 
-**Levels:** 6/17/28
+**Levels:** 6 / 17 / 28
+
+**Notes:** 726 / 1712 / 3372
 
 **BPM:** 103.00
+
+**Duration:** 04:39
 
 **Genre:** J-pop
 

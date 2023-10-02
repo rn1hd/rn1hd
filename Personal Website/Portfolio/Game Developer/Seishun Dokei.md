@@ -14,9 +14,13 @@ Performed by **NGT48**
 
 Image edited by **Glenn Joseph**
 
-**Levels:** 6/13/27
+**Levels:** 6 / 13 / 27
+
+**Notes:** 296 / 692 / 2570
 
 **BPM:** 115.00
+
+**Duration:** 01:42 / 01:43 / 03:26
 
 **Genre:** J-pop
 

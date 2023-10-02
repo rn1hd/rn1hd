@@ -47,9 +47,9 @@
 - I have experienced working in the following organizations:
   - AngelJam (2012-2013)
   - OtakuJam (2013)
-  - O2Jam V3 International (2013-2018)
   - Palace of Sound (2014-2016)
   - iBMS 4th Age (2015)
+  - O2Jam V3 International (2013-2018)
 - See portfolio **[here](https://github.com/rn1hd/rn1hd/tree/main/Personal%20Website/Portfolio/Game%20Developer)**.
 
 ### Transcriptionist ⌨

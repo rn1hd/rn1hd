@@ -14,9 +14,13 @@ Performed by **Love High**
 
 Image edited by **DarkFunkerz**
 
-**Levels:** 5/17/27
+**Levels:** 5 / 17 / 27
+
+**Notes:** 797 / 2399 / 3414
 
 **BPM:** 127.00
+
+**Duration:** 03:44
 
 **Genre:** K-pop
 

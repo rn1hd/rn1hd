@@ -14,9 +14,13 @@ Performed by **Suzy**
 
 Image edited by **DarkFunkerz**
 
-**Levels:** 5/11/17
+**Levels:** 5 / 11 / 17
+
+**Notes:** 474 / 1093 / 1862
 
 **BPM:** 99.00
+
+**Duration:** 03:40
 
 **Genre:** Ballad
 

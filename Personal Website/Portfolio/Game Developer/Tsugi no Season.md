@@ -14,9 +14,13 @@ Performed by **AKB48**
 
 Image edited by **corenik**
 
-**Levels:** 7/26/38
+**Levels:** 7 / 26 / 38
+
+**Notes:** 484 / 3144 / 4701
 
 **BPM:** 195.00
+
+**Duration:** 01:59 / 04:24 / 04:23
 
 **Genre:** J-pop
 

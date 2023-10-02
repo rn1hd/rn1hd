@@ -16,9 +16,13 @@ Pattern design in collaboration with **nimbuskid**
 
 Image edited by **Glenn Joseph**
 
-**Levels:** 2/7/37
+**Levels:** 2 / 7 / 37
 
-**BPM:** 100.00 (Easy and Normal), 200.00 (Hard)
+**Notes:** 171 / 462 / 2083
+
+**BPM:** 100.00 / 100.00 / 200.00
+
+**Duration:** 02:04
 
 **Genre:** Classical
 

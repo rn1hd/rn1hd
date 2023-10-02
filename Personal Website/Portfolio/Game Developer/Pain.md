@@ -14,9 +14,13 @@ Composed by **Various Artists**
 
 Image edited by **DarkFunkerz**
 
-**Levels:** 7/16/25
+**Levels:** 7 / 16 / 25
+
+**Notes:** 485 / 1205 / 1848
 
 **BPM:** 173.00
+
+**Duration:** 03:03
 
 **Genre:** Classical
 

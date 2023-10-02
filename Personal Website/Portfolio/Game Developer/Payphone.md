@@ -14,9 +14,13 @@ Performed by **Maroon 5**
 
 Image edited by **DarkFunkerz**
 
-**Levels:** 3/15/28
+**Levels:** 3 / 15 / 28
+
+**Notes:** 576 / 1613 / 3101
 
 **BPM:** 110.00
+
+**Duration:** 03:55
 
 **Genre:** Pop
 
