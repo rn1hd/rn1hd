@@ -149,8 +149,9 @@
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - I acquired **[creative design skills](https://github.com/rn1hd#creative-design)**, currently exercising them in my upcoming personal projects.
-- My typing skills improved through competing in **[TypeRacer](https://data.typeracer.com/pit/profile?user=rnk1hd)** that can be beneficial to quickly take down notes during business meetings for future use.
-- I continue my **Pianist journey** through playing more songs that I personally prefer.
+- My typing skills improved through competing in **[TypeRacer](https://raw.githubusercontent.com/rn1hd/rn1hd/main/Personal%20Website/Gameplays/TypeRacer.mp4)** that can be beneficial to quickly take down notes during business meetings for future use.
+- I also compete in **[Tic Tac Toe](https://raw.githubusercontent.com/rn1hd/rn1hd/main/Personal%20Website/Gameplays/Tic%20Tac%20Toe.mp4)** and **[Gomoku](https://raw.githubusercontent.com/rn1hd/rn1hd/main/Personal%20Website/Gameplays/Gomoku.mp4)** to improve cognitive function, concentration, and problem-solving skills in a variety of situations outside of the game.
+- I continued my **Pianist journey** through playing more songs that I personally prefer.
 
 #### **What did you like least about your last job?**
 
@@ -245,7 +246,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- It is my **persistence** in acquiring valuable knowledge and competencies to remain myself relevant and prepare for the unexpected.
+- It is my **persistence** in acquiring valuable knowledge and competencies to stay myself relevant and prepare for the unexpected.
 
 #### **What do you consider to be your weaknesses?**
 
