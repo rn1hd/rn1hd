@@ -83,10 +83,10 @@
 
 [Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
-- My job as a **Creative Designer** has started when I was working in O2Jam from 2012 to 2015 with the following responsibilities:
+- My job as a **Creative Designer** has started when I was working in several O2Jam organizations from 2012 to 2018 with the following responsibilities:
 
   - Loading images for some of my notechart projects using **Adobe Photoshop**
-  - 3 difficulty notechart preview video presentations as a sneak peek on what to expect in the next month's song update using **[Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/)**
+  - Multiple difficulty notechart preview video presentations as a sneak peek on what to expect in the next month's song update using **[Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/)**
 
 - This position is where I am **working in progress**.
 - See portfolio **[here](https://github.com/rn1hd/rn1hd/tree/main/Personal%20Website/Portfolio/Creative%20Designer)**.
@@ -109,7 +109,9 @@
 - [Walk me through your resume.](https://github.com/rn1hd#walk-me-through-your-resume)
 - [Why is there a gap in your employment?](https://github.com/rn1hd#why-is-there-a-gap-in-your-employment)
 - [What changes have been made during your career break?](https://github.com/rn1hd#what-changes-have-been-made-during-your-career-break)
+- [Is your best personal record in Tic Tac Toe and Gomoku that convincing?](https://github.com/rn1hd#is-your-best-personal-record-in-tic-tac-toe-and-gomoku-that-convincing)
 - [What did you like least about your last job?](https://github.com/rn1hd#what-did-you-like-least-about-your-last-job)
+- [What is the matter behind a company proprietary web framework?](https://github.com/rn1hd#what-is-the-matter-behind-a-company-proprietary-web-framework)
 - [How is being a creative designer related to your goal as a Full Stack Developer?](https://github.com/rn1hd#how-is-being-a-creative-designer-related-to-your-goal-as-a-full-stack-developer)
 - [How is documentation development beneficial in business?](https://github.com/rn1hd#how-is-documentation-development-beneficial-in-business)
 - [Why are you focusing on something different from Machine Learning Engineer?](https://github.com/rn1hd#why-are-you-focusing-on-something-different-from-machine-learning-engineer)
@@ -150,14 +152,26 @@
 
 - I acquired **[creative design skills](https://github.com/rn1hd#creative-design)**, currently exercising them in my upcoming personal projects.
 - My typing skills improved through competing in **[TypeRacer](https://github.com/rn1hd/rn1hd/assets/49872771/f6aa70cc-45b1-45c8-9b8a-2ec604d7aa03)** that can be beneficial to quickly take down notes during business meetings for future use.
-- I also compete in **[Tic Tac Toe](https://github.com/rn1hd/rn1hd/assets/49872771/3b9a368a-37c8-4ea7-9415-41161f10e11c)** and **[Gomoku](https://github.com/rn1hd/rn1hd/assets/49872771/659d3712-d3ba-43cf-adcf-37388a3b293e)** to improve cognitive function, concentration, and problem-solving skills in a variety of situations outside of the game.
+- I also compete in **[Tic Tac Toe](https://github.com/rn1hd/rn1hd/assets/49872771/3b9a368a-37c8-4ea7-9415-41161f10e11c)** and **[Gomoku](https://github.com/rn1hd/rn1hd/assets/49872771/659d3712-d3ba-43cf-adcf-37388a3b293e)** to improve cognitive function, concentration, and problem-solving skills in a variety of situations outside of the game. See attached best personal record **[here](https://github.com/rn1hd/rn1hd/tree/main/assets/Best%20Personal%20Record.webp)**.
 - I continued my **Pianist journey** through playing more songs that I personally prefer.
+
+#### **Is your best personal record in Tic Tac Toe and Gomoku that convincing?**
+
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
+
+- Whatever the results, there is always **room for improvement**. I take these challenges as a self-preparation to unexpected difficult situations where I will be on my own to survive requiring a quick, consistent, and efficient output.
 
 #### **What did you like least about your last job?**
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - In my last job, I was responsible for maintaining a company proprietary web framework from documentation up to regularly using it in software development projects. I am looking forward to a job that allows me to use in-demand, up-to-date technologies with large community support. That is one of the things that most excited me about your **Software Developer** position.
+
+#### **What is the matter behind a company proprietary web framework?**
+
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
+
+- Spending a lot of time to sync the documentation with the latest version despite having limited source code knowledge and career opportunities will affect the **manpower** of the business. Setting aside to prioritize urgent tasks will increase the technical debt which can really get out of hand. The framework is excellent, but using third party technologies would be a better option for a small team.
 
 #### **How is being a creative designer related to your goal as a Full Stack Developer?**
 
