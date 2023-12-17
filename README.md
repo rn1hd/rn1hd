@@ -152,7 +152,7 @@
 
 - I acquired **[creative design skills](https://github.com/rn1hd#creative-design)**, currently exercising them in my upcoming personal projects.
 - My typing skills improved through competing in **[TypeRacer](https://github.com/rn1hd/rn1hd/assets/49872771/f6aa70cc-45b1-45c8-9b8a-2ec604d7aa03)** that can be beneficial to quickly take down notes during business meetings for future use.
-- I also compete in **[Tic Tac Toe](https://github.com/rn1hd/rn1hd/assets/49872771/3b9a368a-37c8-4ea7-9415-41161f10e11c)** and **[Gomoku](https://github.com/rn1hd/rn1hd/assets/49872771/659d3712-d3ba-43cf-adcf-37388a3b293e)** to improve cognitive function, concentration, and problem-solving skills in a variety of situations outside of the game. See attached best personal record **[here](https://github.com/rn1hd/rn1hd/tree/main/assets/Best%20Personal%20Record.webp)**.
+- I also compete in **[Tic Tac Toe](https://github.com/rn1hd/rn1hd/assets/49872771/3b9a368a-37c8-4ea7-9415-41161f10e11c)** and **[Gomoku](https://github.com/rn1hd/rn1hd/assets/49872771/659d3712-d3ba-43cf-adcf-37388a3b293e)** to improve cognitive function, concentration, and problem-solving skills in a variety of situations outside of the game. See attached best personal record **[here](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Personal%20Record.webp)**.
 - I continued my **Pianist journey** through playing more songs that I personally prefer.
 
 #### **Is your best personal record in Tic Tac Toe and Gomoku that convincing?**
