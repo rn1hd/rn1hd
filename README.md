@@ -159,7 +159,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- • Whatever the results, there is always **room for improvement**. I take these challenges as self-preparation for unexpected difficult situations where I will be on my own to survive requiring a quick, consistent, and efficient performance output.
+- Whatever the results, there is always **room for improvement**. I take these challenges as self-preparation for unexpected difficult situations where I will be on my own to survive requiring a quick, consistent, and efficient performance output.
 
 #### **What did you like least about your last job?**
 
