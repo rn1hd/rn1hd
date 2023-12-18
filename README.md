@@ -159,7 +159,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- Whatever the results, there is always **room for improvement**. I take these challenges as a self-preparation to unexpected difficult situations where I will be on my own to survive requiring a quick, consistent, and efficient output.
+- • Whatever the results, there is always **room for improvement**. I take these challenges as self-preparation for unexpected difficult situations where I will be on my own to survive requiring a quick, consistent, and efficient performance output.
 
 #### **What did you like least about your last job?**
 
@@ -725,7 +725,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- A **Chinese senior game developer** impacted me the most. I was chosen to be my mentor after one of my projects was severely criticized in public which affects me mentally. With full dedication to the job and his investment in me, that **[project](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/Dareka%20Ga%20Nageta%20Ball.md)** led me to become an official member of **iBMS 4th Age**, a Chinese organization established in Tencent QQ.
+- A **Chinese senior game developer** impacted me the most. I was chosen to be my mentor after one of my projects was severely criticized in the public community which affects me mentally. With full dedication to the job and his investment in me, that **[project](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/Dareka%20Ga%20Nageta%20Ball.md)** led me to become an official member of **iBMS 4th Age**, a Chinese organization established in Tencent QQ.
 
 #### **What is your biggest regret and why?**
 
