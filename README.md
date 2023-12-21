@@ -109,7 +109,7 @@
 - [Walk me through your resume.](https://github.com/rn1hd#walk-me-through-your-resume)
 - [Why is there a gap in your employment?](https://github.com/rn1hd#why-is-there-a-gap-in-your-employment)
 - [What changes have been made during your career break?](https://github.com/rn1hd#what-changes-have-been-made-during-your-career-break)
-- [Is your best personal record in Tic Tac Toe and Gomoku that convincing?](https://github.com/rn1hd#is-your-best-personal-record-in-tic-tac-toe-and-gomoku-that-convincing)
+- [Is your best personal record in Tic Tac Toe and Gomoku convincing and relevant?](https://github.com/rn1hd#is-your-best-personal-record-in-tic-tac-toe-and-gomoku-convincing-and-relevant)
 - [What did you like least about your last job?](https://github.com/rn1hd#what-did-you-like-least-about-your-last-job)
 - [What is the matter behind a company proprietary web framework?](https://github.com/rn1hd#what-is-the-matter-behind-a-company-proprietary-web-framework)
 - [How is being a creative designer related to your goal as a Full Stack Developer?](https://github.com/rn1hd#how-is-being-a-creative-designer-related-to-your-goal-as-a-full-stack-developer)
@@ -153,9 +153,10 @@
 - I acquired **[creative design skills](https://github.com/rn1hd#creative-design)**, currently exercising them in my upcoming personal projects.
 - My typing skills improved through competing in **[TypeRacer](https://github.com/rn1hd/rn1hd/assets/49872771/f6aa70cc-45b1-45c8-9b8a-2ec604d7aa03)** that can be beneficial to quickly take down notes during business meetings for future use.
 - I also compete in **[Tic Tac Toe](https://github.com/rn1hd/rn1hd/assets/49872771/3b9a368a-37c8-4ea7-9415-41161f10e11c)** and **[Gomoku](https://github.com/rn1hd/rn1hd/assets/49872771/659d3712-d3ba-43cf-adcf-37388a3b293e)** to improve cognitive function, concentration, and problem-solving skills in a variety of situations outside of the game. See attached best personal record **[here](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Personal%20Record.webp)**.
+- I made it to the **[Top 11](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Gomoku%20Record.webp)** in **World Gomoku Tournament Leaderboard** on December 21, 2023, captured at 7:36 PM (GMT +8).
 - I continued my **Pianist journey** through playing more songs that I personally prefer.
 
-#### **Is your best personal record in Tic Tac Toe and Gomoku that convincing?**
+#### **Is your best personal record in Tic Tac Toe and Gomoku convincing and relevant?**
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
