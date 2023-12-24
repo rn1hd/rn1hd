@@ -431,7 +431,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I just smile and express my **gratitude** for delivering my order properly. Personally, I would prefer a well-done steak instead of a rare one.
+- I will request the waiter for a **replacement** until they finally serve the dish that I have expected.
 
 #### **If you found out your company was doing something against the law, like fraud, what would you do?**
 
