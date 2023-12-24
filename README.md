@@ -431,7 +431,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I will request the waiter for a **replacement** until they finally serve the dish that I have expected.
+- I will request the waiter for **replacement** in a professional manner until they finally serve the dish that I have expected.
 
 #### **If you found out your company was doing something against the law, like fraud, what would you do?**
 
