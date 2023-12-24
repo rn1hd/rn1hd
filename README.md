@@ -10,11 +10,11 @@
 
 [Back to Top](https://github.com/rn1hd#hi-there-)
 
-- I am a **Software Developer** with professional experience in web development, automation testing, and design thinking. I am currently focusing on acquiring new skills related to modern technologies dominant in the job market.
+- I am a **Software Developer** with professional experience in web development, automation testing, and design thinking. I am currently focusing on acquiring new skills dominant in the job market.
   - **Machine Learning Engineer** is my dream job because with the current trend in the market today, Artificial Intelligence is the technology of the future and being a part of the development team someday will contribute a lot to the society, observing how **[ChatGPT](https://openai.com/blog/chatgpt/)** becomes a trend on the headlines in the 1st quarter of 2023. Working in an Artificial Intelligence department is where I am passionate about. Personally, I would love to develop a robotics system using Reinforcement Learning to prioritize unaccompanied people that no one will be with them for the rest of their lives. Instead of letting unaccompanied people feel alone, a robot will take over as a last resort to spend some time on emotional support, home assistance, and personal care.
   - **Full Stack Developer** is one of the promising goals for my career path, in fact there are more opportunities in the job market. This role can be beneficial when there are dead-end situations in the business that need to be resolved as soon as possible.
-- I am also a professional **pianist** outside in the world of technology.
-- I have attached my resume [here](https://raw.githubusercontent.com/rn1hd/rn1hd/main/Resume/Resume.webp).
+- I am also a professional **[pianist](https://dai.ly/k7cw9palXoXTN3zMRRY)** outside in the world of technology.
+- I have attached my resume **[here](https://raw.githubusercontent.com/rn1hd/rn1hd/main/Resume/Resume.webp)**.
 
 <br/>
 
@@ -88,7 +88,6 @@
   - Loading images for some of my notechart projects using **Adobe Photoshop**
   - Multiple difficulty notechart preview video presentations as a sneak peek on what to expect in the next month's song update using **[Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/)**
 
-- This position is where I am **working in progress**.
 - See portfolio **[here](https://github.com/rn1hd/rn1hd/tree/main/Personal%20Website/Portfolio/Creative%20Designer)**.
 
 <br/>
@@ -285,6 +284,7 @@
 - [How do you deal with pressure or stressful situations?](https://github.com/rn1hd#how-do-you-deal-with-pressure-or-stressful-situations)
 - [How do you feel about working weekends or late hours?](https://github.com/rn1hd#how-do-you-feel-about-working-weekends-or-late-hours)
 - [If I were your supervisor and asked you to do something that you disagreed with, what would you do?](https://github.com/rn1hd#if-i-were-your-supervisor-and-asked-you-to-do-something-that-you-disagreed-with-what-would-you-do)
+- [What if your tolerance has already reached beyond the limit?](https://github.com/rn1hd#what-if-your-tolerance-has-already-reached-beyond-the-limit)
 - [What was the most difficult period in your life, and how did you deal with it?](https://github.com/rn1hd#what-was-the-most-difficult-period-in-your-life-and-how-did-you-deal-with-it)
 - [Give me an example of a time you did something wrong. How did you handle it?](https://github.com/rn1hd#give-me-an-example-of-a-time-you-did-something-wrong-how-did-you-handle-it)
 - [Give an example of how you have handled a challenge in the workplace before.](https://github.com/rn1hd#give-an-example-of-how-you-have-handled-a-challenge-in-the-workplace-before)
@@ -369,7 +369,13 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I **walk on eggshells** if the task is still relevant to the position I signed up for in accordance with the law. Diplomacy and dialogue are the key to strengthening trust and understanding between the two parties.
+- I **walk on eggshells** exhausting all remaining alternatives and tolerance to meet my supervisor's expectations. Diplomacy and dialogue are the key to strengthening trust and understanding between the two parties.
+
+#### **What if your tolerance has already reached beyond the limit?**
+
+[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
+
+- It is about time to emphasize the need for a **paradigm shift** in tackling various issues as diplomatic efforts with the authority were heading in a **poor direction**. "We have to do something what we have not done before. We have to come up with a new concept, a new principle, a new idea so that we move, as I say, we move the needle the other way. It’s going up, let’s move the needle back, so that paradigm shift is something that we have to formulate." (Philippine President **[Ferdinand Bongbong Marcos Jr.](https://youtu.be/DHkfMK3O2Eo)**).
 
 #### **What was the most difficult period in your life, and how did you deal with it?**
 
@@ -425,13 +431,13 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I just smile and express my gratitude for delivering my order properly.
+- I just smile and express my **gratitude** for delivering my order properly. Personally, I would prefer a well-done steak instead of a rare one.
 
 #### **If you found out your company was doing something against the law, like fraud, what would you do?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- If illegal activities were taking place within the company I worked for, the last thing I would do is to **leave immediately** because as an employee of the company, I am also part of it, which can severely affect my future employment.
+- If illegal activities were taking place within the company I worked for, I would report the case first to the **ambassador** of the company to seek a peaceful resolution. Once all diplomatic efforts have been exhausted and no progress has been made, the last thing I would do is to **leave immediately** before it gets too late.
 
 #### **What do you think our company/organization could do better?**
 
@@ -473,7 +479,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I will focus on doing things that **I can control**. "If I have not done enough, I am sorry because I cannot do it anymore." (Philippine President **[Rodrigo Duterte](https://youtu.be/MJH2ySfjtrs)**).
+- I will focus on doing things that **I can control**. "If I have not done enough, I am sorry because I cannot do it anymore." (Philippine President **[Rodrigo Roa Duterte](https://youtu.be/MJH2ySfjtrs)**).
 
 #### **What’s a time you disagree with a decision that was made at work?**
 
