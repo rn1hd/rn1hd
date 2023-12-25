@@ -108,7 +108,7 @@
 - [Walk me through your resume.](https://github.com/rn1hd#walk-me-through-your-resume)
 - [Why is there a gap in your employment?](https://github.com/rn1hd#why-is-there-a-gap-in-your-employment)
 - [What changes have been made during your career break?](https://github.com/rn1hd#what-changes-have-been-made-during-your-career-break)
-- [Is your best personal record in Tic Tac Toe and Gomoku convincing and relevant?](https://github.com/rn1hd#is-your-best-personal-record-in-tic-tac-toe-and-gomoku-convincing-and-relevant)
+- [Is your best personal record in online competitions convincing and relevant?](https://github.com/rn1hd#is-your-best-personal-record-in-online-competitions-convincing-and-relevant)
 - [What did you like least about your last job?](https://github.com/rn1hd#what-did-you-like-least-about-your-last-job)
 - [What is the matter behind a company proprietary web framework?](https://github.com/rn1hd#what-is-the-matter-behind-a-company-proprietary-web-framework)
 - [How is being a creative designer related to your goal as a Full Stack Developer?](https://github.com/rn1hd#how-is-being-a-creative-designer-related-to-your-goal-as-a-full-stack-developer)
@@ -152,10 +152,13 @@
 - I acquired **[creative design skills](https://github.com/rn1hd#creative-design)**, currently exercising them in my upcoming personal projects.
 - My typing skills improved through competing in **[TypeRacer](https://github.com/rn1hd/rn1hd/assets/49872771/f6aa70cc-45b1-45c8-9b8a-2ec604d7aa03)** that can be beneficial to quickly take down notes during business meetings for future use.
 - I also compete in **[Tic Tac Toe](https://github.com/rn1hd/rn1hd/assets/49872771/3b9a368a-37c8-4ea7-9415-41161f10e11c)** and **[Gomoku](https://github.com/rn1hd/rn1hd/assets/49872771/659d3712-d3ba-43cf-adcf-37388a3b293e)** to improve cognitive function, concentration, and problem-solving skills in a variety of situations outside of the game.
-- I made it to the **[Top 11](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Gomoku%20Record.webp)** in **World Gomoku Tournament Leaderboard** on December 21, 2023, captured at 7:36 PM (GMT +8) and **[Top 21](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Tic%20Tac%20Toe%20Record.webp)** in **World Tic Tac Toe Tournament Leaderboard** on December 25, 2023, captured at 9:28 PM (GMT +8).
+- **Best personal record** in online competitions are as follows:
+  - **[Top 1](https://data.typeracer.com/pit/competitions?sort=points&date=2022-10-05&kind=day&page=0&n=20)** in **[TypeRacer](https://play.typeracer.com/)**, the Global Typing Competition on October 5, 2022.
+  - **[Top 11](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Gomoku%20Record.webp)** in **World Gomoku Tournament Leaderboard** on December 21, 2023, captured at 7:36 PM (GMT +8).
+  - **[Top 21](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Tic%20Tac%20Toe%20Record.webp)** in **World Tic Tac Toe Tournament Leaderboard** on December 25, 2023, captured at 9:28 PM (GMT +8).
 - I continued my **[Pianist journey](https://dai.ly/k7cw9palXoXTN3zMRRY)** through playing more songs that I personally prefer.
 
-#### **Is your best personal record in Tic Tac Toe and Gomoku convincing and relevant?**
+#### **Is your best personal record in online competitions convincing and relevant?**
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
@@ -798,13 +801,13 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- Philippines
+- A place where I can develop myself to become a **better person**.
 
 #### **What do you like to do for fun?**
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- I play piano, compete with **amazing world champions** in online competitions, and watch selected political news.
+- I play piano, compete with **amazing world champions** in online competitions, and watch selected world news.
 
 #### **What do you do in your spare time?**
 
@@ -822,7 +825,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- I think you are doing a pretty **good job** as an interviewer. Asking me tough questions is challenging, but that approach helps us navigate who I really am and what I can do better as an individual.
+- I think you are doing a pretty **good job** as an interviewer. Asking me tough questions is challenging, but that approach helps us navigate where do I stand and what I can do better as an individual.
 
 #### **When can you start?**
 
