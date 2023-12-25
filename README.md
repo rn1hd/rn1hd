@@ -151,8 +151,8 @@
 
 - I acquired **[creative design skills](https://github.com/rn1hd#creative-design)**, currently exercising them in my upcoming personal projects.
 - My typing skills improved through competing in **[TypeRacer](https://github.com/rn1hd/rn1hd/assets/49872771/f6aa70cc-45b1-45c8-9b8a-2ec604d7aa03)** that can be beneficial to quickly take down notes during business meetings for future use.
-- I also compete in **[Tic Tac Toe](https://github.com/rn1hd/rn1hd/assets/49872771/3b9a368a-37c8-4ea7-9415-41161f10e11c)** and **[Gomoku](https://github.com/rn1hd/rn1hd/assets/49872771/659d3712-d3ba-43cf-adcf-37388a3b293e)** to improve cognitive function, concentration, and problem-solving skills in a variety of situations outside of the game. See attached best personal record **[here](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Personal%20Record.webp)**.
-- I made it to the **[Top 11](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Gomoku%20Record.webp)** in **World Gomoku Tournament Leaderboard** on December 21, 2023, captured at 7:36 PM (GMT +8).
+- I also compete in **[Tic Tac Toe](https://github.com/rn1hd/rn1hd/assets/49872771/3b9a368a-37c8-4ea7-9415-41161f10e11c)** and **[Gomoku](https://github.com/rn1hd/rn1hd/assets/49872771/659d3712-d3ba-43cf-adcf-37388a3b293e)** to improve cognitive function, concentration, and problem-solving skills in a variety of situations outside of the game.
+- I made it to the **[Top 11](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Gomoku%20Record.webp)** in **World Gomoku Tournament Leaderboard** on December 21, 2023, captured at 7:36 PM (GMT +8) and **[Top 21](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Tic%20Tac%20Toe%20Record.webp)** in **World Tic Tac Toe Tournament Leaderboard** on December 25, 2023, captured at 9:28 PM (GMT +8).
 - I continued my **[Pianist journey](https://dai.ly/k7cw9palXoXTN3zMRRY)** through playing more songs that I personally prefer.
 
 #### **Is your best personal record in Tic Tac Toe and Gomoku convincing and relevant?**
@@ -216,7 +216,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- An ideal company for me is a place that encourages personal and professional growth, promotes team collaboration and work-life balance.
+- An ideal company for me is a place that **encourages** personal and professional growth, promotes team collaboration and work-life balance.
 
 #### **How did you hear about this position?**
 
@@ -315,7 +315,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- When I need to simplify the project as much as I can if my productivity and ability to manage workload is getting out of control.
+- When I need to simplify the project **as much as I can** if my productivity and ability to manage workload is getting out of control.
 
 #### **Can you describe a time when your work was criticized?**
 
@@ -405,13 +405,13 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- When I managed to implement SMS feature in the backend using the AJAX version of Golang for an order management system.
+- When I managed to implement **SMS** in the backend using the AJAX version of Golang for an order management system.
 
 #### **Give an example of when you showed leadership qualities.**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I met a software developer where we have something in common. I shared the story on how I get started for inspiration ideas, my values, and techniques to deal with project tasks.
+- I met a software developer where we have **something in common**. I shared the story on how I get started for inspiration ideas, my values, and techniques to deal with project tasks.
 
 #### **Tell me about a challenge or conflict you’ve faced at work, and how you dealt with it.**
 
@@ -624,7 +624,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- I perform my duties to the best of my ability where it is most prioritized by the client while organizing my workload at the same time to benefit myself and my teammates in the long run.
+- I perform my duties **to the best of my ability** where it is most prioritized by the client while organizing my workload at the same time to benefit myself and my teammates in the long run.
 
 #### **If you had to choose one, would you consider yourself a big-picture person or a detail-oriented person?**
 
@@ -804,7 +804,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- I play piano, compete with amazing world champions in global typing competitions, and watch selected political news.
+- I play piano, compete with **amazing world champions** in online competitions, and watch selected political news.
 
 #### **What do you do in your spare time?**
 
@@ -816,7 +816,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- I prefer not to answer this question now. Life is unpredictable. Anything can happen in the future.
+- I prefer not to answer this question now. Life is **unpredictable**. Anything can happen in the future.
 
 #### **How do you think I rate as an interviewer?**
 
