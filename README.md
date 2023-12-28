@@ -109,6 +109,7 @@
 - [Why is there a gap in your employment?](https://github.com/rn1hd#why-is-there-a-gap-in-your-employment)
 - [What changes have been made during your career break?](https://github.com/rn1hd#what-changes-have-been-made-during-your-career-break)
 - [Is your best personal record in online competitions convincing and relevant?](https://github.com/rn1hd#is-your-best-personal-record-in-online-competitions-convincing-and-relevant)
+- [Do you consider yourself a champion material in online competitions?](https://github.com/rn1hd#do-you-consider-yourself-a-champion-material-in-online-competitions)
 - [What did you like least about your last job?](https://github.com/rn1hd#what-did-you-like-least-about-your-last-job)
 - [What is the matter behind a company proprietary web framework?](https://github.com/rn1hd#what-is-the-matter-behind-a-company-proprietary-web-framework)
 - [How is being a creative designer related to your goal as a Full Stack Developer?](https://github.com/rn1hd#how-is-being-a-creative-designer-related-to-your-goal-as-a-full-stack-developer)
@@ -162,7 +163,13 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- Whatever the results, there is always **room for improvement**. I take these challenges as self-preparation for unexpected difficult situations where I will be on my own to survive requiring a quick, consistent, and efficient performance output.
+- Whatever the results, there is always **room for improvement**. I take these challenges as self-preparation for unexpected difficult real-world situations where I will be on my own to survive requiring a quick, consistent, and efficient performance output.
+
+#### **Do you consider yourself a champion material in online competitions?**
+
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
+
+- I am still **way behind** from that. Being one of the world champions in a specific field is a bonus but at the end of the day, my **strategy** in dealing with unexpected difficult real-world situations is what really matters where I will be on my own to survive requiring a quick, consistent, and efficient performance output.
 
 #### **What did you like least about your last job?**
 
@@ -517,6 +524,7 @@
 - [Tell me about your greatest professional achievement.](https://github.com/rn1hd#tell-me-about-your-greatest-professional-achievement)
 - [Who was your favorite manager and why?](https://github.com/rn1hd#who-was-your-favorite-manager-and-why)
 - [What do you think of your previous boss?](https://github.com/rn1hd#what-do-you-think-of-your-previous-boss)
+- [What do you think of your previous colleagues?](https://github.com/rn1hd#what-do-you-think-of-your-previous-colleagues)
 - [Was there a person in your career who really made a difference?](https://github.com/rn1hd#was-there-a-person-in-your-career-who-really-made-a-difference)
 - [What kind of personality do you work best with and why?](https://github.com/rn1hd#what-kind-of-personality-do-you-work-best-with-and-why)
 - [What are you passionate about?](https://github.com/rn1hd#what-are-you-passionate-about)
@@ -608,7 +616,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- Yes, when it comes to how I can get to the leaderboard along with other amazing world champions in **[TypeRacer](https://data.typeracer.com/pit/profile?user=rnk1hd)** (see Awards for reference). I am always striving to do better through continuous learning and efficiency planning in other areas as well, so being successful is not only my personal achievement but also the positive impact of my efforts on the community.
+- **Yes**. I am always striving to do better through continuous learning and efficiency planning in other areas as well, so being successful is not only my personal achievement but also the positive impact of my efforts on the community.
 
 #### **What do you look for in terms of culture - structured or entrepreneurial?**
 
@@ -652,6 +660,12 @@
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - All previous bosses I have worked with are **successful** in their lives. They all land in a top-rated multinational company. I am happy for them because they showed me some good qualities on both personal and professional matters during my tenure with them.
+
+#### **What do you think of your previous colleagues?**
+
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
+
+- All previous colleagues I have worked with have **excellent social communication skills**. They are all getting along with each other, properly handle client's concerns, and dedicated in their own ways. Some of them express empathy during my darkest days. In times of crises, I recognize that their reactions are valid and constructive criticism is how I can develop myself to become a better person.
 
 #### **Was there a person in your career who really made a difference?**
 
