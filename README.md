@@ -803,7 +803,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- I am **reluctant** to ask others for a repeat when I cannot understand the message fully, as well as seeking assistance from them in respect to their time and their own problems. I stick to using all possible independent means completing a task to the best of my ability for the sake of adaptability and courtesy, which are **two major factors** under employee performance evaluation.
+- I am **reluctant** to ask others for a repeat when I cannot understand the message fully, as well as seeking assistance from them in respect to their time and boundaries. I stick to using all possible independent means completing a task to the best of my ability for the sake of adaptability and courtesy, which are **two major factors** under employee performance evaluation.
 
 #### **Tell me the difference between good and exceptional.**
 
