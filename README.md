@@ -155,8 +155,8 @@
 - I also compete in **[Tic Tac Toe](https://github.com/rn1hd/rn1hd/assets/49872771/3b9a368a-37c8-4ea7-9415-41161f10e11c)** and **[Gomoku](https://github.com/rn1hd/rn1hd/assets/49872771/659d3712-d3ba-43cf-adcf-37388a3b293e)** to improve cognitive function, concentration, and problem-solving skills in a variety of situations outside of the game.
 - **Best personal record** in online competitions are as follows:
   - **[Top 1](https://data.typeracer.com/pit/competitions?sort=points&date=2022-10-05&kind=day&page=0&n=20)** in **[TypeRacer](https://play.typeracer.com/)**, the Global Typing Competition on October 5, 2022.
+  - **[Top 6](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Tic%20Tac%20Toe%20Record.webp)** in **World Tic Tac Toe Tournament Leaderboard** on January 2, 2024, captured at 5:06 PM (GMT +8).
   - **[Top 11](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Gomoku%20Record.webp)** in **World Gomoku Tournament Leaderboard** on December 21, 2023, captured at 7:36 PM (GMT +8).
-  - **[Top 21](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Tic%20Tac%20Toe%20Record.webp)** in **World Tic Tac Toe Tournament Leaderboard** on December 25, 2023, captured at 9:28 PM (GMT +8).
 - I continued my **[Pianist journey](https://dai.ly/k7cw9palXoXTN3zMRRY)** through playing more songs that I personally prefer.
 
 #### **Is your best personal record in online competitions convincing and relevant?**
