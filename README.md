@@ -13,7 +13,7 @@
 - I am a **Software Developer** with professional experience in web development, automation testing, and design thinking. I am currently focusing on acquiring new skills dominant in the job market.
   - **Machine Learning Engineer** is my dream job because with the current trend in the market today, Artificial Intelligence is the technology of the future and being a part of the development team someday will contribute a lot to the society, observing how **[ChatGPT](https://openai.com/blog/chatgpt/)** becomes a trend on the headlines in the 1st quarter of 2023. Working in an Artificial Intelligence department is where I am passionate about. Personally, I would love to develop a robotics system using Reinforcement Learning to prioritize unaccompanied people that no one will be with them for the rest of their lives. Instead of letting unaccompanied people feel alone, a robot will take over as a last resort to spend some time on emotional support, home assistance, and personal care.
   - **Full Stack Developer** is one of the promising goals for my career path, in fact there are more opportunities in the job market. This role can be beneficial when there are dead-end situations in the business that need to be resolved as soon as possible.
-- I am also a professional **[pianist](https://dai.ly/k7cw9palXoXTN3zMRRY)** outside in the world of technology.
+- I am also a professional **[pianist](https://dai.ly/k3loMuNrK90sOQzOXKu)** outside in the world of technology.
 - I have attached my resume **[here](https://raw.githubusercontent.com/rn1hd/rn1hd/main/Resume/Resume.webp)**.
 
 <br/>
@@ -152,12 +152,12 @@
 
 - I acquired **[creative design skills](https://github.com/rn1hd#creative-design)**, currently exercising them in my upcoming personal projects.
 - My typing skills improved through competing in **[TypeRacer](https://github.com/rn1hd/rn1hd/assets/49872771/f6aa70cc-45b1-45c8-9b8a-2ec604d7aa03)** that can be beneficial to quickly take down notes during business meetings for future use.
-- I also compete in **[Tic Tac Toe](https://github.com/rn1hd/rn1hd/assets/49872771/3b9a368a-37c8-4ea7-9415-41161f10e11c)** and **[Gomoku](https://github.com/rn1hd/rn1hd/assets/49872771/659d3712-d3ba-43cf-adcf-37388a3b293e)** to improve cognitive function, concentration, and problem-solving skills in a variety of situations outside of the game.
+- I also compete in **[Tic Tac Toe](https://github.com/rn1hd/rn1hd/assets/49872771/3b9a368a-37c8-4ea7-9415-41161f10e11c)** and **[Gomoku](https://github.com/rn1hd/rn1hd/assets/49872771/b6eb7db6-3054-4c7e-be2b-374b712c1ca4)** to improve cognitive function, concentration, and problem-solving skills in a variety of situations outside of the game.
 - **Best personal record** in online competitions are as follows:
   - **[Top 1](https://data.typeracer.com/pit/competitions?sort=points&date=2022-10-05&kind=day&page=0&n=20)** in **[TypeRacer](https://play.typeracer.com/)**, the Global Typing Competition on October 5, 2022.
   - **[Top 6](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Tic%20Tac%20Toe%20Record.webp)** in **World Tic Tac Toe Tournament Leaderboard** on January 2, 2024, captured at 5:06 PM (GMT +8).
   - **[Top 11](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Gomoku%20Record.webp)** in **World Gomoku Tournament Leaderboard** on December 21, 2023, captured at 7:36 PM (GMT +8).
-- I continued my **[Pianist journey](https://dai.ly/k7cw9palXoXTN3zMRRY)** through playing more songs that I personally prefer.
+- I continued my **[Pianist journey](https://dai.ly/k3loMuNrK90sOQzOXKu)** through playing more songs that I personally prefer.
 
 #### **Is your best personal record in online competitions convincing and relevant?**
 
@@ -447,7 +447,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- If illegal activities were taking place within the company I worked for, I would report the case first to the **ambassador** of the company to seek a peaceful resolution. Once all diplomatic efforts have been exhausted and no progress has been made, the last thing I would do is to **leave immediately** before it gets too late.
+- I would report the case first to the **ambassador** of the company to seek a peaceful resolution. Once all diplomatic efforts have been exhausted and no progress has been made, the last thing I would do is to **leave immediately** before it gets too late.
 
 #### **What do you think our company/organization could do better?**
 
