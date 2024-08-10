@@ -36,7 +36,7 @@
 - My motivation to become a pianist started at 13 years old when my father bought an electronic piano.
 - I enrolled on a summer piano class in **Regis Benedictine Academy** located in Batangas City, Philippines at 15 years old.
 - With continuous learning and motivation, my piano skills developed over time ranging from ability to play nursery rhymes up to iconic songs adaptation and classical music.
-- I have experienced playing grand piano in **[Pontefino Hotel](https://www.pontefinohotel.com/)** and **[Robinsons Mall](https://robinsonsmalls.com/)** Lipa branch since the last quarter of the year 2022 in Batangas province, and several malls around National Capital Region on year 2024.
+- I have experienced playing grand piano in **[Pontefino Hotel](https://www.pontefinohotel.com/)** and **[Robinsons Mall](https://robinsonsmalls.com/)** Lipa branch since the last quarter of the year 2022.
 
 ### Game Developer 🎮
 
@@ -71,7 +71,6 @@
   - [Nix Daily](https://nixdaily.netlify.app/)
   - [The Ones Design](https://theonesdesign.netlify.app/)
   - [The Ones Restaurant](https://theonesrestaurant.netlify.app/)
-- Developed **Purchase Request Information System** for Regional and Field Offices under **[Department of Labor and Employment](https://ncr.dole.gov.ph/)**.
 
 ### Technical Writer 📚
 
@@ -87,7 +86,7 @@
 - My job as a **Creative Designer** has started when I was working in several O2Jam organizations from 2012 to 2018 with the following responsibilities:
 
   - Loading images for some of my notechart projects using **Adobe Photoshop**
-  - Multiple difficulty notechart preview video presentations as a sneak peek on what to expect in the next month's song update using **[Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/)**/
+  - Multiple difficulty notechart preview video presentations as a sneak peek on what to expect in the next month's song update using **[Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/)**
 
 - See portfolio **[here](https://github.com/rn1hd/rn1hd/tree/main/Personal%20Website/Portfolio/Creative%20Designer)**.
 
@@ -152,10 +151,13 @@
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - I acquired **[creative design skills](https://github.com/rn1hd#creative-design)**, currently exercising them in my upcoming personal projects.
-- I joined several online competitions with the following **best personal records** as follows:
+- My typing skills improved through competing in **[TypeRacer](https://github.com/rn1hd/rn1hd/assets/49872771/f6aa70cc-45b1-45c8-9b8a-2ec604d7aa03)** that can be beneficial to quickly take down notes during business meetings for future use.
+- I also compete in **[Tic Tac Toe](https://github.com/rn1hd/rn1hd/assets/49872771/3b9a368a-37c8-4ea7-9415-41161f10e11c)** and **[Gomoku](https://github.com/rn1hd/rn1hd/assets/49872771/b6eb7db6-3054-4c7e-be2b-374b712c1ca4)** to improve cognitive function, concentration, and problem-solving skills in a variety of situations outside of the game.
+- **Best personal record** in online competitions are as follows:
   - **[Top 1](https://data.typeracer.com/pit/competitions?sort=points&date=2022-10-05&kind=day&page=0&n=20)** in **[TypeRacer](https://play.typeracer.com/)**, the Global Typing Competition on October 5, 2022.
   - **[Top 6](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Tic%20Tac%20Toe%20Record.webp)** in **World Tic Tac Toe Tournament Leaderboard** on January 2, 2024, captured at 5:06 PM (GMT +8).
   - **[Top 11](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Gomoku%20Record.webp)** in **World Gomoku Tournament Leaderboard** on December 21, 2023, captured at 7:36 PM (GMT +8).
+- I continued my **[Pianist journey](https://dai.ly/k3loMuNrK90sOQzOXKu)** through playing more songs that I personally prefer.
 
 #### **Is your best personal record in online competitions convincing and relevant?**
 
@@ -194,7 +196,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- Well-organized, easy to understand documentation prevents **technical debt** when something goes out of control. Code refactoring is now easier with the help of documentation and even resorting to a full rewrite of an entire system, coordinating with a client again during the planning stage is now at the bare minimum.
+- Well-organized, easy to understand documentation prevents **technical debt** resulting in **office politics** when something goes out of control. Code refactoring is now easier with the help of documentation and even resorting to a full rewrite of an entire system, coordinating with a client again during the planning stage is now at the bare minimum.
 
 #### **Why are you focusing on something different from Machine Learning Engineer?**
 
@@ -218,7 +220,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I am **not currently interviewing** with other companies because I wanted to focus on securing a position with your company. Your company has a better reputation, according to my research. Besides, I believe my skills and projects are more consistent to your needs than others. I made my first move, presenting my proposal to one of your staff in **XYZ Subsidiary** by explaining how my past achievements can be applicable to your business needs, so I hope my presence will allow me to be part of a growing team.
+- I am **not currently interviewing** with other companies because I wanted to focus on securing a position with your company. Your company has a better reputation, according to my research. Besides, I believe my skills and projects are more consistent to your needs than others. I made my first move, presenting my proposal to one of your staff in **XYZ Subsidiary** to improve quality service by showcasing my past achievements, so I hope my presence will allow me to be part of a growing team.
 
 #### **What is your ideal company?**
 
@@ -317,7 +319,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- The last project I led is the **Purchase Request Information System** for Regional and Field Offices under **[Department of Labor and Employment](https://ncr.dole.gov.ph/)**. All features needed by the user in the initial version have been implemented with the help of code documentation and improving code quality.
+- **[Zumumu](https://zumumu.com/)** is the last project I led. It remains maintainable with the help of documentation, automation testing, and improving code quality.
 
 #### **Give me an example of a time that you felt you went above and beyond the call of duty at work**
 
@@ -413,7 +415,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- When I managed to take down all verbal instructions in my notes **accurately**, use the best strategy to complete my tasks **efficiently**, and eventually ensure that my clients are **satisfied** regarding the system that I have developed.
+- When I managed to implement **SMS** in the backend using the AJAX version of Golang for an order management system.
 
 #### **Give an example of when you showed leadership qualities.**
 
@@ -783,7 +785,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- When I had the chance to play public grand piano in Batangas and National Capital Region.
+- When I had the chance to play grand piano in **[Pontefino Hotel](https://www.pontefinohotel.com/)** and **[Robinsons Mall](https://robinsonsmalls.com/)** Lipa branch.
 
 #### **What are the qualities of a good leader? A bad leader?**
 
@@ -879,7 +881,6 @@
 
 <div>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
@@ -925,9 +926,6 @@
 [Back to Top](https://github.com/rn1hd#hi-there-)
 
 <div>
-  <a href="https://typingstats.com/profile/183859790336888832" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
-  </a>
   <a href="https://typingstats.com/profile/183859790336888832" target="_blank" rel="noreferrer">
     <img src="assets/badge/Typing%20Stats.webp" height="28" alt="Typing Stats" />
   </a>
