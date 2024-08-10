@@ -413,7 +413,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- When I managed to take down all verbal instructions in my notes **accurately**, use the best strategy to complete my tasks **efficiently**, and eventually ensure that my clients are **satisfied** regarding the system that I have developed.
+- When I managed to take down notes of all verbal instructions **accurately**, use the best strategy to complete my tasks **efficiently**, and eventually ensure that my clients are **satisfied** regarding the system that I have developed.
 
 #### **Give an example of when you showed leadership qualities.**
 
@@ -925,7 +925,7 @@
 [Back to Top](https://github.com/rn1hd#hi-there-)
 
 <div>
-  <a href="https://typingstats.com/profile/183859790336888832" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/rn1hd/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
   </a>
   <a href="https://typingstats.com/profile/183859790336888832" target="_blank" rel="noreferrer">
