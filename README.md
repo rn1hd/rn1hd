@@ -133,7 +133,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I am an aspiring **Full Stack Developer** constantly challenging myself through personal project development. Before that, I worked in **IntegrityNet Solutions & Services** with exposure to web development, automation testing, and design thinking for our business clients. While I am working in progress, I would love to take the chance to become a part of a growing team in **XYZ Company**.
+- I have been passionate on **software development** since I was in high school. I have been curious most of the time on what an application has to offer in the premium upgrade up to the point on how applications were developed so I took **Computer Science** course. My experience as a **Software Developer** at the firm has built up my proficiencies in Web Development, Automation Testing, and Design. I thrive on challenges and continuously develop my skills through personal and industry level projects.
 
 #### **Walk me through your resume.**
 
@@ -145,7 +145,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I **resigned** voluntarily to pursue other technologies for a better future within the **job market trends** and exercise my overall skills aiming for an **industry level standard**.
+- I took this time to gain proficiency in **modern web technologies** and **user experience design**, which I believe makes me a more versatile and skilled developer. Your company is looking for these requirements, so I am looking forward to learning more about this position that I am applying for. I know I have a lot to offer, and I would love to show you what I can bring to the team.
 
 #### **What changes have been made during your career break?**
 
@@ -173,7 +173,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- In my last job, I was responsible for maintaining a company proprietary web framework from documentation up to regularly using it in software development projects. I am looking forward to a job that allows me to use in-demand, up-to-date technologies with large community support. That is one of the things that most excited me about your **Software Developer** position.
+- While I appreciated the opportunity to work with proprietary technology, I am excited to work with **more widely adopted frameworks** that allow for greater community support and innovation.
 
 #### **What is the matter behind a company proprietary web framework?**
 
@@ -268,14 +268,14 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- It is my **persistence** in acquiring valuable knowledge and competencies to stay myself relevant and prepare for the unexpected.
+- My persistence has helped me successfully complete projects at my own pace, like **web applications** and **documentations**. I applied for relevant courses available online, built documentations to compile every progress that has been done, and presented the output to my potential users before the deployment.
 
 #### **What do you consider to be your weaknesses?**
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- There are instances where I cannot **follow simple instructions** properly. This weakness led me to taking down notes in almost every meeting, reliance on documentation, and mastering the role beforehand becomes essential.
-- **Verbal communication skills** are what I also regularly practice through making video presentations, taking listening exercises, and getting myself exposed to a productive community when this opportunity arrives.
+- While I occasionally struggle with following simple instructions, I have developed **strategies** like detailed notetaking and documentation to ensure accuracy in my work.
+- I have been actively improving my verbal communication skills through **active listening** and have seen significant progress, particularly in continuous exposure to a practical social setting as well as striving myself to become a **better person** by learning from my mistakes.
 
 ### **Behavioral Questions**
 
@@ -445,7 +445,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I would report the case first to the **ambassador** of the company to seek a peaceful resolution. Once all diplomatic efforts have been exhausted and no progress has been made, the last thing I would do is to **leave immediately** before it gets too late.
+- I would first analyze what type of violation the company has committed in accordance with the National Labor Code. This will be coordinated to the **ambassador** of the company through diplomacy and dialogue to seek a peaceful resolution for the benefit of all parties involved in the long run.
 
 #### **What do you think our company/organization could do better?**
 
@@ -493,7 +493,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- When our **appeal** has been rejected to use the technology stack of our choice that has the potential to provide career opportunities due to its slow performance.
+- Although our appeal to use a different tech stack was rejected, I took it as an **opportunity** to deepen my understanding of the approved technology, which has since broadened my technical skill set. What matters eventually is how the impact of my work will create a positive outcome for all parties involved.
 
 #### **Describe how you would handle a situation if you were required to finish multiple tasks by the end of the day, and there was no conceivable way that you could finish them.**
 
