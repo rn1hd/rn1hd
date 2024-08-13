@@ -112,7 +112,6 @@
 - [Is your best personal record in online competitions convincing and relevant?](https://github.com/rn1hd#is-your-best-personal-record-in-online-competitions-convincing-and-relevant)
 - [Do you consider yourself a champion material in online competitions?](https://github.com/rn1hd#do-you-consider-yourself-a-champion-material-in-online-competitions)
 - [What did you like least about your last job?](https://github.com/rn1hd#what-did-you-like-least-about-your-last-job)
-- [What is the matter behind a company proprietary web framework?](https://github.com/rn1hd#what-is-the-matter-behind-a-company-proprietary-web-framework)
 - [How is being a creative designer related to your goal as a Full Stack Developer?](https://github.com/rn1hd#how-is-being-a-creative-designer-related-to-your-goal-as-a-full-stack-developer)
 - [How is documentation development beneficial in business?](https://github.com/rn1hd#how-is-documentation-development-beneficial-in-business)
 - [Why are you focusing on something different from Machine Learning Engineer?](https://github.com/rn1hd#why-are-you-focusing-on-something-different-from-machine-learning-engineer)
@@ -122,10 +121,7 @@
 - [What is your ideal company?](https://github.com/rn1hd#what-is-your-ideal-company)
 - [How did you hear about this position?](https://github.com/rn1hd#how-did-you-hear-about-this-position)
 - [What are you looking for in a new position?](https://github.com/rn1hd#what-are-you-looking-for-in-a-new-position)
-- [What do you know about our company?](https://github.com/rn1hd#what-do-you-know-about-our-company)
-- [What can you bring to the company?](https://github.com/rn1hd#what-can-you-bring-to-the-company)
 - [Why do you want to work at this company?](https://github.com/rn1hd#why-do-you-want-to-work-at-this-company)
-- [Why do you want this job?](https://github.com/rn1hd#why-do-you-want-this-job)
 - [What are your greatest strengths?](https://github.com/rn1hd#what-are-your-greatest-strengths)
 - [What do you consider to be your weaknesses?](https://github.com/rn1hd#what-do-you-consider-to-be-your-weaknesses)
 
@@ -133,7 +129,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I have been passionate on **software development** since I was in high school. I have been curious most of the time on what an application has to offer in the premium upgrade up to the point on how applications were developed so I took **Computer Science** course. My experience as a **Software Developer** at the firm has built up my proficiencies in Web Development, Automation Testing, and Design. I thrive on challenges and continuously develop my skills through personal and industry level projects.
+- I've been passionate about **software development** since high school, which led me to pursue a career in this field. Over the years, I have honed my skills in programming, with a strong focus on creating efficient and user-friendly applications. My experience as a **Software Developer** has taught me the importance of not only writing clean and effective code but also ensuring that the end product meets the needs of all stakeholders. I thrive on challenges, constantly seeking to improve my skills and stay updated with the latest industry trends. I'm particularly drawn to roles that allow me to make a tangible impact, and I am eager to bring my expertise to a team where I can contribute to innovative projects.
 
 #### **Walk me through your resume.**
 
@@ -174,12 +170,6 @@
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - While I appreciated the opportunity to work with proprietary technology, I am excited to work with **more widely adopted frameworks** that allow for greater community support and innovation.
-
-#### **What is the matter behind a company proprietary web framework?**
-
-[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
-
-- Spending a lot of time to sync the documentation with the latest version despite having limited source code knowledge and career opportunities will affect the **manpower** of the business. Setting aside to prioritize urgent tasks will increase the technical debt which can really get out of hand. The framework is excellent, but using third party technologies would be a better option for a small team.
 
 #### **How is being a creative designer related to your goal as a Full Stack Developer?**
 
@@ -238,31 +228,13 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I am looking for a position where I can continue to exercise my **software development skills**. Another thing is the chance to showcase my projects in your company. I am motivated by being able to see the impact of my work on other people, so your suggestions for improvement are important to determine what to expect for this position.
-
-#### **What do you know about our company?**
-
-[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
-
-- I see that one of your company services promotes **physical and mental health awareness**. Both of us share the same value as I am strictly abiding to self-control best practices even resorting to measuring food intake. Living a long life is my dream, so your company is the best place I want to be a part of.
-
-#### **What can you bring to the company?**
-
-[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
-
-- My **technical skills** and **portfolio**. When something goes out of control, I will use my technical skills to make complicated things simple through documentation and code-efficiency. If the project is just getting started, I will showcase my portfolio as a reference to develop sitemaps, user flows, wireframes, and prototypes to ensure everything is according to the plan.
+- I am looking for a position where I can continue to exercise my **software development skills**. I am motivated by being able to see the impact of my work on other people, so your suggestions for improvement are important to determine what to expect for this position.
 
 #### **Why do you want to work at this company?**
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- **XYZ Company** is one of the highest-rated software development talent providers to companies worldwide. It has an amazing work culture, world class clients and projects, flexible work schedule, as well as career growth opportunities.
-
-#### **Why do you want this job?**
-
-[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
-
-- **Software developer** is the core contributor to business’ success, seeing how applications facilitate the user’s task instead of resorting to traditional approach to reach their goal. **XYZ Company** offers up-to-date technologies, so I want to be a part of it.
+- I am excited about the opportunity to work at **XYZ Company** because of its reputation for innovation and its commitment to using cutting-edge technology to drive business growth. As a **software developer**, I have always been passionate about creating solutions that not only simplify tasks but also provide real value to users. XYZ Company's focus on delivering high-quality, impactful software aligns perfectly with my professional goals. I am eager to contribute my technical skills and collaborate with your talented team to continue pushing the boundaries of what software can achieve, while also growing my expertise in this dynamic field.
 
 #### **What are your greatest strengths?**
 
@@ -445,7 +417,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I would first analyze what type of violation the company has committed in accordance with the National Labor Code. This will be coordinated to the **ambassador** of the company through diplomacy and dialogue to seek a peaceful resolution for the benefit of all parties involved in the long run.
+- I would first analyze what type of violation the company has committed in accordance with the **National Labor Code**. This will be coordinated to the **ambassador** of the company through diplomacy and dialogue to seek a peaceful resolution for the benefit of all parties involved in the long run.
 
 #### **What do you think our company/organization could do better?**
 
