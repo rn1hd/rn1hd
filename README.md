@@ -108,9 +108,6 @@
 - [Tell me about yourself.](https://github.com/rn1hd#tell-me-about-yourself)
 - [Walk me through your resume.](https://github.com/rn1hd#walk-me-through-your-resume)
 - [Why is there a gap in your employment?](https://github.com/rn1hd#why-is-there-a-gap-in-your-employment)
-- [What changes have been made during your career break?](https://github.com/rn1hd#what-changes-have-been-made-during-your-career-break)
-- [Is your best personal record in online competitions convincing and relevant?](https://github.com/rn1hd#is-your-best-personal-record-in-online-competitions-convincing-and-relevant)
-- [Do you consider yourself a champion material in online competitions?](https://github.com/rn1hd#do-you-consider-yourself-a-champion-material-in-online-competitions)
 - [What did you like least about your last job?](https://github.com/rn1hd#what-did-you-like-least-about-your-last-job)
 - [How is being a creative designer related to your goal as a Full Stack Developer?](https://github.com/rn1hd#how-is-being-a-creative-designer-related-to-your-goal-as-a-full-stack-developer)
 - [How is documentation development beneficial in business?](https://github.com/rn1hd#how-is-documentation-development-beneficial-in-business)
@@ -129,7 +126,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I've been passionate about **software development** since high school, which led me to pursue a career in this field. Over the years, I have honed my skills in programming, with a strong focus on creating efficient and user-friendly applications. My experience as a **Software Developer** has taught me the importance of not only writing clean and effective code but also ensuring that the end product meets the needs of all stakeholders. I thrive on challenges, constantly seeking to improve my skills and stay updated with the latest industry trends. I'm particularly drawn to roles that allow me to make a tangible impact, and I am eager to bring my expertise to a team where I can contribute to innovative projects.
+- I am a dedicated **software developer** with four years of hands-on experience in creating and maintaining dynamic websites and web applications. I graduated **Cum Laude**, which reflects my strong academic background and commitment to excellence. Over the years, I've focused on creating efficient and user-friendly applications, always striving to write clean, effective code that meets the needs of stakeholders. I'm eager to bring my skills and experience to a team where I can contribute to innovative projects.
 
 #### **Walk me through your resume.**
 
@@ -142,28 +139,6 @@
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - I took this time to gain proficiency in **modern web technologies** and **user experience design**, which I believe makes me a more versatile and skilled developer. Your company is looking for these requirements, so I am looking forward to learning more about this position that I am applying for. I know I have a lot to offer, and I would love to show you what I can bring to the team.
-
-#### **What changes have been made during your career break?**
-
-[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
-
-- I acquired **[creative design skills](https://github.com/rn1hd#creative-design)**, currently exercising them in my upcoming personal projects.
-- I joined several online competitions with the following **best personal records** as follows:
-  - **[Top 1](https://data.typeracer.com/pit/competitions?sort=points&date=2022-10-05&kind=day&page=0&n=20)** in **[TypeRacer](https://play.typeracer.com/)**, the Global Typing Competition on October 5, 2022.
-  - **[Top 6](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Tic%20Tac%20Toe%20Record.webp)** in **World Tic Tac Toe Tournament Leaderboard** on January 2, 2024, captured at 5:06 PM (GMT +8).
-  - **[Top 11](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Gomoku%20Record.webp)** in **World Gomoku Tournament Leaderboard** on December 21, 2023, captured at 7:36 PM (GMT +8).
-
-#### **Is your best personal record in online competitions convincing and relevant?**
-
-[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
-
-- Whatever the results, there is always **room for improvement**. I take these challenges as self-preparation for unexpected difficult real-world situations where I will be on my own to survive requiring a quick, consistent, and efficient performance output.
-
-#### **Do you consider yourself a champion material in online competitions?**
-
-[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
-
-- I am still **way behind** from that. Being one of the world champions in a specific field is a bonus but at the end of the day, my **strategy** in dealing with unexpected difficult real-world situations is what really matters where I will be on my own to survive requiring a quick, consistent, and efficient performance output.
 
 #### **What did you like least about your last job?**
 
@@ -521,6 +496,8 @@
 - [Tell me the difference between good and exceptional.](https://github.com/rn1hd#tell-me-the-difference-between-good-and-exceptional)
 - [There's no right or wrong answer, but if you could be anywhere in the world right now, where would you be?](https://github.com/rn1hd#theres-no-right-or-wrong-answer-but-if-you-could-be-anywhere-in-the-world-right-now-where-would-you-be)
 - [What do you like to do for fun?](https://github.com/rn1hd#what-do-you-like-to-do-for-fun)
+- [Is your best personal record in online competitions convincing and relevant?](https://github.com/rn1hd#is-your-best-personal-record-in-online-competitions-convincing-and-relevant)
+- [Do you consider yourself a champion material in online competitions?](https://github.com/rn1hd#do-you-consider-yourself-a-champion-material-in-online-competitions)
 - [What do you do in your spare time?](https://github.com/rn1hd#what-do-you-do-in-your-spare-time)
 - [Are you planning on having children?](https://github.com/rn1hd#are-you-planning-on-having-children)
 - [How do you think I rate as an interviewer?](https://github.com/rn1hd#how-do-you-think-i-rate-as-an-interviewer)
@@ -791,7 +768,22 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- I play piano, compete with **amazing world champions** in online competitions, and watch selected world news.
+- I play piano, watch selected world news, and compete with **amazing world champions** in online competitions with the following **best personal records** as follows:
+  - **[Top 1](https://data.typeracer.com/pit/competitions?sort=points&date=2022-10-05&kind=day&page=0&n=20)** in **[TypeRacer](https://play.typeracer.com/)**, the Global Typing Competition on October 5, 2022.
+  - **[Top 6](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Tic%20Tac%20Toe%20Record.webp)** in **World Tic Tac Toe Tournament Leaderboard** on January 2, 2024, captured at 5:06 PM (GMT +8).
+  - **[Top 11](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Gomoku%20Record.webp)** in **World Gomoku Tournament Leaderboard** on December 21, 2023, captured at 7:36 PM (GMT +8).
+
+#### **Is your best personal record in online competitions convincing and relevant?**
+
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
+
+- Whatever the results, there is always **room for improvement**. I take these challenges as self-preparation for unexpected difficult real-world situations where I will be on my own to survive requiring a quick, consistent, and efficient performance output.
+
+#### **Do you consider yourself a champion material in online competitions?**
+
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
+
+- I am still **way behind** from that. Being one of the world champions in a specific field is a bonus but at the end of the day, my **strategy** in dealing with unexpected difficult real-world situations is what really matters where I will be on my own to survive requiring a quick, consistent, and efficient performance output.
 
 #### **What do you do in your spare time?**
 
@@ -809,7 +801,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- I think you are doing a pretty **good job** as an interviewer. Asking me tough questions is challenging, but that approach helps us navigate where do I stand and what I can do better as an individual.
+- I think you are doing a pretty **good job** as an interviewer. Asking me tough questions is challenging, but that approach helps us navigate where I stand and what I can do better as an individual.
 
 #### **When can you start?**
 
