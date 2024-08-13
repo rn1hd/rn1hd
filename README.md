@@ -775,13 +775,13 @@
 
 #### **Is your best personal record in online competitions convincing and relevant?**
 
-[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - Whatever the results, there is always **room for improvement**. I take these challenges as self-preparation for unexpected difficult real-world situations where I will be on my own to survive requiring a quick, consistent, and efficient performance output.
 
 #### **Do you consider yourself a champion material in online competitions?**
 
-[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I am still **way behind** from that. Being one of the world champions in a specific field is a bonus but at the end of the day, my **strategy** in dealing with unexpected difficult real-world situations is what really matters where I will be on my own to survive requiring a quick, consistent, and efficient performance output.
 
