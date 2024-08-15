@@ -300,7 +300,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- My greatest failure is when an order management system’s status has reached the lowest point ever, resulting in a full rewrite under a different name. I learned that being a developer is not only about coding but also planning, analysis, design, testing & integration, and maintenance under **Software Development Life Cycle (SDLC)**.
+- My greatest failure is that despite my full commitment to a job to prove myself in the community, knowing that my best is still not good enough is something that I take seriously. I learned that before stepping into an industry, I must already be **proficient** on most of what is required in the job description.
 
 #### **How do you handle working with people who annoy you?**
 
@@ -312,7 +312,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I take a break for a few minutes, walking around the room to alleviate myself. I work to the **best of my ability** while not letting pressure take a toll on my health. Pressure exists to fight procrastination, learn something the hard way, and act accordingly to improve the situation.
+- I take a break for a few minutes to alleviate myself. I would first analyze the situation then work on it to the **best of my ability** to reduce the cause of pressure. Pressure exists to fight procrastination, learn something the hard way, and act accordingly to improve the situation.
 
 #### **How do you feel about working weekends or late hours?**
 
@@ -336,13 +336,13 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- It is my experience during my training period in a BPO company. There are no available resources to study their technologies and I must figure everything on my own. The only way to survive is to work **late hours regularly** for me to catch up through developing the technical documentation.
+- It is my experience during my training period in a BPO company. There are no available resources to study their technologies, and I must figure everything on my own. The only way to survive is to work **late hours regularly** for me to catch up through developing the technical documentation.
 
 #### **Give me an example of a time you did something wrong. How did you handle it?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- When I push my changes to the system where the result does **more harm than good**. This is the main reason why performing an automation testing role has become essential.
+- When I perform some actions that could **disturb** other people. One way to handle that is to learn from there and do better next time.
 
 #### **Give an example of how you have handled a challenge in the workplace before.**
 
@@ -372,9 +372,9 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- When my productivity failed to hit the quota. There are **two options** to deal with it:
-  - Acquire at least **60% mastery** of the role beforehand and use the remaining percentage while on the job to keep up.
-  - Create an **Artificial Intelligence** application to automatically perform some of my workloads where applicable.
+- When I failed to deliver my work output within their expectations. There are **two options** to deal with it:
+  - Listen to their **constructive criticisms** carefully to improve next time what I can present.
+  - Coordinate with someone who is **smarter** than me professionally to gather some feedback for improvement.
 
 #### **Tell me about a time you demonstrated leadership skills.**
 
