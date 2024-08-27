@@ -594,7 +594,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- I consider **[uAdmin documentation](https://uadmin-docs.readthedocs.io/en/latest/)** as my greatest professional achievement where around 90% coverage of an entirety until version 0.7.4 is under my control. Almost all applications circulating within the previous company I worked at uses uAdmin tech stack. Imagine what the software developer’s experience would be without uAdmin documentation.
+- I consider presenting my finished **Purchase Request Information System** internal web application project in **[Department of Labor and Employment](https://ncr.dole.gov.ph/)** as my greatest professional achievement because I have met what they are expecting from me.
 
 #### **Who was your favorite manager and why?**
 
@@ -655,12 +655,6 @@
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - **Machine Learning Engineer** is my dream job because with the current trend in the market today, Artificial Intelligence is the technology of the future and being a part of the development team someday will contribute a lot to the society, observing how **[ChatGPT](https://openai.com/blog/chatgpt/)** becomes a trend on the headlines in the 1st quarter of 2023.
-
-#### **What do you ultimately want to become?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- I ultimately want to become a **Machine Learning Engineer** to fulfill my personal goal which is to develop an empathetic robot to supervise unaccompanied people that no one will be with them for the rest of their lives.
 
 #### **What are three positive things your last boss would say about you?**
 
