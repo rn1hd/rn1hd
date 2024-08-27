@@ -107,6 +107,7 @@
 
 - [Tell me about yourself.](https://github.com/rn1hd#tell-me-about-yourself)
 - [Walk me through your resume.](https://github.com/rn1hd#walk-me-through-your-resume)
+- [Why did you leave your last job?](https://github.com/rn1hd#why-did-you-leave-your-last-job)
 - [Why is there a gap in your employment?](https://github.com/rn1hd#why-is-there-a-gap-in-your-employment)
 - [What did you like least about your last job?](https://github.com/rn1hd#what-did-you-like-least-about-your-last-job)
 - [How is being a creative designer related to your goal as a Full Stack Developer?](https://github.com/rn1hd#how-is-being-a-creative-designer-related-to-your-goal-as-a-full-stack-developer)
@@ -133,6 +134,12 @@
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - See **[Career Journey](https://github.com/rn1hd#-career-journey)** for reference.
+
+#### **Why did you leave your last job?**
+
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
+
+- My last role is only **temporary**. I just finished my project with them. Now, I am looking for better opportunities that will allow me to grow **professionally** and to achieve job security in your company.
 
 #### **Why is there a gap in your employment?**
 
@@ -254,7 +261,6 @@
 - [What assignment was too difficult for you, and how did you resolve the issue?](https://github.com/rn1hd#what-assignment-was-too-difficult-for-you-and-how-did-you-resolve-the-issue)
 - [What's the most difficult decision you've made in the last two years and how did you come to that decision?](https://github.com/rn1hd#whats-the-most-difficult-decision-youve-made-in-the-last-two-years-and-how-did-you-come-to-that-decision)
 - [How do you feel about taking no for an answer?](https://github.com/rn1hd#how-do-you-feel-about-taking-no-for-an-answer)
-- [What if you do not have any alternatives and their response is still no?](https://github.com/rn1hd#what-if-you-do-not-have-any-alternatives-and-their-response-is-still-no)
 - [How would you feel about working for someone who knows less than you?](https://github.com/rn1hd#how-would-you-feel-about-working-for-someone-who-knows-less-than-you)
 - [You showed empathy to someone, but he feels like your contributions are still not enough. How did you deal with it?](https://github.com/rn1hd#you-showed-empathy-to-someone-but-he-feels-like-your-contributions-are-still-not-enough-how-did-you-deal-with-it)
 - [What’s a time you disagree with a decision that was made at work?](https://github.com/rn1hd#whats-a-time-you-disagree-with-a-decision-that-was-made-at-work)
@@ -276,7 +282,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- **Yes**, the time when my productivity failed to hit the quota, perform an insignificant task, and commit accidents. This is one of the reasons why I am interested to pursue **Artificial Intelligence** to tackle manpower issues.
+- **Yes**, the time when my productivity failed to hit the quota and present an output that is far from what is expected from me. This is one of the reasons why I am interested to pursue **Artificial Intelligence** to tackle manpower issues.
 
 #### **Have you ever been on a team where someone was not pulling their own weight? How did you handle it?**
 
@@ -318,7 +324,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- **Stressful**. I value personal time to upskill as a self-preparation for more challenging real-world business problems. Overtime can be an advantage if I can spend some time fighting technical debt and progress my career further.
+- There is **no problem** about working weekends or late hours if it meets mutual benefits of both parties.
 
 #### **If I were your supervisor and asked you to do something that you disagreed with, what would you do?**
 
@@ -336,7 +342,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- It is my experience during my training period in a BPO company. There are no available resources to study their technologies, and I must figure everything on my own. The only way to survive is to work **late hours regularly** for me to catch up through developing the technical documentation.
+- My **first experience** as a Software Developer during my training period is what I consider as the most difficult period of my life. There are no available resources to study their technologies, and I must figure everything on my own. The only way to survive is to work **late hours regularly** for me to catch up through developing the technical documentation.
 
 #### **Give me an example of a time you did something wrong. How did you handle it?**
 
@@ -404,25 +410,19 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- When I was tasked to implement a **generic based recommendation system** in Go programming language. The initial version of the project has been developed through intensive source code analysis from the original Python library.
+- Every assignment that was given to me, I took them as my **motivation** by seeing what the long-term goal at the end of this will be. **Trial and error** method is what I use to resolve the issue. Try and try until I succeed.
 
 #### **What's the most difficult decision you've made in the last two years and how did you come to that decision?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- **Resignation** to pursue other technologies for a better future within the **job market trends** and exercise my overall skills aiming for an **industry level standard**.
+- It is about maintaining the **balance** between upskilling and marketing myself in the community. Although I still must go through a lot of sacrifices to reach the minimum acceptable standard, **persistence** is the key to success.
 
 #### **How do you feel about taking no for an answer?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I **respect** his decision and **move on** to use alternatives.
-
-#### **What if you do not have any alternatives and their response is still no?**
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- I will **take risks** by conducting a series of unilateral actions using all possible means just to complete the tasks given to me quickly, consistently, and efficiently. Whatever the consequences, I will own them as my learning experience.
+- I **respect** his decision and **move on** to use alternatives. In case when no other options are available to overcome difficult challenges, it is always best to consult with the experts for recommendations to reach **mutual understanding**.
 
 #### **How would you feel about working for someone who knows less than you?**
 
