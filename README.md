@@ -477,7 +477,6 @@
 - [What are your pet peeves?](https://github.com/rn1hd#what-are-your-pet-peeves)
 - [How do you like to be managed?](https://github.com/rn1hd#how-do-you-like-to-be-managed)
 - [What’s your dream job?](https://github.com/rn1hd#whats-your-dream-job)
-- [What do you ultimately want to become?](https://github.com/rn1hd#what-do-you-ultimately-want-to-become)
 - [What are three positive things your last boss would say about you?](https://github.com/rn1hd#what-are-three-positive-things-your-last-boss-would-say-about-you)
 - [What negative thing would your last boss say about you?](https://github.com/rn1hd#what-negative-thing-would-your-last-boss-say-about-you)
 - [What are three positive character traits you don't have?](https://github.com/rn1hd#what-are-three-positive-character-traits-you-dont-have)
