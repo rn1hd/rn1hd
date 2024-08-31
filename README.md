@@ -1,10 +1,9 @@
 # Hi there! 👋
 
 - [About Me](https://github.com/rn1hd#-about-me)
+- [Skills](https://github.com/rn1hd#-skills)
 - [Career Journey](https://github.com/rn1hd#-career-journey)
 - [Frequently Asked Questions (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
-- [Skills](https://github.com/rn1hd#-skills)
-- [Profiles](https://github.com/rn1hd#-profiles)
 
 ## 👨‍🦰 About Me
 
@@ -15,8 +14,58 @@
   - **Full Stack Developer** is one of the promising goals for my career path, in fact there are more opportunities in the job market. This role can be beneficial when there are dead-end situations in the business that need to be resolved as soon as possible.
 - I am also a professional **[pianist](https://dai.ly/k3loMuNrK90sOQzOXKu)** outside in the world of technology.
 - I have attached my resume **[here](https://raw.githubusercontent.com/rn1hd/rn1hd/main/Resume/Resume.webp)**.
+- You can also visit my **[LinkedIn](https://www.linkedin.com/in/rn1hd/)** profile. Let's connect!
 
 <br/>
+
+## ⛳ Skills
+
+[Back to Top](https://github.com/rn1hd#hi-there-)
+
+### Web Development
+
+<div>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+</div>
+
+### Database Management
+
+<div>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</div>
+
+### Documentation
+
+<div>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="assets/badge/Sphinx.webp" height="28" alt="Sphinx" />
+</div>
+
+### Software Testing
+
+<div>
+  <img src="https://img.shields.io/badge/Selenium-023020?style=for-the-badge&logo=selenium&logoColor=00FF00" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" />
+</div>
+
+### Creative Design
+
+<div>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="Adobe InDesign" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
+
+<br />
 
 ## 🚀 Career Journey
 
@@ -813,79 +862,3 @@
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - **Yes**. In case I have created new accomplishments to showcase in the upcoming days that resemble the **Software Developer** requirements your company is looking for; I will keep you posted while my application process is pending.
-
-<br/>
-
-## ⛳ Skills
-
-[Back to Top](https://github.com/rn1hd#hi-there-)
-
-### Web Development
-
-<div>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-</div>
-
-### Database Management
-
-<div>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</div>
-
-### Documentation
-
-<div>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="assets/badge/Sphinx.webp" height="28" alt="Sphinx" />
-</div>
-
-### Software Testing
-
-<div>
-  <img src="https://img.shields.io/badge/Selenium-023020?style=for-the-badge&logo=selenium&logoColor=00FF00" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" />
-</div>
-
-### Creative Design
-
-<div>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="Adobe InDesign" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</div>
-
-<br/>
-
-## 👨‍💻 Profiles
-
-[Back to Top](https://github.com/rn1hd#hi-there-)
-
-<div>
-  <a href="https://www.linkedin.com/in/rn1hd/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
-  </a>
-  <a href="https://typingstats.com/profile/183859790336888832" target="_blank" rel="noreferrer">
-    <img src="assets/badge/Typing%20Stats.webp" height="28" alt="Typing Stats" />
-  </a>
-  <a href="https://keymash.io/profile/rn1hd-3458/" target="_blank" rel="noreferrer">
-    <img src="assets/badge/Keymash.webp" height="28" alt="Keymash" />
-  </a>
-  <a href="https://data.typeracer.com/pit/profile?user=rnk1hd" target="_blank" style="text-decoration:none" rel="noreferrer">
-    <img src="assets/badge/TypeRacer.webp" height="28" alt="TypeRacer" />
-  </a>
-  <a href="https://monkeytype.com/profile/rn1hd" target="_blank" rel="noreferrer">
-    <img src="assets/badge/Monkeytype.webp" height="28" alt="Monkeytype" />
-  </a>
-  <a href="https://typer.io/u/rn1hd" target="_blank" rel="noreferrer">
-    <img src="assets/badge/Typer.io.webp" height="28" alt="Typer.io" />
-  </a>
-</div>
