@@ -317,7 +317,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- The last project I led is the **Purchase Request Information System** for Regional and Field Offices under **[Department of Labor and Employment](https://ncr.dole.gov.ph/)**. All features needed by the user in the initial version have been implemented with the help of code documentation and improving code quality.
+- The last project I led is the **Purchase Request Information System** for 1 Regional and 6 Field Offices under **[Department of Labor and Employment](https://ncr.dole.gov.ph/)**. All features needed by the user in the initial version have been implemented with the help of code documentation and improving code quality.
 
 #### **Give me an example of a time that you felt you went above and beyond the call of duty at work**
 
