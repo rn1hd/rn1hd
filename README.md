@@ -83,7 +83,7 @@
 [Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
 - My motivation to become a pianist started at 13 years old when my father bought an electronic piano.
-- I enrolled on a summer piano class in **Regis Benedictine Academy** located in Batangas City, Philippines at 15 years old.
+- I enrolled on a summer piano class in **Regis Benedictine Academy** located in Batangas, Philippines at 15 years old.
 - With continuous learning and motivation, my piano skills developed over time ranging from ability to play nursery rhymes up to iconic songs adaptation and classical music.
 - I have experienced playing grand piano in **[Pontefino Hotel](https://www.pontefinohotel.com/)** and **[Robinsons Mall](https://robinsonsmalls.com/)** Lipa branch since the last quarter of the year 2022 in Batangas province, and several malls around National Capital Region on year 2024.
 
@@ -113,21 +113,20 @@
 [Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
 - When I was in college, we developed **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)**. My oral thesis research presentation went well in **Hong Kong** with the help of my teammates and university professors.
-- My job as a **Software Developer** has started on August 6, 2018, in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** located in Joseling Road, Batangas City, Philippines.
-- Developed the initial version of the **[Zumumu Website](https://zumumu.com/)** during the COVID-19 pandemic in the year 2020.
-- Implemented automation framework for **Zumumu** applications using **[Selenium](https://www.selenium.dev/)** to track and ensure that the system is 100% working after code changes before deploying in the live server.
-- Developed three websites on year 2020 for my client's startup business:
+- Developed the initial version of the **[Zumumu Website](https://zumumu.com/)** in year 2020 that covers multiple types of restaurants using Bootstrap 4, jQuery, MySQL, and **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang Web Framework. **[Share Cafe](https://sharecafe.ph/web/)** is a notable business client that uses Zumumu order management system.
+- Implemented automation framework for **Zumumu** applications using **[Selenium](https://www.selenium.dev/)** in Python to track and ensure that the system is 100% working after code changes before deploying in the live server.
+- Developed three websites on year 2020 for my client's startup business using Bootstrap 4 and jQuery:
   - [Nix Daily](https://nixdaily.netlify.app/)
   - [The Ones Design](https://theonesdesign.netlify.app/)
   - [The Ones Restaurant](https://theonesrestaurant.netlify.app/)
-- Developed **Purchase Request Information System** for Regional and Field Offices under **[Department of Labor and Employment](https://ncr.dole.gov.ph/)**.
+- Developed **Purchase Request Information System** for 1 Regional and 6 Field Offices under **[Department of Labor and Employment](https://ncr.dole.gov.ph/)** with enhanced data security and user experience using **[Metronic](https://keenthemes.com/metronic)**, MySQL, and PHP programming language.
 
 ### Technical Writer 📚
 
 [Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
 - My job as a technical writer started when I was solely responsible for developing a full documentation on a college thesis named **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)**.
-- My technical writer journey has continued in my real-life work experience when the owner of **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework has decided to give me full control on building the **[documentation](https://uadmin-docs.readthedocs.io/en/latest/)**. The owner started the documentation project during the initial stage, then was brought up to me on the following updates. The documentation has been maintained under my control during my tenure in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** until version 0.7.4.
+- My technical writer journey has continued in my real-life work experience when the owner of **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework has decided to give me full control on building the **[documentation](https://uadmin-docs.readthedocs.io/en/latest/)** to reduce onboarding time for new users and developers using **[Sphinx](https://www.sphinx-doc.org/en/master/)** documentation generator. The owner started the documentation project during the initial stage, then was brought up to me on the following updates. The documentation has been maintained under my control during my tenure in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** until version 0.7.4.
 
 ### Creative Designer 🎬
 
@@ -137,6 +136,8 @@
 
   - Loading images for some of my notechart projects using **Adobe Photoshop**
   - Multiple difficulty notechart preview video presentations as a sneak peek on what to expect in the next month's song update using **[Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/)**
+
+- My creative designer journey has continued on my **freelance experience** in year 2023 to deliver menu item posters which will be attached to their stores and good quality pictures using a glossy photo paper in different sizes. The software being used there is **Adobe InDesign**.
 
 - See portfolio **[here](https://github.com/rn1hd/rn1hd/tree/main/Personal%20Website/Portfolio/Creative%20Designer)**.
 
@@ -155,13 +156,13 @@
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
 - [Tell me about yourself.](https://github.com/rn1hd#tell-me-about-yourself)
-- [Walk me through your resume.](https://github.com/rn1hd#walk-me-through-your-resume)
+- [How old are you?](https://github.com/rn1hd#how-old-are-you)
+- [Are you married?](https://github.com/rn1hd#are-you-married)
 - [Why did you leave your last job?](https://github.com/rn1hd#why-did-you-leave-your-last-job)
 - [Why is there a gap in your employment?](https://github.com/rn1hd#why-is-there-a-gap-in-your-employment)
 - [What did you like least about your last job?](https://github.com/rn1hd#what-did-you-like-least-about-your-last-job)
 - [How is being a creative designer related to your goal as a Full Stack Developer?](https://github.com/rn1hd#how-is-being-a-creative-designer-related-to-your-goal-as-a-full-stack-developer)
 - [How is documentation development beneficial in business?](https://github.com/rn1hd#how-is-documentation-development-beneficial-in-business)
-- [Why are you focusing on something different from Machine Learning Engineer?](https://github.com/rn1hd#why-are-you-focusing-on-something-different-from-machine-learning-engineer)
 - [When were you most satisfied in your job?](https://github.com/rn1hd#when-were-you-most-satisfied-in-your-job)
 - [Are you considering other positions in other companies?](https://github.com/rn1hd#are-you-considering-other-positions-in-other-companies)
 - [What other companies are you interviewing with?](https://github.com/rn1hd#what-other-companies-are-you-interviewing-with)
@@ -178,11 +179,17 @@
 
 - I am a dedicated **software developer** with four years of hands-on experience in creating and maintaining dynamic websites and web applications. I graduated **Cum Laude**, which reflects my strong academic background and commitment to excellence. Over the years, I've focused on creating efficient and user-friendly applications, always striving to write clean, effective code that meets the needs of stakeholders. I'm eager to bring my skills and experience to a team where I can contribute to innovative projects.
 
-#### **Walk me through your resume.**
+#### **How old are you?**
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- See **[Career Journey](https://github.com/rn1hd#-career-journey)** for reference.
+- I received my bachelor's degree in **2016**. I have been working in a corporate world for **4 years** and gained great experience from there, but I am always excited on continuous learning in modern technologies and character development to contribute more than where I am now on **what really matters**. As long as I keep myself progressing from there, age is not a factor.
+
+#### **Are you married?**
+
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
+
+- That is an interesting question. Can you explain how marital status is **related** to the job description or requirements for this role?
 
 #### **Why did you leave your last job?**
 
@@ -206,22 +213,13 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- The scope of the **Full Stack Developer** is very broad. **Design** is the third phase of **Software Development Life Cycle (SDLC)** where I can present the following:
-  - Sitemaps, user flows, wireframes, and flowcharts with client and development team coordination
-  - Software prototypes that I can present to my clients for approval.
-  - Promotional advertisements that I can showcase to the public community.
+- The scope of the **Full Stack Developer** is very broad. **Design** is the third phase of **Software Development Life Cycle (SDLC)** where I can test my software prototypes to the participants who passed the screening survey in the usability study.
 
 #### **How is documentation development beneficial in business?**
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - Well-organized, easy to understand documentation prevents **technical debt** when something goes out of control. Code refactoring is now easier with the help of documentation and even resorting to a full rewrite of an entire system, coordinating with a client again during the planning stage is now at the bare minimum.
-
-#### **Why are you focusing on something different from Machine Learning Engineer?**
-
-[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
-
-- **Machine Learning** is one of the most difficult fields that should not be taken lightly without mastering the prerequisites first. The **Full Stack Developer** role can be beneficial as a steppingstone to identify what business logic can be applied to develop Artificial Intelligence applications in the future.
 
 #### **When were you most satisfied in your job?**
 
@@ -239,7 +237,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I am **not currently interviewing** with other companies because I wanted to focus on securing a position with your company. Your company has a better reputation, according to my research. Besides, I believe my skills and projects are more consistent to your needs than others. I made my first move, presenting my proposal to one of your staff in **XYZ Subsidiary** by explaining how my past achievements can be applicable to your business needs, so I hope my presence will allow me to be part of a growing team.
+- I am **not currently interviewing** with other companies because I wanted to focus on securing a position with your company. Your company has a better reputation, according to my research. Besides, I believe my skills and projects are more consistent to your needs than others.
 
 #### **What is your ideal company?**
 
@@ -337,7 +335,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- **Yes**, especially when technical debt is getting out of control. I collaborated with a software developer for an order management system. It did not go well when I did not address his concerns properly while trying to adapt complexity at the same time. This is when I started to eliminate codes that I find unnecessary until I felt comfortable maintaining the project.
+- **Yes**, especially when technical debt is getting out of control. I collaborated with a software developer in a team project. It did not go well when I did not address his concerns properly while trying to adapt complexity at the same time. This is when I started to eliminate codes that I find unnecessary until I felt comfortable maintaining the project.
 
 #### **Tell me about a time when you had to give someone difficult feedback. How did you handle it?**
 
@@ -536,18 +534,12 @@
 - [What's the most important thing you learned in school?](https://github.com/rn1hd#whats-the-most-important-thing-you-learned-in-school)
 - [Why did you choose your major?](https://github.com/rn1hd#why-did-you-choose-your-major)
 - [What will you miss about your present/last job?](https://github.com/rn1hd#what-will-you-miss-about-your-presentlast-job)
-- [What do you like to do outside of work?](https://github.com/rn1hd#what-do-you-like-to-do-outside-of-work)
-- [What is your greatest achievement outside of work?](https://github.com/rn1hd#what-is-your-greatest-achievement-outside-of-work)
 - [What are the qualities of a good leader? A bad leader?](https://github.com/rn1hd#what-are-the-qualities-of-a-good-leader-a-bad-leader)
 - [Do you think a leader should be feared or liked?](https://github.com/rn1hd#do-you-think-a-leader-should-be-feared-or-liked)
 - [Tell me one thing about yourself you wouldn't want me to know.](https://github.com/rn1hd#tell-me-one-thing-about-yourself-you-wouldnt-want-me-to-know)
 - [Tell me the difference between good and exceptional.](https://github.com/rn1hd#tell-me-the-difference-between-good-and-exceptional)
 - [There's no right or wrong answer, but if you could be anywhere in the world right now, where would you be?](https://github.com/rn1hd#theres-no-right-or-wrong-answer-but-if-you-could-be-anywhere-in-the-world-right-now-where-would-you-be)
-- [What do you like to do for fun?](https://github.com/rn1hd#what-do-you-like-to-do-for-fun)
-- [Is your best personal record in online competitions convincing and relevant?](https://github.com/rn1hd#is-your-best-personal-record-in-online-competitions-convincing-and-relevant)
-- [Do you consider yourself a champion material in online competitions?](https://github.com/rn1hd#do-you-consider-yourself-a-champion-material-in-online-competitions)
 - [What do you do in your spare time?](https://github.com/rn1hd#what-do-you-do-in-your-spare-time)
-- [Are you planning on having children?](https://github.com/rn1hd#are-you-planning-on-having-children)
 - [How do you think I rate as an interviewer?](https://github.com/rn1hd#how-do-you-think-i-rate-as-an-interviewer)
 - [When can you start?](https://github.com/rn1hd#when-can-you-start)
 - [Are you willing to relocate?](https://github.com/rn1hd#are-you-willing-to-relocate)
@@ -762,19 +754,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- At my previous job I was permitted to use software documentation, automation testing, and 5-day work week strategies upon request. They serve as a **treatment** for technical debt. I know that your company can continuously uphold these strategies, which can contribute to a positive work environment for all parties involved in the long run.
-
-#### **What do you like to do outside of work?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- I would like to go **sightseeing** and **travel** around the world. Just by watching this Youtuber’s **[content](https://www.youtube.com/@DadaSweetie280)** already gave me pleasure.
-
-#### **What is your greatest achievement outside of work?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- When I had the chance to play public grand piano in Batangas and National Capital Region.
+- At my **first job** as a **Software Developer**, I was permitted to use software documentation, automation testing, and 5-day work week strategies upon request. They serve as a **treatment** for technical debt. I know that your company can continuously uphold these strategies, which can contribute to a positive work environment for all parties involved in the long run.
 
 #### **What are the qualities of a good leader? A bad leader?**
 
@@ -806,38 +786,11 @@
 
 - A place where I can develop myself to become a **better person**.
 
-#### **What do you like to do for fun?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- I play piano, watch selected world news, and compete with **amazing world champions** in online competitions with the following **best personal records** as follows:
-  - **[Top 1](https://data.typeracer.com/pit/competitions?sort=points&date=2022-10-05&kind=day&page=0&n=20)** in **[TypeRacer](https://play.typeracer.com/)**, the Global Typing Competition on October 5, 2022.
-  - **[Top 6](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Tic%20Tac%20Toe%20Record.webp)** in **World Tic Tac Toe Tournament Leaderboard** on January 2, 2024, captured at 5:06 PM (GMT +8).
-  - **[Top 11](https://raw.githubusercontent.com/rn1hd/rn1hd/main/assets/Best%20Gomoku%20Record.webp)** in **World Gomoku Tournament Leaderboard** on December 21, 2023, captured at 7:36 PM (GMT +8).
-
-#### **Is your best personal record in online competitions convincing and relevant?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- Whatever the results, there is always **room for improvement**. I take these challenges as self-preparation for unexpected difficult real-world situations where I will be on my own to survive requiring a quick, consistent, and efficient performance output.
-
-#### **Do you consider yourself a champion material in online competitions?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- I am still **way behind** from that. Being one of the world champions in a specific field is a bonus but at the end of the day, my **strategy** in dealing with unexpected difficult real-world situations is what really matters where I will be on my own to survive requiring a quick, consistent, and efficient performance output.
-
 #### **What do you do in your spare time?**
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I am consistently **upskilling** to stay myself relevant in the current job market.
-
-#### **Are you planning on having children?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- I prefer not to answer this question now. Life is **unpredictable**. Anything can happen in the future.
 
 #### **How do you think I rate as an interviewer?**
 
