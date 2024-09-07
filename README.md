@@ -99,7 +99,7 @@
   - Palace of Sound (2014-2016)
   - iBMS 4th Age (2015)
   - O2Jam V3 International (2013-2018)
-- See portfolio **[here](https://github.com/rn1hd/rn1hd/tree/main/Personal%20Website/Portfolio/Game%20Developer)**.
+- Published a total of **[49 notechart projects](https://github.com/rn1hd/rn1hd/tree/main/Personal%20Website/Portfolio/Game%20Developer)**
 
 ### Transcriptionist ⌨
 
