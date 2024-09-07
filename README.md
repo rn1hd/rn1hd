@@ -183,7 +183,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I received my bachelor's degree in **2016**. I have been working in a corporate world for **4 years** and gained great experience from there, but I am always excited on continuous learning in modern technologies and character development to contribute more than where I am now on **what really matters**. As long as I keep myself progressing from there, age is not a factor.
+- I received my bachelor's degree in **2016**. I have been working in a corporate world for **4 years** as a **Software Developer** and gained great experience from there, but I am always excited on continuous learning in modern technologies and character development to contribute more on **what really matters**. If I keep myself progressing from there, age is not a factor.
 
 #### **Are you married?**
 
