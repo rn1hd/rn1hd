@@ -293,7 +293,7 @@
 - [How do you deal with pressure or stressful situations?](https://github.com/rn1hd#how-do-you-deal-with-pressure-or-stressful-situations)
 - [How do you feel about working weekends or late hours?](https://github.com/rn1hd#how-do-you-feel-about-working-weekends-or-late-hours)
 - [If I were your supervisor and asked you to do something that you disagreed with, what would you do?](https://github.com/rn1hd#if-i-were-your-supervisor-and-asked-you-to-do-something-that-you-disagreed-with-what-would-you-do)
-- [What if your tolerance has already reached beyond the limit?](https://github.com/rn1hd#what-if-your-tolerance-has-already-reached-beyond-the-limit)
+- [What if you have exhausted all your diplomatic efforts and still did not work for them?](https://github.com/rn1hd#what-if-you-have-exhausted-all-your-diplomatic-efforts-and-still-did-not-work-for-them)
 - [What was the most difficult period in your life, and how did you deal with it?](https://github.com/rn1hd#what-was-the-most-difficult-period-in-your-life-and-how-did-you-deal-with-it)
 - [Give me an example of a time you did something wrong. How did you handle it?](https://github.com/rn1hd#give-me-an-example-of-a-time-you-did-something-wrong-how-did-you-handle-it)
 - [Give an example of how you have handled a challenge in the workplace before.](https://github.com/rn1hd#give-an-example-of-how-you-have-handled-a-challenge-in-the-workplace-before)
@@ -377,9 +377,9 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I **walk on eggshells** exhausting all remaining alternatives and tolerance to meet my supervisor's expectations. Diplomacy and dialogue are the key to strengthening trust and understanding between the two parties.
+- I must **take a step back** first by exploring all possible legal options to meet what is expected from me. Diplomacy and dialogue are the key to strengthening trust and understanding between the two parties.
 
-#### **What if your tolerance has already reached beyond the limit?**
+#### **What if you have exhausted all your diplomatic efforts and still did not work for them?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
@@ -427,7 +427,7 @@
 
 - When I failed to deliver my work output within their expectations. There are **two options** to deal with it:
   - Listen to their **constructive criticisms** carefully to improve next time what I can present.
-  - Coordinate with someone who is **smarter** than me professionally to gather some feedback for improvement.
+  - Upskill on what really matters as fast as I can to establish **better systems**.
 
 #### **Tell me about a time you demonstrated leadership skills.**
 
@@ -603,7 +603,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- **Yes**. I am always striving to do better through continuous learning and efficiency planning in other areas as well, so being successful is not only my personal achievement but also the positive impact of my efforts on the community.
+- Until I found **stability** in myself personally and professionally, I still must go through a lot of sacrifices to reach the minimum acceptable standard.
 
 #### **What do you look for in terms of culture - structured or entrepreneurial?**
 
