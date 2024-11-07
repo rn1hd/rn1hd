@@ -9,7 +9,7 @@
 
 [Back to Top](https://github.com/rn1hd#hi-there-)
 
-- I am a **Software Developer** with professional experience in web development, automation testing, and design. Passionate on continuous learning and applying cutting-edge technologies to solve real-world problems.
+- I am a **Software Developer** with 4 years of corporate experience in developing scalable web applications, improving software quality through automation, and applying user experience principles. I am committed to pushing the boundaries of software to drive meaningful value for both the company and its users.
   - **Machine Learning Engineer** is my dream job because with the current trend in the market today, Artificial Intelligence is the technology of the future and being a part of the development team someday will contribute a lot to the society, observing how **[ChatGPT](https://openai.com/blog/chatgpt/)** becomes a trend on the headlines in the 1st quarter of 2023. Working in an Artificial Intelligence department is where I am passionate about. Personally, I would love to develop a robotics system using Reinforcement Learning to prioritize unaccompanied people that no one will be with them for the rest of their lives. Instead of letting unaccompanied people feel alone, a robot will take over as a last resort to spend some time on emotional support, home assistance, and personal care.
   - **Full Stack Developer** is one of the promising goals for my career path, in fact there are more opportunities in the job market. This role can be beneficial when there are dead-end situations in the business that need to be resolved as soon as possible.
 - I am also a professional **[pianist](https://dai.ly/k3loMuNrK90sOQzOXKu)** outside in the world of technology.
@@ -25,13 +25,13 @@
 ### Web Development
 
 <div>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
 </div>
 
 ### Database Management
@@ -41,13 +41,6 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </div>
 
-### Documentation
-
-<div>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="assets/badge/Sphinx.webp" height="28" alt="Sphinx" />
-</div>
-
 ### Software Testing
 
 <div>
@@ -55,14 +48,25 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" />
 </div>
 
-### Creative Design
+### Data Analysis
 
 <div>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="Adobe InDesign" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI" />
+</div>
+
+### Documentation
+
+<div>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="assets/badge/Sphinx.webp" height="28" alt="Sphinx" />
+</div>
+
+### Design
+
+<div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="Adobe InDesign" />
 </div>
 
 <br />
@@ -113,13 +117,12 @@
 [Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
 
 - When I was in college, we developed **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)**. My oral thesis research presentation went well in **Hong Kong** with the help of my teammates and university professors.
-- Developed the initial version of the **[Zumumu Website](https://zumumu.com/)** in year 2020 that covers multiple types of restaurants using Bootstrap 4, jQuery, MySQL, and **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang Web Framework. **[Share Cafe](https://sharecafe.ph/web/)** is a notable business client that uses Zumumu order management system.
-- Implemented automation framework for **Zumumu** applications using **[Selenium](https://www.selenium.dev/)** in Python to track and ensure that the system is 100% working after code changes before deploying in the live server.
-- Developed three websites on year 2020 for my client's startup business using Bootstrap 4 and jQuery:
-  - [Nix Daily](https://nixdaily.netlify.app/)
-  - [The Ones Design](https://theonesdesign.netlify.app/)
-  - [The Ones Restaurant](https://theonesrestaurant.netlify.app/)
-- Developed **Purchase Request Information System** for 1 Regional and 6 Field Offices under **[Department of Labor and Employment](https://ncr.dole.gov.ph/)** with enhanced data security and user experience using **[Metronic](https://keenthemes.com/metronic)**, MySQL, and PHP programming language.
+- Enhanced operational efficiency by developing **[Zumumu](https://zumumu.com/)** web applications for **[Share Cafe](https://sharecafe.ph/web/)** restaurant in Batangas using Bootstrap 4, jQuery, MySQL, and **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework.
+- Reduced software bugs in production by **20%** through performing an automation testing for **[Zumumu](https://zumumu.com/)** and other intranet web applications under **[IntegrityNet Solutions and Services](https://www.integritynet.ph/)** using Selenium, Python, and Jenkins.
+- Enhanced marketing influence by developing **[The Ones Design](https://theonesdesign.netlify.app/)** website for a self-employed business owner using Javascript and Bootstrap 4.
+- **[Nix Daily](https://nixdaily.netlify.app/)** and **[The Ones Restaurant](https://theonesrestaurant.netlify.app/)** are some of my finished personal web applications in year 2020 using Javascript and Bootstrap 4.
+- Led development of an **inventory management system**, enhancing sales and customer satisfaction for store owners by streamlining daily operations in year 2023 using Bootstrap 5, jQuery, MySQL, Excel, and Python.
+- Enhanced operational efficiency by developing a **Purchase Request Information System** for 1 Regional and 6 Field Offices under **[Department of Labor and Employment](https://ncr.dole.gov.ph/)** using **[Metronic](https://keenthemes.com/metronic)** 8 web framework, MySQL, and PHP programming language.
 
 ### Technical Writer 📚
 
@@ -177,7 +180,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I am a dedicated **software developer** with four years of hands-on experience in creating and maintaining dynamic websites and web applications. I graduated **Cum Laude**, which reflects my strong academic background and commitment to excellence. Over the years, I've focused on creating efficient and user-friendly applications, always striving to write clean, effective code that meets the needs of stakeholders. I'm eager to bring my skills and experience to a team where I can contribute to innovative projects.
+- I am a dedicated **software developer** with four years of corporate experience in developing scalable web applications, improving software quality through automation, and applying user experience principles. Over the years, I've focused on creating efficient and user-friendly applications, always striving to write clean, effective code that meets the needs of stakeholders. I'm eager to bring my skills and experience to a team where I can contribute to innovative projects.
 
 #### **How old are you?**
 
@@ -445,7 +448,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I would first analyze what type of violation the company has committed in accordance with the **National Labor Code**. This will be coordinated to the **ambassador** of the company through diplomacy and dialogue to seek a peaceful resolution for the benefit of all parties involved in the long run.
+- I would first analyze what type of violation the company has committed in accordance with the **National Labor Code**. This will be coordinated to the **ambassador** of the company through dialogue and consultation to seek a peaceful resolution for the benefit of all parties involved in the long run.
 
 #### **What do you think our company/organization could do better?**
 
