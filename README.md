@@ -182,6 +182,16 @@
 
 - I am a dedicated **software developer** with 4 years of corporate experience in developing scalable web applications, improving software quality through automation, and applying user experience principles. Over the years, I've focused on creating efficient and user-friendly applications, always striving to write clean, effective code that meets the needs of stakeholders. I'm eager to bring my skills and experience to a team where I can contribute to innovative projects.
 
+#### **Tell me about your work experience.**
+
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
+
+- I started my professional journey as a **Biller** in **Accudata Inc.** where my responsibility is to encode at least 120 bills of lading as a daily quota with attention to detail and the ability to work under pressure from **September 19, 2016**, to **July 20, 2018**.
+- I moved to **IntegrityNet Solutions & Services** on **August 6, 2018**, as a **Software Developer** responsible in documenting, designing, developing, testing, and maintaining web applications.
+- I **resigned** in IntegrityNet Solutions & Services voluntarily on **January 28, 2022**, to pursue **modern in-demand technologies** aiming for an **industry level standard** to keep myself up to date in fast-changing technology. I applied the skills I have learned during that gap period on my freelance experience on **May 24, 2023**, to coordinate with the store owners by developing an inventory management system, as well as photo printing and lamination for students.
+- I continued my journey in a corporate industry as a **System Web Developer** in **Department of Labor and Employment - National Capital Region** on **February 19, 2024**, responsible in designing, developing, testing, and implementing efficient Purchase Request Information System for 1 Regional and 6 Field Offices and to ensure the reliability and security of its application.
+- My last role is only **temporary**. I just finished my project with them. While I am consistently **upskilling** right now to stay myself relevant in the job market by completing my user experience design specialization course in Google, I am **actively** looking for better opportunities that will allow me to grow **professionally** and to achieve job security in your company.
+
 #### **How old are you?**
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
@@ -738,7 +748,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- When I did not realize the **obstacles** which were identified at my last job. Although I graduated as Cum Laude in college, I was only too focused on what was being taught in school. I wish I had started exercising various technologies when I was **young** as a self-preparation for more challenging real-world business problems.
+- When I did not realize the **obstacles** which were identified at my second job. Although I graduated as Cum Laude in college, I was only too focused on what was being taught in school. I wish I had started exercising various technologies when I was **young** as a self-preparation for more challenging real-world business problems.
 
 #### **What's the most important thing you learned in school?**
 
