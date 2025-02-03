@@ -11,7 +11,7 @@
 
 - I am a **Software Developer** with 4 years of corporate experience in developing scalable web applications, improving software quality through automation, and applying user experience principles. I am committed to pushing the boundaries of software to drive meaningful value for both the company and its users.
   - **Machine Learning Engineer** is my dream job because with the current trend in the market today, Artificial Intelligence is the technology of the future and being a part of the development team someday will contribute a lot to the society, observing how **[ChatGPT](https://openai.com/blog/chatgpt/)** becomes a trend on the headlines in the 1st quarter of 2023. Working in an Artificial Intelligence department is where I am passionate about. Personally, I would love to develop a robotics system using Reinforcement Learning to prioritize unaccompanied people that no one will be with them for the rest of their lives. Instead of letting unaccompanied people feel alone, a robot will take over as a last resort to spend some time on emotional support, home assistance, and personal care.
-  - **Full Stack Developer** is one of the promising goals for my career path, in fact there are more opportunities in the job market. This role can be beneficial when there are dead-end situations in the business that need to be resolved as soon as possible.
+  - **Full Stack Developer** is one of the interesting positions that I would love to apply for, in fact there are more opportunities in the job market. This role can be beneficial when there are dead-end situations in the business that need to be resolved as soon as possible.
 - I am also a professional **[pianist](https://dai.ly/k3loMuNrK90sOQzOXKu)** outside in the world of technology.
 - I have attached my resume **[here](https://raw.githubusercontent.com/rn1hd/rn1hd/main/Resume/Resume.webp)**.
 - You can also visit my **[LinkedIn](https://www.linkedin.com/in/rn1hd/)** profile. Let's connect!
@@ -118,7 +118,7 @@
 
 - When I was in college, we developed **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)**. My oral thesis research presentation went well in **Hong Kong** with the help of my teammates and university professors.
 - Enhanced operational efficiency by developing **[Zumumu](https://zumumu.com/)** web applications for **[Share Cafe](https://sharecafe.ph/web/)** restaurant in Batangas using Bootstrap 4, jQuery, MySQL, and **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework.
-- Reduced software bugs in production by **20%** through performing an automation testing for **[Zumumu](https://zumumu.com/)** and other intranet web applications under **[IntegrityNet Solutions and Services](https://www.integritynet.ph/)** using Selenium, Python, and Jenkins.
+- Reduced software bugs in production through performing an automation testing for **[Zumumu](https://zumumu.com/)** and other intranet web applications under **[IntegrityNet Solutions and Services](https://www.integritynet.ph/)** using Selenium, Python, and Jenkins.
 - Enhanced marketing influence by developing **[The Ones Design](https://theonesdesign.netlify.app/)** website for a self-employed business owner using Javascript and Bootstrap 4.
 - **[Nix Daily](https://nixdaily.netlify.app/)** and **[The Ones Restaurant](https://theonesrestaurant.netlify.app/)** are some of my finished personal web applications in year 2020 using Javascript and Bootstrap 4.
 - Led development of an **inventory management system**, enhancing sales and customer satisfaction for store owners by streamlining daily operations in year 2023 using Bootstrap 5, jQuery, MySQL, Excel, and Python.
@@ -180,7 +180,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I am a dedicated **software developer** with four years of corporate experience in developing scalable web applications, improving software quality through automation, and applying user experience principles. Over the years, I've focused on creating efficient and user-friendly applications, always striving to write clean, effective code that meets the needs of stakeholders. I'm eager to bring my skills and experience to a team where I can contribute to innovative projects.
+- I am a dedicated **software developer** with 4 years of corporate experience in developing scalable web applications, improving software quality through automation, and applying user experience principles. Over the years, I've focused on creating efficient and user-friendly applications, always striving to write clean, effective code that meets the needs of stakeholders. I'm eager to bring my skills and experience to a team where I can contribute to innovative projects.
 
 #### **How old are you?**
 
@@ -204,7 +204,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I took this time to gain proficiency in **modern web technologies** and **user experience design**, which I believe makes me a more versatile and skilled developer. Your company is looking for these requirements, so I am looking forward to learning more about this position that I am applying for. I know I have a lot to offer, and I would love to show you what I can bring to the team.
+- I took this time to gain proficiency in **modern in-demand technologies** and **user experience design**, which I believe makes me a more versatile and skilled developer. Your company is looking for these requirements, so I am looking forward to learning more about this position that I am applying for. I know I have a lot to offer, and I would love to show you what I can bring to the team.
 
 #### **What did you like least about your last job?**
 
@@ -216,7 +216,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- The scope of the **Full Stack Developer** is very broad. **Design** is the third phase of **Software Development Life Cycle (SDLC)** where I can test my software prototypes to the participants who passed the screening survey in the usability study.
+- The scope of the **Full Stack Developer** is very broad. **Design** is the third phase of **Software Development Life Cycle (SDLC)** where I can conduct **pilot testing** to the participants who passed the screening survey in the usability study.
 
 #### **How is documentation development beneficial in business?**
 
@@ -228,13 +228,13 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- When I manage to **overcome** tough challenges resulting in business growth and employee satisfaction, which rewards great benefits that I deserve. All my hard work and determination paid off.
+- When I manage to **fulfill** my client's needs to achieve business growth and building trust within all parties involved in the project to maintain a positive company culture in the long run.
 
 #### **Are you considering other positions in other companies?**
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- **Yes**. User experience designer, machine learning and automation engineer positions are good alternatives aside from **Software Developer** position.
+- **Yes**, I am interested to consider other positions where I can see the long-term goal at the end of this to achieve success in life.
 
 #### **What other companies are you interviewing with?**
 
@@ -260,7 +260,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I am looking for a position where I can continue to exercise my **software development skills**. I am motivated by being able to see the impact of my work on other people, so your suggestions for improvement are important to determine what to expect for this position.
+- I am looking for a position where I can continue to **showcase** my technical and soft skills that aligns with the company's standards.
 
 #### **Why do you want to work at this company?**
 
@@ -278,8 +278,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- While I occasionally struggle with following simple instructions, I have developed **strategies** like detailed notetaking and documentation to ensure accuracy in my work.
-- I have been actively improving my verbal communication skills through **active listening** and have seen significant progress, particularly in continuous exposure to a practical social setting as well as striving myself to become a **better person** by learning from my mistakes.
+- While I occasionally struggle with following simple instructions, I have developed **strategies** like detailed notetaking and documentation to ensure accuracy in my work, as well as striving myself to become a **better person** by learning from my mistakes.
 
 ### **Behavioral Questions**
 
@@ -320,7 +319,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- The last project I led is the **Purchase Request Information System** for 1 Regional and 6 Field Offices under **[Department of Labor and Employment](https://ncr.dole.gov.ph/)**. All features needed by the user in the initial version have been implemented with the help of code documentation and improving code quality.
+- The last project I led is the **Purchase Request Information System** for 1 Regional and 6 Field Offices under **[Department of Labor and Employment](https://ncr.dole.gov.ph/)**. All features needed by the user in the initial version have been implemented with the help of code documentation, clean code, and proper coordination with the team.
 
 #### **Give me an example of a time that you felt you went above and beyond the call of duty at work**
 
@@ -338,7 +337,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- **Yes**, especially when technical debt is getting out of control. I collaborated with a software developer in a team project. It did not go well when I did not address his concerns properly while trying to adapt complexity at the same time. This is when I started to eliminate codes that I find unnecessary until I felt comfortable maintaining the project.
+- **Yes**, especially when technical debt is getting out of control. I collaborated with a software developer in a team project. It did not go well when I did not address his concerns properly while trying to adapt complexity at the same time. This is when I started to eliminate codes that I find unnecessary until everyone felt comfortable maintaining the project.
 
 #### **Tell me about a time when you had to give someone difficult feedback. How did you handle it?**
 
@@ -588,7 +587,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- I really enjoy **learning new things** and regularly applying my knowledge into a practical setting using best practices as self-preparation for more challenging real-world business problems.
+- I really enjoy **learning new things** on what really matters and regularly applying my knowledge into a practical setting using best practices as self-preparation for more challenging real-world business problems.
 
 #### **Where do you see yourself in 5 years?**
 
