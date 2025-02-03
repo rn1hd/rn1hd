@@ -159,6 +159,7 @@
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
 - [Tell me about yourself.](https://github.com/rn1hd#tell-me-about-yourself)
+- [Tell me about your work experience.](https://github.com/rn1hd#tell-me-about-your-work-experience)
 - [How old are you?](https://github.com/rn1hd#how-old-are-you)
 - [Are you married?](https://github.com/rn1hd#are-you-married)
 - [Why did you leave your last job?](https://github.com/rn1hd#why-did-you-leave-your-last-job)
