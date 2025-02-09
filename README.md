@@ -88,8 +88,14 @@
 
 - My motivation to become a pianist started at 13 years old when my father bought an electronic piano.
 - I enrolled on a summer piano class in **Regis Benedictine Academy** located in Batangas, Philippines at 15 years old.
-- With continuous learning and motivation, my piano skills developed over time ranging from ability to play nursery rhymes up to iconic songs adaptation and classical music.
-- I have experienced playing grand piano in **[Pontefino Hotel](https://www.pontefinohotel.com/)** and **[Robinsons Mall](https://robinsonsmalls.com/)** Lipa branch since the last quarter of the year 2022 in Batangas province, and several malls around National Capital Region on year 2024.
+- I have experienced playing grand piano in **[Pontefino Hotel](https://www.pontefinohotel.com/)** and **[Robinsons Lipa](https://virtualmalldirectory.robinsonsmalls.com/list-of-malls/south-luzon/robinsons-lipa)** since the last quarter of the year 2022 in **Batangas** province, as well as several malls around **National Capital Region** from April 2024 up to this date in my leisure time with the following:
+  - Ayala Malls Glorietta (2024)
+  - Ayala Malls Greenbelt (2024)
+  - Ayala Malls TriNoma
+  - SM Aura Premier
+  - SM Megamall
+  - The Podium
+- Published a total of **[3 piano sheet music](https://musescore.com/user/36573824)** on MuseScore.
 
 ### Game Developer 🎮
 
@@ -827,4 +833,4 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- **Yes**. In case I have created new accomplishments to showcase in the upcoming days that resemble the **Software Developer** requirements your company is looking for; I will keep you posted while my application process is pending.
+- **Yes**. In case I have created new accomplishments to showcase in the upcoming days that resemble the **Software Developer** requirements your company is looking for; I will keep you posted while my application status is pending.
