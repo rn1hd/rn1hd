@@ -95,7 +95,7 @@
   - SM Aura Premier
   - SM Megamall
   - The Podium
-- Published a total of **[3 piano sheet music](https://musescore.com/user/36573824)** on MuseScore.
+- Published a total of **[4 piano sheet music](https://musescore.com/user/36573824)** on MuseScore.
 
 ### Game Developer 🎮
 
@@ -215,7 +215,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- My last role is only **temporary**. I just finished my project with them. Now, I am looking for better opportunities that will allow me to grow **professionally** and to achieve job security in your company.
+- My last role is only **temporary**. I just finished my project with them. While I am consistently **upskilling** right now to stay myself relevant in the job market, I am **actively** looking for better opportunities that will allow me to grow **professionally** and to achieve job security in your company.
 
 #### **Why is there a gap in your employment?**
 
