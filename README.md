@@ -147,6 +147,7 @@
   - Multiple difficulty notechart preview video presentations as a sneak peek on what to expect in the next month's song update using **[Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/)**
 
 - My creative designer journey has continued on my **freelance experience** in year 2023 to deliver menu item posters which will be attached to their stores and good quality pictures using a glossy photo paper in different sizes. The software being used there is **Adobe InDesign**.
+- Released low-fidelity prototypes of my upcoming mobile application project **[Mercandow](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Projects/Mercandow.md)**, a skilled service provider mobile application that allows the customer to book their preferred service provider in real time.
 
 - See portfolio **[here](https://github.com/rn1hd/rn1hd/tree/main/Personal%20Website/Portfolio/Creative%20Designer)**.
 
