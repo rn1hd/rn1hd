@@ -2,57 +2,57 @@
 
 The following list of songs below are my personal music game projects with a total of **49 published notecharts** during my tenure in O2Jam organizations.
 
-- [#Sukinanda](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#%23Sukinanda)
-- [Airborne](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Airborne)
-- [Aitai Lonely Christmas](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Aitai%20Lonely%20Christmas)
-- [B Garden](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#B%20Garden)
-- [Canzoni Di Natale (Dance Remix)](<https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Canzoni%20Di%20Natale%20(Dance%20Remix)>)
-- [Change](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Change)
-- [Dareka Ga Nageta Ball](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Dareka%20Ga%20Nageta%20Ball)
-- [Devil's Tears](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Devil's%20Tears)
-- [Dream High](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Dream%20High)
-- [East West Wobble](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#East%20West%20Wobble)
-- [Eien Pressure](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Eien%20Pressure)
-- [Etude for the Sinners](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Etude%20for%20the%20Sinners)
-- [Flying Get](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Flying%20Get)
-- [GIVE ME FIVE!](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#GIVE%20ME%20FIVE!)
-- [Gingham Check](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Gingham%20Check)
-- [Green Flash](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Green%20Flash)
-- [Halloween Night](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Halloween%20Night)
-- [Happy Birthday](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Happy%20Birthday)
-- [Heavy Rotation](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Heavy%20Rotation)
-- [It's A Small World (Eurobeat Remix)](<https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#It's%20A%20Small%20World%20(Eurobeat%20Remix)>)
-- [Jetstream!](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Jetstream!)
-- [Kesshou](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Kesshou)
-- [Kibou Sanmyaku](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Kibou%20Sanmyaku)
-- [Kimi no Hohoemi wo Yume ni Miru](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Kimi%20no%20Hohoemi%20wo%20Yume%20ni%20Miru)
-- [Kiyomi Song](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Kiyomi%20Song)
-- [Kono Namida wo Kimi ni Sasagu](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Kono%20Namida%20wo%20Kimi%20ni%20Sasagu)
-- [L'amour Et La Liberte](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#L'amour%20Et%20La%20Liberte)
-- [Lost](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Lost)
-- [Mae Shika Mukanee](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Mae%20Shika%20Mukanee)
-- [Magic Knight](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Magic%20Knight)
-- [Niji No Ressha](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Niji%20No%20Ressha)
-- [One Missed Call](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#One%20Missed%20Call)
-- [Pain](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Pain)
-- [Parodia Sonatina Var. II](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Parodia%20Sonatina%20Var.%20II)
-- [Payphone](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Payphone)
-- [Pink or Black](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Pink%20or%20Black)
-- [Santa-san](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Santa-san)
-- [Seishun Dokei](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Seishun%20Dokei)
-- [Sky Ride](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Sky%20Ride)
-- [So Long!](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#So%20Long!)
-- [Star Shine Story](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Star%20Shine%20Story)
-- [Suzukake Nanchara -Infinity-](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Suzukake%20Nanchara%20-Infinity-)
-- [Tabidachi no Haru ga Kita](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Tabidachi%20no%20Haru%20ga%20Kita)
-- [Touch by Touch](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Touch%20by%20Touch)
-- [Tsugi no Season](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Tsugi%20no%20Season)
-- [V3 II](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#V3%20II)
-- [Viva El Tango](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Viva%20El%20Tango)
-- [What Makes You Beautiful](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#What%20Makes%20You%20Beautiful)
-- [Winter Child](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#Winter%20Child)
+- [#Sukinanda](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#sukinanda)
+- [Airborne](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#airborne)
+- [Aitai Lonely Christmas](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#aitai-lonely-christmas)
+- [B Garden](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#b-garden)
+- [Canzoni Di Natale (Dance Remix)](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#canzoni-di-natale-dance-remix)
+- [Change](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#change)
+- [Dareka Ga Nageta Ball](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#dareka-ga-nageta-ball)
+- [Devil's Tears](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#devils-tears)
+- [Dream High](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#dream-high)
+- [East West Wobble](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#east-west-wobble)
+- [Eien Pressure](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#eien-pressure)
+- [Etude for the Sinners](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#etude-for-the-sinners)
+- [Flying Get](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#flying-get)
+- [Gingham Check](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#gingham-check)
+- [GIVE ME FIVE!](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#give-me-five)
+- [Green Flash](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#green-flash)
+- [Halloween Night](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#halloween-night)
+- [Happy Birthday](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#happy-birthday)
+- [Heavy Rotation](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#heavy-rotation)
+- [It's A Small World (Eurobeat Remix)](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#its-a-small-world-eurobeat-remix)
+- [Jetstream!](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#jetstream)
+- [Kesshou](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#kesshou)
+- [Kibou Sanmyaku](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#kibou-sanmyaku)
+- [Kimi no Hohoemi wo Yume ni Miru](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#kimi-no-hohoemi-wo-yume-ni-miru)
+- [Kiyomi Song](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#kiyomi-song)
+- [Kono Namida wo Kimi ni Sasagu](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#kono-namida-wo-kimi-ni-sasagu)
+- [L'amour Et La Liberte](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#lamour-et-la-liberte)
+- [Lost](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#lost)
+- [Mae Shika Mukanee](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#mae-shika-mukanee)
+- [Magic Knight](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#magic-knight)
+- [Niji No Ressha](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#niji-no-ressha)
+- [One Missed Call](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#one-missed-call)
+- [Pain](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#pain)
+- [Parodia Sonatina Var. II](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#parodia-sonatina-var-ii)
+- [Payphone](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#payphone)
+- [Pink or Black](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#pink-or-black)
+- [Santa-san](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#santa-san)
+- [Seishun Dokei](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#seishun-dokei)
+- [Sky Ride](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#sky-ride)
+- [So Long!](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#so-long)
+- [Star Shine Story](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#star-shine-story)
+- [Suzukake Nanchara -Infinity-](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#suzukake-nanchara--infinity-)
+- [Tabidachi no Haru ga Kita](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#tabidachi-no-haru-ga-kita)
+- [Touch by Touch](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#touch-by-touch)
+- [Tsugi no Season](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#tsugi-no-season)
+- [V3 II](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#v3-ii)
+- [Viva El Tango](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#viva-el-tango)
+- [What Makes You Beautiful](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#what-makes-you-beautiful)
+- [Winter Child](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md#winter-child)
 
-<br/>
+<br />
 
 ## #Sukinanda
 
@@ -64,7 +64,7 @@ The following list of songs below are my personal music game projects with a tot
   <img src="./Loading%20Images/%23Sukinanda.webp" alt="#Sukinanda" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **AKB48**
 
@@ -82,7 +82,7 @@ Image edited by **Glenn Joseph**
 
 Published on **November 4, 2017**
 
-<br/>
+<br />
 
 ## Airborne
 
@@ -94,7 +94,7 @@ Published on **November 4, 2017**
   <img src="./Loading%20Images/Airborne.webp" alt="Airborne" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Composed by **George Bellas**
 
@@ -112,7 +112,7 @@ Image edited by **DarkFunkerz**
 
 Published on **May 2012**
 
-<br/>
+<br />
 
 ## Aitai Lonely Christmas
 
@@ -124,7 +124,7 @@ Published on **May 2012**
   <img src="../Creative%20Designer/O2Jam%20Loading%20Images/Aitai%20Lonely%20Christmas.webp" alt="Aitai Lonely Christmas" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **C-ute**
 
@@ -140,7 +140,7 @@ Performed by **C-ute**
 
 Published on **December 18, 2013**
 
-<br/>
+<br />
 
 ## B Garden
 
@@ -152,7 +152,7 @@ Published on **December 18, 2013**
   <img src="../Creative%20Designer/O2Jam%20Loading%20Images/B%20Garden.webp" alt="B Garden" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **AKB48**
 
@@ -168,7 +168,7 @@ Performed by **AKB48**
 
 Published on **July 22, 2014**
 
-<br/>
+<br />
 
 ## Canzoni Di Natale (Dance Remix)
 
@@ -180,7 +180,7 @@ Published on **July 22, 2014**
   <img src="./Loading%20Images/Canzoni%20Di%20Natale%20(Dance%20Remix).webp" alt="Canzoni Di Natale (Dance Remix)" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Composed by **DJ Christmas**
 
@@ -198,7 +198,7 @@ Image edited by **DarkFunkerz**
 
 Published on **December 2012**
 
-<br/>
+<br />
 
 ## Change
 
@@ -210,7 +210,7 @@ Published on **December 2012**
   <img src="./Loading%20Images/Change.webp" alt="Change" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Composed by **Various Artists**
 
@@ -228,7 +228,7 @@ Image edited by **DarkFunkerz**
 
 Published on **September 2013**
 
-<br/>
+<br />
 
 ## Dareka Ga Nageta Ball
 
@@ -240,7 +240,7 @@ Published on **September 2013**
   <img src="./Loading%20Images/Dareka%20Ga%20Nageta%20Ball.webp" alt="Dareka Ga Nageta Ball" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **AKB48**
 
@@ -260,7 +260,7 @@ Image edited by **DarkFunkerz**
 
 Published on **September 26, 2015**
 
-<br/>
+<br />
 
 ## Devil's Tears
 
@@ -272,7 +272,7 @@ Published on **September 26, 2015**
   <img src="./Loading%20Images/Devil%27s%20Tears.webp" alt="Devil's Tears" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Composed by **Various Artists**
 
@@ -290,7 +290,7 @@ Image edited by **DarkFunkerz**
 
 Published on **February 2013**
 
-<br/>
+<br />
 
 ## Dream High
 
@@ -302,7 +302,7 @@ Published on **February 2013**
   <img src="./Loading%20Images/Dream%20High.webp" alt="Dream High" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **Love High**
 
@@ -320,7 +320,7 @@ Image edited by **DarkFunkerz**
 
 Published on **November 2012**
 
-<br/>
+<br />
 
 ## East West Wobble
 
@@ -332,7 +332,7 @@ Published on **November 2012**
   <img src="./Loading%20Images/East%20West%20Wobble.webp" alt="East West Wobble" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Composed by **SHK**
 
@@ -352,7 +352,7 @@ Image edited by **NIE**
 
 Published on **April 13, 2014**
 
-<br/>
+<br />
 
 ## Eien Pressure
 
@@ -364,7 +364,7 @@ Published on **April 13, 2014**
   <img src="./Loading%20Images/Eien%20Pressure.webp" alt="Eien Pressure" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **AKB48**
 
@@ -382,7 +382,7 @@ Image edited by **DarkFunkerz**
 
 Published on **April 2013**
 
-<br/>
+<br />
 
 ## Etude for the Sinners
 
@@ -394,7 +394,7 @@ Published on **April 2013**
   <img src="./Loading%20Images/Etude%20for%20the%20Sinners.webp" alt="Etude for the Sinners" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Composed by **Ice**
 
@@ -414,7 +414,7 @@ Image edited by **Glenn Joseph**
 
 Published on **January 14, 2018**
 
-<br/>
+<br />
 
 ## Flying Get
 
@@ -426,7 +426,7 @@ Published on **January 14, 2018**
   <img src="./Loading%20Images/Flying%20Get.webp" alt="Flying Get" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **AKB48**
 
@@ -444,7 +444,7 @@ Image edited by **DarkFunkerz**
 
 Published on **December 2012**
 
-<br/>
+<br />
 
 ## Gingham Check
 
@@ -456,7 +456,7 @@ Published on **December 2012**
   <img src="./Loading%20Images/Gingham%20Check.webp" alt="Gingham Check" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **AKB48**
 
@@ -474,7 +474,7 @@ Image edited by **DarkFunkerz**
 
 Published on **March 2013**
 
-<br/>
+<br />
 
 ## GIVE ME FIVE!
 
@@ -486,7 +486,7 @@ Published on **March 2013**
   <img src="./Loading%20Images/GIVE%20ME%20FIVE!.webp" alt="GIVE ME FIVE!" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **AKB48**
 
@@ -504,7 +504,7 @@ Image edited by **DarkFunkerz**
 
 Published on **July 14, 2013**
 
-<br/>
+<br />
 
 ## Green Flash
 
@@ -516,7 +516,7 @@ Published on **July 14, 2013**
   <img src="./Loading%20Images/Green%20Flash.webp" alt="Green Flash" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **AKB48**
 
@@ -534,7 +534,7 @@ Image edited by **DarkFunkerz**
 
 Published on **April 3, 2015**
 
-<br/>
+<br />
 
 ## Halloween Night
 
@@ -546,7 +546,7 @@ Published on **April 3, 2015**
   <img src="./Loading%20Images/Halloween%20Night.webp" alt="Halloween Night" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **AKB48**
 
@@ -564,7 +564,7 @@ Image edited by **Glenn Joseph**
 
 Published on **October 30, 2015**
 
-<br/>
+<br />
 
 ## Happy Birthday
 
@@ -576,7 +576,7 @@ Published on **October 30, 2015**
   <img src="./Loading%20Images/Happy%20Birthday.webp" alt="Happy Birthday" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Composed by **DJ Dugem**
 
@@ -594,7 +594,7 @@ Image edited by **Gelo03007**
 
 Published on **March 29, 2013**
 
-<br/>
+<br />
 
 ## Heavy Rotation
 
@@ -606,7 +606,7 @@ Published on **March 29, 2013**
   <img src="./Loading%20Images/Heavy%20Rotation.webp" alt="Heavy Rotation" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **AKB48**
 
@@ -628,7 +628,7 @@ Published on **November 2012**
 
 Hard chart revised on **April 26, 2014**
 
-<br/>
+<br />
 
 ## It's A Small World (Eurobeat Remix)
 
@@ -640,7 +640,7 @@ Hard chart revised on **April 26, 2014**
   <img src="./Loading%20Images/It%27s%20A%20Small%20World%20(Eurobeat%20Remix).webp" alt="It's A Small World (Eurobeat Remix)" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Composed by **U1-ASAMI/TOMOSUKE**
 
@@ -658,7 +658,7 @@ Image edited by **DarkFunkerz**
 
 Published on **March 2013**
 
-<br/>
+<br />
 
 ## Jetstream!
 
@@ -670,7 +670,7 @@ Published on **March 2013**
   <img src="./Loading%20Images/Jetstream!.webp" alt="Jetstream!" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Composed by **Dimrain47**
 
@@ -688,7 +688,7 @@ Image edited by **DarkFunkerz**
 
 Published on **June 2013**
 
-<br/>
+<br />
 
 ## Kesshou
 
@@ -700,7 +700,7 @@ Published on **June 2013**
   <img src="./Loading%20Images/Kesshou.webp" alt="Kesshou" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **NMB48**
 
@@ -718,7 +718,7 @@ Image edited by **Glenn Joseph**
 
 Published on **November 3, 2015**
 
-<br/>
+<br />
 
 ## Kibou Sanmyaku
 
@@ -730,7 +730,7 @@ Published on **November 3, 2015**
   <img src="./Loading%20Images/Kibou%20Sanmyaku.webp" alt="Kibou Sanmyaku" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **Watarirouka Hashiritai 7**
 
@@ -748,7 +748,7 @@ Image edited by **DarkFunkerz**
 
 Published on **April 2013**
 
-<br/>
+<br />
 
 ## Kimi no Hohoemi wo Yume ni Miru
 
@@ -760,7 +760,7 @@ Published on **April 2013**
   <img src="./Loading%20Images/Kimi%20no%20Hohoemi%20wo%20Yume%20ni%20Miru.webp" alt="Kimi no Hohoemi wo Yume ni Miru" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **AKB48**
 
@@ -778,7 +778,7 @@ Image edited by **DarkFunkerz**
 
 Published on **December 31, 2013**
 
-<br/>
+<br />
 
 ## Kiyomi Song
 
@@ -790,9 +790,7 @@ Published on **December 31, 2013**
   <img src="./Loading%20Images/Kiyomi%20Song.webp" alt="Kiyomi Song" width="480" height="360" />
 </a>
 
-<br/>
-
-**Song Title:** Kiyomi Song
+<br />
 
 Performed by **Hari**
 
@@ -810,7 +808,7 @@ Image edited by **DarkFunkerz**
 
 Published on **February 2013**
 
-<br/>
+<br />
 
 ## Kono Namida wo Kimi ni Sasagu
 
@@ -822,7 +820,7 @@ Published on **February 2013**
   <img src="./Loading%20Images/Kono%20Namida%20Wo%20Kimi%20ni%20Sasagu.webp" alt="Kono Namida wo Kimi ni Sasagu" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **NO NAME**
 
@@ -842,7 +840,7 @@ Published on **October 2013**
 
 Hard chart revised on **March 30, 2015**
 
-<br/>
+<br />
 
 ## L'amour Et La Liberte
 
@@ -854,13 +852,13 @@ Hard chart revised on **March 30, 2015**
   <img src="./Loading%20Images/L%27amour%20Et%20La%20Liberte.webp" alt="L'amour Et La Liberte" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 <a href="https://dai.ly/k5nHw5EvuypYqAzmjFo">
   <img src="./Loading%20Images/L%27amour%20Et%20La%20Liberte%20-%20Special%20Version.webp" alt="L'amour Et La Liberte - Special Version" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Composed by **NAOKI Underground**
 
@@ -880,7 +878,7 @@ Image edited by **DarkFunkerz** (Regular Version) & **Majestouch** (Special Vers
 
 Published on **May 2013**
 
-<br/>
+<br />
 
 ## Lost
 
@@ -892,7 +890,7 @@ Published on **May 2013**
   <img src="./Loading%20Images/Lost.webp" alt="Lost" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **Yumiki Erino**
 
@@ -910,7 +908,7 @@ Image edited by **DarkFunkerz**
 
 Published on **August 31, 2014**
 
-<br/>
+<br />
 
 ## Mae Shika Mukanee
 
@@ -922,7 +920,7 @@ Published on **August 31, 2014**
   <img src="./Loading%20Images/Mae%20Shika%20Mukanee.webp" alt="Mae Shika Mukanee" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **AKB48**
 
@@ -940,7 +938,7 @@ Image edited by **corenik**
 
 Published on **March 24, 2014**
 
-<br/>
+<br />
 
 ## Magic Knight
 
@@ -952,7 +950,7 @@ Published on **March 24, 2014**
   <img src="./Loading%20Images/Magic%20Knight.webp" alt="Magic Knight" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **Yuzurenai Nagai**
 
@@ -970,7 +968,7 @@ Image edited by **DarkFunkerz**
 
 Published on **January 2013**
 
-<br/>
+<br />
 
 ## Niji No Ressha
 
@@ -982,7 +980,7 @@ Published on **January 2013**
   <img src="./Loading%20Images/Niji%20No%20Ressha.webp" alt="Niji No Ressha" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **NO NAME**
 
@@ -1000,7 +998,7 @@ Image edited by **DarkFunkerz**
 
 Published on **November 2013**
 
-<br/>
+<br />
 
 ## One Missed Call
 
@@ -1012,7 +1010,7 @@ Published on **November 2013**
   <img src="./Loading%20Images/One%20Missed%20Call.webp" alt="One Missed Call" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **Reinhold Heil**
 
@@ -1030,7 +1028,7 @@ Image edited by **DarkFunkerz**
 
 Published on **October 2013**
 
-<br/>
+<br />
 
 ## Pain
 
@@ -1042,7 +1040,7 @@ Published on **October 2013**
   <img src="./Loading%20Images/Pain.webp" alt="Pain" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Composed by **Various Artists**
 
@@ -1060,7 +1058,7 @@ Image edited by **DarkFunkerz**
 
 Published on **July 2013**
 
-<br/>
+<br />
 
 ## Parodia Sonatina Var. II
 
@@ -1072,9 +1070,7 @@ Published on **July 2013**
   <img src="./Loading%20Images/Parodia%20Sonatina%20Var.%20II.webp" alt="Parodia Sonatina Var. II" width="480" height="360" />
 </a>
 
-<br/>
-
-**Song Title:** Parodia Sonatina Var. II
+<br />
 
 Composed by **Ice**
 
@@ -1092,7 +1088,7 @@ Image edited by **@jogpen**
 
 Published on **December 30, 2018**
 
-<br/>
+<br />
 
 ## Payphone
 
@@ -1104,9 +1100,7 @@ Published on **December 30, 2018**
   <img src="./Loading%20Images/Payphone.webp" alt="Payphone" width="480" height="360" />
 </a>
 
-<br/>
-
-**Song Title:** Payphone
+<br />
 
 Performed by **Maroon 5**
 
@@ -1124,7 +1118,7 @@ Image edited by **DarkFunkerz**
 
 Published on **October 2012**
 
-<br/>
+<br />
 
 ## Pink or Black
 
@@ -1136,7 +1130,7 @@ Published on **October 2012**
   <img src="./Loading%20Images/Pink%20or%20Black.webp" alt="Pink or Black" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **Livetune feat. Hatsune Miku**
 
@@ -1156,7 +1150,7 @@ Image edited by **Miruby**
 
 Published on **October 22, 2014**
 
-<br/>
+<br />
 
 ## Santa-san
 
@@ -1168,7 +1162,7 @@ Published on **October 22, 2014**
   <img src="./Loading%20Images/Santa-san.webp" alt="Santa-san" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **Momoiro Clover Z**
 
@@ -1186,7 +1180,7 @@ Image edited by **DarkFunkerz**
 
 Published on **December 18, 2014**
 
-<br/>
+<br />
 
 ## Seishun Dokei
 
@@ -1198,7 +1192,7 @@ Published on **December 18, 2014**
   <img src="./Loading%20Images/Seishun%20Dokei.webp" alt="Seishun Dokei" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **NGT48**
 
@@ -1216,7 +1210,7 @@ Image edited by **Glenn Joseph**
 
 Published on **May 20, 2017**
 
-<br/>
+<br />
 
 ## Sky Ride
 
@@ -1228,7 +1222,7 @@ Published on **May 20, 2017**
   <img src="./Loading%20Images/Sky%20Ride.webp" alt="Sky Ride" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Composed by **Yuzen**
 
@@ -1248,7 +1242,7 @@ Image edited by **Terah**
 
 Published on **August 20, 2013**
 
-<br/>
+<br />
 
 ## So Long!
 
@@ -1260,7 +1254,7 @@ Published on **August 20, 2013**
   <img src="./Loading%20Images/So%20Long!.webp" alt="So Long!" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **AKB48**
 
@@ -1278,7 +1272,7 @@ Image edited by **Nightshroud**
 
 Published on **August 25, 2013**
 
-<br/>
+<br />
 
 ## Star Shine Story
 
@@ -1290,7 +1284,7 @@ Published on **August 25, 2013**
   <img src="./Loading%20Images/Star%20Shine%20Story.webp" alt="Star Shine Story" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **GEM**
 
@@ -1308,7 +1302,7 @@ Image edited by **Glenn Joseph**
 
 Published on **December 19, 2015**
 
-<br/>
+<br />
 
 ## Suzukake Nanchara -Infinity-
 
@@ -1320,7 +1314,7 @@ Published on **December 19, 2015**
   <img src="../Creative%20Designer/O2Jam%20Loading%20Images/Suzukake%20Nanchara%20-Infinity-.webp" alt="Suzukake Nanchara -Infinity-" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **AKB48**
 
@@ -1336,7 +1330,7 @@ Performed by **AKB48**
 
 Published on **July 1, 2014**
 
-<br/>
+<br />
 
 ## Tabidachi no Haru ga Kita
 
@@ -1348,7 +1342,7 @@ Published on **July 1, 2014**
   <img src="../Creative%20Designer/O2Jam%20Loading%20Images/Tabidachi%20no%20Haru%20ga%20Kita.webp" alt="Tabidachi no Haru ga Kita" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **S/mileage**
 
@@ -1366,7 +1360,7 @@ Image edited in collaboration with **DarkFunkerz**
 
 Published on **January 17, 2015**
 
-<br/>
+<br />
 
 ## Touch by Touch
 
@@ -1378,7 +1372,7 @@ Published on **January 17, 2015**
   <img src="./Loading%20Images/Touch%20By%20Touch.webp" alt="Touch by Touch" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **Joy**
 
@@ -1396,7 +1390,7 @@ Image edited by **DarkFunkerz**
 
 Published on **May 2013**
 
-<br/>
+<br />
 
 ## Tsugi no Season
 
@@ -1408,7 +1402,7 @@ Published on **May 2013**
   <img src="./Loading%20Images/Tsugi%20no%20Season.webp" alt="Tsugi no Season" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **AKB48**
 
@@ -1428,7 +1422,7 @@ Published on **April 15, 2014**
 
 Easy and hard chart revised on **March 2016**
 
-<br/>
+<br />
 
 ## V3 II
 
@@ -1440,13 +1434,13 @@ Easy and hard chart revised on **March 2016**
   <img src="./Loading%20Images/V3%20II.webp" alt="V3 II" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 <a href="https://dai.ly/k3rkdbPsuxO0QrzkDc5">
   <img src="./Loading%20Images/V3%20II%20-%20Special%20Version.webp" alt="V3 II - Special Version" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Composed by **Studio Doma**
 
@@ -1470,7 +1464,7 @@ Image edited by **Cudox** (Regular Version) & **Glenn Joseph** (Special Version)
 
 Published on **August 29, 2015**
 
-<br/>
+<br />
 
 ## Viva El Tango
 
@@ -1482,7 +1476,7 @@ Published on **August 29, 2015**
   <img src="./Loading%20Images/Viva%20El%20Tango.webp" alt="Viva El Tango" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **Anderson Farah**
 
@@ -1500,7 +1494,7 @@ Image edited by **DarkFunkerz**
 
 Published on **July 2012**
 
-<br/>
+<br />
 
 ## What Makes You Beautiful
 
@@ -1512,9 +1506,7 @@ Published on **July 2012**
   <img src="./Loading%20Images/What%20Makes%20You%20Beautiful.webp" alt="What Makes You Beautiful" width="480" height="360" />
 </a>
 
-<br/>
-
-**Song Title:** What Makes You Beautiful
+<br />
 
 Performed by **One Direction**
 
@@ -1532,7 +1524,7 @@ Image edited by **DarkFunkerz**
 
 Published on **August 2012**
 
-<br/>
+<br />
 
 ## Winter Child
 
@@ -1544,7 +1536,7 @@ Published on **August 2012**
   <img src="./Loading%20Images/Winter%20Child.webp" alt="Winter Child" width="480" height="360" />
 </a>
 
-<br/>
+<br />
 
 Performed by **Suzy**
 

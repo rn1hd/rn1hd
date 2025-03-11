@@ -16,7 +16,7 @@
 - I have attached my resume **[here](https://raw.githubusercontent.com/rn1hd/rn1hd/main/Resume/Resume.webp)**.
 - You can also visit my **[LinkedIn](https://www.linkedin.com/in/rn1hd/)** profile. Let's connect!
 
-<br/>
+<br />
 
 ## ⛳ Skills
 
@@ -151,7 +151,7 @@
 
 - See portfolio **[here](https://github.com/rn1hd/rn1hd/tree/main/Personal%20Website/Portfolio/Creative%20Designer)**.
 
-<br/>
+<br />
 
 ## ❓ Frequently Asked Questions (FAQ)
 
