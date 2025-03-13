@@ -95,7 +95,7 @@
   - SM Aura Premier
   - SM Megamall
   - The Podium
-- Published a total of **[4 piano sheet music](https://musescore.com/user/36573824)** on MuseScore.
+- Published a total of **[5 piano sheet music](https://musescore.com/user/36573824)** on MuseScore.
 
 ### Game Developer 🎮
 
