@@ -9,7 +9,7 @@
 
 [Back to Top](https://github.com/rn1hd#hi-there-)
 
-- I am a **Software Developer** with 4 years of corporate experience in developing scalable web applications, improving software quality through automation, and applying user experience principles. I am committed to pushing the boundaries of software to drive meaningful value for both the company and its users.
+- I am a **Software Developer** with 4 years of corporate experience in developing scalable web applications, automation testing, and user experience design. I am committed to pushing the boundaries of software to drive meaningful value for both the company and its users.
   - **Machine Learning Engineer** is my dream job because with the current trend in the market today, Artificial Intelligence is the technology of the future and being a part of the development team someday will contribute a lot to the society, observing how **[ChatGPT](https://openai.com/blog/chatgpt/)** becomes a trend on the headlines in the 1st quarter of 2023. Working in an Artificial Intelligence department is where I am passionate about. Personally, I would love to develop a robotics system using Reinforcement Learning to prioritize unaccompanied people that no one will be with them for the rest of their lives. Instead of letting unaccompanied people feel alone, a robot will take over as a last resort to spend some time on emotional support, home assistance, and personal care.
   - **Full Stack Developer** is one of the interesting positions that I would love to apply for, in fact there are more opportunities in the job market. This role can be beneficial when there are dead-end situations in the business that need to be resolved as soon as possible.
 - I am also a professional **[pianist](https://dai.ly/k3loMuNrK90sOQzOXKu)** outside in the world of technology.
@@ -188,7 +188,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I am a dedicated **software developer** with 4 years of corporate experience in developing scalable web applications, improving software quality through automation, and applying user experience principles. Over the years, I've focused on creating efficient and user-friendly applications, always striving to write clean, effective code that meets the needs of stakeholders. I'm eager to bring my skills and experience to a team where I can contribute to innovative projects.
+- I am Romnick Mamisay, a **Cum Laude** graduate of Lyceum of the Philippines University Batangas, with Bachelor's degree in Computer Science major in Mobile Applications Development. I am currently residing in the Philippines. I have **4 years** of corporate experience as a **Software Developer** responsible in documenting, designing, developing, testing, and maintaining web applications.
 
 #### **Tell me about your work experience.**
 
@@ -385,7 +385,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I take a break for a few minutes to alleviate myself. I would first analyze the situation then work on it to the **best of my ability** to reduce the cause of pressure. Pressure exists to fight procrastination, learn something the hard way, and act accordingly to improve the situation.
+- I take a break for a few minutes to alleviate myself. I would first analyze the situation then work on it to the **best of my ability** to complete what it needs to be done. Pressure exists to fight procrastination, learn something the hard way, and act accordingly to improve the situation.
 
 #### **How do you feel about working weekends or late hours?**
 
