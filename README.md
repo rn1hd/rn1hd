@@ -353,7 +353,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- **Yes**. To handle the issue, it is always best to communicate with my team by addressing internal concerns, define clear objectives of where a team stands, and implement gamification in the workplace.
+- **Yes**. To handle the issue, it is always best to communicate with my team by addressing internal concerns, define clear objectives of where a team stands, and implement **gamification** in the workplace.
 
 #### **Tell me about a time when you had to give someone difficult feedback. How did you handle it?**
 
