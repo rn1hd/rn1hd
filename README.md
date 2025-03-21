@@ -562,7 +562,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- **Yes.** I touched on a software development project with thousands of lines of code, outdated libraries, and lack of documentation. I was in survival mode at that time because I must finish the task on time with all my might despite these obstacles. I applied a **job simplification** approach through improving code quality and eliminating codes that I find unnecessary.
+- **Yes.** I touched on a software development project with thousands of lines of code, outdated libraries, and lack of documentation. I applied a **job simplification** approach through improving code quality and eliminating codes that I find unnecessary.
 
 #### **How would you describe your work style?**
 
@@ -580,13 +580,13 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- Through **intensive bootcamp training** to understand fundamentals and acquire best practices. I am currently applying creative design technologies in my upcoming personal projects.
+- Through **intensive bootcamp training** to understand fundamentals and acquire best practices.
 
 #### **Do you prefer hard work, or smart work?**
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- **Smart work**. Spending all my life in the workplace and putting in a lot of effort completing a task in the hope of incentives is not guaranteed. Smart work involves self-care, upskilling, and implementing strategies to get things done quickly, consistently, and efficiently.
+- **Smart work**. It involves self-care, upskilling, and implementing strategies to get things done quickly, consistently, and efficiently.
 
 #### **What makes you unique?**
 
@@ -604,7 +604,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- **Work** is more important for me than money. There might be other positions available that can pay me well, but the risks outweigh more than the benefits which affect my well-being. Therefore, I would prefer staying in a job where I can see personal and professional advancement.
+- **Work** is more important for me than money. There might be other positions available that can pay me well, but I am exposed to unsafe working conditions. Therefore, I would prefer staying in a job that promotes a positive and productive work environment.
 
 #### **Do you consider yourself successful?**
 
@@ -646,7 +646,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- It is hard to pick because all the managers I have worked with made a **positive difference** in my life. The lenient manager taught me how to stay motivated. The strict manager taught me how to be more responsible and independent. Even an unresponsive manager helped me to become a risk-taker. As our ancestors said, comfort is the enemy of growth.
+- It is hard to pick because all the managers I have worked with made a **positive difference** in my life. The lenient manager taught me how to stay motivated. The strict manager taught me how to be more responsible and independent. Even an unresponsive manager helped me to become a risk-taker.
 
 #### **What do you think of your previous boss?**
 
@@ -658,7 +658,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- All previous colleagues I have worked with have **excellent social communication skills**. They are all getting along with each other, properly handle client's concerns, and dedicated in their own ways. Some of them express empathy during my darkest days. In times of crises, I recognize that their reactions are valid, and constructive criticism is how I can develop myself to become a better person.
+- All previous colleagues I have worked with have **excellent social communication skills**. They are all getting along with each other, properly handle client's concerns, and dedicated in their own ways.
 
 #### **Was there a person in your career who really made a difference?**
 
@@ -700,7 +700,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- **Machine Learning Engineer** is my dream job because with the current trend in the market today, Artificial Intelligence is the technology of the future and being a part of the development team someday will contribute a lot to the society, observing how **[ChatGPT](https://openai.com/blog/chatgpt/)** becomes a trend on the headlines in the 1st quarter of 2023.
+- **Machine Learning Engineer** because it is the career for the future based on current market demand.
 
 #### **What are three positive things your last boss would say about you?**
 
@@ -736,7 +736,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- A **Chinese senior game developer** impacted me the most. I was chosen to be my mentor after one of my projects was severely criticized in the public community which affects me mentally. With full dedication to the job and his investment in me, that **[project](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/Dareka%20Ga%20Nageta%20Ball.md)** led me to become an official member of **iBMS 4th Age**, a Chinese organization established in Tencent QQ.
+- A **Chinese senior game developer** impacted me the most because I was chosen to be my mentor. With full dedication to the job and his investment in me, that **[project](https://dai.ly/k2biokDDox8uudzkDbC)** led me to become an official member of **iBMS 4th Age**, a Chinese organization established in Tencent QQ.
 
 #### **What is your biggest regret and why?**
 
@@ -748,7 +748,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- My classmate’s **perspective** about success. I was in the mindset position to aim for the highest grade possible in my entire college years. I proved it when I graduated as Cum Laude. I was told that he will not be impressed by only performing well in school. He will only be impressed when he sees me in a managerial position on a stable job promoting healthy work culture.
+- My classmate’s **perspective** about success. I was aiming for the highest grade in my college years. I proved it when I graduated as Cum Laude. I was told that he will not be impressed by only performing well in school. He will only be impressed when he sees me in a stable position promoting a positive and productive work environment.
 
 #### **Why did you choose your major?**
 
@@ -778,7 +778,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- I am **reluctant** to ask others for a repeat when I cannot understand the message fully, as well as seeking assistance from them in respect to their time and boundaries. I stick to using all possible independent means completing a task to the best of my ability for the sake of adaptability and courtesy, which are **two major factors** under employee performance evaluation.
+- I am **reluctant** to seek assistance from others for supervision. I prefer dealing with difficult challenges independently using all possible means to complete a task aligned with company’s standards.
 
 #### **Tell me the difference between good and exceptional.**
 
