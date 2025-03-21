@@ -172,17 +172,17 @@
 - [Why did you leave your last job?](https://github.com/rn1hd#why-did-you-leave-your-last-job)
 - [Why is there a gap in your employment?](https://github.com/rn1hd#why-is-there-a-gap-in-your-employment)
 - [What did you like least about your last job?](https://github.com/rn1hd#what-did-you-like-least-about-your-last-job)
-- [How is being a creative designer related to your goal as a Full Stack Developer?](https://github.com/rn1hd#how-is-being-a-creative-designer-related-to-your-goal-as-a-full-stack-developer)
-- [How is documentation development beneficial in business?](https://github.com/rn1hd#how-is-documentation-development-beneficial-in-business)
 - [When were you most satisfied in your job?](https://github.com/rn1hd#when-were-you-most-satisfied-in-your-job)
 - [Are you considering other positions in other companies?](https://github.com/rn1hd#are-you-considering-other-positions-in-other-companies)
 - [What other companies are you interviewing with?](https://github.com/rn1hd#what-other-companies-are-you-interviewing-with)
 - [What is your ideal company?](https://github.com/rn1hd#what-is-your-ideal-company)
 - [How did you hear about this position?](https://github.com/rn1hd#how-did-you-hear-about-this-position)
 - [What are you looking for in a new position?](https://github.com/rn1hd#what-are-you-looking-for-in-a-new-position)
+- [What can you bring to the company?](https://github.com/rn1hd#what-can-you-bring-to-the-company)
 - [Why do you want to work at this company?](https://github.com/rn1hd#why-do-you-want-to-work-at-this-company)
 - [What are your greatest strengths?](https://github.com/rn1hd#what-are-your-greatest-strengths)
 - [What do you consider to be your weaknesses?](https://github.com/rn1hd#what-do-you-consider-to-be-your-weaknesses)
+- [What is your expected salary?](https://github.com/rn1hd#what-is-your-expected-salary)
 
 #### **Tell me about yourself.**
 
@@ -198,13 +198,13 @@
 - I moved to **IntegrityNet Solutions & Services** on **August 6, 2018**, as a **Software Developer** responsible in documenting, designing, developing, testing, and maintaining web applications.
 - I **resigned** in IntegrityNet Solutions & Services voluntarily on **January 28, 2022**, to pursue **modern in-demand technologies** aiming for an **industry level standard** to keep myself up to date in fast-changing technology. I applied the skills I have learned during that gap period on my freelance experience on **May 24, 2023**, to coordinate with the store owners by developing an inventory management system, as well as photo printing and lamination for students.
 - I continued my journey in a corporate industry as a **System Web Developer** in **Department of Labor and Employment - National Capital Region** on **February 19, 2024**, responsible in designing, developing, testing, and implementing efficient Purchase Request Information System for 1 Regional and 6 Field Offices and to ensure the reliability and security of its application.
-- My last role is only **temporary**. I just finished my project with them. While I am consistently **upskilling** right now to stay myself relevant in the job market, I am **actively** looking for better opportunities that will allow me to grow **professionally** and to achieve job security in your company.
+- My last role is only **temporary**. I just finished my project with them. While I **upskill** myself in Google User Experience Design during my gap period, I am **actively** looking for better opportunities that will allow me to grow **professionally** and to achieve job security in your company.
 
 #### **How old are you?**
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I received my bachelor's degree in **2016**. I have been working in a corporate world for **4 years** as a **Software Developer** and gained great experience from there, but I am always excited on continuous learning in modern technologies and character development to contribute more on **what really matters**. If I keep myself progressing from there, age is not a factor.
+- I am **XX** years old.
 
 #### **Are you married?**
 
@@ -216,31 +216,19 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- My last role is only **temporary**. I just finished my project with them. While I am consistently **upskilling** right now to stay myself relevant in the job market, I am **actively** looking for better opportunities that will allow me to grow **professionally** and to achieve job security in your company.
+- My last role is only **temporary**. I just finished my project with them within the contract period.
 
 #### **Why is there a gap in your employment?**
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I took this time to gain proficiency in **modern in-demand technologies** and **user experience design**, which I believe makes me a more versatile and skilled developer. Your company is looking for these requirements, so I am looking forward to learning more about this position that I am applying for. I know I have a lot to offer, and I would love to show you what I can bring to the team.
+- I took this time to gain proficiency in **modern in-demand technologies** and **practical communication**, which I believe makes me a more versatile and skilled professional.
 
 #### **What did you like least about your last job?**
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
 - While I appreciated the opportunity to work with proprietary technology, I am excited to work with **more widely adopted frameworks** that allow for greater community support and innovation.
-
-#### **How is being a creative designer related to your goal as a Full Stack Developer?**
-
-[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
-
-- The scope of the **Full Stack Developer** is very broad. **Design** is the third phase of **Software Development Life Cycle (SDLC)** where I can conduct **pilot testing** to the participants who passed the screening survey in the usability study.
-
-#### **How is documentation development beneficial in business?**
-
-[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
-
-- Well-organized, easy to understand documentation prevents **technical debt** when something goes out of control. Code refactoring is now easier with the help of documentation and even resorting to a full rewrite of an entire system, coordinating with a client again during the planning stage is now at the bare minimum.
 
 #### **When were you most satisfied in your job?**
 
@@ -258,7 +246,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I am **not currently interviewing** with other companies because I wanted to focus on securing a position with your company. Your company has a better reputation, according to my research. Besides, I believe my skills and projects are more consistent to your needs than others.
+- I am **not currently interviewing** with other companies because I believe that your company has a better reputation, according to my research. Besides, I believe my skills and values are more consistent to your needs than others.
 
 #### **What is your ideal company?**
 
@@ -280,6 +268,12 @@
 
 - I am looking for a position where I can continue to **showcase** my technical and soft skills that aligns with the company's standards.
 
+#### **What can you bring to the company?**
+
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
+
+- **Commitment.** It is a standard practice in the company to follow the instructions that were assigned to me, apply the best strategy to meet what the client has expected from me, and proactively seek improvement opportunities that can matter to your company.
+
 #### **Why do you want to work at this company?**
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
@@ -296,7 +290,13 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- While I occasionally struggle with following simple instructions, I have developed **strategies** like detailed notetaking and documentation to ensure accuracy in my work, as well as striving myself to become a **better person** by learning from my mistakes.
+- **Verbal communication** is my greatest weakness that I must practice regularly.
+
+#### **What is your expected salary?**
+
+[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
+
+- I would prefer not to **disclose** it. I believe we can negotiate a fair compensation based on my skills and values that I can bring to your company.
 
 ### **Behavioral Questions**
 
@@ -317,12 +317,10 @@
 - [What was the most difficult period in your life, and how did you deal with it?](https://github.com/rn1hd#what-was-the-most-difficult-period-in-your-life-and-how-did-you-deal-with-it)
 - [Give me an example of a time you did something wrong. How did you handle it?](https://github.com/rn1hd#give-me-an-example-of-a-time-you-did-something-wrong-how-did-you-handle-it)
 - [Give an example of how you have handled a challenge in the workplace before.](https://github.com/rn1hd#give-an-example-of-how-you-have-handled-a-challenge-in-the-workplace-before)
-- [Are you aware of the risks if you attempt to follow your job simplification approach?](https://github.com/rn1hd#are-you-aware-of-the-risks-if-you-attempt-to-follow-your-job-simplification-approach)
 - [Give an example of when you performed well under pressure.](https://github.com/rn1hd#give-an-example-of-when-you-performed-well-under-pressure)
 - [Give an example of when you showed leadership qualities.](https://github.com/rn1hd#give-an-example-of-when-you-showed-leadership-qualities)
 - [Tell me about a challenge or conflict you've faced at work, and how you dealt with it.](https://github.com/rn1hd#tell-me-about-a-challenge-or-conflict-youve-faced-at-work-and-how-you-dealt-with-it)
 - [Tell me about a time you demonstrated leadership skills.](https://github.com/rn1hd#tell-me-about-a-time-you-demonstrated-leadership-skills)
-- [If you were at a business lunch and you ordered a rare steak and they brought it to you well done, what would you do?](https://github.com/rn1hd#if-you-were-at-a-business-lunch-and-you-ordered-a-rare-steak-and-they-brought-it-to-you-well-done-what-would-you-do)
 - [If you found out your company was doing something against the law, like fraud, what would you do?](https://github.com/rn1hd#if-you-found-out-your-company-was-doing-something-against-the-law-like-fraud-what-would-you-do)
 - [What do you think our company/organization could do better?](https://github.com/rn1hd#what-do-you-think-our-companyorganization-could-do-better)
 - [What assignment was too difficult for you, and how did you resolve the issue?](https://github.com/rn1hd#what-assignment-was-too-difficult-for-you-and-how-did-you-resolve-the-issue)
@@ -337,31 +335,31 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- The last project I led is the **Purchase Request Information System** for 1 Regional and 6 Field Offices under **[Department of Labor and Employment](https://ncr.dole.gov.ph/)**. All features needed by the user in the initial version have been implemented with the help of code documentation, clean code, and proper coordination with the team.
+- The last project I led is the **Purchase Request Information System** for 1 Regional and 6 Field Offices under **[Department of Labor and Employment](https://ncr.dole.gov.ph/)**. The system has been deployed in live production.
 
 #### **Give me an example of a time that you felt you went above and beyond the call of duty at work**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- When I need to simplify the project **as much as I can** if my productivity and ability to manage workload is getting out of control.
+- When I need to **push myself** to solve major issues as soon as possible until the situation in the workplace becomes lenient.
 
 #### **Can you describe a time when your work was criticized?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- **Yes**, the time when my productivity failed to hit the quota and present an output that is far from what is expected from me. This is one of the reasons why I am interested to pursue **Artificial Intelligence** to tackle manpower issues.
+- **Yes**, the time when I failed to meet my quota and presented an output that does not align with my client's expectations. This is one of the reasons why I am interested to pursue **Artificial Intelligence** to tackle manpower issues.
 
 #### **Have you ever been on a team where someone was not pulling their own weight? How did you handle it?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- **Yes**, especially when technical debt is getting out of control. I collaborated with a software developer in a team project. It did not go well when I did not address his concerns properly while trying to adapt complexity at the same time. This is when I started to eliminate codes that I find unnecessary until everyone felt comfortable maintaining the project.
+- **Yes**. To handle the issue, it is always best to communicate with my team by addressing internal concerns, define clear objectives of where a team stands, and implement gamification in the workplace.
 
 #### **Tell me about a time when you had to give someone difficult feedback. How did you handle it?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I deliver difficult feedback in a **private area** within the scope of work that explains how his actions can be detrimental to the business operations, as well as giving some recommendations for improvement where applicable.
+- I deliver difficult feedback in a **private area** to address work-related issues and provide recommendations for improvement where applicable.
 
 #### **What is your greatest fear and why?**
 
@@ -373,19 +371,19 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- My greatest failure is that despite my full commitment to a job to prove myself in the community, knowing that my best is still not good enough is something that I take seriously. I learned that before stepping into an industry, I must already be **proficient** on most of what is required in the job description.
+- My greatest failure is that despite my full commitment to a job to prove myself in the community, knowing that my best is still not good enough is something that I take seriously. I learned how important it is to utilize **character development** by getting along well with others through integrity, respect, and humility to maintain a positive and productive work environment.
 
 #### **How do you handle working with people who annoy you?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I choose my poison **wisely**. I pick whichever is constructive to improve on and drop a **note verbale** to seek a peaceful resolution only if the situation becomes irrepressible.
+- I choose my poison **wisely**. I pick constructive criticisms to improve on and adapt myself to changes surrounding people with different personalities.
 
 #### **How do you deal with pressure or stressful situations?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I take a break for a few minutes to alleviate myself. I would first analyze the situation then work on it to the **best of my ability** to complete what it needs to be done. Pressure exists to fight procrastination, learn something the hard way, and act accordingly to improve the situation.
+- I would list down the tasks that were assigned to me and sort them by priority based on the details of the project and how urgent a task is. With **proper planning** and self-preparation, I can deal difficult challenges under pressure.
 
 #### **How do you feel about working weekends or late hours?**
 
@@ -423,12 +421,6 @@
 
 - Through regularly working late hours for the sake of **job simplification** which can return, an improvement to employee productivity and client satisfaction.
 
-#### **Are you aware of the risks if you attempt to follow your job simplification approach?**
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- **Yes.** The job simplification approach serves as a **last resort** when there are no other options available to fight technical debt. I understand that one wrong move can destroy everything, but letting the technical debt pile up will only complicate the situation through slow progress and frequent accidents, which can eventually lead to the complete destruction of the system.
-
 #### **Give an example of when you performed well under pressure.**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
@@ -445,7 +437,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- When I failed to deliver my work output within their expectations. There are **two options** to deal with it:
+- When I failed to meet my team's expectations. There are **two options** to deal with it:
   - Listen to their **constructive criticisms** carefully to improve next time what I can present.
   - Upskill on what really matters as fast as I can to establish **better systems**.
 
@@ -453,13 +445,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I was responsible for conducting **daily morning meetings** for the software development team. I gave suggestions where I can really help to alleviate their concerns. Everyone is helping each other.
-
-#### **If you were at a business lunch and you ordered a rare steak and they brought it to you well done, what would you do?**
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- I will request the waiter for **replacement** in a professional manner until they finally serve the dish that I have expected.
+- I was responsible for conducting **daily morning meetings** for the software development team. I provide suggestions where applicable to address their concerns. Everyone is helping each other.
 
 #### **If you found out your company was doing something against the law, like fraud, what would you do?**
 
@@ -489,7 +475,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I **respect** his decision and **move on** to use alternatives. In case when no other options are available to overcome difficult challenges, it is always best to consult with the experts for recommendations to reach **mutual understanding**.
+- I **respect** his decision and **move on** to the next.
 
 #### **How would you feel about working for someone who knows less than you?**
 
@@ -564,12 +550,13 @@
 - [When can you start?](https://github.com/rn1hd#when-can-you-start)
 - [Are you willing to relocate?](https://github.com/rn1hd#are-you-willing-to-relocate)
 - [Is there anything else you would like us to know?](https://github.com/rn1hd#is-there-anything-else-you-would-like-us-to-know)
+- [Do you have any questions from me?](https://github.com/rn1hd#do-you-have-any-questions-from-me)
 
 #### **Are you a team player?**
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- It all depends on the **compatibility** of my skills, passion, and job responsibilities. If I see a **good future** of a role that I was assigned to within my **career goals**, I am willing to give a hundred percent of my time and effort to showcase what I can bring to the team to achieve the business goal on time and what other contributions I can bring to the table.
+- **Yes.** It feels great working with a team who are all committed and great communicators to reach an end goal.
 
 #### **Are you a risk-taker?**
 
@@ -599,7 +586,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- **Smart work**. Spending all my life in the workplace and putting in a lot of effort completing a task in the hope of attractive company benefits is not guaranteed. Smart work involves self-care, upskilling, and implementing strategies to get things done quickly, consistently, and efficiently.
+- **Smart work**. Spending all my life in the workplace and putting in a lot of effort completing a task in the hope of incentives is not guaranteed. Smart work involves self-care, upskilling, and implementing strategies to get things done quickly, consistently, and efficiently.
 
 #### **What makes you unique?**
 
@@ -611,7 +598,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- In five years, I would like to be a **Machine Learning Engineer** where I can see long-term career advancement from where I am now, as well as improving my communication skills further. Being proficient in both technical and interpersonal skills could help me get a leadership position and expand my duties.
+- In five years, I would love to be an **industry expert** that can work on Artificial Intelligence technology to flourish its business operations and provide convenience to the team. Being proficient in both technical and interpersonal skills could help me get a leadership position and expand my duties.
 
 #### **Which is more important to you: the money, or the work?**
 
@@ -635,8 +622,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- I record business meetings transcribing audio into a written document to easily review what has been discussed.
-- I design and document application information through **Figma**.
+- I design and document application information using **Figma** and **Miro**, as well as listing down work-related tasks using **Trello** where all members in the team can see it.
 
 #### **How do you prioritize your work?**
 
@@ -672,7 +658,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- All previous colleagues I have worked with have **excellent social communication skills**. They are all getting along with each other, properly handle client's concerns, and dedicated in their own ways. Some of them express empathy during my darkest days. In times of crises, I recognize that their reactions are valid and constructive criticism is how I can develop myself to become a better person.
+- All previous colleagues I have worked with have **excellent social communication skills**. They are all getting along with each other, properly handle client's concerns, and dedicated in their own ways. Some of them express empathy during my darkest days. In times of crises, I recognize that their reactions are valid, and constructive criticism is how I can develop myself to become a better person.
 
 #### **Was there a person in your career who really made a difference?**
 
@@ -774,7 +760,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- At my **first job** as a **Software Developer**, I was permitted to use software documentation, automation testing, and 5-day work week strategies upon request. They serve as a **treatment** for technical debt. I know that your company can continuously uphold these strategies, which can contribute to a positive work environment for all parties involved in the long run.
+- At my **first job** as a **Software Developer**, I was permitted to use software documentation, automation testing, and 5-day work week strategies upon request. They serve as a **treatment** for technical debt.
 
 #### **What are the qualities of a good leader? A bad leader?**
 
@@ -810,7 +796,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- I am consistently **upskilling** to stay myself relevant in the current job market.
+- I am **upskilling** to stay myself relevant in the current job market.
 
 #### **How do you think I rate as an interviewer?**
 
@@ -835,3 +821,9 @@
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - **Yes**. In case I have created new accomplishments to showcase in the upcoming days that resemble the **Software Developer** requirements your company is looking for; I will keep you posted while my application status is pending.
+
+#### **Do you have any questions from me?**
+
+[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
+
+- **Yes**. I would like to ask if you have any hesitations about me or my resume that I can address before we end our discussion.
