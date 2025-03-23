@@ -14,7 +14,7 @@
   - **Full Stack Developer** is one of the interesting positions that I would love to apply for, in fact there are more opportunities in the job market. This role can be beneficial when there are dead-end situations in the business that need to be resolved as soon as possible.
 - I am also a professional **[pianist](https://dai.ly/k3loMuNrK90sOQzOXKu)** outside in the world of technology.
 - I have attached my resume **[here](https://raw.githubusercontent.com/rn1hd/rn1hd/main/Resume/Resume.webp)**.
-- You can also visit my **[LinkedIn](https://www.linkedin.com/in/rn1hd/)** profile. Let's connect!
+- You can also visit my **[LinkedIn](https://www.linkedin.com/in/rn1hd/)** and **[Medium](https://medium.com/@mamisayromnick)** profiles. Let's connect!
 
 <br />
 
@@ -88,13 +88,13 @@
 
 - My motivation to become a pianist started at 13 years old when my father bought an electronic piano.
 - I enrolled on a summer piano class in **Regis Benedictine Academy** located in Batangas, Philippines at 15 years old.
-- I have experienced playing grand piano in **[Pontefino Hotel](https://www.pontefinohotel.com/)** and **[Robinsons Lipa](https://virtualmalldirectory.robinsonsmalls.com/list-of-malls/south-luzon/robinsons-lipa)** since the last quarter of the year 2022 in **Batangas** province, as well as several malls around **National Capital Region** from April 2024 up to this date in my leisure time with the following:
+- I have experienced playing grand piano in **[Pontefino Hotel](https://www.pontefinohotel.com/)** and **[Robinsons Lipa](https://virtualmalldirectory.robinsonsmalls.com/list-of-malls/south-luzon/robinsons-lipa)** since the last quarter of the year 2022 in **Batangas** province, as well as several malls around **National Capital Region** from April 2024 to March 2025 in my leisure time with the following:
   - Ayala Malls Glorietta (2024)
   - Ayala Malls Greenbelt (2024)
-  - Ayala Malls TriNoma
-  - SM Aura Premier
-  - SM Megamall
-  - The Podium
+  - Ayala Malls TriNoma (2024 - March 2025)
+  - SM Aura Premier (2024 - March 2025)
+  - SM Megamall (2024 - March 2025)
+  - The Podium (2024 - March 2025)
 - Published a total of **[5 piano sheet music](https://musescore.com/user/36573824)** on MuseScore.
 
 ### Game Developer 🎮
@@ -136,6 +136,7 @@
 
 - My job as a technical writer started when I was solely responsible for developing a full documentation on a college thesis named **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)**.
 - My technical writer journey has continued in my real-life work experience when the owner of **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework has decided to give me full control on building the **[documentation](https://uadmin-docs.readthedocs.io/en/latest/)** to reduce onboarding time for new users and developers using **[Sphinx](https://www.sphinx-doc.org/en/master/)** documentation generator. The owner started the documentation project during the initial stage, then was brought up to me on the following updates. The documentation has been maintained under my control during my tenure in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** until version 0.7.4.
+- Published my personal article on **Medium** with the title "**[My Day-to-Day Activities at Work](https://medium.com/@mamisayromnick/my-day-to-day-activities-at-work-62b6d5f0da72)**" that demonstrates my technical skills, values, and personality.
 
 ### Creative Designer 🎬
 
