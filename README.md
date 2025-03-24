@@ -136,7 +136,9 @@
 
 - My job as a technical writer started when I was solely responsible for developing a full documentation on a college thesis named **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)**.
 - My technical writer journey has continued in my real-life work experience when the owner of **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework has decided to give me full control on building the **[documentation](https://uadmin-docs.readthedocs.io/en/latest/)** to reduce onboarding time for new users and developers using **[Sphinx](https://www.sphinx-doc.org/en/master/)** documentation generator. The owner started the documentation project during the initial stage, then was brought up to me on the following updates. The documentation has been maintained under my control during my tenure in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** until version 0.7.4.
-- Published my personal article on **Medium** with the title "**[My Day-to-Day Activities at Work](https://medium.com/@mamisayromnick/my-day-to-day-activities-at-work-62b6d5f0da72)**" that demonstrates my technical skills, values, and personality.
+- Published **2 articles** on **[Medium](https://medium.com/@mamisayromnick)** with the following:
+  - [My Day-to-Day Activities at Work](https://medium.com/@mamisayromnick/my-day-to-day-activities-at-work-62b6d5f0da72) that demonstrates my technical skills, values, and personality.
+  - [My Perspective on using Artificial Intelligence in Business](https://medium.com/@mamisayromnick/my-perspective-on-using-artificial-intelligence-in-business-b5ae8499180d)
 
 ### Creative Designer 🎬
 
@@ -384,7 +386,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I would list down the tasks that were assigned to me and sort them by priority based on the details of the project and how urgent a task is. With **proper planning** and self-preparation, I can deal difficult challenges under pressure.
+- I would list down all tasks that were assigned to me and sort them by priority based on the details of the project and how urgent a task is. With **proper planning** and self-preparation, I can deal difficult challenges under pressure.
 
 #### **How do you feel about working weekends or late hours?**
 
