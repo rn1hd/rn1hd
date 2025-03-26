@@ -191,7 +191,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I am Romnick Mamisay, a **Cum Laude** graduate of Lyceum of the Philippines University Batangas, with Bachelor's degree in Computer Science major in Mobile Applications Development. I am currently residing in the Philippines. I have **4 years** of corporate experience as a **Software Developer** responsible in documenting, designing, developing, testing, and maintaining web applications.
+- I am Romnick Mamisay, a **Cum Laude** graduate of Lyceum of the Philippines University Batangas, with Bachelor's degree in Computer Science major in Mobile Applications Development. I am currently residing in the Philippines. I have **4 years** of corporate experience as a **Software Developer** responsible in documenting, designing, developing, testing, and maintaining web applications. I enjoy working in a **team-oriented** environment where I can apply my skills to solve problems and drive results.
 
 #### **Tell me about your work experience.**
 
@@ -386,7 +386,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I would list down all tasks that were assigned to me and sort them by priority based on the details of the project and how urgent a task is. With **proper planning** and self-preparation, I can deal difficult challenges under pressure.
+- I would stay calm and list down all tasks that were assigned to me and sort them by priority based on the details of the project and how urgent a task is. With good **time management** skills and **proper planning** on finding solutions, I can deal difficult challenges under pressure to ensure the best outcome.
 
 #### **How do you feel about working weekends or late hours?**
 
