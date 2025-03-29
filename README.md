@@ -329,8 +329,7 @@
 - [What's the most difficult decision you've made in the last two years and how did you come to that decision?](https://github.com/rn1hd#whats-the-most-difficult-decision-youve-made-in-the-last-two-years-and-how-did-you-come-to-that-decision)
 - [How do you feel about taking no for an answer?](https://github.com/rn1hd#how-do-you-feel-about-taking-no-for-an-answer)
 - [How would you feel about working for someone who knows less than you?](https://github.com/rn1hd#how-would-you-feel-about-working-for-someone-who-knows-less-than-you)
-- [You showed empathy to someone, but he feels like your contributions are still not enough. How did you deal with it?](https://github.com/rn1hd#you-showed-empathy-to-someone-but-he-feels-like-your-contributions-are-still-not-enough-how-did-you-deal-with-it)
-- [What’s a time you disagree with a decision that was made at work?](https://github.com/rn1hd#whats-a-time-you-disagree-with-a-decision-that-was-made-at-work)
+- [What's a time you disagree with a decision that was made at work?](https://github.com/rn1hd#whats-a-time-you-disagree-with-a-decision-that-was-made-at-work)
 - [Describe how you would handle a situation if you were required to finish multiple tasks by the end of the day, and there was no conceivable way that you could finish them.](https://github.com/rn1hd#describe-how-you-would-handle-a-situation-if-you-were-required-to-finish-multiple-tasks-by-the-end-of-the-day-and-there-was-no-conceivable-way-that-you-could-finish-them)
 
 #### **What was the last project you led, and what was its outcome?**
@@ -485,7 +484,7 @@
 
 - I believe in my team because they have proven a lot to reach where they stand right now. Every member of the team has its own capabilities to solve problems and drive results. Success can be achieved through maintaining a **positive work ethic** in a dynamic environment.
 
-#### **What’s a time you disagree with a decision that was made at work?**
+#### **What's a time you disagree with a decision that was made at work?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
