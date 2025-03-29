@@ -197,11 +197,11 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I started my professional journey as a **Biller** in **Accudata Inc.** where my responsibility is to encode at least 120 bills of lading as a daily quota with attention to detail and the ability to work under pressure from **September 19, 2016**, to **July 20, 2018**.
-- I moved to **IntegrityNet Solutions & Services** on **August 6, 2018**, as a **Software Developer** responsible in documenting, designing, developing, testing, and maintaining web applications.
-- I **resigned** in IntegrityNet Solutions & Services voluntarily on **January 28, 2022**, to pursue **modern in-demand technologies** aiming for an **industry level standard** to keep myself up to date in fast-changing technology. I applied the skills I have learned during that gap period on my freelance experience on **May 24, 2023**, to coordinate with the store owners by developing an inventory management system, as well as photo printing and lamination for students.
-- I continued my journey in a corporate industry as a **System Web Developer** in **Department of Labor and Employment - National Capital Region** on **February 19, 2024**, responsible in designing, developing, testing, and implementing efficient Purchase Request Information System for 1 Regional and 6 Field Offices and to ensure the reliability and security of its application.
-- My last role is only **temporary**. I just finished my project with them. While I **upskill** myself in Google User Experience Design during my gap period, I am **actively** looking for better opportunities that will allow me to grow **professionally** and to achieve job security in your company.
+- I started my first job as a **Biller** in **Accudata Inc.** where my responsibility is to encode bills of lading with accuracy and efficiency while managing high-pressure environments.
+- On **August 6, 2018**, I have employed in **IntegrityNet Solutions & Services** as a **Software Developer** responsible in documenting, designing, developing, testing, and maintaining web applications.
+- I **resigned** voluntarily on **January 28, 2022**, to gain proficiency in **modern in-demand technologies** to keep myself up to date in fast-changing technology. I applied those skills on my freelance experience to coordinate with the store owners by developing an inventory management system.
+- On **February 19, 2024**, I have employed in **Department of Labor and Employment - National Capital Region** as a **System Web Developer** responsible in designing, developing, testing, and implementing efficient Purchase Request Information System for 1 Regional and 6 Field Offices to enhance operational efficiency.
+- My last role is only **temporary**. I just finished my project with them. While upskilling, I am **actively** looking for better opportunities that will allow me to grow **professionally** and to achieve job security in your company.
 
 #### **How old are you?**
 
@@ -261,9 +261,8 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I was excited to find out about this position from:
-  - My friend who works in **[department]**
-  - Your online job advertisement through **[employment company]**
+- From my friend who works in **[department]**
+- Your online job advertisement through **[employment company]**
 
 #### **What are you looking for in a new position?**
 
@@ -374,7 +373,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- My greatest failure is that despite my full commitment to a job to prove myself in the community, knowing that my best is still not good enough is something that I take seriously. I learned how important it is to utilize **character development** by getting along well with others through integrity, respect, and humility to maintain a positive and productive work environment.
+- My greatest failure is that despite my full commitment to a job to prove myself in the community, knowing that my best is still not good enough is something that I take seriously. I learned how important it is to utilize **soft skills** by getting along well with others through integrity, respect, and humility to maintain a positive and productive work environment.
 
 #### **How do you handle working with people who annoy you?**
 
@@ -386,13 +385,13 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I would stay calm and list down all tasks that were assigned to me and sort them by priority based on the details of the project and how urgent a task is. With good **time management** skills and **proper planning** on finding solutions, I can deal difficult challenges under pressure to ensure the best outcome.
+- I would stay calm and focus on my mission. With good **time management** skills and **proper planning** on finding solutions, I can deal difficult challenges under pressure to ensure the best outcome.
 
 #### **How do you feel about working weekends or late hours?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- There is **no problem** about working weekends or late hours if it meets mutual benefits of both parties.
+- There is **no problem** about working weekends or late hours if it meets mutual benefits of all parties.
 
 #### **If I were your supervisor and asked you to do something that you disagreed with, what would you do?**
 
@@ -410,7 +409,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- My **first experience** as a Software Developer during my training period is what I consider as the most difficult period of my life. There are no available resources to study their technologies, and I must figure everything on my own. The only way to survive is to work **late hours regularly** for me to catch up through developing the technical documentation.
+- My **first experience** as a Software Developer during my training period is my most difficult period of my life. There are no available resources to study their technologies, and I must figure everything on my own. The only way to survive is to work **late hours regularly** for me to thrive in a fast-paced environment.
 
 #### **Give me an example of a time you did something wrong. How did you handle it?**
 
@@ -422,7 +421,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- Through regularly working late hours for the sake of **job simplification** which can return, an improvement to employee productivity and client satisfaction.
+- Through regularly spending my free time in gaining proficiency on my weaknesses that has the **potential** to overcome a workplace challenge easily.
 
 #### **Give an example of when you performed well under pressure.**
 
@@ -434,7 +433,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I met a software developer where we have **something in common**. I shared the story on how I get started for inspiration ideas, my values, and techniques to deal with project tasks.
+- I met a software developer where we have **something in common**. I shared the story on how I get started for inspiration ideas, my values, and strategies to deal with pressure or stressful situations.
 
 #### **Tell me about a challenge or conflict you’ve faced at work, and how you dealt with it.**
 
@@ -442,13 +441,13 @@
 
 - When I failed to meet my team's expectations. There are **two options** to deal with it:
   - Listen to their **constructive criticisms** carefully to improve next time what I can present.
-  - Upskill on what really matters as fast as I can to establish **better systems**.
+  - Upskill on what really matters to establish **better systems**.
 
 #### **Tell me about a time you demonstrated leadership skills.**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I was responsible for conducting **daily morning meetings** for the software development team. I provide suggestions where applicable to address their concerns. Everyone is helping each other.
+- I was responsible for conducting **daily morning meetings** for the software development team. I listen to my team and provide suggestions where applicable to address their concerns. Everyone is helping each other.
 
 #### **If you found out your company was doing something against the law, like fraud, what would you do?**
 
@@ -466,7 +465,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- Every assignment that was given to me, I took them as my **motivation** by seeing what the long-term goal at the end of this will be. **Trial and error** method is what I use to resolve the issue. Try and try until I succeed.
+- Every assignment that was given to me, I took them as my **motivation** by seeing what the long-term goal at the end of this will be. **Trial and error** is my strategy until I successfully resolve the issue.
 
 #### **What's the most difficult decision you've made in the last two years and how did you come to that decision?**
 
@@ -484,13 +483,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I show **empathy** and **openness** to feedback to someone who really struggles to do his own duties. I perform **job simplification** as much as I can for everyone to foster collaboration.
-
-#### You showed empathy to someone, but he feels like your contributions are still not enough. How did you deal with it?
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- I will focus on doing things that **I can control**. "If I have not done enough, I am sorry because I cannot do it anymore." (Philippine President **[Rodrigo Roa Duterte](https://youtu.be/MJH2ySfjtrs)**).
+- I believe in my team because they have proven a lot to reach where they stand right now. Every member of the team has its own capabilities to solve problems and drive results. Success can be achieved through maintaining a **positive work ethic** in a dynamic environment.
 
 #### **What’s a time you disagree with a decision that was made at work?**
 
@@ -502,7 +495,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I perform a task to the best of my ability where it is the **most priority** in the list of requests rated by the client through diplomatic channels.
+- I would list down all tasks that were assigned to me and sort them **by priority** based on the details of the project and how urgent a task is. It is always best to be honest with them right away about my limitations while discussing alternative plans for a specific task to carry on using my current capabilities in a dynamic situation.
 
 ### **More Questions About Me**
 
@@ -571,13 +564,13 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- I would describe my work style as **detail-oriented**, **focused**, and **organized**. During my business meeting with the team, I even pointed out typographical errors and word usage. Although those were simple mistakes, they can ruin the first impression with potential clients.
+- I would describe my work style as **detail-oriented**, **focused**, and **organized**. During my business meeting with the team, I even pointed out small details like typographical errors. Although those were simple mistakes, they can ruin the first impression with potential clients.
 
 #### **How would you describe your management style?**
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- I try to eliminate unnecessary complexity as much as I can for the sake of future maintainers. It is my team’s best interests to **make them feel relaxed and satisfied** with their own duties. Once an employee’s concerns have been addressed, it will be easy for everyone to give high quality service to their respective clients.
+- I would first observe my surroundings, check what are the priorities that the company needs to fulfill, and foster a culture of open and transparent communication to ensure that everyone on my team is on the **same page**.
 
 #### **How quickly do you adapt to new technology?**
 
@@ -781,7 +774,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- I am **reluctant** to seek assistance from others for supervision. I prefer dealing with difficult challenges independently using all possible means to complete a task aligned with company’s standards.
+- I am **reluctant** to seek assistance from others for supervision. I prefer dealing with difficult challenges independently using all possible means to complete a task aligned with company's standards.
 
 #### **Tell me the difference between good and exceptional.**
 
@@ -811,7 +804,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- I can start **immediately**.
+- As soon as possible
 
 #### **Are you willing to relocate?**
 
@@ -829,4 +822,4 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- **Yes**. I would like to ask if you have any hesitations about me or my resume that I can address before we end our discussion.
+- **Yes**. I would like to ask if you have any hesitations about me or my resume that I can address before we end our meeting.
