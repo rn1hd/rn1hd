@@ -9,7 +9,7 @@
 
 [Back to Top](https://github.com/rn1hd#hi-there-)
 
-- I am a **Software Developer** with 4 years of corporate experience in developing scalable web applications, automation testing, and UX design. I am committed to delivering high-quality software that drives business impact.
+- I am a **Software Developer** with 4 years of corporate experience in full-stack development, automation testing, and UX design. I am committed to delivering high-quality software that drives business impact.
   - **Machine Learning Engineer** is my dream job because with the current trend in the market today, Artificial Intelligence is the career of the future based on what impact it may bring to the consumers and businesses, observing how **[ChatGPT](https://openai.com/blog/chatgpt/)** becomes a trend on the headlines in the 1st quarter of 2023. Personally, I would love to develop a robotics system using Reinforcement Learning to prioritize unaccompanied people that no one will be with them for the rest of their lives. Instead of letting unaccompanied people feel alone, a robot will take over as a last resort to spend some time on emotional support, home assistance, and personal care.
   - **Full Stack Developer** is one of my options that I would love to apply for. This role can be beneficial when there are dead-end situations in the business that need to be resolved as soon as possible.
 - I am also a professional **[pianist](https://dai.ly/k3loMuNrK90sOQzOXKu)** outside in the world of technology.
@@ -128,11 +128,11 @@
 
 - When I was in college, we developed **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)**. My oral thesis research presentation went well in **Hong Kong** with the help of my teammates and university professors.
 - Enhanced operational efficiency by developing **[Zumumu](https://zumumu.com/)** web applications for **[Share Cafe](https://sharecafe.ph/web/)** restaurant in Batangas using Bootstrap 4, jQuery, MySQL, and **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework.
-- Reduced software bugs in production through performing an automation testing for **[Zumumu](https://zumumu.com/)** and other intranet web applications under **[IntegrityNet Solutions and Services](https://www.integritynet.ph/)** using Selenium, Python, and Jenkins.
+- Reduced software bugs through automation testing for **[Zumumu](https://zumumu.com/)** and other intranet web applications under **[IntegrityNet Solutions and Services](https://www.integritynet.ph/)** using Selenium, Python, and Jenkins.
 - Enhanced marketing influence by developing **[The Ones Design](https://theonesdesign.netlify.app/)** website for a self-employed business owner using Javascript and Bootstrap 4.
 - **[Nix Daily](https://nixdaily.netlify.app/)** and **[The Ones Restaurant](https://theonesrestaurant.netlify.app/)** are some of my finished personal web applications in year 2020 using Javascript and Bootstrap 4.
 - Led development of an **inventory management system**, enhancing sales and customer satisfaction for store owners by streamlining daily operations in year 2023 using Bootstrap 5, jQuery, MySQL, Excel, and Python.
-- Enhanced operational efficiency by developing a **Purchase Request Information System** for 1 Regional and 6 Field Offices under **[Department of Labor and Employment](https://ncr.dole.gov.ph/)** using **[Metronic](https://keenthemes.com/metronic)** 8 web framework, MySQL, and PHP programming language.
+- Increased processing efficiency by developing a **Purchase Request Information System** for 1 Regional and 6 Field Offices under **[Department of Labor and Employment](https://ncr.dole.gov.ph/)** using **[Metronic](https://keenthemes.com/metronic)** 8 web framework, MySQL, and PHP programming language.
 
 ### Technical Writer 📚
 
@@ -195,13 +195,13 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I am Romnick Mamisay, a **Cum Laude** graduate of Lyceum of the Philippines University Batangas, with Bachelor's degree in Computer Science major in Mobile Applications Development. I am currently residing in the Philippines. I have **4 years** of corporate experience as a **Software Developer** responsible in documenting, designing, developing, testing, and maintaining web applications. I enjoy working in a **team-oriented** environment where I can apply my skills to solve problems and drive results.
+- I am Romnick Mamisay, a **Cum Laude** graduate of Lyceum of the Philippines University Batangas, with Bachelor's degree in Computer Science major in Mobile Applications Development. I am currently residing in the Philippines. I have **4 years** of corporate experience as a **Software Developer** with expertise in documenting, designing, developing, testing, and maintaining web applications. I enjoy working in a **team-oriented** environment where I can apply my skills to solve problems and drive results.
 
 #### **Tell me about your work experience.**
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I started my first job as a **Biller** in **Accudata Inc.** where my responsibility is to encode bills of lading with accuracy and efficiency while managing high-pressure environments.
+- I started my first job as a **Biller** in **Accudata Inc.** responsible in encoding bills of lading with accuracy and efficiency while managing high-pressure environments.
 - On **August 6, 2018**, I have employed in **IntegrityNet Solutions & Services** as a **Software Developer** responsible in documenting, designing, developing, testing, and maintaining web applications.
 - I **resigned** voluntarily on **January 28, 2022**, to gain proficiency in **modern in-demand technologies** to keep myself up to date in fast-changing technology. I applied those skills on my freelance experience to coordinate with the store owners by developing an inventory management system.
 - On **February 19, 2024**, I have employed in **Department of Labor and Employment - National Capital Region** as a **System Web Developer** responsible in designing, developing, testing, and implementing efficient Purchase Request Information System for 1 Regional and 6 Field Offices to enhance operational efficiency.
