@@ -352,7 +352,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- **Yes**, the time when I failed to meet my quota and presented an output that does not align with my client's expectations. This is one of the reasons why I am interested to pursue **Artificial Intelligence** to tackle manpower issues.
+- **Yes**, the time when I failed to meet the company's expectations. This is one of the reasons why I am interested to pursue **Artificial Intelligence** to tackle manpower issues.
 
 #### **Have you ever been on a team where someone was not pulling their own weight? How did you handle it?**
 
@@ -376,7 +376,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- My greatest failure is that despite my full commitment to a job to prove myself in the community, knowing that my best is still not good enough is something that I take seriously. I learned how important it is to utilize **soft skills** by getting along well with others through integrity, respect, and humility to maintain a positive and productive work environment.
+- My greatest failure is that despite my full commitment to a job to prove myself in the community, knowing that my best is still not good enough is something that I take seriously. I learned how important it is to utilize **soft skills** by getting along well with others to maintain a positive and productive work environment.
 
 #### **How do you handle working with people who annoy you?**
 
@@ -442,7 +442,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- When I failed to meet my team's expectations. There are **two options** to deal with it:
+- When I failed to meet the company's expectations. There are **two options** to deal with it:
   - Listen to their **constructive criticisms** carefully to improve next time what I can present.
   - Upskill on what really matters to establish **better systems**.
 
@@ -498,7 +498,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- I would list down all tasks that were assigned to me and sort them **by priority** based on the details of the project and how urgent a task is. It is always best to be honest with them right away about my limitations while discussing alternative plans for a specific task to carry on using my current capabilities in a dynamic situation.
+- I would list down all tasks that were assigned to me and sort them **by priority** based on the details of the project and how urgent a task is. It is always best to be honest with them right away about some obstacles encountered while discussing contigency plans for a specific task to carry on.
 
 ### **More Questions About Me**
 
@@ -561,7 +561,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- **Yes.** I touched on a software development project with thousands of lines of code, outdated libraries, and lack of documentation. I applied a **job simplification** approach through improving code quality and eliminating codes that I find unnecessary.
+- **Yes.** I touched on a software development project with thousands of lines of code, outdated libraries, and lack of documentation. I applied a **job simplification** approach through improving code quality and remove anything unnecessary.
 
 #### **How would you describe your work style?**
 
@@ -615,7 +615,7 @@
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
-- **Entrepreneurial**. I love working in a team where every member has the freedom to share their ideas irrespective of their position level. Irrelevant suggestions to the topic are inevitable, but positive feedback or an encouragement to continue coming up with more solutions are appreciated.
+- **Entrepreneurial**. I love working in a team that fosters a culture of open and transparent communication to ensure that everyone is on the same page.
 
 #### **What techniques and tools do you use to keep yourself organized?**
 
