@@ -1,4 +1,4 @@
-# Mercandow Mobile App
+# Mercandow - A Skilled Service Provider Application
 
 **Mercandow** is a skilled service provider mobile application that allows the customer to book their preferred service provider in real time. It uses a Google Map to specify the service provider's distance to the customer's current location, reputation, and starting rate through the user's phone. The initial version covers all places in the Philippines.
 
