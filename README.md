@@ -229,7 +229,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I took this time to gain proficiency in **modern in-demand technologies** and **practical communication**, which I believe makes me a more versatile and skilled professional.
+- I took this time to gain proficiency in **modern in-demand technologies** and **practical communication** to be more versatile and skilled professional.
 
 #### **What did you like least about your last job?**
 
@@ -376,7 +376,7 @@
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
-- My greatest failure is that despite my full commitment to a job to prove myself in the community, knowing that my best is still not good enough is something that I take seriously. I learned how important it is to utilize **soft skills** by getting along well with others to maintain a positive and productive work environment.
+- My greatest failure is that despite my full commitment to a job to prove myself in the community, knowing that my best is still not good enough is something that I take seriously. I learned how important it is to achieve **mastery** first in at least **60%** of the job qualifications before applying for a particular position and utilize **soft skills** by getting along well with others to maintain a positive and productive work environment.
 
 #### **How do you handle working with people who annoy you?**
 
