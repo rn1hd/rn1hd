@@ -27,7 +27,7 @@ I can present you the **entire flow** of my mobile application for the client si
 
 **General instructions:** For MPIN input, use **308028**.
 
-- [Account Registration](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow-Mobile-App?node-id=1617-2887&t=C0Hc2Q4HA18uixPD-1)
+- [Account Registration](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow---A-Skilled-Service-Provider-Application?node-id=4233-65433&t=hh3QYEV1APPyFBHK-1)
 
   - **Register as Client**
     - For Date of Birth, select **September 19, 1994**.
@@ -40,8 +40,8 @@ I can present you the **entire flow** of my mobile application for the client si
     - For Municipality / City, select **Makati City, Metro Manila**.
     - For Barangay, select **Ayala Avenue-Paseo de Roxas**.
 
-- [Account Registration After Approval](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow-Mobile-App?node-id=1674-4327&t=C0Hc2Q4HA18uixPD-1)
-- [Service Provider Booking Registration](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow-Mobile-App?node-id=2135-8917&t=C0Hc2Q4HA18uixPD-1)
+- [Account Registration After Approval](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow---A-Skilled-Service-Provider-Application?node-id=4279-41017&t=hh3QYEV1APPyFBHK-1)
+- [Service Provider Booking Registration](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow---A-Skilled-Service-Provider-Application?node-id=4292-59272&t=hh3QYEV1APPyFBHK-1)
 
   - Use search after the login.
   - Select **Diamond Hotel Solutions**.
@@ -50,37 +50,37 @@ I can present you the **entire flow** of my mobile application for the client si
   - **Cancel Booking** after your booking registration.
   - **Continue Booking** again after cancellation.
 
-- [Approved Booking Registration](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow-Mobile-App?node-id=2270-56728&t=C0Hc2Q4HA18uixPD-1)
+- [Approved Booking Registration](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow---A-Skilled-Service-Provider-Application?node-id=4315-69174&t=hh3QYEV1APPyFBHK-1)
 
   - Go to **Notifications** tab first.
   - Next step is to go to **History** tab.
   - Next step is to go to the **Contact** tab.
 
-- [Ongoing Service Provider](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow-Mobile-App?node-id=2302-15485&t=C0Hc2Q4HA18uixPD-1)
+- [Ongoing Service Provider](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow---A-Skilled-Service-Provider-Application?node-id=4315-72861&t=hh3QYEV1APPyFBHK-1)
 
   - Go to **Notifications** tab first.
   - Next step is either check the details of your new notification or go to **Contact** tab.
 
-- [Marking the Issue As Completed](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow-Mobile-App?node-id=2322-20468&t=C0Hc2Q4HA18uixPD-1)
+- [Marking the Issue As Completed](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow---A-Skilled-Service-Provider-Application?node-id=4317-76712&t=hh3QYEV1APPyFBHK-1)
 
   - Rate your Service Provider and our application as **4 stars**.
 
-- [Edit Profile and Logout](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow-Mobile-App?node-id=2432-23910&t=C0Hc2Q4HA18uixPD-1)
+- [Edit Profile and Logout](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow---A-Skilled-Service-Provider-Application?node-id=4342-79174&t=hh3QYEV1APPyFBHK-1)
 
   - Edit **Email Address** and **Mobile Number** only.
   - **Logout** your account after you edit your profile.
 
-- [Deactivate and Delete Account](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow-Mobile-App?node-id=2873-26743&t=C0Hc2Q4HA18uixPD-1)
+- [Deactivate and Delete Account](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow---A-Skilled-Service-Provider-Application?node-id=4366-38819&t=hh3QYEV1APPyFBHK-1)
 
   - For deactivation, select **Other**.
   - For deletion, select **I don't find Mercandow useful**.
 
-- [Forgot MPIN](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow-Mobile-App?node-id=2451-34601&t=C0Hc2Q4HA18uixPD-1)
+- [Forgot MPIN](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow---A-Skilled-Service-Provider-Application?node-id=4369-71658&t=hh3QYEV1APPyFBHK-1)
 
   - Input your **MPIN** first.
   - After the system displays an error message, you can proceed to **Forgot MPIN**.
 
-- [Continue as Guest](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow-Mobile-App?node-id=2469-37476&t=C0Hc2Q4HA18uixPD-1)
+- [Continue as Guest](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow---A-Skilled-Service-Provider-Application?node-id=4373-80502&t=hh3QYEV1APPyFBHK-1)
 
   - Use search engine first.
   - Select **Diamond Hotel Solutions**.
@@ -90,10 +90,10 @@ I can present you the **entire flow** of my mobile application for the client si
   - Visit the following tabs **in order**: Contact --> History --> Notifications --> Account
   - Click **Login My Account**.
 
-- [Chat with an Agent](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow-Mobile-App?node-id=3433-29440&t=C0Hc2Q4HA18uixPD-1)
+- [Chat with an Agent](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow---A-Skilled-Service-Provider-Application?node-id=4387-84757&t=hh3QYEV1APPyFBHK-1)
 
   - Select **Let me chat with a Live Agent.**.
 
-- [Terms & Policies](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow-Mobile-App?node-id=3471-33485&t=C0Hc2Q4HA18uixPD-1)
+- [Terms & Policies](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Mercandow---A-Skilled-Service-Provider-Application?node-id=4403-89757&t=hh3QYEV1APPyFBHK-1)
 
   - Visit **Terms & Conditions** first before **Privacy Policy**.
