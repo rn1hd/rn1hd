@@ -2,7 +2,7 @@
 
 **Merkandow** is a skilled service provider application that comes from the following words:
 
-- **Merkado**, a Filipino word for **Market** where a client has following options to choose their service provider that aligns with their needs. It also applies the law of supply and demand.
+- **Merkado**, a Filipino word for **Market** where a client has the following options to choose their service provider that aligns with their needs. It also applies the law of supply and demand.
 - **Brand**, an opportunity for a service provider to prove themselves by showcasing their unique selling point.
 - **Shadow**, this application that provides job opportunities to unemployed individuals who has the potential to contribute their skills in the community.
 
