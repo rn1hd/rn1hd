@@ -9,11 +9,11 @@
 
 [Back to Top](https://github.com/rn1hd#hi-there-)
 
-- I am a **Software Developer** with 4 years of corporate experience in full-stack development, automation testing, and UX design. I am committed to delivering high-quality software that drives business impact.
+- I am a **Software Developer** with 4+ years of experience building scalable web applications, automating testing workflows, and improving user experiences. Skilled in Figma, PHP, Python, and React. Seeking to contribute technical expertise and creativity to an innovative software team.
   - **Machine Learning Engineer** is my dream job because with the current trend in the market today, Artificial Intelligence is the career of the future based on what impact it may bring to the consumers and businesses, observing how **[ChatGPT](https://openai.com/blog/chatgpt/)** becomes a trend on the headlines in the 1st quarter of 2023. Personally, I would love to develop a robotics system using Reinforcement Learning to prioritize unaccompanied people that no one will be with them for the rest of their lives. Instead of letting unaccompanied people feel alone, a robot will take over as a last resort to spend some time on emotional support, home assistance, and personal care.
   - **Full Stack Developer** is one of my options that I would love to apply for. This role can be beneficial when there are dead-end situations in the business that need to be resolved as soon as possible.
 - I am also a professional **[pianist](https://dai.ly/k3loMuNrK90sOQzOXKu)** outside in the world of technology.
-- I have attached my resume **[here](https://raw.githubusercontent.com/rn1hd/rn1hd/main/Resume/Resume.webp)**.
+- I have attached my resume **[here](https://raw.githubusercontent.com/rn1hd/rn1hd/main/Resume.pdf)**.
 - You can also visit my **[LinkedIn](https://www.linkedin.com/in/rn1hd/)** and **[Medium](https://medium.com/@mamisayromnick)** profiles. Let's connect!
 
 <br />
@@ -203,9 +203,9 @@
 
 - I started my first job as a **Biller** in **Accudata Inc.** responsible in encoding bills of lading with accuracy and efficiency while managing high-pressure environments.
 - On **August 6, 2018**, I have employed in **IntegrityNet Solutions & Services** as a **Software Developer** responsible in documenting, designing, developing, testing, and maintaining web applications.
-- I **resigned** voluntarily on **January 28, 2022**, to gain proficiency in **modern in-demand technologies** to keep myself up to date in fast-changing technology. I applied those skills on my freelance experience to coordinate with the store owners by developing an inventory management system.
+- I voluntarily **left** previous role to focus on upskilling in **modern technologies** aligned with industry trends. I applied those skills on my freelance experience to coordinate with the store owners by developing an inventory management system.
 - On **February 19, 2024**, I have employed in **Department of Labor and Employment - National Capital Region** as a **System Web Developer** responsible in designing, developing, testing, and implementing efficient Purchase Request Information System for 1 Regional and 6 Field Offices to enhance operational efficiency.
-- My last role is only **temporary**. I just finished my project with them. While upskilling, I am **actively** looking for better opportunities that will allow me to grow **professionally** and to achieve job security in your company.
+- I **completed** a fixed-term contract project at DOLE. While upskilling, I am **actively** looking for better opportunities that will allow me to grow **professionally** and to achieve job security in your company.
 
 #### **How old are you?**
 
@@ -223,7 +223,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- My last role is only **temporary**. I just finished my project with them within the contract period.
+- My last role is **temporary**. I **completed** a fixed-term contract project at DOLE.
 
 #### **Why is there a gap in your employment?**
 
@@ -302,7 +302,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I would prefer not to **disclose** it. I believe we can negotiate a fair compensation based on my skills and values that I can bring to your company.
+- I prefer to focus on the value I bring to this role. Based on my experience and industry standards, I am looking for a salary in the range of **XXXXX**. Can you share the budgeted range for this position?
 
 ### **Behavioral Questions**
 
