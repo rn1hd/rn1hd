@@ -31,7 +31,7 @@ Based on my research, electrical and plumbing issues at home are **common occurr
 
 ## Presentation
 
-I can present you the **entire flow** of my application for the client side through **low fidelity** and **high fidelity** prototypes with the following processes:
+I can present you the **entire flow** of my application for the client side through **low fidelity** and **high fidelity** prototypes with the following processes compatible on **iPhone 16 Pro Max** device screen:
 
 **General instructions:** For MPIN input, use **308028**.
 
