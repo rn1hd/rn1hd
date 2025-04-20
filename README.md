@@ -166,6 +166,15 @@
 
 - [Basic Questions](https://github.com/rn1hd#basic-questions)
 - [Behavioral Questions](https://github.com/rn1hd#behavioral-questions)
+- [Self-Discipline Questions](https://github.com/rn1hd#selfdiscipline-questions)
+- [Flexibility Questions](https://github.com/rn1hd#behavioral-questions)
+- [Empathy Questions](https://github.com/rn1hd#behavioral-questions)
+- [Leadership Questions](https://github.com/rn1hd#leadership-questions)
+- [Accountability Questions](https://github.com/rn1hd#accountability-questions)
+- [Professionalism Questions](https://github.com/rn1hd#professionalism-questions)
+- [Emotional Regulation Questions](https://github.com/rn1hd#emotional-regulation-questions)
+- [Process Improvement Questions](https://github.com/rn1hd#process-improvement-questions)
+- [Honesty Questions](https://github.com/rn1hd#honesty-questions)
 - [More Questions About Me](https://github.com/rn1hd#more-questions-about-me)
 
 ### **Basic Questions**
@@ -187,8 +196,6 @@
 - [What are you looking for in a new position?](https://github.com/rn1hd#what-are-you-looking-for-in-a-new-position)
 - [What can you bring to the company?](https://github.com/rn1hd#what-can-you-bring-to-the-company)
 - [Why do you want to work at this company?](https://github.com/rn1hd#why-do-you-want-to-work-at-this-company)
-- [What are your greatest strengths?](https://github.com/rn1hd#what-are-your-greatest-strengths)
-- [What do you consider to be your weaknesses?](https://github.com/rn1hd#what-do-you-consider-to-be-your-weaknesses)
 - [What is your expected salary?](https://github.com/rn1hd#what-is-your-expected-salary)
 
 #### **Tell me about yourself.**
@@ -229,7 +236,7 @@
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
 
-- I took this time to gain proficiency in **modern in-demand technologies** and **practical communication** to be more versatile and skilled professional.
+- I took this time to gain proficiency in **modern in-demand technologies** and **social communication** to be more versatile and skilled professional.
 
 #### **What did you like least about your last job?**
 
@@ -286,18 +293,6 @@
 
 - I am excited about the opportunity to work at **XYZ Company** because of its reputation for innovation and its commitment to using cutting-edge technology to drive business growth. As a **software developer**, I have been passionate about creating solutions that provide real value to users. XYZ Company's focus on delivering high-quality software aligns perfectly with my professional goals. I am eager to contribute my technical skills and collaborate with your talented team to continue pushing the boundaries of what software can achieve, while also growing my expertise in this dynamic field.
 
-#### **What are your greatest strengths?**
-
-[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
-
-- My persistence has helped me successfully complete projects at my own pace, like **web applications** and **documentations**. I applied for relevant courses available online, built documentations to compile every progress that has been done, and presented the output to my potential users before the deployment.
-
-#### **What do you consider to be your weaknesses?**
-
-[Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
-
-- **Verbal communication** is my greatest weakness that I must practice regularly.
-
 #### **What is your expected salary?**
 
 [Back to Top (Basic Questions)](https://github.com/rn1hd#basic-questions)
@@ -316,7 +311,6 @@
 - [What is your greatest fear and why?](https://github.com/rn1hd#what-is-your-greatest-fear-and-why)
 - [What is your greatest failure, and what did you learn from it?](https://github.com/rn1hd#what-is-your-greatest-failure-and-what-did-you-learn-from-it)
 - [How do you handle working with people who annoy you?](https://github.com/rn1hd#how-do-you-handle-working-with-people-who-annoy-you)
-- [How do you deal with pressure or stressful situations?](https://github.com/rn1hd#how-do-you-deal-with-pressure-or-stressful-situations)
 - [How do you feel about working weekends or late hours?](https://github.com/rn1hd#how-do-you-feel-about-working-weekends-or-late-hours)
 - [If I were your supervisor and asked you to do something that you disagreed with, what would you do?](https://github.com/rn1hd#if-i-were-your-supervisor-and-asked-you-to-do-something-that-you-disagreed-with-what-would-you-do)
 - [What if you have exhausted all your diplomatic efforts and still did not work for them?](https://github.com/rn1hd#what-if-you-have-exhausted-all-your-diplomatic-efforts-and-still-did-not-work-for-them)
@@ -324,9 +318,6 @@
 - [Give me an example of a time you did something wrong. How did you handle it?](https://github.com/rn1hd#give-me-an-example-of-a-time-you-did-something-wrong-how-did-you-handle-it)
 - [Give an example of how you have handled a challenge in the workplace before.](https://github.com/rn1hd#give-an-example-of-how-you-have-handled-a-challenge-in-the-workplace-before)
 - [Give an example of when you performed well under pressure.](https://github.com/rn1hd#give-an-example-of-when-you-performed-well-under-pressure)
-- [Give an example of when you showed leadership qualities.](https://github.com/rn1hd#give-an-example-of-when-you-showed-leadership-qualities)
-- [Tell me about a challenge or conflict you've faced at work, and how you dealt with it.](https://github.com/rn1hd#tell-me-about-a-challenge-or-conflict-youve-faced-at-work-and-how-you-dealt-with-it)
-- [Tell me about a time you demonstrated leadership skills.](https://github.com/rn1hd#tell-me-about-a-time-you-demonstrated-leadership-skills)
 - [If you found out your company was doing something against the law, like fraud, what would you do?](https://github.com/rn1hd#if-you-found-out-your-company-was-doing-something-against-the-law-like-fraud-what-would-you-do)
 - [What do you think our company/organization could do better?](https://github.com/rn1hd#what-do-you-think-our-companyorganization-could-do-better)
 - [What assignment was too difficult for you, and how did you resolve the issue?](https://github.com/rn1hd#what-assignment-was-too-difficult-for-you-and-how-did-you-resolve-the-issue)
@@ -384,12 +375,6 @@
 
 - I choose my poison **wisely**. I pick constructive criticisms to improve on and adapt myself to changes surrounding people with different personalities.
 
-#### **How do you deal with pressure or stressful situations?**
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- I would stay calm and focus on my mission. With good **time management** skills and **proper planning** on finding solutions, I can deal difficult challenges under pressure to ensure the best outcome.
-
 #### **How do you feel about working weekends or late hours?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
@@ -431,26 +416,6 @@
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
 - When I managed to take down notes of all verbal instructions **accurately**, use the best strategy to complete my tasks **efficiently**, and eventually ensure that my clients are **satisfied** regarding the system that I have developed.
-
-#### **Give an example of when you showed leadership qualities.**
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- I met a software developer where we have **something in common**. I shared the story on how I get started for inspiration ideas, my values, and strategies to deal with pressure or stressful situations.
-
-#### **Tell me about a challenge or conflict you’ve faced at work, and how you dealt with it.**
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- When I failed to meet the company's expectations. There are **two options** to deal with it:
-  - Listen to their **constructive criticisms** carefully to improve next time what I can present.
-  - Upskill on what really matters to establish **better systems**.
-
-#### **Tell me about a time you demonstrated leadership skills.**
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- I was responsible for conducting **daily morning meetings** for the software development team. I listen to my team and provide suggestions where applicable to address their concerns. Everyone is helping each other.
 
 #### **If you found out your company was doing something against the law, like fraud, what would you do?**
 
@@ -500,6 +465,366 @@
 
 - I would list down all tasks that were assigned to me and sort them **by priority** based on the details of the project and how urgent a task is. It is always best to be honest with them right away about some obstacles encountered while discussing contigency plans for a specific task to carry on.
 
+### **Self-Discipline Questions**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
+- [How do you stay focused when working alone without supervision?](https://github.com/rn1hd#how-do-you-stay-focused-when-working-alone-without-supervision)
+- [Tell us about a time you had to meet a tight deadline.](https://github.com/rn1hd#tell-us-about-a-time-you-had-to-meet-a-tight-deadline)
+- [How do you manage distractions during work or study time?](https://github.com/rn1hd#how-do-you-manage-distractions-during-work-or-study-time)
+- [Describe a goal you set and how you achieved it.](https://github.com/rn1hd#describe-a-goal-you-set-and-how-you-achieved-it)
+- [What keeps you motivated when tasks get boring or hard?](https://github.com/rn1hd#what-keeps-you-motivated-when-tasks-get-boring-or-hard)
+
+#### **How do you stay focused when working alone without supervision?**
+
+[Back to Top (Self-Discipline Questions)](https://github.com/rn1hd#selfdiscipline-questions)
+
+- When I worked on a web application project, I document all necessary information that has been discussed during the meeting, utilize productivity tools to come up with a high-quality product, and maintain **continuous upskilling** on what really matters during off-hours to thrive in a fast-paced environment.
+
+#### **Tell us about a time you had to meet a tight deadline.**
+
+[Back to Top (Self-Discipline Questions)](https://github.com/rn1hd#selfdiscipline-questions)
+
+- I would stay **fully focused** on what needs to be done, put extra hours to complete my project, and remove unnecessary distractions that can hinder my progress to ensure that I can deliver my expected results on time.
+
+#### **How do you manage distractions during work or study time?**
+
+[Back to Top (Self-Discipline Questions)](https://github.com/rn1hd#selfdiscipline-questions)
+
+- I go to a **cozy** place where it's quiet and uncrowded, set my phone to silent mode, and place myself that my deadline to complete a task will be tomorrow by imagining that someone pressures me to hurry up.
+
+#### **Describe a goal you set and how you achieved it.**
+
+[Back to Top (Self-Discipline Questions)](https://github.com/rn1hd#selfdiscipline-questions)
+
+- **Staying ahead of the curve** is my professional goal. It can be achieved when I prove myself to the company that I meet all the qualifications for the position, and uphold a positive work ethic to retain client's trust and improve employee satisfaction.
+
+#### **What keeps you motivated when tasks get boring or hard?**
+
+[Back to Top (Self-Discipline Questions)](https://github.com/rn1hd#selfdiscipline-questions)
+
+- I remind myself of the **end-result**: when I document software applications for hours and improve the quality of the product, it may create significant positive impact to the user experience, an application that becomes high-performing, easily maintainable for developers and eventually increase a business's profitability.
+
+### **Flexibility Questions**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
+- [How you handle sudden changes at work?](https://github.com/rn1hd#how-you-handle-sudden-changes-at-work)
+- [Can you describe a time when you had to work on something outside your job description?](https://github.com/rn1hd#can-you-describe-a-time-when-you-had-to-work-on-something-outside-your-job-description)
+- [How do you manage working with people who have different work styles or opinions?](https://github.com/rn1hd#how-do-you-manage-working-with-people-who-have-different-work-styles-or-opinions)
+- [Are you open to learning new skills or taking on different roles if needed?](https://github.com/rn1hd#are-you-open-to-learning-new-skills-or-taking-on-different)
+- [What would you do if your manager gave you a task you've never done before?](https://github.com/rn1hd#are-you-open-to-learning-new-skills-or-taking-on-different)
+
+#### **How you handle sudden changes at work?**
+
+[Back to Top (Flexibility Questions)](https://github.com/rn1hd#flexibility-questions)
+
+- I stay calm, adjust fast, and focus on the **goal**, not the panic.
+
+#### **Can you describe a time when you had to work on something outside your job description?**
+
+[Back to Top (Flexibility Questions)](https://github.com/rn1hd#flexibility-questions)
+
+- At my previous job in a BPO company, I was transferred to a **Network Operations Center** department to handle customer's complaints by phone, document the issue, and offer a solution to their issues. This is a new kind of experience, but that is one way to combat my weaknesses as a professional.
+
+#### **How do you manage working with people who have different work styles or opinions?**
+
+[Back to Top (Flexibility Questions)](https://github.com/rn1hd#flexibility-questions)
+
+- When my teammate expects a straightforward approach while I perform a step-by-step approach in developing a software application to ensure long-term maintainability, I look for **alternatives** by building templates from scratch or utilize built-in frameworks to deliver high-quality results on time. Showing that I am flexible often means finding what works for both of us.
+
+#### **Are you open to learning new skills or taking on different roles if needed?**
+
+[Back to Top (Flexibility Questions)](https://github.com/rn1hd#flexibility-questions)
+
+- **Absolutely!** In fact, the market is changing fast. I need to fully focus on upskilling on what really matters aligned with industry trends and my professional goals.
+
+#### **What would you do if your manager gave you a task you've never done before?**
+
+[Back to Top (Flexibility Questions)](https://github.com/rn1hd#flexibility-questions)
+
+- I will take my manager's decision as a **challenge** to myself and prove to him that the impossible can become possible by giving my best shot.
+
+### **Empathy Questions**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
+- [Can you describe a time when you had to understand someone else's perspective at work?](https://github.com/rn1hd#can-you-describe-a-time-when-you-had-to-understand-someone-elses-perspective-at-work)
+- [How do you handle a situation where a team member is upset or frustrated?](https://github.com/rn1hd#how-do-you-handle-a-situation-where-a-team-member-is-upset-or-frustrated)
+- [What would you do if a customer or client was unhappy with your service?](https://github.com/rn1hd#what-would-you-do-if-a-customer-or-client-was-unhappy-with-your-service)
+- [How do you work with someone whose personality clashes with yours?](https://github.com/rn1hd#how-do-you-work-with-someone-whose-personality-clashes-with-yours)
+- [How do you show empathy when giving difficult feedback?](https://github.com/rn1hd#how-do-you-show-empathy-when-giving-difficult-feedback)
+
+#### **Can you describe a time when you had to understand someone else's perspective at work?**
+
+[Back to Top (Empathy Questions)](https://github.com/rn1hd#empathy-questions)
+
+- One of my coworkers was **struggling** with a project, and instead of assuming they were unprepared, I asked what challenges they were facing. I learned they were balancing personal issues, so I adjusted my expectations and offered support to help them catch up.
+
+#### **How do you handle a situation where a team member is upset or frustrated?**
+
+[Back to Top (Empathy Questions)](https://github.com/rn1hd#empathy-questions)
+
+- I **listen** first, without interrupting, so they feel heard, then I acknowledge their feelings before suggesting solutions. In my last job, a coworker was stressed over a deadline, so I helped break the project into smaller tasks and offered assistance, which helped them regain confidence.
+
+#### **What would you do if a customer or client was unhappy with your service?**
+
+[Back to Top (Empathy Questions)](https://github.com/rn1hd#empathy-questions)
+
+- I would pause myself first, listen carefully, and let them **finish** expressing their frustration with my service. At my previous job, my teammate was upset about my work output, so I reassured them that I understand their concern, explained the situation clearly, and prove that I can deliver a better work output next time aligned with their expectations.
+
+#### **How do you work with someone whose personality clashes with yours?**
+
+[Back to Top (Empathy Questions)](https://github.com/rn1hd#empathy-questions)
+
+- I focus on the **goal**, not the differences. I once worked with a teammate who had a blunt communication style, while I prefer a more patient approach. Instead of taking things personally, I adapted by keeping conversations clear and direct, which improved our collaboration.
+
+#### **How do you show empathy when giving difficult feedback?**
+
+[Back to Top (Empathy Questions)](https://github.com/rn1hd#empathy-questions)
+
+- I make sure to **acknowledge** the person's effort first, then frame my feedback as a way to help them improve rather than criticize. For example, when I had to tell a teammate their web application project revisions, I first praised their accomplishments, then suggested specific ways to refine it, making the conversation constructive and supportive.
+
+### **Leadership Questions**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
+- [How do you motivate your team?](https://github.com/rn1hd#how-do-you-motivate-your-team)
+- [Can you share an example of a time you led a successful project?](https://github.com/rn1hd#can-you-share-an-example-of-a-time-you-led-a-successful-project)
+- [How do you handle conflict within your team?](https://github.com/rn1hd#how-do-you-handle-conflict-within-your-team)
+- [What's your leadership style?](https://github.com/rn1hd#whats-your-leadership-style)
+- [How do you ensure your team meets deadlines and goals?](https://github.com/rn1hd#how-do-you-ensure-your-team-meets-deadlines-and-goals)
+- [Give an example of when you showed leadership qualities.](https://github.com/rn1hd#give-an-example-of-when-you-showed-leadership-qualities)
+
+#### **How do you motivate your team?**
+
+[Back to Top (Leadership Questions)](https://github.com/rn1hd#leadership-questions)
+
+- I set **clear goals**, recognize achievements, and create an environment where everyone feels valued and inspired.
+
+#### **Can you share an example of a time you led a successful project?**
+
+[Back to Top (Leadership Questions)](https://github.com/rn1hd#leadership-questions)
+
+- I was responsible for conducting **daily morning meetings** for the software development team. I listen to my team and provide suggestions where applicable to address their concerns ensuring that all of us are on the same page.
+
+#### **How do you handle conflict within your team?**
+
+[Back to Top (Leadership Questions)](https://github.com/rn1hd#leadership-questions)
+
+- I listen to **all sides**, mediate to find common ground, and guide the team toward a resolution that benefits everyone.
+
+#### **What's your leadership style?**
+
+[Back to Top (Leadership Questions)](https://github.com/rn1hd#leadership-questions)
+
+- I focus on **collaboration** and **adaptability**, tailoring my approach to fit the needs of the team and situation.
+
+#### **How do you ensure your team meets deadlines and goals?**
+
+[Back to Top (Leadership Questions)](https://github.com/rn1hd#leadership-questions)
+
+- I break projects into **manageable steps**, track progress regularly, and provide support to overcome challenges they have faced in the project.
+
+#### **Give an example of when you showed leadership qualities.**
+
+[Back to Top (Leadership Questions)](https://github.com/rn1hd#leadership-questions)
+
+- I met a software developer where we have **something in common**. I shared the story on how I get started for inspiration ideas, my values, and strategies to deal with pressure or stressful situations.
+
+### **Accountability Questions**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
+- [Can you tell me about a time you made a mistake at work?](https://github.com/rn1hd#can-you-tell-me-about-a-time-you-made-a-mistake-at-work)
+- [How do you handle deadlines, especially when you're running behind?](https://github.com/rn1hd#how-do-you-handle-deadlines-especially-when-youre-running-behind)
+- [How do you stay accountable when working independently?](https://github.com/rn1hd#how-do-you-stay-accountable-when-working-independently)
+- [What do you do if a team project goes wrong but it wasn't your fault?](https://github.com/rn1hd#what-do-you-do-if-a-team-project-goes-wrong-but-it-wasnt-your-fault)
+- [How do you prove you're reliable over time?](https://github.com/rn1hd#how-do-you-prove-youre-realiable-over-time)
+
+#### **Can you tell me about a time you made a mistake at work?**
+
+[Back to Top (Accountability Questions)](https://github.com/rn1hd#accountability-questions)
+
+- I was prone to making my own decisions on my task that was assigned to me, potentially leading to misalignment of my work output to what is expected from me during the presentation. It is always best to **clarify** some hesitations I have encountered on my task to the client or my immediate supervisor to ensure that both of us are on the same page.
+
+#### **How do you handle deadlines, especially when you're running behind?**
+
+[Back to Top (Accountability Questions)](https://github.com/rn1hd#accountability-questions)
+
+- If I'm falling behind, I speak up **early**, adjust priorities, and ask for help if needed, because missing a deadline silently is worse than admitting you need support.
+
+#### **How do you stay accountable when working independently?**
+
+[Back to Top (Accountability Questions)](https://github.com/rn1hd#accountability-questions)
+
+- I create a **clear** daily plan, track my progress, and check in regularly with teammates - even if no one's watching, I work like someone is.
+
+#### **What do you do if a team project goes wrong but it wasn't your fault?**
+
+[Back to Top (Accountability Questions)](https://github.com/rn1hd#accountability-questions)
+
+- I focus on helping **fix** the issue instead of pointing fingers because being part of a team means owning the outcome together, not just your piece.
+
+#### **How do you prove you're reliable over time?**
+
+[Back to Top (Accountability Questions)](https://github.com/rn1hd#accountability-questions)
+
+- I consistently meet deadlines, follow through on promises, and keep people updated. Because being reliable isn't about being perfect, it's about **showing up**, even on hard days.
+
+### **Professionalism Questions**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
+- [What does professionalism mean to you?](https://github.com/rn1hd#what-does-professionalism-mean-to-you)
+- [How do you stay professional under pressure?](https://github.com/rn1hd#how-do-you-stay-professional-under-pressure)
+- [How do you handle conflicts with coworkers?](https://github.com/rn1hd#how-do-you-handle-conflicts-with-coworkers)
+- [How do you manage your time when everything feels urgent?](https://github.com/rn1hd#how-do-you-manage-your-time-when-everything-feels-urgent)
+
+#### **What does professionalism mean to you?**
+
+[Back to Top (Professionalism Questions)](https://github.com/rn1hd#professionalism-questions)
+
+- Professionalism upholds **values** by arriving on time, abiding to the company rules, communicating respectfully, being honest, having a positive attitude, taking responsibility, helping others, and being reliable.
+
+#### **How do you stay professional under pressure?**
+
+[Back to Top (Professionalism Questions)](https://github.com/rn1hd#professionalism-questions)
+
+- I remind myself that staying respectful and focused gets **better results**. During an emergency at my previous job in a BPO company, I kept a friendly tone even when my teammates are upset to maintain peace and stability by pushing myself beyond the limits.
+
+#### **How do you handle conflicts with coworkers?**
+
+[Back to Top (Professionalism Questions)](https://github.com/rn1hd#professionalism-questions)
+
+- I listen to my coworker's **constructive criticisms** to improve next time what I can perform and upskill on what really matters to establish better systems.
+
+#### **How do you manage your time when everything feels urgent?**
+
+[Back to Top (Professionalism Questions)](https://github.com/rn1hd#professionalism-questions)
+
+- I break things down, prioritize what moves the needle first, and communicate. Recently, there are several areas that urgently requires upskilling such as mastering modern technologies, social communication, and managing important portfolios within the limited time frame. Therefore, I am **fully focused** on what needs to be done to stay ahead on the curve and remove unnecessary distractions.
+
+### **Emotional Regulation Questions**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
+- [How do you react when someone disagrees with you strongly?](https://github.com/rn1hd#how-do-you-react-when-someone-disagrees-with-you-strongly)
+- [What do you do when you feel frustrated at work?](https://github.com/rn1hd#what-do-you-do-when-you-feel-frustrated-at-work)
+- [How do you manage your emotions during stressful team situations?](https://github.com/rn1hd#how-do-you-manage-your-emotions-during-stressful-team-situations)
+- [How do you stay calm under pressure?](https://github.com/rn1hd#how-do-you-stay-calm-under-pressure)
+- [Tell me about a time you received unexpected criticism - how did you respond?](https://github.com/rn1hd#tell-me-about-a-time-you-received-unexpected-criticism--how-did-you-respond)
+
+#### **How do you react when someone disagrees with you strongly?**
+
+[Back to Top (Emotional Regulation Questions)](https://github.com/rn1hd#emotional-regulation-questions)
+
+- During a planning meeting, a colleague pushed back hard on my idea, and instead of reacting defensively, I asked questions to understand their view. I've found that staying **curious**, not combative, often turns disagreements into better solutions.
+
+#### **What do you do when you feel frustrated at work?**
+
+[Back to Top (Emotional Regulation Questions)](https://github.com/rn1hd#emotional-regulation-questions)
+
+- When a project I worked on has still a lot missing in my progress while nearing the deadline, I exhaust **all remaining options** pushing myself beyond the limits to deliver results on time using my current technical skill set. I've learned that frustration is normal, but where I channel it is what defines my professionalism.
+
+#### **How do you manage your emotions during stressful team situations?**
+
+[Back to Top (Emotional Regulation Questions)](https://github.com/rn1hd#emotional-regulation-questions)
+
+- Once, when tensions ran high in a deadline meeting, I chase to speak **calmly** and ask others how they were doing, which helped cool things down. Keeping my own tone steady often encourages the room to follow.
+
+#### **How do you stay calm under pressure?**
+
+[Back to Top (Emotional Regulation Questions)](https://github.com/rn1hd#emotional-regulation-questions)
+
+- I focus on my **mission**. With good time management skills and proper planning on finding solutions, I can stay myself calm under pressure to ensure the best outcome.
+
+#### **Tell me about a time you received unexpected criticism - how did you respond?**
+
+[Back to Top (Emotional Regulation Questions)](https://github.com/rn1hd#emotional-regulation-questions)
+
+- When a manager surprised me with harsh feedback on my presentation, I **paused** before replying, thanked them, and later asked for tips. I've realized that how I handle hard feedback in the moment says more than what I say next.
+
+### **Process Improvement Questions**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
+- [Can you describe a time you made a small change that had a big impact?](https://github.com/rn1hd#can-you-describe-a-time-you-made-a-small-change-that-had-a-big-impact)
+- [How do you approach improving a process that already "works fine"?](https://github.com/rn1hd#how-do-you-approach-improving-a-process-that-already-works-fine)
+- [What do you do when people resist a process change you suggest?](https://github.com/rn1hd#what-do-you-do-when-people-resist-a-process-change-you-suggest)
+- [How do you make sure your improvements don't break something else?](https://github.com/rn1hd#how-do-you-make-sure-your-improvements-dont-break-something-else)
+- [What's the first thing you do when asked to improve a process?](https://github.com/rn1hd#whats-the-first-thing-you-do-when-asked-to-improve-a-process)
+
+#### **Can you describe a time you made a small change that had a big impact?**
+
+[Back to Top (Process Improvement Questions)](https://github.com/rn1hd#process-improvement-questions)
+
+- At my last job, I noticed that the Unit of Measure must be inputted manually in the old version of Purchase Request Information System. By converting it from an input box to a dropdown selection, the property officers are really **amazed** during my presentation of the new system. It prevents potential typographical errors and improves user experience.
+
+#### **How do you approach improving a process that already "works fine"?**
+
+[Back to Top (Process Improvement Questions)](https://github.com/rn1hd#process-improvement-questions)
+
+- When Purchase Request generation form was working fine, PR number does not generate in the old version and found that displaying all necessary information along with matching the form size to the paper size in the new version makes it **more readable** for the property officers and suppliers.
+
+#### **What do you do when people resist a process change you suggest?**
+
+[Back to Top (Process Improvement Questions)](https://github.com/rn1hd#process-improvement-questions)
+
+- As a user experience designer, I would conduct **unmoderated usability study** by letting the participants figure out how to complete all the steps in a specific user flow and letting them suggest what works best for them.
+
+#### **How do you make sure your improvements don't break something else?**
+
+[Back to Top (Process Improvement Questions)](https://github.com/rn1hd#process-improvement-questions)
+
+- I would develop **automation scripts** to perform unit testing that will be uploaded in the server after my system revisions before deploying it in the live production.
+
+#### **What's the first thing you do when asked to improve a process?**
+
+[Back to Top (Process Improvement Questions)](https://github.com/rn1hd#process-improvement-questions)
+
+- I ask the people who use it every day, like when I was told to improve Purchase Request Information System. I asked my teammate what annoyed them most and figured out that there is a security issue in other web applications to the point that they have to implement logs - so I also implement **Logs** feature in PRIS to track suspicious behavior, even though no one had ever thought to ask.
+
+### **Honesty Questions**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
+- [What is your greatest strength?](https://github.com/rn1hd#what-is-your-greatest-strength)
+- [What is your biggest weakness?](https://github.com/rn1hd#what-is-your-biggest-weakness)
+- [How do you handle criticism or feedback?](https://github.com/rn1hd#how-do-you-handle-criticism-or-feedback)
+- [How do you use strengths to solve a problem?](https://github.com/rn1hd#how-do-you-use-strengths-to-solve-a-problem)
+- [How do you ensure weaknesses don't impact work?](https://github.com/rn1hd#how-do-you-ensure-weaknesses-dont-impact-work)
+
+#### **What is your greatest strength?**
+
+[Back to Top (Honesty Questions)](https://github.com/rn1hd#honesty-questions)
+
+- My persistence has helped me successfully complete projects at my own pace, like **web applications** and **documentations**. I applied for relevant courses available online, built documentations to compile every progress that has been done, and presented the output to my potential users before the deployment.
+
+#### **What is your biggest weakness?**
+
+[Back to Top (Honesty Questions)](https://github.com/rn1hd#honesty-questions)
+
+- **Verbal communication** is my greatest weakness that I must practice regularly.
+
+#### **How do you handle criticism or feedback?**
+
+[Back to Top (Honesty Questions)](https://github.com/rn1hd#honesty-questions)
+
+- I view feedback as a **learning opportunity**. For example, after receiving feedback about some loopholes found in the application that does not cover in my manual testing, I took a more powerful approach by developing unit tests to monitor possible system issues much faster.
+
+#### **How do you use strengths to solve a problem?**
+
+[Back to Top (Honesty Questions)](https://github.com/rn1hd#honesty-questions)
+
+- When the current market showed me a list of the required technical skills for a client project, I stay myself **fully focused** to achieve something even though I still must go through a lot of sacrifices to reach the minimum acceptable standard.
+
+#### **How do you ensure weaknesses don't impact work?**
+
+[Back to Top (Honesty Questions)](https://github.com/rn1hd#honesty-questions)
+
+- During off-hours, I need to expose myself **regularly** on at least utilizing interactive speech software to retain my proficiency in verbal communication skills to ensure that tomorrow, I can still communicate well with others, even on hard days.
+
 ### **More Questions About Me**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
@@ -507,7 +832,6 @@
 - [Are you a team player?](https://github.com/rn1hd#are-you-a-team-player)
 - [Are you a risk-taker?](https://github.com/rn1hd#are-you-a-risk-taker)
 - [How would you describe your work style?](https://github.com/rn1hd#how-would-you-describe-your-work-style)
-- [How would you describe your management style?](https://github.com/rn1hd#how-would-you-describe-your-management-style)
 - [How quickly do you adapt to new technology?](https://github.com/rn1hd#how-quickly-do-you-adapt-to-new-technology)
 - [Do you prefer hard work, or smart work?](https://github.com/rn1hd#do-you-prefer-hard-work-or-smart-work)
 - [What makes you unique?](https://github.com/rn1hd#what-makes-you-unique)
@@ -568,12 +892,6 @@
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - I would describe my work style as **detail-oriented**, **focused**, and **organized**. During my business meeting with the team, I even pointed out small details like typographical errors. Although those were simple mistakes, they can ruin the first impression with potential clients.
-
-#### **How would you describe your management style?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- I would first observe my surroundings, check what are the priorities that the company needs to fulfill, and foster a culture of open and transparent communication to ensure that everyone on my team is on the **same page**.
 
 #### **How quickly do you adapt to new technology?**
 
