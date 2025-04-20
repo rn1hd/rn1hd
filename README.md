@@ -883,31 +883,31 @@
 
 #### **How do you handle praise or compliments at work?**
 
-[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility---character-questions)
+[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility--character-questions)
 
 - WIP
 
 #### **Tell me about a time you had to ask for help.**
 
-[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility---character-questions)
+[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility--character-questions)
 
 - WIP
 
 #### **What would your previous manager say you could still improve?**
 
-[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility---character-questions)
+[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility--character-questions)
 
 - WIP
 
 #### **When was the last time you changed your mind about something at work?**
 
-[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility---character-questions)
+[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility--character-questions)
 
 - WIP
 
 #### **What's something you know now that you wish you'd known earlier in your career?**
 
-[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility---character-questions)
+[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility--character-questions)
 
 - WIP
 
