@@ -166,15 +166,21 @@
 
 - [Basic Questions](https://github.com/rn1hd#basic-questions)
 - [Behavioral Questions](https://github.com/rn1hd#behavioral-questions)
-- [Self-Discipline Questions](https://github.com/rn1hd#selfdiscipline-questions)
+- [Self-Discipline Questions](https://github.com/rn1hd#self-discipline-questions)
 - [Flexibility Questions](https://github.com/rn1hd#behavioral-questions)
-- [Empathy Questions](https://github.com/rn1hd#behavioral-questions)
+- [Empathy Questions](https://github.com/rn1hd#empathy-questions)
 - [Leadership Questions](https://github.com/rn1hd#leadership-questions)
+- [Strategic Thinking Questions](https://github.com/rn1hd#strategic-thinking-questions)
 - [Accountability Questions](https://github.com/rn1hd#accountability-questions)
 - [Professionalism Questions](https://github.com/rn1hd#professionalism-questions)
 - [Emotional Regulation Questions](https://github.com/rn1hd#emotional-regulation-questions)
 - [Process Improvement Questions](https://github.com/rn1hd#process-improvement-questions)
+- [Task Prioritization Questions](https://github.com/rn1hd#task-prioritization-questions)
+- [Humility & Character Questions](https://github.com/rn1hd#humility--character-questions)
+- [Integrity Questions](https://github.com/rn1hd#integrity-questions)
 - [Honesty Questions](https://github.com/rn1hd#honesty-questions)
+- [Risk Management Questions](https://github.com/rn1hd#risk-management-questions)
+- [Cost Efficiency Questions](https://github.com/rn1hd#cost-efficiency-questions)
 - [More Questions About Me](https://github.com/rn1hd#more-questions-about-me)
 
 ### **Basic Questions**
@@ -477,31 +483,31 @@
 
 #### **How do you stay focused when working alone without supervision?**
 
-[Back to Top (Self-Discipline Questions)](https://github.com/rn1hd#selfdiscipline-questions)
+[Back to Top (Self-Discipline Questions)](https://github.com/rn1hd#self-discipline-questions)
 
 - When I worked on a web application project, I document all necessary information that has been discussed during the meeting, utilize productivity tools to come up with a high-quality product, and maintain **continuous upskilling** on what really matters during off-hours to thrive in a fast-paced environment.
 
 #### **Tell us about a time you had to meet a tight deadline.**
 
-[Back to Top (Self-Discipline Questions)](https://github.com/rn1hd#selfdiscipline-questions)
+[Back to Top (Self-Discipline Questions)](https://github.com/rn1hd#self-discipline-questions)
 
 - I would stay **fully focused** on what needs to be done, put extra hours to complete my project, and remove unnecessary distractions that can hinder my progress to ensure that I can deliver my expected results on time.
 
 #### **How do you manage distractions during work or study time?**
 
-[Back to Top (Self-Discipline Questions)](https://github.com/rn1hd#selfdiscipline-questions)
+[Back to Top (Self-Discipline Questions)](https://github.com/rn1hd#self-discipline-questions)
 
 - I go to a **cozy** place where it's quiet and uncrowded, set my phone to silent mode, and place myself that my deadline to complete a task will be tomorrow by imagining that someone pressures me to hurry up.
 
 #### **Describe a goal you set and how you achieved it.**
 
-[Back to Top (Self-Discipline Questions)](https://github.com/rn1hd#selfdiscipline-questions)
+[Back to Top (Self-Discipline Questions)](https://github.com/rn1hd#self-discipline-questions)
 
 - **Staying ahead of the curve** is my professional goal. It can be achieved when I prove myself to the company that I meet all the qualifications for the position, and uphold a positive work ethic to retain client's trust and improve employee satisfaction.
 
 #### **What keeps you motivated when tasks get boring or hard?**
 
-[Back to Top (Self-Discipline Questions)](https://github.com/rn1hd#selfdiscipline-questions)
+[Back to Top (Self-Discipline Questions)](https://github.com/rn1hd#self-discipline-questions)
 
 - I remind myself of the **end-result**: when I document software applications for hours and improve the quality of the product, it may create significant positive impact to the user experience, an application that becomes high-performing, easily maintainable for developers and eventually increase a business's profitability.
 
@@ -512,8 +518,8 @@
 - [How you handle sudden changes at work?](https://github.com/rn1hd#how-you-handle-sudden-changes-at-work)
 - [Can you describe a time when you had to work on something outside your job description?](https://github.com/rn1hd#can-you-describe-a-time-when-you-had-to-work-on-something-outside-your-job-description)
 - [How do you manage working with people who have different work styles or opinions?](https://github.com/rn1hd#how-do-you-manage-working-with-people-who-have-different-work-styles-or-opinions)
-- [Are you open to learning new skills or taking on different roles if needed?](https://github.com/rn1hd#are-you-open-to-learning-new-skills-or-taking-on-different)
-- [What would you do if your manager gave you a task you've never done before?](https://github.com/rn1hd#are-you-open-to-learning-new-skills-or-taking-on-different)
+- [Are you open to learning new skills or taking on different roles if needed?](https://github.com/rn1hd#are-you-open-to-learning-new-skills-or-taking-on-different-roles-if-needed)
+- [What would you do if your manager gave you a task you've never done before?](https://github.com/rn1hd#what-would-you-do-if-your-manager-gave-you-a-task-youve-never-done-before)
 
 #### **How you handle sudden changes at work?**
 
@@ -632,6 +638,46 @@
 
 - I met a software developer where we have **something in common**. I shared the story on how I get started for inspiration ideas, my values, and strategies to deal with pressure or stressful situations.
 
+### **Strategic Thinking Questions**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
+- [Tell me about a time when you had to make a decision without having all the information.](https://github.com/rn1hd#tell-me-about-a-time-when-you-had-to-make-a-decision-without-having-all-the-information)
+- [How do you balance short-term tasks with long-term goals?](https://github.com/rn1hd#how-do-you-balance-shortterm-tasks-with-longterm-goals)
+- [Tell me about a time when you challenged the way something was always done.](https://github.com/rn1hd#tell-me-about-a-time-when-you-challenged-the-way-something-was-always-done)
+- [Describe a situation where you had to predict a problem before it happened.](https://github.com/rn1hd#describe-a-situation-where-you-had-to-predict-a-problem-before-it-happened)
+- [How do you help others think more strategically?](https://github.com/rn1hd#how-do-you-help-others-think-more-strategically)
+
+#### **Tell me about a time when you had to make a decision without having all the information.**
+
+[Back to Top (Strategic Thinking Questions)](https://github.com/rn1hd#strategic-thinking-questions)
+
+- WIP
+
+#### **How do you balance short-term tasks with long-term goals?**
+
+[Back to Top (Strategic Thinking Questions)](https://github.com/rn1hd#strategic-thinking-questions)
+
+- WIP
+
+#### **Tell me about a time when you challenged the way something was always done.**
+
+[Back to Top (Strategic Thinking Questions)](https://github.com/rn1hd#strategic-thinking-questions)
+
+- WIP
+
+#### **Describe a situation where you had to predict a problem before it happened.**
+
+[Back to Top (Strategic Thinking Questions)](https://github.com/rn1hd#strategic-thinking-questions)
+
+- WIP
+
+#### **How do you help others think more strategically?**
+
+[Back to Top (Strategic Thinking Questions)](https://github.com/rn1hd#strategic-thinking-questions)
+
+- WIP
+
 ### **Accountability Questions**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
@@ -640,7 +686,7 @@
 - [How do you handle deadlines, especially when you're running behind?](https://github.com/rn1hd#how-do-you-handle-deadlines-especially-when-youre-running-behind)
 - [How do you stay accountable when working independently?](https://github.com/rn1hd#how-do-you-stay-accountable-when-working-independently)
 - [What do you do if a team project goes wrong but it wasn't your fault?](https://github.com/rn1hd#what-do-you-do-if-a-team-project-goes-wrong-but-it-wasnt-your-fault)
-- [How do you prove you're reliable over time?](https://github.com/rn1hd#how-do-you-prove-youre-realiable-over-time)
+- [How do you prove you're reliable over time?](https://github.com/rn1hd#how-do-you-prove-youre-reliable-over-time)
 
 #### **Can you tell me about a time you made a mistake at work?**
 
@@ -713,7 +759,7 @@
 - [What do you do when you feel frustrated at work?](https://github.com/rn1hd#what-do-you-do-when-you-feel-frustrated-at-work)
 - [How do you manage your emotions during stressful team situations?](https://github.com/rn1hd#how-do-you-manage-your-emotions-during-stressful-team-situations)
 - [How do you stay calm under pressure?](https://github.com/rn1hd#how-do-you-stay-calm-under-pressure)
-- [Tell me about a time you received unexpected criticism - how did you respond?](https://github.com/rn1hd#tell-me-about-a-time-you-received-unexpected-criticism--how-did-you-respond)
+- [Tell me about a time you received unexpected criticism - how did you respond?](#tell-me-about-a-time-you-received-unexpected-criticism---how-did-you-respond)
 
 #### **How do you react when someone disagrees with you strongly?**
 
@@ -785,6 +831,126 @@
 
 - I ask the people who use it every day, like when I was told to improve Purchase Request Information System. I asked my teammate what annoyed them most and figured out that there is a security issue in other web applications to the point that they have to implement logs - so I also implement **Logs** feature in PRIS to track suspicious behavior, even though no one had ever thought to ask.
 
+### **Task Prioritization Questions**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
+- [How do you decide which task to do first when everything feels important?](https://github.com/rn1hd#how-do-you-decide-which-task-to-do-first-when-everything-feels-important)
+- [What do you do when a new urgent task suddenly interrupts your plan?](https://github.com/rn1hd#what-do-you-do-when-a-new-urgent-task-suddenly-interrupts-your-plan)
+- [How do you handle long-term projects while managing daily tasks?](https://github.com/rn1hd#how-do-you-handle-longterm-projects-while-managing-daily-tasks)
+- [Describe a time when you had too much to do - how did you stay productive?](https://github.com/rn1hd#describe-a-time-when-you-had-too-much-to-do---how-did-you-stay-productive)
+- [What do you do when someone asks you to take on more work but you're already busy?](https://github.com/rn1hd#what-do-you-do-when-someone-asks-you-to-take-on-more-work-but-youre-already-busy)
+
+#### **How do you decide which task to do first when everything feels important?**
+
+[Back to Top (Task Prioritization Questions)](https://github.com/rn1hd#task-prioritization-questions)
+
+-
+
+#### **What do you do when a new urgent task suddenly interrupts your plan?**
+
+[Back to Top (Task Prioritization Questions)](https://github.com/rn1hd#task-prioritization-questions)
+
+- WIP
+
+#### **How do you handle long-term projects while managing daily tasks?**
+
+[Back to Top (Task Prioritization Questions)](https://github.com/rn1hd#task-prioritization-questions)
+
+- WIP
+
+#### **Describe a time when you had too much to do - how did you stay productive?**
+
+[Back to Top (Task Prioritization Questions)](https://github.com/rn1hd#task-prioritization-questions)
+
+- WIP
+
+#### **What do you do when someone asks you to take on more work but you're already busy?**
+
+[Back to Top (Task Prioritization Questions)](https://github.com/rn1hd#task-prioritization-questions)
+
+- WIP
+
+### **Humility & Character Questions**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
+- [How do you handle praise or compliments at work?](https://github.com/rn1hd#how-do-you-handle-praise-or-compliments-at-work)
+- [Tell me about a time you had to ask for help.](https://github.com/rn1hd#tell-me-about-a-time-you-had-to-ask-for-help)
+- [What would your previous manager say you could still improve?](https://github.com/rn1hd#what-would-your-previous-manager-say-you-could-still-improve)
+- [When was the last time you changed your mind about something at work?](https://github.com/rn1hd#when-was-the-last-time-you-changed-your-mind-about-something-at-work)
+- [What's something you know now that you wish you'd known earlier in your career?](https://github.com/rn1hd#whats-something-you-know-now-that-you-wish-youd-known-earlier-in-your-career)
+
+#### **How do you handle praise or compliments at work?**
+
+[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility---character-questions)
+
+- WIP
+
+#### **Tell me about a time you had to ask for help.**
+
+[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility---character-questions)
+
+- WIP
+
+#### **What would your previous manager say you could still improve?**
+
+[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility---character-questions)
+
+- WIP
+
+#### **When was the last time you changed your mind about something at work?**
+
+[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility---character-questions)
+
+- WIP
+
+#### **What's something you know now that you wish you'd known earlier in your career?**
+
+[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility---character-questions)
+
+- WIP
+
+### **Integrity Questions**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
+- [Have you ever been asked to do something you felt wasn't right? What did you do?](https://github.com/rn1hd#have-you-ever-been-asked-to-do-something-you-felt-wasnt-right-what-did-you-do)
+- [What would you do if you saw a teammate taking credit for your work?](https://github.com/rn1hd#what-would-you-do-if-you-saw-a-teammate-taking-credit-for-your-work)
+- [Have you ever made a mistake at work and tried to cover it up?](https://github.com/rn1hd#have-you-ever-made-a-mistake-at-work-and-tried-to-cover-it-up)
+- [What would you do if your manager asked you to do something against company policy?](https://github.com/rn1hd#what-would-you-do-if-your-manager-asked-you-to-do-something-against-company-policy)
+- [Can you give an example of how you've demonstrated honesty at work, even when it was hard?](https://github.com/rn1hd#can-you-give-an-example-of-how-youve-demonstrated-honesty-at-work-even-when-it-was-hard)
+
+#### **Have you ever been asked to do something you felt wasn't right? What did you do?**
+
+[Back to Top (Integrity Questions)](https://github.com/rn1hd#integrity-questions)
+
+- WIP
+
+#### **What would you do if you saw a teammate taking credit for your work?**
+
+[Back to Top (Integrity Questions)](https://github.com/rn1hd#integrity-questions)
+
+- WIP
+
+#### **Have you ever made a mistake at work and tried to cover it up?**
+
+[Back to Top (Integrity Questions)](https://github.com/rn1hd#integrity-questions)
+
+- WIP
+
+#### **What would you do if your manager asked you to do something against company policy?**
+
+[Back to Top (Integrity Questions)](https://github.com/rn1hd#integrity-questions)
+
+- WIP
+
+#### **Can you give an example of how you've demonstrated honesty at work, even when it was hard?**
+
+[Back to Top (Integrity Questions)](https://github.com/rn1hd#integrity-questions)
+
+- WIP
+
 ### **Honesty Questions**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
@@ -824,6 +990,86 @@
 [Back to Top (Honesty Questions)](https://github.com/rn1hd#honesty-questions)
 
 - During off-hours, I need to expose myself **regularly** on at least utilizing interactive speech software to retain my proficiency in verbal communication skills to ensure that tomorrow, I can still communicate well with others, even on hard days.
+
+### **Risk Management Questions**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
+- [How do you identify potential risks?](https://github.com/rn1hd#how-do-you-identify-potential-risks)
+- [Tell me about a time you had to convince others about a risk they didn't see.](https://github.com/rn1hd#tell-me-about-a-time-you-had-to-convince-others-about-a-risk-they-didnt-see)
+- [How do you balance taking smart risks without slowing things down?](https://github.com/rn1hd#how-do-you-balance-taking-smart-risks-without-slowing-things-down)
+- [What do you do when a risk becomes a real problem?](https://github.com/rn1hd#what-do-you-do-when-a-risk-becomes-a-real-problem)
+- [What's one tool or method you use to track risk?](https://github.com/rn1hd#whats-one-tool-or-method-you-use-to-track-risk)
+
+#### **How do you identify potential risks?**
+
+[Back to Top (Risk Management Questions)](https://github.com/rn1hd#risk-management-questions)
+
+- WIP
+
+#### **Tell me about a time you had to convince others about a risk they didn't see.**
+
+[Back to Top (Risk Management Questions)](https://github.com/rn1hd#risk-management-questions)
+
+- WIP
+
+#### **How do you balance taking smart risks without slowing things down?**
+
+[Back to Top (Risk Management Questions)](https://github.com/rn1hd#risk-management-questions)
+
+- WIP
+
+#### **What do you do when a risk becomes a real problem?**
+
+[Back to Top (Risk Management Questions)](https://github.com/rn1hd#risk-management-questions)
+
+- WIP
+
+#### **What's one tool or method you use to track risk?**
+
+[Back to Top (Risk Management Questions)](https://github.com/rn1hd#risk-management-questions)
+
+- WIP
+
+### **Cost Efficiency Questions**
+
+[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+
+- [How do you approach cutting costs without hurting results?](https://github.com/rn1hd#how-do-you-approach-cutting-costs-without-hurting-results)
+- [Tell me about a time you made a process more efficient.](https://github.com/rn1hd#tell-me-about-a-time-you-made-a-process-more-efficient)
+- [How do you balance quality with cost when working on a tight budget?](https://github.com/rn1hd#how-do-you-balance-quality-with-cost-when-working-on-a-tight-budget)
+- [Describe a time you had to justify a budget decision.](https://github.com/rn1hd#describe-a-time-you-had-to-justify-a-budget-decision)
+- [What's one habit you use to stay cost-conscious at work?](https://github.com/rn1hd#whats-one-habit-you-use-to-stay-costconscious-at-work)
+
+#### **How do you approach cutting costs without hurting results?**
+
+[Back to Top (Cost Efficiency Questions)](https://github.com/rn1hd#cost-efficiency-questions)
+
+- WIP
+
+#### **Tell me about a time you made a process more efficient.**
+
+[Back to Top (Cost Efficiency Questions)](https://github.com/rn1hd#cost-efficiency-questions)
+
+- WIP
+
+#### **How do you balance quality with cost when working on a tight budget?**
+
+[Back to Top (Cost Efficiency Questions)](https://github.com/rn1hd#cost-efficiency-questions)
+
+- WIP
+
+#### **Describe a time you had to justify a budget decision.**
+
+[Back to Top (Cost Efficiency Questions)](https://github.com/rn1hd#cost-efficiency-questions)
+
+- WIP
+
+#### **What's one habit you use to stay cost-conscious at work?**
+
+[Back to Top (Cost Efficiency Questions)](https://github.com/rn1hd#cost-efficiency-questions)
+
+- WIP
 
 ### **More Questions About Me**
 
