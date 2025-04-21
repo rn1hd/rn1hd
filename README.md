@@ -154,7 +154,7 @@
   - Multiple difficulty notechart preview video presentations as a sneak peek on what to expect in the next month's song update using **[Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/)**
 
 - My creative designer journey has continued on my **freelance experience** in year 2023 to deliver menu item posters which will be attached to their stores and good quality pictures using a glossy photo paper in different sizes. The software being used there is **Adobe InDesign**.
-- Released low-fidelity prototypes of my upcoming application project **[Mercandow](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Projects/Mercandow.md)**, a skilled service provider application that allows the customer to book their preferred service provider in real time.
+- Released low-fidelity and high-fidelity prototypes of my personal application project **[Merkandow](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Projects/Merkandow.md)**, a skilled service provider application that allows the customer to book their preferred service provider in real time.
 
 - See portfolio **[here](https://github.com/rn1hd/rn1hd/tree/main/Personal%20Website/Portfolio/Creative%20Designer)**.
 
@@ -170,7 +170,6 @@
 - [Flexibility Questions](https://github.com/rn1hd#behavioral-questions)
 - [Empathy Questions](https://github.com/rn1hd#empathy-questions)
 - [Leadership Questions](https://github.com/rn1hd#leadership-questions)
-- [Strategic Thinking Questions](https://github.com/rn1hd#strategic-thinking-questions)
 - [Accountability Questions](https://github.com/rn1hd#accountability-questions)
 - [Professionalism Questions](https://github.com/rn1hd#professionalism-questions)
 - [Emotional Regulation Questions](https://github.com/rn1hd#emotional-regulation-questions)
@@ -179,8 +178,6 @@
 - [Humility & Character Questions](https://github.com/rn1hd#humility--character-questions)
 - [Integrity Questions](https://github.com/rn1hd#integrity-questions)
 - [Honesty Questions](https://github.com/rn1hd#honesty-questions)
-- [Risk Management Questions](https://github.com/rn1hd#risk-management-questions)
-- [Cost Efficiency Questions](https://github.com/rn1hd#cost-efficiency-questions)
 - [More Questions About Me](https://github.com/rn1hd#more-questions-about-me)
 
 ### **Basic Questions**
@@ -311,27 +308,14 @@
 
 - [What was the last project you led, and what was its outcome?](https://github.com/rn1hd#what-was-the-last-project-you-led-and-what-was-its-outcome)
 - [Give me an example of a time that you felt you went above and beyond the call of duty at work.](https://github.com/rn1hd#give-me-an-example-of-a-time-that-you-felt-you-went-above-and-beyond-the-call-of-duty-at-work)
-- [Can you describe a time when your work was criticized?](https://github.com/rn1hd#can-you-describe-a-time-when-your-work-was-criticized)
-- [Have you ever been on a team where someone was not pulling their own weight? How did you handle it?](https://github.com/rn1hd#have-you-ever-been-on-a-team-where-someone-was-not-pulling-their-own-weight-how-did-you-handle-it)
-- [Tell me about a time when you had to give someone difficult feedback. How did you handle it?](https://github.com/rn1hd#tell-me-about-a-time-when-you-had-to-give-someone-difficult-feedback-how-did-you-handle-it)
 - [What is your greatest fear and why?](https://github.com/rn1hd#what-is-your-greatest-fear-and-why)
-- [What is your greatest failure, and what did you learn from it?](https://github.com/rn1hd#what-is-your-greatest-failure-and-what-did-you-learn-from-it)
-- [How do you handle working with people who annoy you?](https://github.com/rn1hd#how-do-you-handle-working-with-people-who-annoy-you)
 - [How do you feel about working weekends or late hours?](https://github.com/rn1hd#how-do-you-feel-about-working-weekends-or-late-hours)
-- [If I were your supervisor and asked you to do something that you disagreed with, what would you do?](https://github.com/rn1hd#if-i-were-your-supervisor-and-asked-you-to-do-something-that-you-disagreed-with-what-would-you-do)
-- [What if you have exhausted all your diplomatic efforts and still did not work for them?](https://github.com/rn1hd#what-if-you-have-exhausted-all-your-diplomatic-efforts-and-still-did-not-work-for-them)
 - [What was the most difficult period in your life, and how did you deal with it?](https://github.com/rn1hd#what-was-the-most-difficult-period-in-your-life-and-how-did-you-deal-with-it)
-- [Give me an example of a time you did something wrong. How did you handle it?](https://github.com/rn1hd#give-me-an-example-of-a-time-you-did-something-wrong-how-did-you-handle-it)
 - [Give an example of how you have handled a challenge in the workplace before.](https://github.com/rn1hd#give-an-example-of-how-you-have-handled-a-challenge-in-the-workplace-before)
 - [Give an example of when you performed well under pressure.](https://github.com/rn1hd#give-an-example-of-when-you-performed-well-under-pressure)
-- [If you found out your company was doing something against the law, like fraud, what would you do?](https://github.com/rn1hd#if-you-found-out-your-company-was-doing-something-against-the-law-like-fraud-what-would-you-do)
-- [What do you think our company/organization could do better?](https://github.com/rn1hd#what-do-you-think-our-companyorganization-could-do-better)
 - [What assignment was too difficult for you, and how did you resolve the issue?](https://github.com/rn1hd#what-assignment-was-too-difficult-for-you-and-how-did-you-resolve-the-issue)
 - [What's the most difficult decision you've made in the last two years and how did you come to that decision?](https://github.com/rn1hd#whats-the-most-difficult-decision-youve-made-in-the-last-two-years-and-how-did-you-come-to-that-decision)
-- [How do you feel about taking no for an answer?](https://github.com/rn1hd#how-do-you-feel-about-taking-no-for-an-answer)
-- [How would you feel about working for someone who knows less than you?](https://github.com/rn1hd#how-would-you-feel-about-working-for-someone-who-knows-less-than-you)
 - [What's a time you disagree with a decision that was made at work?](https://github.com/rn1hd#whats-a-time-you-disagree-with-a-decision-that-was-made-at-work)
-- [Describe how you would handle a situation if you were required to finish multiple tasks by the end of the day, and there was no conceivable way that you could finish them.](https://github.com/rn1hd#describe-how-you-would-handle-a-situation-if-you-were-required-to-finish-multiple-tasks-by-the-end-of-the-day-and-there-was-no-conceivable-way-that-you-could-finish-them)
 
 #### **What was the last project you led, and what was its outcome?**
 
@@ -345,41 +329,11 @@
 
 - When I need to **push myself** to solve major issues as soon as possible until the situation in the workplace becomes lenient.
 
-#### **Can you describe a time when your work was criticized?**
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- **Yes**, the time when I failed to meet the company's expectations. This is one of the reasons why I am interested to pursue **Artificial Intelligence** to tackle manpower issues.
-
-#### **Have you ever been on a team where someone was not pulling their own weight? How did you handle it?**
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- **Yes**. To handle the issue, it is always best to communicate with my team by addressing internal concerns, define clear objectives of where a team stands, and implement **gamification** in the workplace.
-
-#### **Tell me about a time when you had to give someone difficult feedback. How did you handle it?**
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- I deliver difficult feedback in a **private area** to address work-related issues and provide recommendations for improvement where applicable.
-
 #### **What is your greatest fear and why?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
 - **Fear of failure**. Unable to meet the company standards is uncomfortable. On the bright side of things, **failure** can be my best teacher. When it happens, I use this moment as an opportunity to identify what went wrong, what strategies should I take to solve the issue, and what adjustments should be made to prevent committing the same mistake in the future.
-
-#### **What is your greatest failure, and what did you learn from it?**
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- My greatest failure is that despite my full commitment to a job to prove myself in the community, knowing that my best is still not good enough is something that I take seriously. I learned how important it is to achieve **mastery** first in at least **60%** of the job qualifications before applying for a particular position and utilize **soft skills** by getting along well with others to maintain a positive and productive work environment.
-
-#### **How do you handle working with people who annoy you?**
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- I choose my poison **wisely**. I pick constructive criticisms to improve on and adapt myself to changes surrounding people with different personalities.
 
 #### **How do you feel about working weekends or late hours?**
 
@@ -387,29 +341,11 @@
 
 - There is **no problem** about working weekends or late hours if it meets mutual benefits of all parties.
 
-#### **If I were your supervisor and asked you to do something that you disagreed with, what would you do?**
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- I must **take a step back** first by exploring all possible legal options to meet what is expected from me. Diplomacy and dialogue are the key to strengthening trust and understanding between the two parties.
-
-#### **What if you have exhausted all your diplomatic efforts and still did not work for them?**
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- It is about time to emphasize the need for a **paradigm shift** in tackling various issues as diplomatic efforts with the authority were heading in a **poor direction**. "We have to do something what we have not done before. We have to come up with a new concept, a new principle, a new idea so that we move, as I say, we move the needle the other way. It’s going up, let’s move the needle back, so that paradigm shift is something that we have to formulate." (Philippine President **[Ferdinand Bongbong Marcos Jr.](https://youtu.be/DHkfMK3O2Eo)**).
-
 #### **What was the most difficult period in your life, and how did you deal with it?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
 - My **first experience** as a Software Developer during my training period is my most difficult period of my life. There are no available resources to study their technologies, and I must figure everything on my own. The only way to survive is to work **late hours regularly** for me to thrive in a fast-paced environment.
-
-#### **Give me an example of a time you did something wrong. How did you handle it?**
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- When I perform some actions that could **disturb** other people. One way to handle that is to learn from there and do better next time.
 
 #### **Give an example of how you have handled a challenge in the workplace before.**
 
@@ -423,18 +359,6 @@
 
 - When I managed to take down notes of all verbal instructions **accurately**, use the best strategy to complete my tasks **efficiently**, and eventually ensure that my clients are **satisfied** regarding the system that I have developed.
 
-#### **If you found out your company was doing something against the law, like fraud, what would you do?**
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- I would first analyze what type of violation the company has committed in accordance with the **National Labor Code**. This will be coordinated to the **ambassador** of the company through dialogue and consultation to seek a peaceful resolution for the benefit of all parties involved in the long run.
-
-#### **What do you think our company/organization could do better?**
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- I wish **XYZ Company** could collaborate with **ABC Corporation** in the future. XYZ Company promotes **physical and mental health awareness** while ABC Corporation promotes **quantum technology**, so I wish both sides can come up to an agreement to prioritize unaccompanied people that no one will be with them for the rest of their lives under Artificial Intelligence robotics project.
-
 #### **What assignment was too difficult for you, and how did you resolve the issue?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
@@ -447,39 +371,28 @@
 
 - It is about maintaining the **balance** between upskilling and marketing myself in the community. Although I still must go through a lot of sacrifices to reach the minimum acceptable standard, **persistence** is the key to success.
 
-#### **How do you feel about taking no for an answer?**
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- I **respect** his decision and **move on** to the next.
-
-#### **How would you feel about working for someone who knows less than you?**
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- I believe in my team because they have proven a lot to reach where they stand right now. Every member of the team has its own capabilities to solve problems and drive results. Success can be achieved through maintaining a **positive work ethic** in a dynamic environment.
-
 #### **What's a time you disagree with a decision that was made at work?**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
 - Although our appeal to use a different tech stack was rejected, I took it as an **opportunity** to deepen my understanding of the approved technology, which has since broadened my technical skill set. What matters eventually is how the impact of my work will create a positive outcome for all parties involved.
 
-#### **Describe how you would handle a situation if you were required to finish multiple tasks by the end of the day, and there was no conceivable way that you could finish them.**
-
-[Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
-
-- I would list down all tasks that were assigned to me and sort them **by priority** based on the details of the project and how urgent a task is. It is always best to be honest with them right away about some obstacles encountered while discussing contigency plans for a specific task to carry on.
-
 ### **Self-Discipline Questions**
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
+- [How would you describe your work style?](https://github.com/rn1hd#how-would-you-describe-your-work-style)
 - [How do you stay focused when working alone without supervision?](https://github.com/rn1hd#how-do-you-stay-focused-when-working-alone-without-supervision)
 - [Tell us about a time you had to meet a tight deadline.](https://github.com/rn1hd#tell-us-about-a-time-you-had-to-meet-a-tight-deadline)
 - [How do you manage distractions during work or study time?](https://github.com/rn1hd#how-do-you-manage-distractions-during-work-or-study-time)
 - [Describe a goal you set and how you achieved it.](https://github.com/rn1hd#describe-a-goal-you-set-and-how-you-achieved-it)
 - [What keeps you motivated when tasks get boring or hard?](https://github.com/rn1hd#what-keeps-you-motivated-when-tasks-get-boring-or-hard)
+
+#### **How would you describe your work style?**
+
+[Back to Top (Self-Discipline Questions)](https://github.com/rn1hd#self-discipline-questions)
+
+- I would describe my work style as **detail-oriented**, **focused**, and **organized**. During my business meeting with the team, I even pointed out small details like typographical errors. Although those were simple mistakes, they can ruin the first impression with potential clients.
 
 #### **How do you stay focused when working alone without supervision?**
 
@@ -520,6 +433,7 @@
 - [How do you manage working with people who have different work styles or opinions?](https://github.com/rn1hd#how-do-you-manage-working-with-people-who-have-different-work-styles-or-opinions)
 - [Are you open to learning new skills or taking on different roles if needed?](https://github.com/rn1hd#are-you-open-to-learning-new-skills-or-taking-on-different-roles-if-needed)
 - [What would you do if your manager gave you a task you've never done before?](https://github.com/rn1hd#what-would-you-do-if-your-manager-gave-you-a-task-youve-never-done-before)
+- [How quickly do you adapt to new technology?](https://github.com/rn1hd#how-quickly-do-you-adapt-to-new-technology)
 
 #### **How you handle sudden changes at work?**
 
@@ -550,6 +464,12 @@
 [Back to Top (Flexibility Questions)](https://github.com/rn1hd#flexibility-questions)
 
 - I will take my manager's decision as a **challenge** to myself and prove to him that the impossible can become possible by giving my best shot.
+
+#### **How quickly do you adapt to new technology?**
+
+[Back to Top (Flexibility Questions)](https://github.com/rn1hd#flexibility-questions)
+
+- Through **intensive bootcamp training** to understand fundamentals and acquire best practices.
 
 ### **Empathy Questions**
 
@@ -601,6 +521,8 @@
 - [What's your leadership style?](https://github.com/rn1hd#whats-your-leadership-style)
 - [How do you ensure your team meets deadlines and goals?](https://github.com/rn1hd#how-do-you-ensure-your-team-meets-deadlines-and-goals)
 - [Give an example of when you showed leadership qualities.](https://github.com/rn1hd#give-an-example-of-when-you-showed-leadership-qualities)
+- [Have you ever been on a team where someone was not pulling their own weight? How did you handle it?](https://github.com/rn1hd#have-you-ever-been-on-a-team-where-someone-was-not-pulling-their-own-weight-how-did-you-handle-it)
+- [How would you feel about working for someone who knows less than you?](https://github.com/rn1hd#how-would-you-feel-about-working-for-someone-who-knows-less-than-you)
 
 #### **How do you motivate your team?**
 
@@ -638,45 +560,17 @@
 
 - I met a software developer where we have **something in common**. I shared the story on how I get started for inspiration ideas, my values, and strategies to deal with pressure or stressful situations.
 
-### **Strategic Thinking Questions**
+#### **Have you ever been on a team where someone was not pulling their own weight? How did you handle it?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (Leadership Questions)](https://github.com/rn1hd#leadership-questions)
 
-- [Tell me about a time when you had to make a decision without having all the information.](https://github.com/rn1hd#tell-me-about-a-time-when-you-had-to-make-a-decision-without-having-all-the-information)
-- [How do you balance short-term tasks with long-term goals?](https://github.com/rn1hd#how-do-you-balance-shortterm-tasks-with-longterm-goals)
-- [Tell me about a time when you challenged the way something was always done.](https://github.com/rn1hd#tell-me-about-a-time-when-you-challenged-the-way-something-was-always-done)
-- [Describe a situation where you had to predict a problem before it happened.](https://github.com/rn1hd#describe-a-situation-where-you-had-to-predict-a-problem-before-it-happened)
-- [How do you help others think more strategically?](https://github.com/rn1hd#how-do-you-help-others-think-more-strategically)
+- **Yes**. To handle the issue, it is always best to communicate with my team by addressing internal concerns, define clear objectives of where a team stands, and implement **gamification** in the workplace.
 
-#### **Tell me about a time when you had to make a decision without having all the information.**
+#### **How would you feel about working for someone who knows less than you?**
 
-[Back to Top (Strategic Thinking Questions)](https://github.com/rn1hd#strategic-thinking-questions)
+[Back to Top (Leadership Questions)](https://github.com/rn1hd#leadership-questions)
 
-- WIP
-
-#### **How do you balance short-term tasks with long-term goals?**
-
-[Back to Top (Strategic Thinking Questions)](https://github.com/rn1hd#strategic-thinking-questions)
-
-- WIP
-
-#### **Tell me about a time when you challenged the way something was always done.**
-
-[Back to Top (Strategic Thinking Questions)](https://github.com/rn1hd#strategic-thinking-questions)
-
-- WIP
-
-#### **Describe a situation where you had to predict a problem before it happened.**
-
-[Back to Top (Strategic Thinking Questions)](https://github.com/rn1hd#strategic-thinking-questions)
-
-- WIP
-
-#### **How do you help others think more strategically?**
-
-[Back to Top (Strategic Thinking Questions)](https://github.com/rn1hd#strategic-thinking-questions)
-
-- WIP
+- I believe in my team because they have proven a lot to reach where they stand right now. Every member of the team has its own capabilities to solve problems and drive results. Success can be achieved through maintaining a **positive work ethic** in a dynamic environment.
 
 ### **Accountability Questions**
 
@@ -725,6 +619,7 @@
 - [What does professionalism mean to you?](https://github.com/rn1hd#what-does-professionalism-mean-to-you)
 - [How do you stay professional under pressure?](https://github.com/rn1hd#how-do-you-stay-professional-under-pressure)
 - [How do you handle conflicts with coworkers?](https://github.com/rn1hd#how-do-you-handle-conflicts-with-coworkers)
+- [How do you handle working with people who annoy you?](https://github.com/rn1hd#how-do-you-handle-working-with-people-who-annoy-you)
 - [How do you manage your time when everything feels urgent?](https://github.com/rn1hd#how-do-you-manage-your-time-when-everything-feels-urgent)
 
 #### **What does professionalism mean to you?**
@@ -745,6 +640,12 @@
 
 - I listen to my coworker's **constructive criticisms** to improve next time what I can perform and upskill on what really matters to establish better systems.
 
+#### **How do you handle working with people who annoy you?**
+
+[Back to Top (Professionalism Questions)](https://github.com/rn1hd#professionalism-questions)
+
+- I choose my poison **wisely**. I pick constructive criticisms to improve on and adapt myself to changes surrounding people with different personalities.
+
 #### **How do you manage your time when everything feels urgent?**
 
 [Back to Top (Professionalism Questions)](https://github.com/rn1hd#professionalism-questions)
@@ -755,11 +656,18 @@
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
+- [How do you feel about taking no for an answer?](https://github.com/rn1hd#how-do-you-feel-about-taking-no-for-an-answer)
 - [How do you react when someone disagrees with you strongly?](https://github.com/rn1hd#how-do-you-react-when-someone-disagrees-with-you-strongly)
 - [What do you do when you feel frustrated at work?](https://github.com/rn1hd#what-do-you-do-when-you-feel-frustrated-at-work)
 - [How do you manage your emotions during stressful team situations?](https://github.com/rn1hd#how-do-you-manage-your-emotions-during-stressful-team-situations)
 - [How do you stay calm under pressure?](https://github.com/rn1hd#how-do-you-stay-calm-under-pressure)
 - [Tell me about a time you received unexpected criticism - how did you respond?](#tell-me-about-a-time-you-received-unexpected-criticism---how-did-you-respond)
+
+#### **How do you feel about taking no for an answer?**
+
+[Back to Top (Emotional Regulation Questions)](https://github.com/rn1hd#emotional-regulation-questions)
+
+- I **respect** his decision and **move on** to the next.
 
 #### **How do you react when someone disagrees with you strongly?**
 
@@ -805,7 +713,7 @@
 
 [Back to Top (Process Improvement Questions)](https://github.com/rn1hd#process-improvement-questions)
 
-- At my last job, I noticed that the Unit of Measure must be inputted manually in the old version of Purchase Request Information System. By converting it from an input box to a dropdown selection, the property officers are really **amazed** during my presentation of the new system. It prevents potential typographical errors and improves user experience.
+- At my last job, I noticed that the Unit of Measure must be inputted manually in the old version of Purchase Request Information System. By converting it from an input box to a dropdown selection, the property officers are really **amazed** during my presentation of the new system. It prevents typographical errors and improves user experience.
 
 #### **How do you approach improving a process that already "works fine"?**
 
@@ -835,41 +743,55 @@
 
 [Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
+- [How do you prioritize your work?](https://github.com/rn1hd#how-do-you-prioritize-your-work)
 - [How do you decide which task to do first when everything feels important?](https://github.com/rn1hd#how-do-you-decide-which-task-to-do-first-when-everything-feels-important)
 - [What do you do when a new urgent task suddenly interrupts your plan?](https://github.com/rn1hd#what-do-you-do-when-a-new-urgent-task-suddenly-interrupts-your-plan)
 - [How do you handle long-term projects while managing daily tasks?](https://github.com/rn1hd#how-do-you-handle-longterm-projects-while-managing-daily-tasks)
 - [Describe a time when you had too much to do - how did you stay productive?](https://github.com/rn1hd#describe-a-time-when-you-had-too-much-to-do---how-did-you-stay-productive)
 - [What do you do when someone asks you to take on more work but you're already busy?](https://github.com/rn1hd#what-do-you-do-when-someone-asks-you-to-take-on-more-work-but-youre-already-busy)
+- [Describe how you would handle a situation if you were required to finish multiple tasks by the end of the day, and there was no conceivable way that you could finish them.](https://github.com/rn1hd#describe-how-you-would-handle-a-situation-if-you-were-required-to-finish-multiple-tasks-by-the-end-of-the-day-and-there-was-no-conceivable-way-that-you-could-finish-them)
+
+#### **How do you prioritize your work?**
+
+[Back to Top (Task Prioritization Questions)](https://github.com/rn1hd#task-prioritization-questions)
+
+- I perform my duties **to the best of my ability** where it is most prioritized by the client while organizing my workload at the same time to benefit myself and my teammates in the long run.
 
 #### **How do you decide which task to do first when everything feels important?**
 
 [Back to Top (Task Prioritization Questions)](https://github.com/rn1hd#task-prioritization-questions)
 
--
+- When my immediate supervisor clarified what tasks are urgent out of all important ones, I should only focus on completing what is **assigned** to me, not interfering with others' work.
 
 #### **What do you do when a new urgent task suddenly interrupts your plan?**
 
 [Back to Top (Task Prioritization Questions)](https://github.com/rn1hd#task-prioritization-questions)
 
-- WIP
+- I would first observe the **context** of a new urgent task if there is a big potential to the company's success, or if it has a significant positive impact on my professional advancement once I finish the task successfully. If either of the two conditions meet, I will gladly accept the decision.
 
 #### **How do you handle long-term projects while managing daily tasks?**
 
 [Back to Top (Task Prioritization Questions)](https://github.com/rn1hd#task-prioritization-questions)
 
-- WIP
+- While my first personal application project is still under development, I stay **fully focused** on acquiring in-demand skills every day to eventually have the capability to develop software application projects using modern technologies.
 
 #### **Describe a time when you had too much to do - how did you stay productive?**
 
 [Back to Top (Task Prioritization Questions)](https://github.com/rn1hd#task-prioritization-questions)
 
-- WIP
+- I go to a **cozy** place where it's quiet and uncrowded, set my phone to silent mode, and place myself that my deadline to complete a task will be tomorrow by imagining that someone pressures me to hurry up.
 
 #### **What do you do when someone asks you to take on more work but you're already busy?**
 
 [Back to Top (Task Prioritization Questions)](https://github.com/rn1hd#task-prioritization-questions)
 
-- WIP
+- Someone I know asked me for help in preparation for his election campaign, so I asked if it could wait a day, then proceeded to finish his request in the evening and eventually sent my work output to his email. I've learned that saying **yes** wisely means knowing when to say **not yet**.
+
+#### **Describe how you would handle a situation if you were required to finish multiple tasks by the end of the day, and there was no conceivable way that you could finish them.**
+
+[Back to Top (Task Prioritization Questions)](https://github.com/rn1hd#task-prioritization-questions)
+
+- I would list down all tasks that were assigned to me and sort them **by priority** based on the details of the project and how urgent a task is. It is always best to be honest with them right away about some obstacles encountered while discussing contigency plans for a specific task to carry on.
 
 ### **Humility & Character Questions**
 
@@ -880,36 +802,106 @@
 - [What would your previous manager say you could still improve?](https://github.com/rn1hd#what-would-your-previous-manager-say-you-could-still-improve)
 - [When was the last time you changed your mind about something at work?](https://github.com/rn1hd#when-was-the-last-time-you-changed-your-mind-about-something-at-work)
 - [What's something you know now that you wish you'd known earlier in your career?](https://github.com/rn1hd#whats-something-you-know-now-that-you-wish-youd-known-earlier-in-your-career)
+- [What are three positive things your last boss would say about you?](https://github.com/rn1hd#what-are-three-positive-things-your-last-boss-would-say-about-you)
+- [What negative thing would your last boss say about you?](https://github.com/rn1hd#what-negative-thing-would-your-last-boss-say-about-you)
+- [What are three positive character traits you don't have?](https://github.com/rn1hd#what-are-three-positive-character-traits-you-dont-have)
+- [If you were interviewing someone for this position, what traits would you look for?](https://github.com/rn1hd#if-you-were-interviewing-someone-for-this-position-what-traits-would-you-look-for)
+- [List five words that describe your character.](https://github.com/rn1hd#list-five-words-that-describe-your-character)
+- [What kind of personality do you work best with and why?](https://github.com/rn1hd#what-kind-of-personality-do-you-work-best-with-and-why)
+- [If you had to choose one, would you consider yourself a big-picture person or a detail-oriented person?](https://github.com/rn1hd#if-you-had-to-choose-one-would-you-consider-yourself-a-big-picture-person-or-a-detail-oriented-person)
+- [What are your pet peeves?](https://github.com/rn1hd#what-are-your-pet-peeves)
+- [How do you like to be managed?](https://github.com/rn1hd#how-do-you-like-to-be-managed)
+- [Tell me one thing about yourself you wouldn't want me to know.](https://github.com/rn1hd#tell-me-one-thing-about-yourself-you-wouldnt-want-me-to-know)
 
 #### **How do you handle praise or compliments at work?**
 
 [Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility--character-questions)
 
-- WIP
+- When my teammate praises me for my accomplishments, I smiled and express my gratitude because I believe compliments should lift the **whole team**, not just one person.
 
 #### **Tell me about a time you had to ask for help.**
 
 [Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility--character-questions)
 
-- WIP
+- When I feel stuck on my task that was assigned to me for several hours, I ask my teammate some **smart questions** to display results in three different database models based on the item information inputted by the user in Purchase Request Information System. I got some ideas from his advise, took additional steps using my personal strategy, and eventually solved my problem.
 
 #### **What would your previous manager say you could still improve?**
 
 [Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility--character-questions)
 
-- WIP
+- Quality of service and verbal communication. This is now my daily routine to stay **fully focused** to work on those weaknesses and prove myself to you this time that I can be an asset to your company based on my current skill set and my values.
 
 #### **When was the last time you changed your mind about something at work?**
 
 [Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility--character-questions)
 
-- WIP
+- When I figured out that my current work progress follows bad practices, I must recreate those processes using a more efficient approach following **best practices** to ensure that all parties involved in the project will remain peaceful and stable.
 
 #### **What's something you know now that you wish you'd known earlier in your career?**
 
 [Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility--character-questions)
 
-- WIP
+- I wish when I was a college student, I should already **invest** on technologies being used aligned with industry trends, not only focused on what is being taught in school just to get good grades.
+
+#### **What are three positive things your last boss would say about you?**
+
+[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility--character-questions)
+
+- Diligent, organized, and workaholic.
+
+#### **What negative thing would your last boss say about you?**
+
+[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility--character-questions)
+
+- Weird
+
+#### **What are three positive character traits you don't have?**
+
+[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility--character-questions)
+
+- **Effective verbal communicator**, **flexible**, and **resilience**. With sufficient training and frequent exposure, these character traits will be possible to acquire.
+
+#### **If you were interviewing someone for this position, what traits would you look for?**
+
+[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility--character-questions)
+
+- I look for just 3 traits: **Character**, **Attitude**, and **Reliability**. Anything else can be trained.
+
+#### **List five words that describe your character.**
+
+[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility--character-questions)
+
+- Ambitious, Introvert, Optimistic, Persistent, and Sensitive.
+
+#### **What kind of personality do you work best with and why?**
+
+[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility--character-questions)
+
+- Someone who is **caring**. His presence will remain to accompany me in my darkest days.
+
+#### **If you had to choose one, would you consider yourself a big-picture person or a detail-oriented person?**
+
+[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility--character-questions)
+
+- **Detail-oriented**. It is the responsibility of a software developer to minimize human errors as much as possible because even a single slip of code can destroy an entire business.
+
+#### **What are your pet peeves?**
+
+[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility--character-questions)
+
+- When I feel that my best is **not good enough** despite all the preparations I made.
+
+#### **How do you like to be managed?**
+
+[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility--character-questions)
+
+- **Macromanagement** who steps back and trusts me to do my work using all possible means to achieve the business goal.
+
+#### **Tell me one thing about yourself you wouldn't want me to know.**
+
+[Back to Top (Humility & Character Questions)](https://github.com/rn1hd#humility--character-questions)
+
+- I am **reluctant** to seek assistance from others for supervision. I prefer dealing with difficult challenges independently using all possible means to complete a task aligned with company's standards.
 
 ### **Integrity Questions**
 
@@ -919,37 +911,65 @@
 - [What would you do if you saw a teammate taking credit for your work?](https://github.com/rn1hd#what-would-you-do-if-you-saw-a-teammate-taking-credit-for-your-work)
 - [Have you ever made a mistake at work and tried to cover it up?](https://github.com/rn1hd#have-you-ever-made-a-mistake-at-work-and-tried-to-cover-it-up)
 - [What would you do if your manager asked you to do something against company policy?](https://github.com/rn1hd#what-would-you-do-if-your-manager-asked-you-to-do-something-against-company-policy)
+- [If I were your supervisor and asked you to do something that you disagreed with, what would you do?](https://github.com/rn1hd#if-i-were-your-supervisor-and-asked-you-to-do-something-that-you-disagreed-with-what-would-you-do)
+- [What if you have exhausted all your diplomatic efforts and still did not work for them?](https://github.com/rn1hd#what-if-you-have-exhausted-all-your-diplomatic-efforts-and-still-did-not-work-for-them)
 - [Can you give an example of how you've demonstrated honesty at work, even when it was hard?](https://github.com/rn1hd#can-you-give-an-example-of-how-youve-demonstrated-honesty-at-work-even-when-it-was-hard)
+- [If you found out your company was doing something against the law, like fraud, what would you do?](https://github.com/rn1hd#if-you-found-out-your-company-was-doing-something-against-the-law-like-fraud-what-would-you-do)
+- [What do you think our company/organization could do better?](https://github.com/rn1hd#what-do-you-think-our-companyorganization-could-do-better)
 
 #### **Have you ever been asked to do something you felt wasn't right? What did you do?**
 
 [Back to Top (Integrity Questions)](https://github.com/rn1hd#integrity-questions)
 
-- WIP
+- Yes. I would first **analyze** the context of the request and the potential consequences if it is done successfully. Whatever my findings are, I would suggest alternatives to come up with something without affecting the team's credibility. It is always best to think first before I act.
 
 #### **What would you do if you saw a teammate taking credit for your work?**
 
 [Back to Top (Integrity Questions)](https://github.com/rn1hd#integrity-questions)
 
-- WIP
+- I would **reach out** to my teammate privately to discuss issues that may arise with his action and find ways to come up with an agreement. I believe protecting my work is important, but protecting team spirit matters too.
 
 #### **Have you ever made a mistake at work and tried to cover it up?**
 
 [Back to Top (Integrity Questions)](https://github.com/rn1hd#integrity-questions)
 
-- WIP
+- I asked the Human Resource officer **directly** to conduct tour orientation without consulting my immediate supervisor first. Although my intention is to familiarize myself more about the company operations, that shifted out of focus on my task that was assigned to me. I apologized to my supervisor, owned up to my mistakes, and prove to him that I will do better next time.
 
 #### **What would you do if your manager asked you to do something against company policy?**
 
 [Back to Top (Integrity Questions)](https://github.com/rn1hd#integrity-questions)
 
-- WIP
+- I would **remind** him of the rule politely and suggest alternatives to proceed with the request without affecting the company's credibility.
+
+#### **If I were your supervisor and asked you to do something that you disagreed with, what would you do?**
+
+[Back to Top (Integrity Questions)](https://github.com/rn1hd#integrity-questions)
+
+- I must **take a step back** first by exploring all possible legal options to meet what is expected from me. Diplomacy and dialogue are the key to strengthening trust and understanding between the two parties.
+
+#### **What if you have exhausted all your diplomatic efforts and still did not work for them?**
+
+[Back to Top (Integrity Questions)](https://github.com/rn1hd#integrity-questions)
+
+- It is about time to emphasize the need for a **paradigm shift** in tackling various issues as diplomatic efforts with the authority were heading in a **poor direction**. "We have to do something what we have not done before. We have to come up with a new concept, a new principle, a new idea so that we move, as I say, we move the needle the other way. It’s going up, let’s move the needle back, so that paradigm shift is something that we have to formulate." (Philippine President **[Ferdinand Bongbong Marcos Jr.](https://youtu.be/DHkfMK3O2Eo)**).
 
 #### **Can you give an example of how you've demonstrated honesty at work, even when it was hard?**
 
 [Back to Top (Integrity Questions)](https://github.com/rn1hd#integrity-questions)
 
-- WIP
+- I met one of my former colleagues who has **great leadership** skills in a public mall. I connect with him virtually, shared a lot of memories with him, and even recalled my past mistakes as a teammate in IT department. We find common ground, appreciated my honesty, and later thanked me for making the entire conversation a productive one.
+
+#### **If you found out your company was doing something against the law, like fraud, what would you do?**
+
+[Back to Top (Integrity Questions)](https://github.com/rn1hd#integrity-questions)
+
+- I would first analyze what type of violation the company has committed in accordance with the **National Labor Code**. This will be coordinated to the **ambassador** of the company through dialogue and consultation to seek a peaceful resolution for the benefit of all parties involved in the long run.
+
+#### **What do you think our company/organization could do better?**
+
+[Back to Top (Integrity Questions)](https://github.com/rn1hd#integrity-questions)
+
+- I wish **XYZ Company** could collaborate with **ABC Corporation** in the future. XYZ Company promotes **physical and mental health awareness** while ABC Corporation promotes **quantum technology**, so I wish both sides can come up to an agreement to prioritize unaccompanied people that no one will be with them for the rest of their lives under Artificial Intelligence robotics project.
 
 ### **Honesty Questions**
 
@@ -960,6 +980,7 @@
 - [How do you handle criticism or feedback?](https://github.com/rn1hd#how-do-you-handle-criticism-or-feedback)
 - [How do you use strengths to solve a problem?](https://github.com/rn1hd#how-do-you-use-strengths-to-solve-a-problem)
 - [How do you ensure weaknesses don't impact work?](https://github.com/rn1hd#how-do-you-ensure-weaknesses-dont-impact-work)
+- [What is your greatest failure, and what did you learn from it?](https://github.com/rn1hd#what-is-your-greatest-failure-and-what-did-you-learn-from-it)
 
 #### **What is your greatest strength?**
 
@@ -977,7 +998,7 @@
 
 [Back to Top (Honesty Questions)](https://github.com/rn1hd#honesty-questions)
 
-- I view feedback as a **learning opportunity**. For example, after receiving feedback about some loopholes found in the application that does not cover in my manual testing, I took a more powerful approach by developing unit tests to monitor possible system issues much faster.
+- I view feedback as a **learning opportunity**. For example, after receiving feedback about some cracks found in a web application project that does not cover in my manual testing, I took a more powerful approach by investing on automation testing to monitor system issues much faster.
 
 #### **How do you use strengths to solve a problem?**
 
@@ -991,85 +1012,11 @@
 
 - During off-hours, I need to expose myself **regularly** on at least utilizing interactive speech software to retain my proficiency in verbal communication skills to ensure that tomorrow, I can still communicate well with others, even on hard days.
 
-### **Risk Management Questions**
+#### **What is your greatest failure, and what did you learn from it?**
 
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
+[Back to Top (Honesty Questions)](https://github.com/rn1hd#honesty-questions)
 
-- [How do you identify potential risks?](https://github.com/rn1hd#how-do-you-identify-potential-risks)
-- [Tell me about a time you had to convince others about a risk they didn't see.](https://github.com/rn1hd#tell-me-about-a-time-you-had-to-convince-others-about-a-risk-they-didnt-see)
-- [How do you balance taking smart risks without slowing things down?](https://github.com/rn1hd#how-do-you-balance-taking-smart-risks-without-slowing-things-down)
-- [What do you do when a risk becomes a real problem?](https://github.com/rn1hd#what-do-you-do-when-a-risk-becomes-a-real-problem)
-- [What's one tool or method you use to track risk?](https://github.com/rn1hd#whats-one-tool-or-method-you-use-to-track-risk)
-
-#### **How do you identify potential risks?**
-
-[Back to Top (Risk Management Questions)](https://github.com/rn1hd#risk-management-questions)
-
-- WIP
-
-#### **Tell me about a time you had to convince others about a risk they didn't see.**
-
-[Back to Top (Risk Management Questions)](https://github.com/rn1hd#risk-management-questions)
-
-- WIP
-
-#### **How do you balance taking smart risks without slowing things down?**
-
-[Back to Top (Risk Management Questions)](https://github.com/rn1hd#risk-management-questions)
-
-- WIP
-
-#### **What do you do when a risk becomes a real problem?**
-
-[Back to Top (Risk Management Questions)](https://github.com/rn1hd#risk-management-questions)
-
-- WIP
-
-#### **What's one tool or method you use to track risk?**
-
-[Back to Top (Risk Management Questions)](https://github.com/rn1hd#risk-management-questions)
-
-- WIP
-
-### **Cost Efficiency Questions**
-
-[Back to Top (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
-
-- [How do you approach cutting costs without hurting results?](https://github.com/rn1hd#how-do-you-approach-cutting-costs-without-hurting-results)
-- [Tell me about a time you made a process more efficient.](https://github.com/rn1hd#tell-me-about-a-time-you-made-a-process-more-efficient)
-- [How do you balance quality with cost when working on a tight budget?](https://github.com/rn1hd#how-do-you-balance-quality-with-cost-when-working-on-a-tight-budget)
-- [Describe a time you had to justify a budget decision.](https://github.com/rn1hd#describe-a-time-you-had-to-justify-a-budget-decision)
-- [What's one habit you use to stay cost-conscious at work?](https://github.com/rn1hd#whats-one-habit-you-use-to-stay-costconscious-at-work)
-
-#### **How do you approach cutting costs without hurting results?**
-
-[Back to Top (Cost Efficiency Questions)](https://github.com/rn1hd#cost-efficiency-questions)
-
-- WIP
-
-#### **Tell me about a time you made a process more efficient.**
-
-[Back to Top (Cost Efficiency Questions)](https://github.com/rn1hd#cost-efficiency-questions)
-
-- WIP
-
-#### **How do you balance quality with cost when working on a tight budget?**
-
-[Back to Top (Cost Efficiency Questions)](https://github.com/rn1hd#cost-efficiency-questions)
-
-- WIP
-
-#### **Describe a time you had to justify a budget decision.**
-
-[Back to Top (Cost Efficiency Questions)](https://github.com/rn1hd#cost-efficiency-questions)
-
-- WIP
-
-#### **What's one habit you use to stay cost-conscious at work?**
-
-[Back to Top (Cost Efficiency Questions)](https://github.com/rn1hd#cost-efficiency-questions)
-
-- WIP
+- My greatest failure is that despite my full commitment to a job to prove myself in the community, knowing that my best is still not good enough is something that I take seriously. I learned how important it is to achieve **mastery** first in at least **60%** of the job qualifications before applying for a particular position and utilize **soft skills** by getting along well with others to maintain a positive and productive work environment.
 
 ### **More Questions About Me**
 
@@ -1077,8 +1024,6 @@
 
 - [Are you a team player?](https://github.com/rn1hd#are-you-a-team-player)
 - [Are you a risk-taker?](https://github.com/rn1hd#are-you-a-risk-taker)
-- [How would you describe your work style?](https://github.com/rn1hd#how-would-you-describe-your-work-style)
-- [How quickly do you adapt to new technology?](https://github.com/rn1hd#how-quickly-do-you-adapt-to-new-technology)
 - [Do you prefer hard work, or smart work?](https://github.com/rn1hd#do-you-prefer-hard-work-or-smart-work)
 - [What makes you unique?](https://github.com/rn1hd#what-makes-you-unique)
 - [Where do you see yourself in 5 years?](https://github.com/rn1hd#where-do-you-see-yourself-in-5-years)
@@ -1086,24 +1031,14 @@
 - [Do you consider yourself successful?](https://github.com/rn1hd#do-you-consider-yourself-successful)
 - [What do you look for in terms of culture - structured or entrepreneurial?](https://github.com/rn1hd#what-do-you-look-for-in-terms-of-culture---structured-or-entrepreneurial)
 - [What techniques and tools do you use to keep yourself organized?](https://github.com/rn1hd#what-techniques-and-tools-do-you-use-to-keep-yourself-organized)
-- [How do you prioritize your work?](https://github.com/rn1hd#how-do-you-prioritize-your-work)
-- [If you had to choose one, would you consider yourself a big-picture person or a detail-oriented person?](https://github.com/rn1hd#if-you-had-to-choose-one-would-you-consider-yourself-a-big-picture-person-or-a-detail-oriented-person)
 - [Tell me about your greatest professional achievement.](https://github.com/rn1hd#tell-me-about-your-greatest-professional-achievement)
 - [Who was your favorite manager and why?](https://github.com/rn1hd#who-was-your-favorite-manager-and-why)
 - [What do you think of your previous boss?](https://github.com/rn1hd#what-do-you-think-of-your-previous-boss)
 - [What do you think of your previous colleagues?](https://github.com/rn1hd#what-do-you-think-of-your-previous-colleagues)
 - [Was there a person in your career who really made a difference?](https://github.com/rn1hd#was-there-a-person-in-your-career-who-really-made-a-difference)
-- [What kind of personality do you work best with and why?](https://github.com/rn1hd#what-kind-of-personality-do-you-work-best-with-and-why)
 - [What are you passionate about?](https://github.com/rn1hd#what-are-you-passionate-about)
 - [What motivates you?](https://github.com/rn1hd#what-motivates-you)
-- [What are your pet peeves?](https://github.com/rn1hd#what-are-your-pet-peeves)
-- [How do you like to be managed?](https://github.com/rn1hd#how-do-you-like-to-be-managed)
 - [What’s your dream job?](https://github.com/rn1hd#whats-your-dream-job)
-- [What are three positive things your last boss would say about you?](https://github.com/rn1hd#what-are-three-positive-things-your-last-boss-would-say-about-you)
-- [What negative thing would your last boss say about you?](https://github.com/rn1hd#what-negative-thing-would-your-last-boss-say-about-you)
-- [What are three positive character traits you don't have?](https://github.com/rn1hd#what-are-three-positive-character-traits-you-dont-have)
-- [If you were interviewing someone for this position, what traits would you look for?](https://github.com/rn1hd#if-you-were-interviewing-someone-for-this-position-what-traits-would-you-look-for)
-- [List five words that describe your character.](https://github.com/rn1hd#list-five-words-that-describe-your-character)
 - [Who has impacted you most in your career and how?](https://github.com/rn1hd#who-has-impacted-you-most-in-your-career-and-how)
 - [What is your biggest regret and why?](https://github.com/rn1hd#what-is-your-biggest-regret-and-why)
 - [What's the most important thing you learned in school?](https://github.com/rn1hd#whats-the-most-important-thing-you-learned-in-school)
@@ -1111,7 +1046,6 @@
 - [What will you miss about your present/last job?](https://github.com/rn1hd#what-will-you-miss-about-your-presentlast-job)
 - [What are the qualities of a good leader? A bad leader?](https://github.com/rn1hd#what-are-the-qualities-of-a-good-leader-a-bad-leader)
 - [Do you think a leader should be feared or liked?](https://github.com/rn1hd#do-you-think-a-leader-should-be-feared-or-liked)
-- [Tell me one thing about yourself you wouldn't want me to know.](https://github.com/rn1hd#tell-me-one-thing-about-yourself-you-wouldnt-want-me-to-know)
 - [Tell me the difference between good and exceptional.](https://github.com/rn1hd#tell-me-the-difference-between-good-and-exceptional)
 - [There's no right or wrong answer, but if you could be anywhere in the world right now, where would you be?](https://github.com/rn1hd#theres-no-right-or-wrong-answer-but-if-you-could-be-anywhere-in-the-world-right-now-where-would-you-be)
 - [What do you do in your spare time?](https://github.com/rn1hd#what-do-you-do-in-your-spare-time)
@@ -1132,18 +1066,6 @@
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - **Yes.** I touched on a software development project with thousands of lines of code, outdated libraries, and lack of documentation. I applied a **job simplification** approach through improving code quality and remove anything unnecessary.
-
-#### **How would you describe your work style?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- I would describe my work style as **detail-oriented**, **focused**, and **organized**. During my business meeting with the team, I even pointed out small details like typographical errors. Although those were simple mistakes, they can ruin the first impression with potential clients.
-
-#### **How quickly do you adapt to new technology?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- Through **intensive bootcamp training** to understand fundamentals and acquire best practices.
 
 #### **Do you prefer hard work, or smart work?**
 
@@ -1187,18 +1109,6 @@
 
 - I design and document application information using **Figma** and **Miro**, as well as listing down work-related tasks using **Trello** where all members in the team can see it.
 
-#### **How do you prioritize your work?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- I perform my duties **to the best of my ability** where it is most prioritized by the client while organizing my workload at the same time to benefit myself and my teammates in the long run.
-
-#### **If you had to choose one, would you consider yourself a big-picture person or a detail-oriented person?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- **Detail-oriented**. It is the responsibility of a software developer to minimize human errors as much as possible because even a single slip of code can destroy an entire business.
-
 #### **Tell me about your greatest professional achievement.**
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
@@ -1229,12 +1139,6 @@
 
 - **Yes**. He is one of a kind who keeps track of my personal and professional status, never gives up on me, and continuously provides professional assistance in my darkest days.
 
-#### **What kind of personality do you work best with and why?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- Someone who is **caring**. His presence will remain to accompany me in my darkest days.
-
 #### **What are you passionate about?**
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
@@ -1247,53 +1151,11 @@
 
 - I am motivated in learning **in-demand technologies** and exercising them in a practical setting where I can make a difference to business growth.
 
-#### **What are your pet peeves?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- When I feel that my best is **not good enough** despite all the preparations I made.
-
-#### **How do you like to be managed?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- **Macromanagement** who steps back and trusts me to do my work using all possible means to achieve the business goal.
-
 #### **What’s your dream job?**
 
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - **Machine Learning Engineer** because it is the career for the future based on current market demand.
-
-#### **What are three positive things your last boss would say about you?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- Diligent, organized, and workaholic.
-
-#### **What negative thing would your last boss say about you?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- Weird
-
-#### **What are three positive character traits you don't have?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- **Effective verbal communicator**, **flexible**, and **resilience**. With sufficient training and frequent exposure, these character traits will be possible to acquire.
-
-#### **If you were interviewing someone for this position, what traits would you look for?**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- I look for just 3 traits: **Character**, **Attitude**, and **Reliability**. Anything else can be trained.
-
-#### **List five words that describe your character.**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- Ambitious, Introvert, Optimistic, Persistent, and Sensitive.
 
 #### **Who has impacted you most in your career and how?**
 
@@ -1336,12 +1198,6 @@
 [Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
 
 - A leader deserves to be **liked**. A boss will do otherwise.
-
-#### **Tell me one thing about yourself you wouldn't want me to know.**
-
-[Back to Top (More Questions About Me)](https://github.com/rn1hd#more-questions-about-me)
-
-- I am **reluctant** to seek assistance from others for supervision. I prefer dealing with difficult challenges independently using all possible means to complete a task aligned with company's standards.
 
 #### **Tell me the difference between good and exceptional.**
 
