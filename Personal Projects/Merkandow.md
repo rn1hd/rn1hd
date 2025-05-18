@@ -31,12 +31,60 @@ Based on my research, electrical and plumbing issues at home are **common occurr
 
 ## Presentation
 
-I can present you the **entire flow** of my application for the client side through **low fidelity** and **high fidelity** prototypes with the following processes compatible on **iPhone 16 Pro Max** device screen:
+I can present you the **entire flow** of my application for the client side through **low fidelity** (Category A only) and **high fidelity** prototypes with the following processes compatible on the following categories:
 
-**General instructions:** For MPIN input, use **308028**.
+**Category A**: Smartphone devices with the following:
 
-- **Account Registration**: [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4233-65433&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4470-136046&t=jvj9uqy5JYjfqA9H-1)
+- Android Medium
+- iPhone 14 Pro Max
+- iPhone 15 Pro Max
+- iPhone 16 Pro Max **(Default)**
 
+**Category B**: Tablet devices with the following:
+
+- Android Expanded **(Default)**
+- Surface Pro 8
+- iPad mini 8.3
+- iPad Pro 11"
+- iPad Pro 12.9"
+
+**Category C**: Desktop devices with the following:
+
+- MacBook Air **(Default)**
+- MacBook Pro 14"
+- MacBook Pro 16"
+- Desktop
+- Wireframes
+- TV
+
+**Category D**: Smartphone devices with the following:
+
+- Android Compact
+- iPhone 16
+- iPhone 16 Pro
+- iPhone 16 Plus
+- iPhone 15
+- iPhone 15 Pro
+- iPhone 15 Plus
+- iPhone 14 **(Default)**
+- iPhone 14 Pro
+- iPhone 14 Plus
+
+**Category E**: Smartphone devices with the following:
+
+- iPhone SE **(Default)**
+- iPhone 13 mini
+
+**General instructions:** For MPIN input, use **308028**. Use **Responsive** content scaling in prototype presentation for best results.
+
+- **Account Registration**
+
+  - **Prototype Presentations**
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4233-65433&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4470-136046&t=jvj9uqy5JYjfqA9H-1)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144745&t=4IFUXNgyBu6tlT1q-1)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185598&t=xgvk8W1mumsHJYue-1)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39582&t=xgvk8W1mumsHJYue-1)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29964&t=xgvk8W1mumsHJYue-1)
   - **Register as Client**
     - For Date of Birth, select **September 19, 1994**.
     - For Valid ID, select **Driver's License**.
@@ -48,8 +96,24 @@ I can present you the **entire flow** of my application for the client side thro
     - For Municipality / City, select **Makati City, Metro Manila**.
     - For Barangay, select **Ayala Avenue-Paseo de Roxas**.
 
-- **Account Registration After Approval**: [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4279-41017&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4571-148778&t=jvj9uqy5JYjfqA9H-1)
-- **Service Provider Booking Registration**: [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4292-59272&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4633-151798&t=jvj9uqy5JYjfqA9H-1)
+- **Account Registration After Approval**
+
+  - **Prototype Presentations**
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4279-41017&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4571-148778&t=jvj9uqy5JYjfqA9H-1)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144748&t=xgvk8W1mumsHJYue-1)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185601&t=xgvk8W1mumsHJYue-1)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39585&t=xgvk8W1mumsHJYue-1)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29967&t=xgvk8W1mumsHJYue-1)
+
+- **Service Provider Booking Registration**
+
+  - **Prototype Presentations**
+
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4292-59272&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4633-151798&t=jvj9uqy5JYjfqA9H-1)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144751&t=xgvk8W1mumsHJYue-1)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185604&t=xgvk8W1mumsHJYue-1)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39588&t=xgvk8W1mumsHJYue-1)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29970&t=xgvk8W1mumsHJYue-1)
 
   - Use search after the login.
   - Select **Diamond Hotel Solutions**.
@@ -58,37 +122,93 @@ I can present you the **entire flow** of my application for the client side thro
   - **Cancel Booking** after your booking registration.
   - **Continue Booking** again after cancellation.
 
-- **Approved Booking Registration**: [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4315-69174&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4698-79179&t=jvj9uqy5JYjfqA9H-1)
+- **Approved Booking Registration**
+
+  - **Prototype Presentations**
+
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4315-69174&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4698-79179&t=jvj9uqy5JYjfqA9H-1)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144754&t=xgvk8W1mumsHJYue-1)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185607&t=xgvk8W1mumsHJYue-1)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39591&t=xgvk8W1mumsHJYue-1)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29973&t=xgvk8W1mumsHJYue-1)
 
   - Go to **Notifications** tab first.
   - Next step is to go to **History** tab.
   - Next step is to go to the **Contact** tab.
 
-- **Ongoing Service Provider**: [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4315-72861&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4701-81723&t=jvj9uqy5JYjfqA9H-1)
+- **Ongoing Service Provider**
+
+  - **Prototype Presentations**
+
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4315-72861&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4701-81723&t=jvj9uqy5JYjfqA9H-1)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144757&t=xgvk8W1mumsHJYue-1)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185610&t=xgvk8W1mumsHJYue-1)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39594&t=xgvk8W1mumsHJYue-1)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29976&t=xgvk8W1mumsHJYue-1)
 
   - Go to **Notifications** tab first.
   - Next step is either check the details of your new notification or go to **Contact** tab.
 
-- **Marking the Issue As Completed**: [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4317-76712&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4705-85549&t=jvj9uqy5JYjfqA9H-1)
+- **Marking the Issue As Completed**
+
+  - **Prototype Presentations**
+
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4317-76712&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4705-85549&t=jvj9uqy5JYjfqA9H-1)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144760&t=xgvk8W1mumsHJYue-1)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185613&t=xgvk8W1mumsHJYue-1)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39597&t=xgvk8W1mumsHJYue-1)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29979&t=xgvk8W1mumsHJYue-1)
 
   - Rate your Service Provider and our application as **4 stars**.
 
-- **Edit Profile and Logout**: [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4342-79174&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4711-32059&t=jvj9uqy5JYjfqA9H-1)
+- **Edit Profile and Logout**
+
+  - **Prototype Presentations**
+
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4342-79174&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4711-32059&t=jvj9uqy5JYjfqA9H-1)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144763&t=xgvk8W1mumsHJYue-1)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185616&t=xgvk8W1mumsHJYue-1)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39600&t=xgvk8W1mumsHJYue-1)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29982&t=xgvk8W1mumsHJYue-1)
 
   - Edit **Email Address** and **Mobile Number** only.
   - **Logout** your account after you edit your profile.
 
-- **Deactivate and Delete Account**: [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4366-38819&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4725-74002&t=jvj9uqy5JYjfqA9H-1)
+- **Deactivate and Delete Account**
+
+  - **Prototype Presentations**
+
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4366-38819&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4725-74002&t=jvj9uqy5JYjfqA9H-1)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144766&t=xgvk8W1mumsHJYue-1)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185619&t=xgvk8W1mumsHJYue-1)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39603&t=xgvk8W1mumsHJYue-1)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29985&t=xgvk8W1mumsHJYue-1)
 
   - For deactivation, select **Other**.
   - For deletion, select **I don't find Merkandow useful**.
 
-- **Forgot MPIN**: [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4369-71658&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4725-77249&t=jvj9uqy5JYjfqA9H-1)
+- **Forgot MPIN**
+
+  - **Prototype Presentations**
+
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4369-71658&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4725-77249&t=jvj9uqy5JYjfqA9H-1)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144791&t=xgvk8W1mumsHJYue-1)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185644&t=xgvk8W1mumsHJYue-1)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39628&t=xgvk8W1mumsHJYue-1)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-30010&t=xgvk8W1mumsHJYue-1)
 
   - Input your **MPIN** first.
   - After the system displays an error message, you can proceed to **Forgot MPIN**.
 
-- **Continue as Guest**: [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4373-80502&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4727-80028&t=jvj9uqy5JYjfqA9H-1)
+- **Continue as Guest**
+
+  - **Prototype Presentations**
+
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4373-80502&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4727-80028&t=jvj9uqy5JYjfqA9H-1)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144794&t=xgvk8W1mumsHJYue-1)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185647&t=xgvk8W1mumsHJYue-1)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39631&t=xgvk8W1mumsHJYue-1)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-30013&t=xgvk8W1mumsHJYue-1)
 
   - Use search engine first.
   - Select **Diamond Hotel Solutions**.
@@ -98,8 +218,24 @@ I can present you the **entire flow** of my application for the client side thro
   - Visit the following tabs **in order**: Contact --> History --> Notifications --> Account
   - Click **Login My Account**.
 
-- **Chat with an Agent**: [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4387-84757&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4727-83388&t=jvj9uqy5JYjfqA9H-1)
+- **Chat with an Agent**
+
+  - **Prototype Presentations**
+
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4387-84757&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4727-83388&t=jvj9uqy5JYjfqA9H-1)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144797&t=xgvk8W1mumsHJYue-1)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185650&t=xgvk8W1mumsHJYue-1)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39634&t=xgvk8W1mumsHJYue-1)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-30016&t=xgvk8W1mumsHJYue-1)
 
   - Select **Let me chat with a Live Agent.**.
 
-- **Terms & Policies**: [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4403-89757&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4727-87746&t=jvj9uqy5JYjfqA9H-1)
+- **Terms & Policies**
+
+  - **Prototype Presentations**
+
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4403-89757&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4727-87746&t=jvj9uqy5JYjfqA9H-1)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144800&t=xgvk8W1mumsHJYue-1)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185653&t=xgvk8W1mumsHJYue-1)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39637&t=xgvk8W1mumsHJYue-1)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-30019&t=xgvk8W1mumsHJYue-1)
