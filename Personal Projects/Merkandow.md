@@ -80,11 +80,11 @@ I can present you the **entire flow** of my application for the client side thro
 - **Account Registration**
 
   - **Prototype Presentations**
-    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4233-65433&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4470-136046&t=jvj9uqy5JYjfqA9H-1)
-    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144745&t=4IFUXNgyBu6tlT1q-1)
-    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185598&t=xgvk8W1mumsHJYue-1)
-    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39582&t=xgvk8W1mumsHJYue-1)
-    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29964&t=xgvk8W1mumsHJYue-1)
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4233-65433&t=hh3QYEV1APPyFBHK-1&content-scaling=responsive) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4470-136046&t=jvj9uqy5JYjfqA9H-1&content-scaling=responsive)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144745&t=4IFUXNgyBu6tlT1q-1&content-scaling=responsive)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185598&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39582&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29964&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
   - **Register as Client**
     - For Date of Birth, select **September 19, 1994**.
     - For Valid ID, select **Driver's License**.
@@ -99,21 +99,21 @@ I can present you the **entire flow** of my application for the client side thro
 - **Account Registration After Approval**
 
   - **Prototype Presentations**
-    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4279-41017&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4571-148778&t=jvj9uqy5JYjfqA9H-1)
-    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144748&t=xgvk8W1mumsHJYue-1)
-    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185601&t=xgvk8W1mumsHJYue-1)
-    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39585&t=xgvk8W1mumsHJYue-1)
-    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29967&t=xgvk8W1mumsHJYue-1)
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4279-41017&t=hh3QYEV1APPyFBHK-1&content-scaling=responsive) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4571-148778&t=jvj9uqy5JYjfqA9H-1&content-scaling=responsive)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144748&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185601&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39585&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29967&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
 
 - **Service Provider Booking Registration**
 
   - **Prototype Presentations**
 
-    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4292-59272&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4633-151798&t=jvj9uqy5JYjfqA9H-1)
-    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144751&t=xgvk8W1mumsHJYue-1)
-    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185604&t=xgvk8W1mumsHJYue-1)
-    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39588&t=xgvk8W1mumsHJYue-1)
-    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29970&t=xgvk8W1mumsHJYue-1)
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4292-59272&t=hh3QYEV1APPyFBHK-1&content-scaling=responsive) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4633-151798&t=jvj9uqy5JYjfqA9H-1&content-scaling=responsive)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144751&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185604&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39588&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29970&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
 
   - Use search after the login.
   - Select **Diamond Hotel Solutions**.
@@ -126,11 +126,11 @@ I can present you the **entire flow** of my application for the client side thro
 
   - **Prototype Presentations**
 
-    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4315-69174&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4698-79179&t=jvj9uqy5JYjfqA9H-1)
-    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144754&t=xgvk8W1mumsHJYue-1)
-    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185607&t=xgvk8W1mumsHJYue-1)
-    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39591&t=xgvk8W1mumsHJYue-1)
-    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29973&t=xgvk8W1mumsHJYue-1)
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4315-69174&t=hh3QYEV1APPyFBHK-1&content-scaling=responsive) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4698-79179&t=jvj9uqy5JYjfqA9H-1&content-scaling=responsive)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144754&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185607&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39591&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29973&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
 
   - Go to **Notifications** tab first.
   - Next step is to go to **History** tab.
@@ -140,11 +140,11 @@ I can present you the **entire flow** of my application for the client side thro
 
   - **Prototype Presentations**
 
-    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4315-72861&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4701-81723&t=jvj9uqy5JYjfqA9H-1)
-    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144757&t=xgvk8W1mumsHJYue-1)
-    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185610&t=xgvk8W1mumsHJYue-1)
-    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39594&t=xgvk8W1mumsHJYue-1)
-    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29976&t=xgvk8W1mumsHJYue-1)
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4315-72861&t=hh3QYEV1APPyFBHK-1&content-scaling=responsive) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4701-81723&t=jvj9uqy5JYjfqA9H-1&content-scaling=responsive)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144757&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185610&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39594&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29976&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
 
   - Go to **Notifications** tab first.
   - Next step is either check the details of your new notification or go to **Contact** tab.
@@ -153,11 +153,11 @@ I can present you the **entire flow** of my application for the client side thro
 
   - **Prototype Presentations**
 
-    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4317-76712&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4705-85549&t=jvj9uqy5JYjfqA9H-1)
-    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144760&t=xgvk8W1mumsHJYue-1)
-    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185613&t=xgvk8W1mumsHJYue-1)
-    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39597&t=xgvk8W1mumsHJYue-1)
-    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29979&t=xgvk8W1mumsHJYue-1)
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4317-76712&t=hh3QYEV1APPyFBHK-1&content-scaling=responsive) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4705-85549&t=jvj9uqy5JYjfqA9H-1&content-scaling=responsive)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144760&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185613&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39597&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29979&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
 
   - Rate your Service Provider and our application as **4 stars**.
 
@@ -165,11 +165,11 @@ I can present you the **entire flow** of my application for the client side thro
 
   - **Prototype Presentations**
 
-    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4342-79174&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4711-32059&t=jvj9uqy5JYjfqA9H-1)
-    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144763&t=xgvk8W1mumsHJYue-1)
-    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185616&t=xgvk8W1mumsHJYue-1)
-    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39600&t=xgvk8W1mumsHJYue-1)
-    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29982&t=xgvk8W1mumsHJYue-1)
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4342-79174&t=hh3QYEV1APPyFBHK-1&content-scaling=responsive) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4711-32059&t=jvj9uqy5JYjfqA9H-1&content-scaling=responsive)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144763&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185616&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39600&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29982&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
 
   - Edit **Email Address** and **Mobile Number** only.
   - **Logout** your account after you edit your profile.
@@ -178,11 +178,11 @@ I can present you the **entire flow** of my application for the client side thro
 
   - **Prototype Presentations**
 
-    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4366-38819&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4725-74002&t=jvj9uqy5JYjfqA9H-1)
-    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144766&t=xgvk8W1mumsHJYue-1)
-    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185619&t=xgvk8W1mumsHJYue-1)
-    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39603&t=xgvk8W1mumsHJYue-1)
-    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29985&t=xgvk8W1mumsHJYue-1)
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4366-38819&t=hh3QYEV1APPyFBHK-1&content-scaling=responsive) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4725-74002&t=jvj9uqy5JYjfqA9H-1&content-scaling=responsive)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144766&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185619&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39603&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-29985&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
 
   - For deactivation, select **Other**.
   - For deletion, select **I don't find Merkandow useful**.
@@ -191,11 +191,11 @@ I can present you the **entire flow** of my application for the client side thro
 
   - **Prototype Presentations**
 
-    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4369-71658&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4725-77249&t=jvj9uqy5JYjfqA9H-1)
-    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144791&t=xgvk8W1mumsHJYue-1)
-    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185644&t=xgvk8W1mumsHJYue-1)
-    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39628&t=xgvk8W1mumsHJYue-1)
-    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-30010&t=xgvk8W1mumsHJYue-1)
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4369-71658&t=hh3QYEV1APPyFBHK-1&content-scaling=responsive) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4725-77249&t=jvj9uqy5JYjfqA9H-1&content-scaling=responsive)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144791&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185644&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39628&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-30010&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
 
   - Input your **MPIN** first.
   - After the system displays an error message, you can proceed to **Forgot MPIN**.
@@ -204,11 +204,11 @@ I can present you the **entire flow** of my application for the client side thro
 
   - **Prototype Presentations**
 
-    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4373-80502&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4727-80028&t=jvj9uqy5JYjfqA9H-1)
-    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144794&t=xgvk8W1mumsHJYue-1)
-    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185647&t=xgvk8W1mumsHJYue-1)
-    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39631&t=xgvk8W1mumsHJYue-1)
-    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-30013&t=xgvk8W1mumsHJYue-1)
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4373-80502&t=hh3QYEV1APPyFBHK-1&content-scaling=responsive) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4727-80028&t=jvj9uqy5JYjfqA9H-1&content-scaling=responsive)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144794&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185647&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39631&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-30013&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
 
   - Use search engine first.
   - Select **Diamond Hotel Solutions**.
@@ -222,11 +222,11 @@ I can present you the **entire flow** of my application for the client side thro
 
   - **Prototype Presentations**
 
-    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4387-84757&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4727-83388&t=jvj9uqy5JYjfqA9H-1)
-    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144797&t=xgvk8W1mumsHJYue-1)
-    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185650&t=xgvk8W1mumsHJYue-1)
-    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39634&t=xgvk8W1mumsHJYue-1)
-    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-30016&t=xgvk8W1mumsHJYue-1)
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4387-84757&t=hh3QYEV1APPyFBHK-1&content-scaling=responsive) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4727-83388&t=jvj9uqy5JYjfqA9H-1&content-scaling=responsive)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144797&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185650&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39634&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-30016&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
 
   - Select **Let me chat with a Live Agent.**.
 
@@ -234,8 +234,8 @@ I can present you the **entire flow** of my application for the client side thro
 
   - **Prototype Presentations**
 
-    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4403-89757&t=hh3QYEV1APPyFBHK-1) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4727-87746&t=jvj9uqy5JYjfqA9H-1)
-    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144800&t=xgvk8W1mumsHJYue-1)
-    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185653&t=xgvk8W1mumsHJYue-1)
-    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39637&t=xgvk8W1mumsHJYue-1)
-    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-30019&t=xgvk8W1mumsHJYue-1)
+    - **Category A** (Android Medium, iPhone 14-16 Pro Max devices): [Low Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4403-89757&t=hh3QYEV1APPyFBHK-1&content-scaling=responsive) | [High Fidelity](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=4727-87746&t=jvj9uqy5JYjfqA9H-1&content-scaling=responsive)
+    - [**Category B** (Tablet devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-144800&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category C** (Desktop devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5638-185653&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category D** (Android Compact, iPhone 14-16 Regular, Pro & Plus devices)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5620-39637&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
+    - [**Category E** (iPhone SE & iPhone 13 Mini)](https://www.figma.com/proto/NpAJaaLWsL1HGQZVjiZeLf/Merkandow---A-Skilled-Service-Provider-Application?node-id=5626-30019&t=xgvk8W1mumsHJYue-1&content-scaling=responsive)
