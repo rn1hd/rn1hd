@@ -113,7 +113,7 @@
   - Palace of Sound (2014-2016)
   - iBMS 4th Age (2015)
   - O2Jam V3 International (2013-2018)
-- Published a total of **[49 notechart projects](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Website/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md)**
+- Published a total of **[49 notechart projects](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md)**
 
 ### Transcriptionist ⌨
 
@@ -154,9 +154,9 @@
   - Multiple difficulty notechart preview video presentations as a sneak peek on what to expect in the next month's song update using **[Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/)**
 
 - My creative designer journey has continued on my **freelance experience** in year 2023 to deliver menu item posters which will be attached to their stores and good quality pictures using a glossy photo paper in different sizes. The software being used there is **Adobe InDesign**.
-- Released low-fidelity and high-fidelity prototypes of my personal application project **[Merkandow](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Projects/Merkandow.md)**, a skilled service provider application that allows the customer to book their preferred service provider in real time.
+- Developed and presented prototypes of an entire system of **[Merkandow](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Projects/Merkandow.md)**, a Skilled Service Provider Application personal project using Figma that allows the customer to book their preferred service provider in real time.
 
-- See portfolio **[here](https://github.com/rn1hd/rn1hd/tree/main/Personal%20Website/Portfolio/Creative%20Designer)**.
+- See portfolio **[here](https://github.com/rn1hd/rn1hd/tree/main/Portfolio/Creative%20Designer)**.
 
 <br />
 
