@@ -2,7 +2,7 @@
 
 - [About Me](https://github.com/rn1hd#-about-me)
 - [Skills](https://github.com/rn1hd#-skills)
-- [Career Journey](https://github.com/rn1hd#-career-journey)
+- [Professional Journey](https://github.com/rn1hd#-professional-journey)
 - [Frequently Asked Questions (FAQ)](https://github.com/rn1hd#-frequently-asked-questions-faq)
 
 ## 👨‍🦰 About Me
@@ -75,7 +75,7 @@
 
 <br />
 
-## 🚀 Career Journey
+## 🚀 Professional Journey
 
 [Back to Top](https://github.com/rn1hd#hi-there-)
 
@@ -88,7 +88,7 @@
 
 ### Pianist 🎹
 
-[Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
+[Back to Top (Professional Journey)](https://github.com/rn1hd#-professional-journey)
 
 - My motivation to become a pianist started at 13 years old when my father bought an electronic piano.
 - I enrolled on a summer piano class in **Regis Benedictine Academy** located in Batangas, Philippines at 15 years old.
@@ -103,7 +103,7 @@
 
 ### Game Developer 🎮
 
-[Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
+[Back to Top (Professional Journey)](https://github.com/rn1hd#-professional-journey)
 
 - My position to become a **Notechart Engineer** started at 16 years old when I saw a [Youtube video](https://www.youtube.com/watch?v=UHHHXRU1-T0) discussing how to create musical notes that synchronizes to the beat of the song.
 - With continuous learning and motivation, I finally got a chance to become one of the contributors in the game market following senior's advice regarding the output of my works. I met some amazing developers and panelists from around the world.
@@ -117,14 +117,14 @@
 
 ### Transcriptionist ⌨
 
-[Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
+[Back to Top (Professional Journey)](https://github.com/rn1hd#-professional-journey)
 
 - My first job in the real world as a **Biller** has started on September 20, 2016, in **Accudata Inc.** located in Kumintang Ibaba, Batangas City, Philippines where excellent typing skills are required for the role to meet the company's standards. This is the time when my motivation to become a professional transcriptionist has started.
 - On the second half of my entire tenure in **[IntegrityNet Solutions & Services](https://integritynet.biz/)**, I was responsible on taking charge of daily morning meeting for the development team; transcribing each team member's progress from recorded conversation which will be submitted to the Chief Technology Officer's company email for compilation.
 
 ### Software Developer 🖥
 
-[Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
+[Back to Top (Professional Journey)](https://github.com/rn1hd#-professional-journey)
 
 - When I was in college, we developed **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)**. My oral thesis research presentation went well in **Hong Kong** with the help of my teammates and university professors.
 - Enhanced operational efficiency by developing **[Zumumu](https://zumumu.com/)** web applications for **[Share Cafe](https://sharecafe.ph/web/)** restaurant in Batangas using Bootstrap 4, jQuery, MySQL, and **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework.
@@ -136,7 +136,7 @@
 
 ### Technical Writer 📚
 
-[Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
+[Back to Top (Professional Journey)](https://github.com/rn1hd#-professional-journey)
 
 - My job as a technical writer started when I was solely responsible for developing a full documentation on a college thesis named **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)**.
 - My technical writer journey has continued in my real-life work experience when the owner of **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework has decided to give me full control on building the **[documentation](https://uadmin-docs.readthedocs.io/en/latest/)** to reduce onboarding time for new users and developers using **[Sphinx](https://www.sphinx-doc.org/en/master/)** documentation generator. The owner started the documentation project during the initial stage, then was brought up to me on the following updates. The documentation has been maintained under my control during my tenure in **[IntegrityNet Solutions & Services](https://integritynet.biz/)** until version 0.7.4.
@@ -146,7 +146,7 @@
 
 ### Creative Designer 🎬
 
-[Back to Top (Career Journey)](https://github.com/rn1hd#-career-journey)
+[Back to Top (Professional Journey)](https://github.com/rn1hd#-professional-journey)
 
 - My job as a **Creative Designer** has started when I was working in several O2Jam organizations from 2012 to 2018 with the following responsibilities:
 
