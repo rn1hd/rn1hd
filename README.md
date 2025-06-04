@@ -154,8 +154,8 @@
   - Multiple difficulty notechart preview video presentations as a sneak peek on what to expect in the next month's song update using **[Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/)**
 
 - My creative designer journey has continued on my **freelance experience** in year 2023 to deliver menu item posters which will be attached to their stores and good quality pictures using a glossy photo paper in different sizes. The software being used there is **Adobe InDesign**.
-- Developed and presented prototypes of an entire system of **[Merkandow](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Projects/Merkandow.md)**, a Skilled Service Provider Application personal project using Figma that allows the customer to book their preferred service provider in real time.
-- Developed low-fidelity prototypes of my **[personal website](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Projects/My%20Personal%20Design.md)** for navigation, hyperlinks, and get in touch applying the responsive design.
+- Developed and presented prototypes of an entire system of **[Merkandow](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Creative%20Designer/Prototypes/Merkandow.md)**, a Skilled Service Provider Application personal project using Figma that allows the customer to book their preferred service provider in real time.
+- Developed low-fidelity prototypes of my **[personal website](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Creative%20Designer/Prototypes/My%20Personal%20Website.md)** for navigation, hyperlinks, and get in touch applying the responsive design.
 
 - See portfolio **[here](https://github.com/rn1hd/rn1hd/tree/main/Portfolio/Creative%20Designer)**.
 
