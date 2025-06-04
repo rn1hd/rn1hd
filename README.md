@@ -9,7 +9,7 @@
 
 [Back to Top](https://github.com/rn1hd#hi-there-)
 
-- I am a **Software Developer** with 4+ years of experience building scalable web applications, automating testing workflows, and improving user experiences. Skilled in Figma, PHP, Python, and React. Seeking to contribute technical expertise and creativity to an innovative software team.
+- I am a **Software Developer** with 4+ years of corporate experience, 2+ years of hands-on experience, and 9 months of freelance experience building scalable web applications, automating testing workflows, and improving user experiences. As a software developer, I have been passionate about creating solutions that provide real value to users.
   - **Machine Learning Engineer** is my dream job because with the current trend in the market today, Artificial Intelligence is the career of the future based on what impact it may bring to the consumers and businesses, observing how **[ChatGPT](https://openai.com/blog/chatgpt/)** becomes a trend on the headlines in the 1st quarter of 2023. Personally, I would love to develop a robotics system using Reinforcement Learning to prioritize unaccompanied people that no one will be with them for the rest of their lives. Instead of letting unaccompanied people feel alone, a robot will take over as a last resort to spend some time on emotional support, home assistance, and personal care.
   - **Full Stack Developer** is one of my options that I would love to apply for. This role can be beneficial when there are dead-end situations in the business that need to be resolved as soon as possible.
 - I am also a professional **[pianist](https://dai.ly/k3loMuNrK90sOQzOXKu)** outside in the world of technology.
@@ -127,8 +127,8 @@
 [Back to Top (Professional Journey)](https://github.com/rn1hd#-professional-journey)
 
 - When I was in college, we developed **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)**. My oral thesis research presentation went well in **Hong Kong** with the help of my teammates and university professors.
-- Enhanced operational efficiency by developing **[Zumumu](https://zumumu.com/)** web applications for **[Share Cafe](https://sharecafe.ph/web/)** restaurant in Batangas using Bootstrap 4, jQuery, MySQL, and **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework.
-- Reduced software bugs through automation testing for **[Zumumu](https://zumumu.com/)** and other intranet web applications under **[IntegrityNet Solutions and Services](https://www.integritynet.ph/)** using Selenium, Python, and Jenkins.
+- Enhanced operational efficiency by developing and maintaining an online web ordering application for **[Share Cafe](https://sharecafe.ph/web/)** restaurant in Batangas using Bootstrap 4, jQuery, MySQL, and **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework.
+- Reduced software bugs through automation testing for intranet web applications under **[IntegrityNet Solutions and Services](https://www.integritynet.ph/)** using Selenium, Python, and Jenkins.
 - Enhanced marketing influence by developing **[The Ones Design](https://theonesdesign.netlify.app/)** website for a self-employed business owner using Javascript and Bootstrap 4.
 - **[Nix Daily](https://nixdaily.netlify.app/)** and **[The Ones Restaurant](https://theonesrestaurant.netlify.app/)** are some of my finished personal web applications in year 2020 using Javascript and Bootstrap 4.
 - Led development of an **inventory management system**, enhancing sales and customer satisfaction for store owners by streamlining daily operations in year 2023 using Bootstrap 5, jQuery, MySQL, Excel, and Python.
@@ -155,6 +155,7 @@
 
 - My creative designer journey has continued on my **freelance experience** in year 2023 to deliver menu item posters which will be attached to their stores and good quality pictures using a glossy photo paper in different sizes. The software being used there is **Adobe InDesign**.
 - Developed and presented prototypes of an entire system of **[Merkandow](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Projects/Merkandow.md)**, a Skilled Service Provider Application personal project using Figma that allows the customer to book their preferred service provider in real time.
+- Developed low-fidelity prototypes of my **[personal website](https://github.com/rn1hd/rn1hd/blob/main/Personal%20Projects/My%20Personal%20Design.md)** for navigation, hyperlinks, and get in touch applying the responsive design.
 
 - See portfolio **[here](https://github.com/rn1hd/rn1hd/tree/main/Portfolio/Creative%20Designer)**.
 
@@ -323,7 +324,7 @@
 
 - The last project I led is the **Purchase Request Information System** for 1 Regional and 6 Field Offices under **[Department of Labor and Employment](https://ncr.dole.gov.ph/)**. The system has been deployed in live production.
 
-#### **Give me an example of a time that you felt you went above and beyond the call of duty at work**
+#### **Give me an example of a time that you felt you went above and beyond the call of duty at work.**
 
 [Back to Top (Behavioral Questions)](https://github.com/rn1hd#behavioral-questions)
 
