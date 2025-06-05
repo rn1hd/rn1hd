@@ -63,7 +63,7 @@ I am a **Software Developer** who specializes in building scalable web applicati
 
 **August 20, 2024 - Present (9 mos)**
 
-- Completed a fixed-term contract project at **[DOLE](<(https://ncr.dole.gov.ph/)>)**.
+- Completed a fixed-term contract project at **[DOLE]((https://ncr.dole.gov.ph/)**.
 - Developed and presented prototypes of an entire system of **[Merkandow](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Creative%20Designer/Prototypes/Merkandow.md)**, a Skilled Service Provider Application personal project using **[Figma](https://www.figma.com/)** that allows the customer to book their preferred service provider in real time.
 - Published a total of **[5 piano sheet music](https://musescore.com/user/36573824)** on my MuseScore profile.
 - Published 2 articles on my **[Medium](https://medium.com/@mamisayromnick)** profile with the following:
