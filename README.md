@@ -1,6 +1,6 @@
 # Hi there, nice to meet you! 👋
 
-I am a **Software Developer** who specializes in building scalable web applications, automating testing workflows, and improving user experiences. I have been passionate about creating solutions that provide real value to users. Currently, I focus on building expertise in user experience design because successful applications today depend on user friendliness, enjoyability, and efficiency aligned with user's journey and needs. Feel free to read my resume **[here](https://raw.githubusercontent.com/rn1hd/rn1hd/main/Resume.pdf)**.
+I am a **Software Developer** who specializes in building scalable web applications, automating testing workflows, and improving user experiences. I have been passionate about creating solutions that provide **real value** to users. Currently, I focus on building expertise in **user experience design** because successful applications today depend on user friendliness, enjoyability, and efficiency aligned with user's journey and needs. Feel free to read my resume **[here](https://raw.githubusercontent.com/rn1hd/rn1hd/main/Resume.pdf)**.
 
 ## ⛳ Skills
 
@@ -57,59 +57,14 @@ I am a **Software Developer** who specializes in building scalable web applicati
 
 <br />
 
-## 🚀 Professional Journey
+## 🚀 Experience
 
-### January 2013 - December 30, 2018
+### Independent Learning & Projects (Self-Improvement)
 
-- Became an official Notechart Engineer of **O2Jam V3 International** company. Worked closely with the development team and senior management to release my notecharts in **O2Jam V3**, **[AngelJam](https://www.facebook.com/AJOfficialPage)** (until December 2013), **[Palace of Sound](https://www.facebook.com/groups/187358427960399)** (until 2016), and **iBMS 4th Age** (2015) organizations.
-- Published a total of **[49 notechart projects](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md)**
+**August 20, 2024 - Present (9 mos)**
 
-### December 17, 2015
-
-- Presented **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)** in **Hong Kong** with the help of my teammates and university professors. Published in Philippine e-Journals website on **March 18, 2016**.
-
-### April 15, 2016
-
-- Graduated in **[Lyceum of the Philippines University - Batangas](https://lpubatangas.edu.ph/)** with Bachelor of Science in Computer Science, major in Mobile Applications Development as **CUM LAUDE**.
-
-### September 19, 2016 - July 20, 2018
-
-- Employed in **[Accudata Inc.](https://www.facebook.com/profile.php?id=100079004861462)** as a **Biller** responsible for encoding bills of lading with accuracy and efficiency while managing high-pressure environments. Participated in **[TypeRacer](https://data.typeracer.com/pit/profile?user=rnk1hd)** with amazing world champions to enhance my typing speed.
-
-### August 6, 2018 - January 28, 2022
-
-- Employed in **[IntegrityNet Solutions and Services](https://www.integritynet.ph/)** as a **Software Developer**.
-- Reduced onboarding time for new users and developers through documenting existing company applications such as **[uAdmin](https://uadmin-docs.readthedocs.io/)**, the Golang web framework using **[Sphinx](https://www.sphinx-doc.org/)** documentation generator.
-- Enhanced operational efficiency by developing and maintaining an online web ordering application for **[Share Cafe](https://sharecafe.ph/)** restaurant in Batangas using Bootstrap 4, jQuery, MySQL, and **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework.
-- Reduced software bugs through **automation testing** for intranet web applications using Selenium, Python, and Jenkins.
-
-### January 29, 2022 - May 23, 2023
-
-- Voluntarily left previous role to focus on **upskilling** in modern technologies aligned with industry trends.
-- Completed an intensive course in speech communication using **Tell Me More English Performance** software by Auralog.
-- Built a **[Github Profile](https://github.com/rn1hd)** to showcase myself, skills, professional journey, and Frequently Asked Questions (FAQ).
-- Maintained **[The Ones Design](https://theonesdesign.netlify.app/)**, **[The Ones Restaurant](https://theonesrestaurant.netlify.app/)**, and **[Nix Daily](https://nixdaily.netlify.app/)** web applications since 2020 using Javascript and Bootstrap 4.
-
-### May 24, 2023 - February 18, 2024
-
-- Started as a **Freelance Software Developer** to coordinate with store owners.
-- Led development of an **inventory management system**, enhancing sales and customer satisfaction for store owners by streamlining daily operations in year 2023 using Bootstrap 5, jQuery, MySQL, Excel, and Python.
-- Managed **photo printing** and **lamination** for students using Adobe Photoshop and InDesign.
-- Earned **3 Google UX Design professional** certificates with the following:
-  - [Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/records/GZJN76HG7SMG)
-  - [Start the UX Design Process: Empathize, Define, and Ideate](https://www.coursera.org/account/accomplishments/records/R7LZDSSSFMHG)
-  - [Build Wireframes and Low-Fidelity Prototypes](https://www.coursera.org/account/accomplishments/records/XKBANQ8GP8F7)
-- Published **[Grocery Items](https://github.com/rn1hd/rn1hd/tree/main/Portfolio/Creative%20Designer/Grocery%20Items)** photos and **[Menu Item Posters](https://github.com/rn1hd/rn1hd/tree/main/Portfolio/Creative%20Designer/Menu%20Item%20Posters)**.
-
-### February 19, 2024 - August 19, 2024
-
-- Employed in **[Department of Labor and Employment - National Capital Region](https://ncr.dole.gov.ph/)** as a **System Web Developer**.
-- Increased processing efficiency by developing a **Purchase Request Information System** for 1 Regional and 6 Field Offices using **[Metronic](https://keenthemes.com/metronic)** 8 web framework, MySQL, and PHP programming language.
-
-### August 20, 2024 - Present
-
-- Completed a fixed-term contract project at **DOLE**.
-- Developed and presented prototypes of an entire system of **[Merkandow](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Creative%20Designer/Prototypes/Merkandow.md)**, a Skilled Service Provider Application personal project using Figma that allows the customer to book their preferred service provider in real time.
+- Completed a fixed-term contract project at **[DOLE](<(https://ncr.dole.gov.ph/)>)**.
+- Developed and presented prototypes of an entire system of **[Merkandow](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Creative%20Designer/Prototypes/Merkandow.md)**, a Skilled Service Provider Application personal project using **[Figma](https://www.figma.com/)** that allows the customer to book their preferred service provider in real time.
 - Published a total of **[5 piano sheet music](https://musescore.com/user/36573824)** on my MuseScore profile.
 - Published 2 articles on my **[Medium](https://medium.com/@mamisayromnick)** profile with the following:
   - [My Day-to-Day Activities at Work](https://medium.com/@mamisayromnick/my-day-to-day-activities-at-work-62b6d5f0da72) that demonstrates my technical skills, values, and personality.
@@ -119,6 +74,63 @@ I am a **Software Developer** who specializes in building scalable web applicati
   - [Create High-Fidelity Designs and Prototypes in Figma](https://www.coursera.org/account/accomplishments/verify/GZ2ZN301CGZZ)
   - [Build Dynamic User Interfaces (UI) for Websites](https://www.coursera.org/account/accomplishments/verify/ZEV4DJ745EW7)
 - Developed low-fidelity prototypes of my **[personal website](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Creative%20Designer/Prototypes/My%20Personal%20Website.md)** for navigation, hyperlinks, and get in touch applying the responsive design.
+
+### Web Developer | [Department of Labor and Employment - National Capital Region](https://ncr.dole.gov.ph/) (Contractual)
+
+**February 19, 2024 - August 19, 2024 (6 mos)**
+
+- Increased processing efficiency by developing a **Purchase Request Information System** for 1 Regional and 6 Field Offices using **[Metronic](https://keenthemes.com/metronic)** 8 web framework, MySQL, and PHP programming language.
+
+### Software Developer (Freelance)
+
+**May 24, 2023 - February 18, 2024 (9 mos)**
+
+- Led development of an **inventory management system**, enhancing sales and customer satisfaction for store owners by streamlining daily operations in year 2023 using Bootstrap 5, jQuery, MySQL, Excel, and Python.
+- Managed **photo printing** and **lamination** for students using Adobe Photoshop and InDesign.
+- Earned **3 Google UX Design professional** certificates with the following:
+  - [Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/records/GZJN76HG7SMG)
+  - [Start the UX Design Process: Empathize, Define, and Ideate](https://www.coursera.org/account/accomplishments/records/R7LZDSSSFMHG)
+  - [Build Wireframes and Low-Fidelity Prototypes](https://www.coursera.org/account/accomplishments/records/XKBANQ8GP8F7)
+- Published **[Grocery Items](https://github.com/rn1hd/rn1hd/tree/main/Portfolio/Creative%20Designer/Grocery%20Items)** photos and **[Menu Item Posters](https://github.com/rn1hd/rn1hd/tree/main/Portfolio/Creative%20Designer/Menu%20Item%20Posters)**.
+
+### Professional Upskilling (Self-Improvement)
+
+**January 29, 2022 - May 23, 2023 (1 yr 4 mos)**
+
+- Voluntarily left previous role to focus on **upskilling** in modern technologies aligned with industry trends.
+- Completed an intensive course in speech communication using **Tell Me More English Performance** software by Auralog.
+- Built a **[Github Profile](https://github.com/rn1hd)** to showcase myself, skills, professional journey, and Frequently Asked Questions (FAQ).
+- Maintained **[The Ones Design](https://theonesdesign.netlify.app/)**, **[The Ones Restaurant](https://theonesrestaurant.netlify.app/)**, and **[Nix Daily](https://nixdaily.netlify.app/)** web applications since 2020 using Javascript and Bootstrap 4.
+
+### Software Developer | [IntegrityNet Solutions and Services](https://www.integritynet.ph/) (Full-Time)
+
+**August 6, 2018 - January 28, 2022 (3 yrs 5 mos)**
+
+- Reduced onboarding time for new users and developers through documenting existing company applications such as **[uAdmin](https://uadmin-docs.readthedocs.io/)**, the Golang web framework using **[Sphinx](https://www.sphinx-doc.org/)** documentation generator.
+- Enhanced operational efficiency by developing and maintaining an online web ordering application for **[Share Cafe](https://sharecafe.ph/)** restaurant in Batangas using Bootstrap 4, jQuery, MySQL, and **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework.
+- Reduced software bugs through **automation testing** for intranet web applications using Selenium, Python, and Jenkins.
+
+### Biller | [Accudata Inc.](https://www.facebook.com/profile.php?id=100079004861462) (Full-Time)
+
+**September 19, 2016 - July 20, 2018 (1 yr 10 mos)**
+
+- Responsible for encoding bills of lading with accuracy and efficiency while managing high-pressure environments.
+- Participated in **[TypeRacer](https://data.typeracer.com/pit/profile?user=rnk1hd)** as part of my self-improvement with amazing world champions to enhance my typing speed.
+
+### College Graduate | [Lyceum of the Philippines University - Batangas](https://lpubatangas.edu.ph/)
+
+- Graduated on **April 15, 2016** with Bachelor of Science in Computer Science, major in Mobile Applications Development as **CUM LAUDE**.
+
+### Oral Research Presenter | [Dorsett Kwun Tong Hotel](https://www.dorsetthotels.com/dorsett-kwun-tong)
+
+- Presented **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)** in **Hong Kong** on **December 17, 2015** with the help of my teammates and university professors. Published in Philippine e-Journals website on **March 18, 2016**.
+
+### Pattern Designer / Video Editor | [O2Jam V3 International](https://www.youtube.com/@o2v3official) (Full Time)
+
+**January 2013 - December 30, 2018 (5 yrs 11 mos)**
+
+- Worked closely with the **[development team](https://o2jam.fandom.com/wiki/O2JamV3)** and senior management to maintain operations in **[O2Jam V3](https://www.youtube.com/@o2v3official)**, **[AngelJam](https://www.facebook.com/AJOfficialPage)** (until December 2013), **[Palace of Sound](https://www.facebook.com/groups/187358427960399)** (until 2016), and **iBMS 4th Age** (2015) organizations.
+- Published a total of **[49 notechart projects](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md)**
 
 <br />
 
