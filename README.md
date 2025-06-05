@@ -99,7 +99,7 @@ I am a **Software Developer** who specializes in building scalable web applicati
 
 - Voluntarily left previous role to focus on **upskilling** in modern technologies aligned with industry trends.
 - Completed an intensive course in speech communication using **Tell Me More English Performance** software by Auralog.
-- Built a **[Github Profile](https://github.com/rn1hd)** to showcase myself, skills, experience, and Frequently Asked Questions (FAQ).
+- Built a **[Github Profile](https://github.com/rn1hd)** to showcase myself, skills, and experience.
 - Maintained **[The Ones Design](https://theonesdesign.netlify.app/)**, **[The Ones Restaurant](https://theonesrestaurant.netlify.app/)**, and **[Nix Daily](https://nixdaily.netlify.app/)** web applications since 2020 using Javascript and Bootstrap 4.
 
 ### Software Developer | [IntegrityNet Solutions and Services](https://www.integritynet.ph/) (Full-Time)
@@ -131,9 +131,3 @@ I am a **Software Developer** who specializes in building scalable web applicati
 
 - Worked closely with the **[development team](https://o2jam.fandom.com/wiki/O2JamV3)** and senior management to maintain operations in **[O2Jam V3](https://www.youtube.com/@o2v3official)**, **[AngelJam](https://www.facebook.com/AJOfficialPage)** (until December 2013), **[Palace of Sound](https://www.facebook.com/groups/187358427960399)** (until 2016), and **iBMS 4th Age** (2015) organizations.
 - Published a total of **[49 notechart projects](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md)**
-
-<br />
-
-## ❓ Frequently Asked Questions (FAQ)
-
-**Coming soon** on my personal website help center.
