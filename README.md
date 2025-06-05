@@ -75,15 +75,15 @@ I am a **Software Developer** who specializes in building scalable web applicati
   - [Build Dynamic User Interfaces (UI) for Websites](https://www.coursera.org/account/accomplishments/verify/ZEV4DJ745EW7)
 - Developed low-fidelity prototypes of my **[personal website](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Creative%20Designer/Prototypes/My%20Personal%20Website.md)** for navigation, hyperlinks, and get in touch applying the responsive design.
 
-### Web Developer | [Department of Labor and Employment - National Capital Region](https://ncr.dole.gov.ph/) (Contractual)
+### Web Developer | [Department of Labor and Employment - National Capital Region](https://ncr.dole.gov.ph/) (Contract)
 
-**February 19, 2024 - August 19, 2024 (6 mos)**
+**February 19, 2024 - August 19, 2024 (6 mos), Malate, Metro Manila | On-site**
 
 - Increased processing efficiency by developing a **Purchase Request Information System** for 1 Regional and 6 Field Offices using **[Metronic](https://keenthemes.com/metronic)** 8 web framework, MySQL, and PHP programming language.
 
 ### Software Developer (Freelance)
 
-**May 24, 2023 - February 18, 2024 (9 mos)**
+**May 24, 2023 - February 18, 2024 (9 mos), Batangas City | On-site**
 
 - Led development of an **inventory management system**, enhancing sales and customer satisfaction for store owners by streamlining daily operations in year 2023 using Bootstrap 5, jQuery, MySQL, Excel, and Python.
 - Managed **photo printing** and **lamination** for students using Adobe Photoshop and InDesign.
@@ -99,12 +99,12 @@ I am a **Software Developer** who specializes in building scalable web applicati
 
 - Voluntarily left previous role to focus on **upskilling** in modern technologies aligned with industry trends.
 - Completed an intensive course in speech communication using **Tell Me More English Performance** software by Auralog.
-- Built a **[Github Profile](https://github.com/rn1hd)** to showcase myself, skills, professional journey, and Frequently Asked Questions (FAQ).
+- Built a **[Github Profile](https://github.com/rn1hd)** to showcase myself, skills, experience, and Frequently Asked Questions (FAQ).
 - Maintained **[The Ones Design](https://theonesdesign.netlify.app/)**, **[The Ones Restaurant](https://theonesrestaurant.netlify.app/)**, and **[Nix Daily](https://nixdaily.netlify.app/)** web applications since 2020 using Javascript and Bootstrap 4.
 
 ### Software Developer | [IntegrityNet Solutions and Services](https://www.integritynet.ph/) (Full-Time)
 
-**August 6, 2018 - January 28, 2022 (3 yrs 5 mos)**
+**August 6, 2018 - January 28, 2022 (3 yrs 5 mos), Joseling Road, Batangas City | Hybrid**
 
 - Reduced onboarding time for new users and developers through documenting existing company applications such as **[uAdmin](https://uadmin-docs.readthedocs.io/)**, the Golang web framework using **[Sphinx](https://www.sphinx-doc.org/)** documentation generator.
 - Enhanced operational efficiency by developing and maintaining an online web ordering application for **[Share Cafe](https://sharecafe.ph/)** restaurant in Batangas using Bootstrap 4, jQuery, MySQL, and **[uAdmin](https://github.com/uadmin/uadmin)**, the Golang web framework.
@@ -112,7 +112,7 @@ I am a **Software Developer** who specializes in building scalable web applicati
 
 ### Biller | [Accudata Inc.](https://www.facebook.com/profile.php?id=100079004861462) (Full-Time)
 
-**September 19, 2016 - July 20, 2018 (1 yr 10 mos)**
+**September 19, 2016 - July 20, 2018 (1 yr 10 mos), Kumintang Ibaba, Batangas City | On-site**
 
 - Responsible for encoding bills of lading with accuracy and efficiency while managing high-pressure environments.
 - Participated in **[TypeRacer](https://data.typeracer.com/pit/profile?user=rnk1hd)** as part of my self-improvement with amazing world champions to enhance my typing speed.
@@ -127,7 +127,7 @@ I am a **Software Developer** who specializes in building scalable web applicati
 
 ### Pattern Designer / Video Editor | [O2Jam V3 International](https://www.youtube.com/@o2v3official) (Full Time)
 
-**January 2013 - December 30, 2018 (5 yrs 11 mos)**
+**January 2013 - December 30, 2018 (5 yrs 11 mos) | Remote**
 
 - Worked closely with the **[development team](https://o2jam.fandom.com/wiki/O2JamV3)** and senior management to maintain operations in **[O2Jam V3](https://www.youtube.com/@o2v3official)**, **[AngelJam](https://www.facebook.com/AJOfficialPage)** (until December 2013), **[Palace of Sound](https://www.facebook.com/groups/187358427960399)** (until 2016), and **iBMS 4th Age** (2015) organizations.
 - Published a total of **[49 notechart projects](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md)**
