@@ -132,4 +132,4 @@ I am a **Software Developer** who specializes in building scalable web applicati
 **January 2013 - December 30, 2018 (5 yrs 11 mos) | Remote**
 
 - Worked closely with the **[development team](https://o2jam.fandom.com/wiki/O2JamV3)** and senior management to maintain operations in **[O2Jam V3](https://www.youtube.com/@o2v3official)**, **[AngelJam](https://www.facebook.com/AJOfficialPage)** (until December 2013), **[Palace of Sound](https://www.facebook.com/groups/187358427960399)** (until 2016), and **iBMS 4th Age** (2015) organizations.
-- Published a total of **[49 notechart projects](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md)**
+- Published a total of **[49 notechart projects](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md)**.

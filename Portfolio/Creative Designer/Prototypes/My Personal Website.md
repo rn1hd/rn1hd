@@ -1,6 +1,3 @@
 # My Personal Website Presentation
 
-I can present you the **entire process** of my personal website through **low fidelity** prototypes applying the responsive design with the following user flows:
-
-- **[Navigation and Hyperlinks](https://www.figma.com/proto/y3j4OCnzNY873IM5GSiThD/My-Personal-Website?node-id=325-3787&content-scaling=responsive)**
-- **[Get in Touch](https://www.figma.com/proto/y3j4OCnzNY873IM5GSiThD/My-Personal-Website?node-id=328-11833&content-scaling=responsive)**
+- **[Low-Fidelity Prototype Website](https://www.figma.com/proto/jIQj5I6pR4gKNfsMqPb8A1/My-Personal-Website-v2?node-id=40000011-4609&t=0iUv3uu3wLrQVsAC-1)**
