@@ -123,9 +123,11 @@ I am a **Software Developer** who specializes in building scalable web applicati
 
 ### Oral Research Presenter | [Dorsett Kwun Tong Hotel](https://www.dorsetthotels.com/dorsett-kwun-tong)
 
-- Presented **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)** in **Hong Kong** on **December 17, 2015** with the help of my teammates and university professors. Published in Philippine e-Journals website on **March 18, 2016**.
+**December 14 - 17, 2015, Associated with Lyceum of the Philippines University - Batangas | On-site**
 
-### Pattern Designer / Video Editor | [O2Jam V3 International](https://www.youtube.com/@o2v3official) (Full Time)
+- Presented **[e-Map as An Android Application Using Shortest Path Algorithm](https://ejournals.ph/article.php?id=12189)** in **Hong Kong** in collaboration with my teammates and university professors. Published in Philippine e-Journals website on **March 18, 2016**.
+
+### Pattern Designer & Video Editor | [O2Jam V3 International](https://www.youtube.com/@o2v3official) (Full Time)
 
 **January 2013 - December 30, 2018 (5 yrs 11 mos) | Remote**
 
