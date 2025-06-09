@@ -73,7 +73,7 @@ I am a **Software Developer** who specializes in building scalable web applicati
   - [Conduct UX Research and Test Early Concepts](https://www.coursera.org/account/accomplishments/records/U19PSKAQT6VQ)
   - [Create High-Fidelity Designs and Prototypes in Figma](https://www.coursera.org/account/accomplishments/verify/GZ2ZN301CGZZ)
   - [Build Dynamic User Interfaces (UI) for Websites](https://www.coursera.org/account/accomplishments/verify/ZEV4DJ745EW7)
-- Developed low-fidelity prototypes of my **[personal website](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Creative%20Designer/Prototypes/My%20Personal%20Website.md)** for navigation, hyperlinks, and get in touch applying the responsive design.
+- Developed and presented prototypes of my **[personal website](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Creative%20Designer/Prototypes/My%20Personal%20Website.md)** for navigation, hyperlinks, and get in touch applying the responsive design.
 
 ### Web Developer | [Department of Labor and Employment - National Capital Region](https://ncr.dole.gov.ph/) (Contract)
 
