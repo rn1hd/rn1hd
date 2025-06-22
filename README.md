@@ -1,6 +1,6 @@
 # Hi there, nice to meet you! 👋
 
-I am a **Software Developer** who specializes in building scalable web applications, automating testing workflows, and improving user experiences. I have been passionate about creating solutions that provide **real value** to users. Currently, I focus on building expertise in **user experience design** because successful applications today depend on user friendliness, enjoyability, and efficiency aligned with user's journey and needs. Feel free to read my resume **[here](https://raw.githubusercontent.com/rn1hd/rn1hd/main/Resume.pdf)**.
+I am a **Software Developer** who specializes in building scalable web applications, automating testing workflows, and improving user experiences. I have been passionate about creating solutions that provide **real value** to users. Currently, I focus on building expertise in **user experience design** because successful applications today depend on user friendliness, enjoyability, and efficiency aligned with user's journey and needs. Feel free to read my resume **[here](https://rmamisay.vercel.app/Resume.pdf)**.
 
 ## ⛳ Skills
 
@@ -73,7 +73,7 @@ I am a **Software Developer** who specializes in building scalable web applicati
   - [Conduct UX Research and Test Early Concepts](https://www.coursera.org/account/accomplishments/records/U19PSKAQT6VQ)
   - [Create High-Fidelity Designs and Prototypes in Figma](https://www.coursera.org/account/accomplishments/verify/GZ2ZN301CGZZ)
   - [Build Dynamic User Interfaces (UI) for Websites](https://www.coursera.org/account/accomplishments/verify/ZEV4DJ745EW7)
-- Developed and presented prototypes of my **[personal website](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Creative%20Designer/Prototypes/My%20Personal%20Website.md)** for navigation, hyperlinks, and get in touch applying the responsive design.
+- Developed my **personal website** showcasing my brief overview, skills, experience, and portfolio using **[SASS](https://rmamisay.vercel.app/)** and **[Figma](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Creative%20Designer/Prototypes/My%20Personal%20Website.md)**.
 
 ### Web Developer | [Department of Labor and Employment - National Capital Region](https://ncr.dole.gov.ph/) (Contract)
 
@@ -85,13 +85,13 @@ I am a **Software Developer** who specializes in building scalable web applicati
 
 **May 24, 2023 - February 18, 2024 (9 mos), Batangas City | On-site**
 
-- Led development of an **inventory management system**, enhancing sales and customer satisfaction for store owners by streamlining daily operations in year 2023 using Bootstrap 5, jQuery, MySQL, Excel, and Python.
+- Led development of an **inventory management system**, enhancing sales and customer satisfaction for store owners by streamlining daily operations using Bootstrap 5, jQuery, MySQL, Excel, and Python.
 - Managed **photo printing** and **lamination** for students using Adobe Photoshop and InDesign.
 - Earned **3 Google UX Design professional** certificates with the following:
   - [Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/records/GZJN76HG7SMG)
   - [Start the UX Design Process: Empathize, Define, and Ideate](https://www.coursera.org/account/accomplishments/records/R7LZDSSSFMHG)
   - [Build Wireframes and Low-Fidelity Prototypes](https://www.coursera.org/account/accomplishments/records/XKBANQ8GP8F7)
-- Published **[Grocery Items](https://github.com/rn1hd/rn1hd/tree/main/Portfolio/Creative%20Designer/Grocery%20Items)** photos and **[Menu Item Posters](https://github.com/rn1hd/rn1hd/tree/main/Portfolio/Creative%20Designer/Menu%20Item%20Posters)**.
+- Published **[Grocery Items](https://rmamisay.vercel.app/grocery_items.html)** photos and **[Menu Item Posters](https://rmamisay.vercel.app/menu_item_posters.html)**.
 
 ### Professional Upskilling (Self-Improvement)
 
@@ -132,4 +132,4 @@ I am a **Software Developer** who specializes in building scalable web applicati
 **January 2013 - December 30, 2018 (5 yrs 11 mos) | Remote**
 
 - Worked closely with the **[development team](https://o2jam.fandom.com/wiki/O2JamV3)** and senior management to maintain operations in **[O2Jam V3](https://www.youtube.com/@o2v3official)**, **[AngelJam](https://www.facebook.com/AJOfficialPage)** (until December 2013), **[Palace of Sound](https://www.facebook.com/groups/187358427960399)** (until 2016), and **iBMS 4th Age** (2015) organizations.
-- Published a total of **[49 notechart projects](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Game%20Developer/O2Jam%20Notechart%20Collections.md)**.
+- Published a total of **[49 notechart projects](https://rmamisay.vercel.app/o2jam/notechart_collections.html)** and **[10 loading images](https://rmamisay.vercel.app/o2jam/loading_images.html)**.
