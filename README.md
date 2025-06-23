@@ -61,7 +61,7 @@ I am a **Software Developer** who specializes in building scalable web applicati
 
 ### Independent Learning & Projects (Self-Improvement)
 
-**August 20, 2024 - Present (9 mos)**
+**August 20, 2024 - Present (10 mos)**
 
 - Completed a fixed-term contract project at **[DOLE](https://ncr.dole.gov.ph/)**.
 - Developed and presented prototypes of an entire system of **[Merkandow](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Creative%20Designer/Prototypes/Merkandow.md)**, a Skilled Service Provider Application personal project using **[Figma](https://www.figma.com/)** that allows the customer to book their preferred service provider in real time.
@@ -73,7 +73,7 @@ I am a **Software Developer** who specializes in building scalable web applicati
   - [Conduct UX Research and Test Early Concepts](https://www.coursera.org/account/accomplishments/records/U19PSKAQT6VQ)
   - [Create High-Fidelity Designs and Prototypes in Figma](https://www.coursera.org/account/accomplishments/verify/GZ2ZN301CGZZ)
   - [Build Dynamic User Interfaces (UI) for Websites](https://www.coursera.org/account/accomplishments/verify/ZEV4DJ745EW7)
-- Developed my **personal website** showcasing my brief overview, skills, experience, and portfolio using **[SASS](https://rmamisay.vercel.app/)** and **[Figma](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Creative%20Designer/Prototypes/My%20Personal%20Website.md)**.
+- Developed my **personal website** to showcase myself, skills, experience, and portfolio using **[SASS](https://rmamisay.vercel.app/)** and **[Figma](https://github.com/rn1hd/rn1hd/blob/main/Portfolio/Creative%20Designer/Prototypes/My%20Personal%20Website.md)**.
 
 ### Web Developer | [Department of Labor and Employment - National Capital Region](https://ncr.dole.gov.ph/) (Contract)
 
@@ -99,7 +99,7 @@ I am a **Software Developer** who specializes in building scalable web applicati
 
 - Voluntarily left previous role to focus on **upskilling** in modern technologies aligned with industry trends.
 - Completed an intensive course in speech communication using **Tell Me More English Performance** software by Auralog.
-- Built a **[Github Profile](https://github.com/rn1hd)** to showcase myself, skills, and experience.
+- Built a **[Github Profile](https://github.com/rn1hd)** to showcase myself, skills, experience, and portfolio using **[Markdown](https://www.markdownguide.org/)**.
 - Maintained **[The Ones Design](https://theonesdesign.netlify.app/)**, **[The Ones Restaurant](https://theonesrestaurant.netlify.app/)**, and **[Nix Daily](https://nixdaily.netlify.app/)** web applications since 2020 using Javascript and Bootstrap 4.
 
 ### Software Developer | [IntegrityNet Solutions and Services](https://www.integritynet.ph/) (Full-Time)
