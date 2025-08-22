@@ -1,6 +1,6 @@
 # Hi, I’m Romnick. Nice to meet you. 👋
 
-I am a **Software Developer** who specializes in building scalable web applications, automating testing workflows, and improving user experiences. I have been passionate about creating solutions that provide **real value** to users. Currently, I focus on building expertise in **user experience design** because successful applications today depend on user friendliness, enjoyability, and efficiency aligned with user's journey and needs.
+I am a **Software Developer** who specializes in building scalable web applications, automating testing workflows, and improving user experiences. I have been passionate about creating solutions that provide **real value** to users. Currently, I focus on building expertise in **user experience design** and **modern web technologies** because successful applications today depend on user friendliness, enjoyability, and efficiency aligned with user's journey and needs. Feel free to read **[my resume](https://rmamisay.vercel.app/Resume.pdf)**.
 
 ## ⛳ Skills
 
