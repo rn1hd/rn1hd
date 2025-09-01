@@ -1,6 +1,6 @@
 # Hi, I’m Romnick. Nice to meet you. 👋
 
-I am a **Software Developer** who specializes in building scalable web applications, automating testing workflows, and improving user experiences. I have been passionate about creating solutions that provide **real value** to users. Currently, I focus on building expertise in **user experience design** and **modern web technologies** because successful applications today depend on user friendliness, enjoyability, and efficiency aligned with user's journey and needs. Feel free to read **[my resume](https://rmamisay.vercel.app/Resume.pdf)**.
+I am a **Software Developer** who specializes in building scalable web applications, automating testing workflows, and improving user experiences. I have been passionate about creating solutions that provide **real value** to users. Currently, I focus on building expertise in **user experience design** and **modern web technologies** because successful applications today depend on user friendliness, enjoyability, and efficiency aligned with user's journey and needs. In addition to this, I participated in **[TypeRacer](https://play.typeracer.com/)**, an online global typing competition with an all-time average of **[120 WPM](https://data.typeracer.com/pit/profile?user=rnk1hd)**. Feel free to read **[my resume](https://rmamisay.vercel.app/Resume.pdf)**.
 
 ## ⛳ Skills
 
@@ -26,6 +26,7 @@ I am a **Software Developer** who specializes in building scalable web applicati
 ### Databases & Storage
 
 <div>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </div>
