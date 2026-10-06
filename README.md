@@ -1,6 +1,6 @@
-# Hi, I’m Romnick. Nice to meet you. 👋
+# Intro
 
-I am a **Software Developer** who specializes in building scalable web applications and improving user experiences. I have been passionate about creating solutions that provide **real value** to users. Currently, I focus on building expertise in **user experience design** and **modern web technologies** because successful applications today depend on user friendliness, enjoyability, and efficiency aligned with user's journey and needs. In addition to this, I participated in **[TypeRacer](https://play.typeracer.com/)**, an online global typing competition with an all-time average of **[120 WPM](https://data.typeracer.com/pit/profile?user=rnk1hd)**. Feel free to read **[my resume](https://rmamisay.vercel.app/Resume.pdf)** and **[cover letter](https://rmamisay.vercel.app/Cover%20Letter.pdf)**.
+I am a **Software Developer** currently seeking new opportunities targeting **modern web development (MERN)** and **user experience (UX) design** roles willing to grow in an organization. Feel free to read **[my resume](https://rmamisay.vercel.app/Resume.pdf)** and **[cover letter](https://rmamisay.vercel.app/Cover%20Letter.pdf)**.
 
 ## ⛳ Skills
 
