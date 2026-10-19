@@ -1,6 +1,6 @@
 # Introduction
 
-I am a **Software Developer** currently seeking new opportunities targeting **modern web development (MERN)** and **user experience (UX) design** roles willing to grow in an organization. Feel free to read **[my resume](https://rmamisay.vercel.app/Resume.pdf)** and **[cover letter](https://rmamisay.vercel.app/Cover%20Letter.pdf)**.
+I am a **professional** currently seeking new opportunities targeting any **office work** positions willing to grow in an organization. Feel free to read **[my resume](https://rmamisay.vercel.app/Resume.pdf)** and **[cover letter](https://rmamisay.vercel.app/Cover%20Letter.pdf)**.
 
 ## ⛳ Skills
 
