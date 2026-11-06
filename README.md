@@ -1,6 +1,6 @@
 # Introduction
 
-I am a **professional** currently seeking new opportunities targeting any **office work** positions willing to grow in an organization. Feel free to read **[my resume](https://rmamisay.vercel.app/Resume.pdf)** and **[cover letter](https://rmamisay.vercel.app/Cover%20Letter.pdf)**.
+I am a **professional** focusing on specialized roles in user experience (UX) design and modern web development (MERN stack), while equipped to support professional, administrative, or commercial service operations; dedicated to contributing diligently, mastering internal processes with precision, and growing steadily within a structured organization. Feel free to read **[my resume](https://rmamisay.vercel.app/Resume.pdf)** and **[cover letter](https://rmamisay.vercel.app/Cover%20Letter.pdf)**.
 
 ## ⛳ Skills
 
